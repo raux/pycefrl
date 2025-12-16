@@ -48,12 +48,47 @@ To put it into operation you have to follow the steps below:
   * Level of element
 
 
-6. If you want to visualize the results on a web page:
+6. If you want to visualize the results on a web page (legacy method):
 
     * Run the file 'main.js' to create the page 'index.html'. You will get one web page for each repository.
       ```
       node main.js
       ```
+
+## Interactive Web Interface (Streamlit)
+
+A Streamlit application is included to easily run analyses and visualize results with interactive charts (Bubble Charts, Heatmaps, Treemaps) and system statistics.
+
+To run the Streamlit app:
+
+```bash
+streamlit run app.py
+```
+
+**Features:**
+- Select analysis mode: Directory, GitHub Repository, or GitHub User.
+- Real-time execution logs and system stats (CPU/RAM).
+- Interactive visualizations:
+    - **Bubble Chart**: Category vs Level.
+    - **File Heatmap**: File vs Level Count.
+    - **Element Treemap**: Drill down into specific elements.
+- Download reports in JSON and CSV formats.
+
+## Running Tests
+
+The project includes a suite of unit tests to ensure the accuracy of level detection for various Python structures.
+
+To run the tests:
+
+```bash
+python3 -m unittest discover tests
+```
+
+The tests cover:
+- Simple and nested lists/loops (A1, A2).
+- Control flow (If, While, Try/Except).
+- Function and Class definitions (B1).
+- Advanced structures like List Comprehensions and Generators (C1).
 
 
 ## Of Interest
