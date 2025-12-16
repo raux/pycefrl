@@ -1,0 +1,109 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+schema,document.py,Simple List,96,96,24,A1
+schema,document.py,Simple List,109,109,17,A1
+schema,document.py,Simple List,49,49,34,A1
+schema,document.py,Simple Atributte,15,15,29,A2
+schema,document.py,Simple Atributte,28,28,29,A2
+schema,document.py,Simple Atributte,40,40,20,A2
+schema,document.py,Simple Atributte,98,98,20,A2
+schema,document.py,Simple Atributte,110,110,20,A2
+schema,document.py,Simple Atributte,33,33,15,A2
+schema,document.py,Simple Atributte,33,33,29,A2
+schema,document.py,Simple Atributte,34,34,16,A2
+schema,document.py,Simple Atributte,53,53,15,A2
+schema,document.py,Simple Atributte,53,53,29,A2
+schema,document.py,Simple Atributte,54,54,21,A2
+schema,document.py,Simple Atributte,59,59,20,A2
+schema,document.py,Simple Atributte,66,66,19,A2
+schema,document.py,Simple Atributte,72,72,15,A2
+schema,document.py,Simple Atributte,72,72,29,A2
+schema,document.py,Simple Atributte,73,73,21,A2
+schema,document.py,Simple Atributte,76,76,20,A2
+schema,document.py,Simple Atributte,79,79,15,A2
+schema,document.py,Simple Atributte,82,82,19,A2
+schema,document.py,Simple Atributte,41,41,15,A2
+schema,document.py,Simple Atributte,60,60,25,A2
+schema,document.py,Simple Atributte,66,66,19,A2
+schema,document.py,Simple Atributte,67,67,30,A2
+schema,document.py,Simple Atributte,68,68,19,A2
+schema,document.py,Simple Atributte,79,79,35,A2
+schema,document.py,Simple Atributte,82,82,19,A2
+schema,document.py,Simple Atributte,84,84,19,A2
+schema,document.py,Simple Atributte,99,99,23,A2
+schema,document.py,Simple Atributte,100,100,32,A2
+schema,document.py,Simple Atributte,101,101,12,A2
+schema,document.py,Simple Atributte,111,111,22,A2
+schema,document.py,Simple Atributte,92,92,45,A2
+schema,document.py,Simple Atributte,100,100,32,A2
+schema,document.py,Simple Atributte,105,105,17,A2
+schema,document.py,Simple Atributte,59,59,31,A2
+schema,document.py,Simple Atributte,59,59,31,A2
+schema,document.py,Simple Assignment,33,33,8,A1
+schema,document.py,Simple Assignment,34,34,8,A1
+schema,document.py,Simple Assignment,50,50,8,A1
+schema,document.py,Simple Assignment,53,53,8,A1
+schema,document.py,Simple Assignment,54,54,8,A1
+schema,document.py,Simple Assignment,66,66,8,A1
+schema,document.py,Simple Assignment,72,72,8,A1
+schema,document.py,Simple Assignment,73,73,8,A1
+schema,document.py,Simple Assignment,76,76,8,A1
+schema,document.py,Simple Assignment,82,82,8,A1
+schema,document.py,Simple Assignment,90,90,8,A1
+schema,document.py,Simple Assignment,96,96,8,A1
+schema,document.py,Simple Assignment,97,97,8,A1
+schema,document.py,Simple Assignment,109,109,8,A1
+schema,document.py,Simple Assignment,49,49,12,A1
+schema,document.py,Simple Assignment,60,60,12,A1
+schema,document.py,Simple Assignment,99,99,12,A1
+schema,document.py,Simple Assignment,100,100,12,A1
+schema,document.py,Simplified incremental Assignment with increase amount,92,92,12,A2
+schema,document.py,Simplified incremental Assignment with increase amount,111,111,12,A2
+schema,document.py,From,1,1,0,A2
+schema,document.py,From,3,3,0,A2
+schema,document.py,From,5,5,0,A2
+schema,document.py,From,7,7,0,A2
+schema,document.py,From,8,8,0,A2
+schema,document.py,From,9,9,0,A2
+schema,document.py,Simple If statements,35,36,8,A1
+schema,document.py,Simple If statements,48,49,8,A1
+schema,document.py,Simple If statements,55,56,8,A1
+schema,document.py,Simple If statements,67,68,8,A1
+schema,document.py,Simple If statements,74,75,8,A1
+schema,document.py,Simple If statements,77,78,8,A1
+schema,document.py,Simple If statements,83,84,8,A1
+schema,document.py,Simple If statements,41,42,12,A1
+schema,document.py,Simple If statements,61,62,12,A1
+schema,document.py,Simple For Loop,40,42,8,A1
+schema,document.py,Simple For Loop,59,62,8,A1
+schema,document.py,Simple For Loop,91,92,8,A1
+schema,document.py,Simple For Loop,98,101,8,A1
+schema,document.py,Simple For Loop,110,111,8,A1
+schema,document.py,Function with Simple argument,32,37,4,A1
+schema,document.py,Function with Simple argument,39,43,4,A1
+schema,document.py,Function with Simple argument with Default argument,45,63,4,A2
+schema,document.py,Function with Simple argument,65,69,4,A1
+schema,document.py,Function with Simple argument,71,79,4,A1
+schema,document.py,Function with Simple argument,81,85,4,A1
+schema,document.py,Function with Simple argument with Default argument,87,93,4,A2
+schema,document.py,Function with Simple argument with Default argument,95,106,4,A2
+schema,document.py,Function with Simple argument with Default argument,108,112,4,A2
+schema,document.py,Return,37,37,8,A1
+schema,document.py,Return,43,43,8,A1
+schema,document.py,Return,63,63,8,A1
+schema,document.py,Return,69,69,8,A1
+schema,document.py,Return,79,79,8,A1
+schema,document.py,Return,85,85,8,A1
+schema,document.py,Return,93,93,8,A1
+schema,document.py,Return,103,106,8,A1
+schema,document.py,Return,112,112,8,A1
+schema,document.py,Return,36,36,12,A1
+schema,document.py,Return,56,56,12,A1
+schema,document.py,Return,68,68,12,A1
+schema,document.py,Return,75,75,12,A1
+schema,document.py,Return,78,78,12,A1
+schema,document.py,Return,84,84,12,A1
+schema,document.py,Return,42,42,16,A1
+schema,document.py,Return,62,62,16,A1
+schema,document.py,Inherited Class from BaseModel,12,15,0,B1
+schema,document.py,Inherited Class from BaseModel,18,22,0,B1
+schema,document.py,Inherited Class from BaseModel,25,112,0,B1

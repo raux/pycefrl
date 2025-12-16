@@ -1,0 +1,43 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+blocks,listitem.py,Super Function,28,28,19,C2
+blocks,listitem.py,Super Function,37,37,16,C2
+blocks,listitem.py,Simple Atributte,20,20,29,A2
+blocks,listitem.py,Simple Atributte,12,12,23,A2
+blocks,listitem.py,Simple Atributte,16,16,8,A2
+blocks,listitem.py,Simple Atributte,35,35,11,A2
+blocks,listitem.py,Simple Atributte,46,46,11,A2
+blocks,listitem.py,Simple Atributte,14,14,35,A2
+blocks,listitem.py,Simple Atributte,14,14,64,A2
+blocks,listitem.py,Simple Atributte,16,16,27,A2
+blocks,listitem.py,Simple Atributte,16,16,59,A2
+blocks,listitem.py,Simple Atributte,28,28,19,A2
+blocks,listitem.py,Simple Atributte,31,31,19,A2
+blocks,listitem.py,Simple Atributte,14,14,35,A2
+blocks,listitem.py,Simple Atributte,37,41,16,A2
+blocks,listitem.py,Simple Atributte,43,43,23,A2
+blocks,listitem.py,Simple Atributte,45,45,34,A2
+blocks,listitem.py,Simple Atributte,47,47,58,A2
+blocks,listitem.py,Simple Atributte,37,38,16,A2
+blocks,listitem.py,Simple Atributte,43,43,23,A2
+blocks,listitem.py,Simple Assignment,9,9,4,A1
+blocks,listitem.py,Simple Assignment,11,11,8,A1
+blocks,listitem.py,Simple Assignment,12,12,8,A1
+blocks,listitem.py,Simple Assignment,15,15,8,A1
+blocks,listitem.py,Simple Assignment,16,16,8,A1
+blocks,listitem.py,Simple Assignment,28,30,8,A1
+blocks,listitem.py,Simple Assignment,31,31,8,A1
+blocks,listitem.py,Simple Assignment,45,45,8,A1
+blocks,listitem.py,Simple Assignment,36,42,12,A1
+blocks,listitem.py,Simple Assignment,43,43,12,A1
+blocks,listitem.py,Import're' module,1,1,0,C1
+blocks,listitem.py,From,3,3,0,A2
+blocks,listitem.py,From,4,4,0,A2
+blocks,listitem.py,Simple If statements,14,16,4,A1
+blocks,listitem.py,Simple If statements,35,43,8,A1
+blocks,listitem.py,Simple If statements,46,47,8,A1
+blocks,listitem.py,Simple While Loop,10,12,4,B1
+blocks,listitem.py,Function with Simple argument,7,16,0,A1
+blocks,listitem.py,Function with Simple argument with Default argument,25,48,4,A2
+blocks,listitem.py,Return,48,48,8,A1
+blocks,listitem.py,Return,47,47,12,A1
+blocks,listitem.py,Inherited Class from Block,19,48,0,B1

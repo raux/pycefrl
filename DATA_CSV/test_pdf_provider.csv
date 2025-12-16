@@ -1,0 +1,31 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+providers,test_pdf_provider.py,Simple List,17,17,31,A1
+providers,test_pdf_provider.py,Simple List,4,4,35,A1
+providers,test_pdf_provider.py,Simple List,7,7,35,A1
+providers,test_pdf_provider.py,Simple List,8,8,35,A1
+providers,test_pdf_provider.py,Simple Tuple,7,7,55,A1
+providers,test_pdf_provider.py,Simple Tuple,8,8,55,A1
+providers,test_pdf_provider.py,1 List Dictionary,4,4,20,B1
+providers,test_pdf_provider.py,Simple Atributte,13,13,12,A2
+providers,test_pdf_provider.py,Simple Atributte,4,4,1,A2
+providers,test_pdf_provider.py,Simple Atributte,7,7,11,A2
+providers,test_pdf_provider.py,Simple Atributte,8,8,11,A2
+providers,test_pdf_provider.py,Simple Atributte,10,10,17,A2
+providers,test_pdf_provider.py,Simple Atributte,15,15,11,A2
+providers,test_pdf_provider.py,Simple Atributte,16,16,11,A2
+providers,test_pdf_provider.py,Simple Atributte,17,17,11,A2
+providers,test_pdf_provider.py,Simple Atributte,4,4,1,A2
+providers,test_pdf_provider.py,Simple Atributte,7,7,11,A2
+providers,test_pdf_provider.py,Simple Atributte,8,8,11,A2
+providers,test_pdf_provider.py,Simple Assignment,10,10,4,A1
+providers,test_pdf_provider.py,Simple Assignment,13,13,4,A1
+providers,test_pdf_provider.py,'assert' exception,6,6,4,B2
+providers,test_pdf_provider.py,'assert' exception,7,7,4,B2
+providers,test_pdf_provider.py,'assert' exception,8,8,4,B2
+providers,test_pdf_provider.py,'assert' exception,11,11,4,B2
+providers,test_pdf_provider.py,'assert' exception,14,14,4,B2
+providers,test_pdf_provider.py,'assert' exception,15,15,4,B2
+providers,test_pdf_provider.py,'assert' exception,16,16,4,B2
+providers,test_pdf_provider.py,'assert' exception,17,17,4,B2
+providers,test_pdf_provider.py,Import,1,1,0,A2
+providers,test_pdf_provider.py,Function with Simple argument,5,17,0,A1

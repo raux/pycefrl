@@ -1,0 +1,92 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+scorers,clean.py,Simple List,94,94,19,A1
+scorers,clean.py,Simple List,48,55,16,A1
+scorers,clean.py,Simple List,62,69,16,A1
+scorers,clean.py,Simple Tuple,107,107,12,A1
+scorers,clean.py,Simple Dictionary,97,105,23,A2
+scorers,clean.py,Print,88,88,12,A1
+scorers,clean.py,If statements expression (else),80,80,20,B1
+scorers,clean.py,Simple Atributte,13,13,19,A2
+scorers,clean.py,Simple Atributte,17,17,19,A2
+scorers,clean.py,Simple Atributte,17,17,35,A2
+scorers,clean.py,Simple Atributte,21,21,19,A2
+scorers,clean.py,Simple Atributte,24,24,19,A2
+scorers,clean.py,Simple Atributte,25,25,19,A2
+scorers,clean.py,Simple Atributte,26,26,19,A2
+scorers,clean.py,Simple Atributte,27,27,19,A2
+scorers,clean.py,Simple Atributte,30,30,19,A2
+scorers,clean.py,Simple Atributte,31,31,19,A2
+scorers,clean.py,Simple Atributte,32,32,19,A2
+scorers,clean.py,Simple Atributte,34,34,19,A2
+scorers,clean.py,Simple Atributte,35,35,19,A2
+scorers,clean.py,Simple Atributte,36,36,15,A2
+scorers,clean.py,Simple Atributte,93,93,20,A2
+scorers,clean.py,Simple Atributte,107,107,24,A2
+scorers,clean.py,Simple Atributte,40,40,13,A2
+scorers,clean.py,Simple Atributte,43,43,12,A2
+scorers,clean.py,Simple Atributte,47,47,12,A2
+scorers,clean.py,Simple Atributte,61,61,12,A2
+scorers,clean.py,Simple Atributte,74,74,28,A2
+scorers,clean.py,Simple Atributte,93,93,40,A2
+scorers,clean.py,Simple Atributte,95,95,24,A2
+scorers,clean.py,Simple Atributte,108,108,24,A2
+scorers,clean.py,Simple Atributte,35,35,19,A2
+scorers,clean.py,Simple Atributte,36,36,15,A2
+scorers,clean.py,Simple Atributte,80,80,28,A2
+scorers,clean.py,Simple Atributte,81,81,27,A2
+scorers,clean.py,Simple Atributte,81,81,45,A2
+scorers,clean.py,Simple Atributte,83,83,31,A2
+scorers,clean.py,Simple Atributte,85,85,31,A2
+scorers,clean.py,Simple Atributte,89,89,19,A2
+scorers,clean.py,Simple Atributte,83,83,31,A2
+scorers,clean.py,Simple Atributte,80,80,28,A2
+scorers,clean.py,Simple Atributte,88,88,60,A2
+scorers,clean.py,Simple Assignment,13,13,8,A1
+scorers,clean.py,Simple Assignment,16,16,8,A1
+scorers,clean.py,Simple Assignment,17,17,8,A1
+scorers,clean.py,Simple Assignment,20,20,8,A1
+scorers,clean.py,Simple Assignment,21,21,8,A1
+scorers,clean.py,Simple Assignment,24,24,8,A1
+scorers,clean.py,Simple Assignment,25,25,8,A1
+scorers,clean.py,Simple Assignment,26,26,8,A1
+scorers,clean.py,Simple Assignment,27,27,8,A1
+scorers,clean.py,Simple Assignment,30,30,8,A1
+scorers,clean.py,Simple Assignment,31,31,8,A1
+scorers,clean.py,Simple Assignment,32,33,8,A1
+scorers,clean.py,Simple Assignment,34,34,8,A1
+scorers,clean.py,Simple Assignment,35,35,8,A1
+scorers,clean.py,Simple Assignment,93,93,8,A1
+scorers,clean.py,Simple Assignment,97,105,8,A1
+scorers,clean.py,Simple Assignment,41,41,12,A1
+scorers,clean.py,Assigment with sum (total = total + 1),42,42,12,A1
+scorers,clean.py,Assigment with sum (total = total + 1),46,46,12,A1
+scorers,clean.py,Assigment with sum (total = total + 1),60,60,12,A1
+scorers,clean.py,Simple Assignment,74,74,12,A1
+scorers,clean.py,Simple Assignment,80,80,12,A1
+scorers,clean.py,Simple Assignment,81,81,12,A1
+scorers,clean.py,Simple Assignment,95,95,12,A1
+scorers,clean.py,Simple Assignment,108,108,12,A1
+scorers,clean.py,Simple Assignment,83,83,16,A1
+scorers,clean.py,Simple Assignment,85,85,16,A1
+scorers,clean.py,'pass' statement,10,10,8,B1
+scorers,clean.py,Import're' module,1,1,0,C1
+scorers,clean.py,Import,2,2,0,A2
+scorers,clean.py,Import,3,3,0,A2
+scorers,clean.py,Import,6,6,0,A2
+scorers,clean.py,From,4,4,0,A2
+scorers,clean.py,Simple If statements,82,85,12,A1
+scorers,clean.py,For Loop with 1 List to iterate,94,95,8,A2
+scorers,clean.py,For Loop with Tuple as name,107,108,8,A2
+scorers,clean.py,Exception --> try/except,79,89,8,B1
+scorers,clean.py,With,40,74,8,B1
+scorers,clean.py,Function with Simple argument,9,10,4,A1
+scorers,clean.py,Function with Simple argument,12,36,4,A1
+scorers,clean.py,Function with Simple argument,39,76,4,A1
+scorers,clean.py,Function with Simple argument,78,89,4,A1
+scorers,clean.py,Function with Simple argument,92,110,4,A1
+scorers,clean.py,Return,36,36,8,A1
+scorers,clean.py,Return,76,76,8,A1
+scorers,clean.py,Return,110,110,8,A1
+scorers,clean.py,Return,86,86,12,A1
+scorers,clean.py,Return,89,89,12,A1
+scorers,clean.py,Simple Class  Using the constructor method --> __init__,8,110,0,B1

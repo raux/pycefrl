@@ -1,0 +1,92 @@
+{
+    "schema": {
+        "__init__.py": {
+            "Levels": {
+                "A2": 2,
+                "A1": 30,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Atributte": 1,
+                "Simple Assignment": 28,
+                "From": 1,
+                "Function with Simple argument": 1,
+                "Return": 1,
+                "Inherited Class from Enum": 1
+            }
+        },
+        "document.py": {
+            "Levels": {
+                "A1": 57,
+                "A2": 48,
+                "B1": 3
+            },
+            "Class": {
+                "Simple List": 3,
+                "Simple Atributte": 36,
+                "Simple Assignment": 18,
+                "Simplified incremental Assignment with increase amount": 2,
+                "From": 6,
+                "Simple If statements": 9,
+                "Simple For Loop": 5,
+                "Function with Simple argument": 5,
+                "Function with Simple argument with Default argument": 4,
+                "Return": 17,
+                "Inherited Class from BaseModel": 3
+            }
+        },
+        "polygon.py": {
+            "Levels": {
+                "A1": 168,
+                "A2": 119,
+                "C2": 3,
+                "C1": 8,
+                "B1": 4,
+                "B2": 4
+            },
+            "Class": {
+                "Simple List": 25,
+                " Nested List": 1,
+                "Simple Tuple": 13,
+                "'enumerate' call function": 3,
+                "'range' call function": 1,
+                "Simple Atributte": 108,
+                "Simple List Comprehension": 8,
+                "Simple Assignment": 29,
+                "Assigment with sum (total = total +)": 10,
+                "'raise' exception": 2,
+                "'assert' exception": 4,
+                "Import": 1,
+                "Import with 'as' extension ": 1,
+                "From": 3,
+                "Simple If statements": 26,
+                "Simple For Loop": 4,
+                "For Loop with Tuple as name": 3,
+                "Function with Simple argument": 24,
+                "Function with Simple argument with Default argument": 2,
+                "Return": 37,
+                "Inherited Class from BaseModel": 1
+            }
+        },
+        "registry.py": {
+            "Levels": {
+                "A1": 10,
+                "A2": 42,
+                "C1": 2,
+                "B2": 2
+            },
+            "Class": {
+                "Simple Tuple": 3,
+                "Simple Dictionary": 1,
+                "Simple Atributte": 34,
+                "Simple List Comprehension": 1,
+                "Simple Assignment": 4,
+                "'assert' exception": 2,
+                "From": 7,
+                "From'importlib' module": 1,
+                "Function with Simple argument": 2,
+                "Return": 1
+            }
+        }
+    }
+}

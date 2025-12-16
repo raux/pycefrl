@@ -1,0 +1,25 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+blocks,sectionheader.py,Super Function,24,24,19,C2
+blocks,sectionheader.py,Super Function,20,20,19,C2
+blocks,sectionheader.py,If statements expression (else),28,28,14,B1
+blocks,sectionheader.py,Simple Atributte,8,8,29,A2
+blocks,sectionheader.py,Simple Atributte,16,16,11,A2
+blocks,sectionheader.py,Simple Atributte,19,19,11,A2
+blocks,sectionheader.py,Simple Atributte,24,24,19,A2
+blocks,sectionheader.py,Simple Atributte,27,27,19,A2
+blocks,sectionheader.py,Simple Atributte,28,28,42,A2
+blocks,sectionheader.py,Simple Atributte,20,20,19,A2
+blocks,sectionheader.py,Simple Atributte,28,28,18,A2
+blocks,sectionheader.py,Simple Assignment,24,26,8,A1
+blocks,sectionheader.py,Simple Assignment,27,27,8,A1
+blocks,sectionheader.py,Simple Assignment,28,28,8,A1
+blocks,sectionheader.py,From,1,1,0,A2
+blocks,sectionheader.py,From,3,3,0,A2
+blocks,sectionheader.py,From,4,4,0,A2
+blocks,sectionheader.py,Simple If statements,16,17,8,A1
+blocks,sectionheader.py,Simple If statements,19,22,8,A1
+blocks,sectionheader.py,Function with Simple argument with Default argument,13,29,4,A2
+blocks,sectionheader.py,Return,29,29,8,A1
+blocks,sectionheader.py,Return,17,17,12,A1
+blocks,sectionheader.py,Return,20,22,12,A1
+blocks,sectionheader.py,Inherited Class from Block,7,29,0,B1

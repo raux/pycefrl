@@ -1,0 +1,32 @@
+{
+    "ANEXO": {
+        "anexo_kappa.py": {
+            "Levels": {
+                "A1": 34,
+                "A2": 23,
+                "B1": 4,
+                "B2": 1
+            },
+            "Class": {
+                "Simple List": 4,
+                "Simple Tuple": 1,
+                "'range' call function": 1,
+                "Print": 4,
+                "Files --> 'open' call function": 1,
+                "Simple Atributte": 17,
+                "Simple Assignment": 13,
+                "Assigment with sum (total = total +)": 3,
+                "Import": 3,
+                "Import with 'as' extension ": 2,
+                "From": 1,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1,
+                "Simple If statements": 2,
+                "Simple For Loop": 3,
+                "Exception --> try/except": 1,
+                "With": 1,
+                "Function": 3,
+                "Function with Simple argument": 1
+            }
+        }
+    }
+}

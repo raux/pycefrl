@@ -1,0 +1,124 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+overall,elo.py,Simple List,165,165,12,A1
+overall,elo.py,Simple List,166,166,14,A1
+overall,elo.py,Simple List,168,168,14,A1
+overall,elo.py,Simple List,127,127,12,A1
+overall,elo.py,Simple List,170,170,18,A1
+overall,elo.py,Simple Tuple,167,167,8,A1
+overall,elo.py,Simple Tuple,98,98,20,A1
+overall,elo.py,Simple Tuple,169,169,12,A1
+overall,elo.py,Simple Tuple,197,197,12,A1
+overall,elo.py,Simple Tuple,198,198,16,A1
+overall,elo.py,Simple Dictionary,139,139,25,A2
+overall,elo.py,Simple Dictionary,148,152,23,A2
+overall,elo.py,Print,172,172,4,A1
+overall,elo.py,'range' call function,192,192,18,A2
+overall,elo.py,'enumerate' call function,197,197,27,C2
+overall,elo.py,'enumerate' call function,198,198,31,C2
+overall,elo.py,Print,120,120,12,A1
+overall,elo.py,Print,157,157,12,A1
+overall,elo.py,Print,160,160,12,A1
+overall,elo.py,Simple Atributte,175,175,1,A2
+overall,elo.py,Simple Atributte,176,176,1,A2
+overall,elo.py,Simple Atributte,177,177,1,A2
+overall,elo.py,Simple Atributte,178,178,1,A2
+overall,elo.py,Simple Atributte,179,179,1,A2
+overall,elo.py,Simple Atributte,167,167,35,A2
+overall,elo.py,Simple Atributte,186,186,9,A2
+overall,elo.py,Simple Atributte,187,187,17,A2
+overall,elo.py,Simple Atributte,107,107,13,A2
+overall,elo.py,Simple Atributte,116,116,26,A2
+overall,elo.py,Simple Atributte,125,125,29,A2
+overall,elo.py,Simple Atributte,126,126,19,A2
+overall,elo.py,Simple Atributte,138,138,17,A2
+overall,elo.py,Simple Atributte,154,154,21,A2
+overall,elo.py,Simple Atributte,169,169,33,A2
+overall,elo.py,Simple Atributte,172,172,10,A2
+overall,elo.py,Simple Atributte,195,195,8,A2
+overall,elo.py,Simple Atributte,118,118,21,A2
+overall,elo.py,Simple Atributte,145,145,24,A2
+overall,elo.py,Simple Atributte,155,155,19,A2
+overall,elo.py,Simple Atributte,171,171,12,A2
+overall,elo.py,Simple Atributte,116,116,26,A2
+overall,elo.py,Simple Atributte,141,141,20,A2
+overall,elo.py,Simple Atributte,142,142,21,A2
+overall,elo.py,Simple Atributte,145,145,24,A2
+overall,elo.py,Simple Atributte,154,154,21,A2
+overall,elo.py,Simple Atributte,154,154,21,A2
+overall,elo.py,Simple Atributte,154,154,21,A2
+overall,elo.py,Simple Dictionary Comprehension,188,188,16,C1
+overall,elo.py,Simple Assignment,20,91,0,A1
+overall,elo.py,Simple Assignment,165,165,4,A1
+overall,elo.py,Simple Assignment,166,166,4,A1
+overall,elo.py,Simple Assignment,186,186,4,A1
+overall,elo.py,Simple Assignment,187,187,4,A1
+overall,elo.py,Simple Assignment,188,188,4,A1
+overall,elo.py,Simple Assignment,189,189,4,A1
+overall,elo.py,Simple Assignment,190,190,4,A1
+overall,elo.py,Simple Assignment,116,116,8,A1
+overall,elo.py,Simple Assignment,126,129,8,A1
+overall,elo.py,Simple Assignment,138,143,8,A1
+overall,elo.py,Simple Assignment,168,168,8,A1
+overall,elo.py,Simple Assignment,193,193,8,A1
+overall,elo.py,Simple Assignment,118,118,12,A1
+overall,elo.py,Simple Assignment,145,153,12,A1
+overall,elo.py,Simple Assignment,154,154,12,A1
+overall,elo.py,Simple Assignment,170,170,12,A1
+overall,elo.py,Simple Assignment,202,202,16,A1
+overall,elo.py,Simple Assignment,203,203,16,A1
+overall,elo.py,Simple Assignment,204,204,16,A1
+overall,elo.py,Simplified incremental Assignment with increase amount,209,209,20,A2
+overall,elo.py,Simplified incremental Assignment with increase amount,210,210,20,A2
+overall,elo.py,Simplified incremental Assignment with increase amount,212,212,20,A2
+overall,elo.py,Simplified incremental Assignment with increase amount,213,213,20,A2
+overall,elo.py,'assert' exception,130,130,8,B2
+overall,elo.py,'pass' statement,103,103,8,B1
+overall,elo.py,Import,1,1,0,A2
+overall,elo.py,Import,2,2,0,A2
+overall,elo.py,Import,3,3,0,A2
+overall,elo.py,Import,4,4,0,A2
+overall,elo.py,Import,9,9,0,A2
+overall,elo.py,Import,11,11,0,A2
+overall,elo.py,Import,12,12,0,A2
+overall,elo.py,From,5,5,0,A2
+overall,elo.py,From,6,6,0,A2
+overall,elo.py,From,7,7,0,A2
+overall,elo.py,From,8,8,0,A2
+overall,elo.py,From,13,13,0,A2
+overall,elo.py,From,14,14,0,A2
+overall,elo.py,From,15,15,0,A2
+overall,elo.py,From,16,16,0,A2
+overall,elo.py,From,18,18,0,A2
+overall,elo.py,If statements using → __name__ == ‘__main__’,220,221,0,B2
+overall,elo.py,Simple If statements,111,114,8,A1
+overall,elo.py,Simple If statements,214,215,8,A1
+overall,elo.py,Simple If statements,113,114,8,A1
+overall,elo.py,Simple If statements,199,200,16,A1
+overall,elo.py,Simple If statements,205,206,16,A1
+overall,elo.py,Simple If statements,208,213,16,A1
+overall,elo.py,For Loop with Tuple as name,167,171,4,A2
+overall,elo.py,1 Nested For Loop,192,215,4,A2
+overall,elo.py,For Loop with Tuple as name,169,171,8,A2
+overall,elo.py,For Loop with Tuple as name,197,213,8,A2
+overall,elo.py,For Loop with Tuple as name,198,213,12,A2
+overall,elo.py,'continue' statement,200,200,20,B1
+overall,elo.py,'continue' statement,206,206,20,B1
+overall,elo.py,Exception --> try/except,117,121,8,B1
+overall,elo.py,Exception --> try/except,144,161,8,B1
+overall,elo.py,Function with Simple argument,164,172,0,A1
+overall,elo.py,Function with Simple argument,180,217,0,A1
+overall,elo.py,Function with Simple argument,102,103,4,A1
+overall,elo.py,Function with Simple argument,105,122,4,A1
+overall,elo.py,Function with Simple argument,125,131,4,A1
+overall,elo.py,Function with Simple argument,133,161,4,A1
+overall,elo.py,Lambda,188,188,32,B1
+overall,elo.py,Return,122,122,8,A1
+overall,elo.py,Return,131,131,8,A1
+overall,elo.py,Return,112,112,12,A1
+overall,elo.py,Return,155,155,12,A1
+overall,elo.py,Return,114,114,12,A1
+overall,elo.py,Return,121,121,12,A1
+overall,elo.py,Return,158,158,12,A1
+overall,elo.py,Return,161,161,12,A1
+overall,elo.py,Inherited Class from BaseModel,93,98,0,B1
+overall,elo.py,Simple Class  Using the constructor method --> __init__,101,161,0,B1

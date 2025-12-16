@@ -1,0 +1,145 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+scripts,convert.py,Simple Tuple,62,62,4,A1
+scripts,convert.py,Simple Tuple,170,170,8,A1
+scripts,convert.py,Simple Tuple,186,186,21,A1
+scripts,convert.py,Print,201,203,8,A1
+scripts,convert.py,Simple Atributte,138,138,1,A2
+scripts,convert.py,Simple Atributte,11,11,0,A2
+scripts,convert.py,Simple Atributte,12,12,0,A2
+scripts,convert.py,Simple Atributte,13,13,0,A2
+scripts,convert.py,Simple Atributte,14,14,0,A2
+scripts,convert.py,Simple Atributte,15,15,0,A2
+scripts,convert.py,Simple Atributte,16,16,0,A2
+scripts,convert.py,Simple Atributte,17,17,0,A2
+scripts,convert.py,Simple Atributte,18,18,0,A2
+scripts,convert.py,Simple Atributte,21,21,0,A2
+scripts,convert.py,Simple Atributte,105,105,1,A2
+scripts,convert.py,Simple Atributte,106,106,1,A2
+scripts,convert.py,Simple Atributte,107,107,1,A2
+scripts,convert.py,Simple Atributte,108,108,1,A2
+scripts,convert.py,Simple Atributte,114,114,1,A2
+scripts,convert.py,Simple Atributte,117,117,1,A2
+scripts,convert.py,Simple Atributte,123,123,1,A2
+scripts,convert.py,Simple Atributte,126,126,1,A2
+scripts,convert.py,Simple Atributte,132,132,1,A2
+scripts,convert.py,Simple Atributte,49,49,4,A2
+scripts,convert.py,Simple Atributte,63,63,4,A2
+scripts,convert.py,Simple Atributte,68,68,17,A2
+scripts,convert.py,Simple Atributte,69,69,16,A2
+scripts,convert.py,Simple Atributte,73,73,20,A2
+scripts,convert.py,Simple Atributte,74,74,18,A2
+scripts,convert.py,Simple Atributte,90,90,21,A2
+scripts,convert.py,Simple Atributte,141,141,16,A2
+scripts,convert.py,Simple Atributte,147,147,17,A2
+scripts,convert.py,Simple Atributte,70,70,7,A2
+scripts,convert.py,Simple Atributte,78,78,11,A2
+scripts,convert.py,Simple Atributte,88,88,21,A2
+scripts,convert.py,Simple Atributte,92,92,11,A2
+scripts,convert.py,Simple Atributte,100,100,8,A2
+scripts,convert.py,Simple Atributte,141,141,16,A2
+scripts,convert.py,Simple Atributte,142,142,13,A2
+scripts,convert.py,Simple Atributte,160,160,8,A2
+scripts,convert.py,Simple Atributte,181,181,8,A2
+scripts,convert.py,Simple Atributte,183,183,8,A2
+scripts,convert.py,Simple Atributte,188,188,21,A2
+scripts,convert.py,Simple Atributte,79,79,12,A2
+scripts,convert.py,Simple Atributte,93,93,12,A2
+scripts,convert.py,Simple Atributte,97,97,8,A2
+scripts,convert.py,Simple Atributte,98,98,8,A2
+scripts,convert.py,Simple Atributte,142,142,13,A2
+scripts,convert.py,Simple Atributte,142,142,49,A2
+scripts,convert.py,Simple Atributte,143,143,33,A2
+scripts,convert.py,Simple Atributte,189,189,13,A2
+scripts,convert.py,Simple Atributte,195,195,30,A2
+scripts,convert.py,Simple Atributte,198,198,12,A2
+scripts,convert.py,Simple Atributte,200,200,21,A2
+scripts,convert.py,Simple Atributte,83,83,27,A2
+scripts,convert.py,Simple Atributte,84,84,21,A2
+scripts,convert.py,Simple Atributte,85,85,24,A2
+scripts,convert.py,Simple Atributte,143,143,33,A2
+scripts,convert.py,Simple Atributte,179,179,15,A2
+scripts,convert.py,Simple Atributte,196,196,16,A2
+scripts,convert.py,Simple List Comprehension,142,142,12,C1
+scripts,convert.py,List Comprehension with 1If statements,143,143,12,C1
+scripts,convert.py,Simple List Comprehension,186,186,20,C1
+scripts,convert.py,Simple Assignment,11,11,0,A1
+scripts,convert.py,Simple Assignment,12,12,0,A1
+scripts,convert.py,Simple Assignment,13,13,0,A1
+scripts,convert.py,Simple Assignment,14,14,0,A1
+scripts,convert.py,Simple Assignment,15,15,0,A1
+scripts,convert.py,Simple Assignment,16,16,0,A1
+scripts,convert.py,Simple Assignment,17,17,0,A1
+scripts,convert.py,Simple Assignment,18,20,0,A1
+scripts,convert.py,Simple Assignment,21,21,0,A1
+scripts,convert.py,Simple Assignment,39,39,0,A1
+scripts,convert.py,Simple Assignment,43,43,4,A1
+scripts,convert.py,Simple Assignment,46,46,4,A1
+scripts,convert.py,Simple Assignment,61,61,4,A1
+scripts,convert.py,Simple Assignment,62,62,4,A1
+scripts,convert.py,Simple Assignment,66,66,4,A1
+scripts,convert.py,Simple Assignment,68,68,4,A1
+scripts,convert.py,Simple Assignment,69,69,4,A1
+scripts,convert.py,Simple Assignment,73,73,4,A1
+scripts,convert.py,Simple Assignment,74,74,4,A1
+scripts,convert.py,Simple Assignment,75,75,4,A1
+scripts,convert.py,Simple Assignment,140,140,4,A1
+scripts,convert.py,Simple Assignment,141,141,4,A1
+scripts,convert.py,Simple Assignment,142,142,4,A1
+scripts,convert.py,Simple Assignment,143,143,4,A1
+scripts,convert.py,Simple Assignment,147,147,4,A1
+scripts,convert.py,Assigment with sum (total = total + 1),148,148,4,A1
+scripts,convert.py,Assigment with sum (total = total + 1),149,149,4,A1
+scripts,convert.py,Simple Assignment,150,150,4,A1
+scripts,convert.py,Simple Assignment,157,157,4,A1
+scripts,convert.py,Simple Assignment,166,166,4,A1
+scripts,convert.py,Simple Assignment,80,86,8,A1
+scripts,convert.py,Simple Assignment,87,87,8,A1
+scripts,convert.py,Simple Assignment,88,88,8,A1
+scripts,convert.py,Simple Assignment,90,90,8,A1
+scripts,convert.py,Simple Assignment,154,154,8,A1
+scripts,convert.py,Simple Assignment,170,170,8,A1
+scripts,convert.py,Simple Assignment,177,177,8,A1
+scripts,convert.py,Simple Assignment,178,180,8,A1
+scripts,convert.py,Simple Assignment,186,186,8,A1
+scripts,convert.py,Simple Assignment,188,188,8,A1
+scripts,convert.py,Assigment with sum (total = total + 1),200,200,8,A1
+scripts,convert.py,Simple Assignment,174,174,12,A1
+scripts,convert.py,Simple Assignment,194,194,12,A1
+scripts,convert.py,Simplified incremental Assignment with increase amount,197,197,16,A2
+scripts,convert.py,'raise' exception,162,164,8,B1
+scripts,convert.py,'pass' statement,57,57,8,B1
+scripts,convert.py,Import,1,1,0,A2
+scripts,convert.py,Import,2,2,0,A2
+scripts,convert.py,Import,3,3,0,A2
+scripts,convert.py,Import,5,5,0,A2
+scripts,convert.py,Import,6,6,0,A2
+scripts,convert.py,Import,23,23,0,A2
+scripts,convert.py,Import,24,24,0,A2
+scripts,convert.py,Import,26,26,0,A2
+scripts,convert.py,Import with 'as' extension ,27,27,0,B1
+scripts,convert.py,Import,29,29,0,A2
+scripts,convert.py,From,8,8,0,A2
+scripts,convert.py,From,28,28,0,A2
+scripts,convert.py,From,31,31,0,A2
+scripts,convert.py,From,32,32,0,A2
+scripts,convert.py,From,33,33,0,A2
+scripts,convert.py,From,34,34,0,A2
+scripts,convert.py,From,35,35,0,A2
+scripts,convert.py,From,36,36,0,A2
+scripts,convert.py,Simple If statements,70,71,4,A1
+scripts,convert.py,Simple If statements,153,154,4,A1
+scripts,convert.py,Simple If statements,78,79,8,A1
+scripts,convert.py,Simple If statements,92,93,8,A1
+scripts,convert.py,Simple If statements,173,174,8,A1
+scripts,convert.py,Simple For Loop,195,197,12,A1
+scripts,convert.py,Exception --> try/except,54,57,4,B1
+scripts,convert.py,Exception --> try/except/finally,77,100,4,B2
+scripts,convert.py,Exception --> try/except,159,164,4,B1
+scripts,convert.py,With,169,203,4,B1
+scripts,convert.py,With,189,198,8,B1
+scripts,convert.py,Function,42,49,0,A1
+scripts,convert.py,Function,52,57,0,A1
+scripts,convert.py,Function with Simple argument,60,102,0,A1
+scripts,convert.py,Function with Simple argument with ** argument,139,203,0,B1
+scripts,convert.py,Return,102,102,4,A1
+scripts,convert.py,Return,71,71,8,A1

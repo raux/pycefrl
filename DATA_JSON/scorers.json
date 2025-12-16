@@ -1,0 +1,57 @@
+{
+    "scorers": {
+        "__init__.py": {
+            "Levels": {
+                "B1": 3,
+                "A2": 2,
+                "A1": 2
+            },
+            "Class": {
+                "'raise' exception": 1,
+                "'pass' statement": 1,
+                "From": 2,
+                "Function with Simple argument": 2,
+                "Simple Class  Using the constructor method --> __init__": 1
+            }
+        },
+        "clean.py": {
+            "Levels": {
+                "A1": 43,
+                "A2": 42,
+                "B1": 5,
+                "C1": 1
+            },
+            "Class": {
+                "Simple List": 3,
+                "Simple Tuple": 1,
+                "Simple Dictionary": 1,
+                "Print": 1,
+                "If statements expression (else)": 1,
+                "Simple Atributte": 35,
+                "Simple Assignment": 24,
+                "Assigment with sum (total = total +)": 3,
+                "'pass' statement": 1,
+                "Import're' module": 1,
+                "Import": 3,
+                "From": 1,
+                "Simple If statements": 1,
+                "For Loop with List to iterate": 1,
+                "For Loop with Tuple as name": 1,
+                "Exception --> try/except": 1,
+                "With": 1,
+                "Function with Simple argument": 5,
+                "Return": 5,
+                "Simple Class  Using the constructor method --> __init__": 1
+            }
+        },
+        "heuristic.py": {
+            "Levels": {
+                "A1": 4
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 2
+            }
+        }
+    }
+}

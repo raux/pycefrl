@@ -1,0 +1,172 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+scripts,common.py,Simple List,31,31,15,A1
+scripts,common.py,Simple List,118,118,34,A1
+scripts,common.py,Simple Tuple,142,142,12,A1
+scripts,common.py,Simple Tuple,147,147,12,A1
+scripts,common.py,Simple Dictionary,176,176,16,A2
+scripts,common.py,Simple Dictionary,103,103,21,A2
+scripts,common.py,Simple Dictionary,42,42,15,A2
+scripts,common.py,1 List Dictionary,116,119,44,B1
+scripts,common.py,Print,157,157,8,A1
+scripts,common.py,Simple Atributte,24,24,5,A2
+scripts,common.py,Simple Atributte,21,21,1,A2
+scripts,common.py,Simple Atributte,45,45,1,A2
+scripts,common.py,Simple Atributte,64,64,1,A2
+scripts,common.py,Simple Atributte,81,81,1,A2
+scripts,common.py,Simple Atributte,35,35,4,A2
+scripts,common.py,Simple Atributte,36,36,10,A2
+scripts,common.py,Simple Atributte,40,40,15,A2
+scripts,common.py,Simple Atributte,41,41,11,A2
+scripts,common.py,Simple Atributte,51,51,13,A2
+scripts,common.py,Simple Atributte,52,52,11,A2
+scripts,common.py,Simple Atributte,56,56,16,A2
+scripts,common.py,Simple Atributte,57,57,4,A2
+scripts,common.py,Simple Atributte,58,58,16,A2
+scripts,common.py,Simple Atributte,59,59,14,A2
+scripts,common.py,Simple Atributte,66,66,16,A2
+scripts,common.py,Simple Atributte,83,83,16,A2
+scripts,common.py,Simple Atributte,91,91,15,A2
+scripts,common.py,Simple Atributte,92,92,4,A2
+scripts,common.py,Simple Atributte,93,93,11,A2
+scripts,common.py,Simple Atributte,180,180,11,A2
+scripts,common.py,Simple Atributte,30,30,19,A2
+scripts,common.py,Simple Atributte,35,35,4,A2
+scripts,common.py,Simple Atributte,38,38,19,A2
+scripts,common.py,Simple Atributte,39,39,8,A2
+scripts,common.py,Simple Atributte,41,41,11,A2
+scripts,common.py,Simple Atributte,51,51,24,A2
+scripts,common.py,Simple Atributte,57,57,31,A2
+scripts,common.py,Simple Atributte,70,74,12,A2
+scripts,common.py,Simple Atributte,77,77,20,A2
+scripts,common.py,Simple Atributte,99,99,15,A2
+scripts,common.py,Simple Atributte,105,105,20,A2
+scripts,common.py,Simple Atributte,142,142,32,A2
+scripts,common.py,Simple Atributte,147,147,32,A2
+scripts,common.py,Simple Atributte,59,59,14,A2
+scripts,common.py,Simple Atributte,60,60,39,A2
+scripts,common.py,Simple Atributte,93,93,11,A2
+scripts,common.py,Simple Atributte,106,106,32,A2
+scripts,common.py,Simple Atributte,109,109,28,A2
+scripts,common.py,Simple Atributte,143,143,12,A2
+scripts,common.py,Simple Atributte,60,60,39,A2
+scripts,common.py,Simple Atributte,70,73,12,A2
+scripts,common.py,Simple Atributte,77,77,20,A2
+scripts,common.py,Simple Atributte,93,93,28,A2
+scripts,common.py,Simple Atributte,122,122,32,A2
+scripts,common.py,Simple Atributte,149,149,16,A2
+scripts,common.py,Simple Atributte,115,115,20,A2
+scripts,common.py,Simple Atributte,115,115,36,A2
+scripts,common.py,Simple Atributte,116,116,31,A2
+scripts,common.py,Simple Atributte,70,70,12,A2
+scripts,common.py,Simple Atributte,110,110,40,A2
+scripts,common.py,Simple Atributte,110,110,54,A2
+scripts,common.py,Simple Atributte,126,126,41,A2
+scripts,common.py,Simple Atributte,123,123,44,A2
+scripts,common.py,Simple Atributte,124,124,28,A2
+scripts,common.py,Simple Atributte,124,124,41,A2
+scripts,common.py,Simple Atributte,126,126,41,A2
+scripts,common.py,Simple Atributte,127,127,28,A2
+scripts,common.py,Simple Atributte,130,130,45,A2
+scripts,common.py,Simple Atributte,130,130,57,A2
+scripts,common.py,Simple Atributte,135,135,35,A2
+scripts,common.py,Simple Atributte,136,136,36,A2
+scripts,common.py,Simple Atributte,127,127,39,A2
+scripts,common.py,Simple Atributte,136,136,47,A2
+scripts,common.py,Simple Assignment,33,33,4,A1
+scripts,common.py,Simple Assignment,34,34,4,A1
+scripts,common.py,Simple Assignment,36,36,4,A1
+scripts,common.py,Simple Assignment,51,51,4,A1
+scripts,common.py,Simple Assignment,56,56,4,A1
+scripts,common.py,Simple Assignment,58,58,4,A1
+scripts,common.py,Simple Assignment,59,59,4,A1
+scripts,common.py,Simple Assignment,60,60,4,A1
+scripts,common.py,Simple Assignment,91,91,4,A1
+scripts,common.py,Simple Assignment,162,162,4,A1
+scripts,common.py,Simple Assignment,176,176,4,A1
+scripts,common.py,Simple Assignment,38,38,8,A1
+scripts,common.py,Simple Assignment,67,67,8,A1
+scripts,common.py,Simple Assignment,68,68,8,A1
+scripts,common.py,Simple Assignment,69,75,8,A1
+scripts,common.py,Simple Assignment,77,77,8,A1
+scripts,common.py,Simple Assignment,84,84,8,A1
+scripts,common.py,Simple Assignment,99,99,8,A1
+scripts,common.py,Simple Assignment,102,102,8,A1
+scripts,common.py,Simple Assignment,103,103,8,A1
+scripts,common.py,Simple Assignment,141,141,8,A1
+scripts,common.py,Simple Assignment,146,146,8,A1
+scripts,common.py,Assigment with sum (total = total + 1),168,168,8,A1
+scripts,common.py,Assigment with sum (total = total + 1),170,173,8,A1
+scripts,common.py,Simple Assignment,108,108,16,A1
+scripts,common.py,Simple Assignment,116,119,20,A1
+scripts,common.py,Simple Assignment,111,111,24,A1
+scripts,common.py,Simple Assignment,126,126,28,A1
+scripts,common.py,Simple Assignment,130,130,28,A1
+scripts,common.py,Simple Assignment,134,134,32,A1
+scripts,common.py,'pass' statement,26,26,8,B1
+scripts,common.py,Import,1,1,0,A2
+scripts,common.py,Import,2,2,0,A2
+scripts,common.py,Import,3,3,0,A2
+scripts,common.py,Import're' module,4,4,0,C1
+scripts,common.py,Import,5,5,0,A2
+scripts,common.py,Import,9,9,0,A2
+scripts,common.py,Import,10,10,0,A2
+scripts,common.py,Import with 'as' extension ,11,11,0,B1
+scripts,common.py,From,6,6,0,A2
+scripts,common.py,From,8,8,0,A2
+scripts,common.py,From,12,12,0,A2
+scripts,common.py,From,13,13,0,A2
+scripts,common.py,From,15,15,0,A2
+scripts,common.py,From,16,16,0,A2
+scripts,common.py,From,17,17,0,A2
+scripts,common.py,From,18,18,0,A2
+scripts,common.py,Simple If statements,66,77,4,A1
+scripts,common.py,Simple If statements,83,87,4,A1
+scripts,common.py,Simple If statements,164,165,4,A1
+scripts,common.py,Simple If statements,167,168,4,A1
+scripts,common.py,Simple If statements,169,173,4,A1
+scripts,common.py,Simple If statements,29,30,8,A1
+scripts,common.py,Simple If statements,138,139,8,A1
+scripts,common.py,Simple If statements,152,153,8,A1
+scripts,common.py,Simple If statements,106,136,12,A1
+scripts,common.py,Simple If statements,148,149,12,A1
+scripts,common.py,Simple If statements,114,136,16,A1
+scripts,common.py,Simple If statements,110,112,20,A1
+scripts,common.py,Simple If statements,123,136,24,A1
+scripts,common.py,Simple If statements,135,136,32,A1
+scripts,common.py,Simple For Loop,105,136,8,A1
+scripts,common.py,For Loop with Tuple as name,142,143,8,A2
+scripts,common.py,For Loop with Tuple as name,147,149,8,A2
+scripts,common.py,Simple For Loop,109,112,16,A1
+scripts,common.py,Simple For Loop,122,136,20,A1
+scripts,common.py,Simple For Loop,133,136,28,A1
+scripts,common.py,'break' statement,112,112,24,B1
+scripts,common.py,Exception --> try/except,37,42,4,B1
+scripts,common.py,Exception --> try/except,97,158,4,B1
+scripts,common.py,Function,22,42,0,A1
+scripts,common.py,Function,46,47,0,A1
+scripts,common.py,Function with Simple argument,50,52,0,A1
+scripts,common.py,Function with Simple argument,55,61,0,A1
+scripts,common.py,Function with Simple argument with Default argument,65,78,0,A2
+scripts,common.py,Function with Simple argument,82,87,0,A1
+scripts,common.py,Function with Simple argument,90,93,0,A1
+scripts,common.py,Function with Simple argument,96,158,0,A1
+scripts,common.py,Function with Simple argument,161,180,0,A1
+scripts,common.py,Function,25,26,4,A1
+scripts,common.py,Function with Simple argument,28,31,4,A1
+scripts,common.py,Return,47,47,4,A1
+scripts,common.py,Return,52,52,4,A1
+scripts,common.py,Return,61,61,4,A1
+scripts,common.py,Return,78,78,4,A1
+scripts,common.py,Return,93,93,4,A1
+scripts,common.py,Return,180,180,4,A1
+scripts,common.py,Return,31,31,8,A1
+scripts,common.py,Return,40,40,8,A1
+scripts,common.py,Return,85,85,8,A1
+scripts,common.py,Return,87,87,8,A1
+scripts,common.py,Return,155,155,8,A1
+scripts,common.py,Return,165,165,8,A1
+scripts,common.py,Return,30,30,12,A1
+scripts,common.py,Return,42,42,8,A1
+scripts,common.py,Return,139,139,12,A1
+scripts,common.py,Return,153,153,12,A1
+scripts,common.py,Return,158,158,8,A1

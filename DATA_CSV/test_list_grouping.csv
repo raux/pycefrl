@@ -1,0 +1,23 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+groups,test_list_grouping.py,Simple List,14,14,18,A1
+groups,test_list_grouping.py,Simple List,7,7,35,A1
+groups,test_list_grouping.py,1 List Dictionary,7,7,20,B1
+groups,test_list_grouping.py,Simple Atributte,15,15,17,A2
+groups,test_list_grouping.py,Simple Atributte,7,7,1,A2
+groups,test_list_grouping.py,Simple Atributte,8,8,1,A2
+groups,test_list_grouping.py,Simple Atributte,13,13,11,A2
+groups,test_list_grouping.py,Simple Atributte,7,7,1,A2
+groups,test_list_grouping.py,Simple Atributte,8,8,1,A2
+groups,test_list_grouping.py,Simple Atributte,16,16,11,A2
+groups,test_list_grouping.py,Simple Atributte,16,16,31,A2
+groups,test_list_grouping.py,Simple Atributte,17,17,12,A2
+groups,test_list_grouping.py,Simple Assignment,10,10,4,A1
+groups,test_list_grouping.py,Simple Assignment,13,13,4,A1
+groups,test_list_grouping.py,Simple Assignment,14,14,4,A1
+groups,test_list_grouping.py,'assert' exception,20,20,4,B2
+groups,test_list_grouping.py,Import,1,1,0,A2
+groups,test_list_grouping.py,From,3,3,0,A2
+groups,test_list_grouping.py,From,4,4,0,A2
+groups,test_list_grouping.py,Simple If statements,16,17,8,A1
+groups,test_list_grouping.py,Simple For Loop,15,17,4,A1
+groups,test_list_grouping.py,Function with Simple argument,9,20,0,A1

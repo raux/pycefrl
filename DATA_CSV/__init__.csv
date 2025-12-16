@@ -1,0 +1,43 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+services,__init__.py,Simple List,32,32,19,A1
+services,__init__.py,Simple List,35,35,20,A1
+services,__init__.py,Simple Tuple,13,13,23,A1
+services,__init__.py,Simple Tuple,15,15,8,A1
+services,__init__.py,Simple Tuple,17,17,31,A1
+services,__init__.py,Simple Tuple,19,19,8,A1
+services,__init__.py,Simple Atributte,22,22,33,A2
+services,__init__.py,Simple Atributte,24,24,8,A2
+services,__init__.py,Simple Atributte,25,25,15,A2
+services,__init__.py,Simple Atributte,37,37,22,A2
+services,__init__.py,Simple Atributte,22,22,33,A2
+services,__init__.py,Simple Atributte,27,27,42,A2
+services,__init__.py,Simple Atributte,25,25,15,A2
+services,__init__.py,Simple Atributte,27,27,42,A2
+services,__init__.py,Simple Atributte,49,49,15,A2
+services,__init__.py,Simple Atributte,25,25,32,A2
+services,__init__.py,Simple Atributte,49,49,15,A2
+services,__init__.py,Simple Atributte,49,49,38,A2
+services,__init__.py,Simple Atributte,49,49,38,A2
+services,__init__.py,Simple Assignment,23,23,8,A1
+services,__init__.py,Simple Assignment,37,37,8,A1
+services,__init__.py,Simple Assignment,35,35,12,A1
+services,__init__.py,'raise' exception,28,28,8,B1
+services,__init__.py,'raise' exception,55,55,8,B1
+services,__init__.py,Import,4,4,0,A2
+services,__init__.py,Import,9,9,0,A2
+services,__init__.py,From,1,1,0,A2
+services,__init__.py,From,2,2,0,A2
+services,__init__.py,From,5,5,0,A2
+services,__init__.py,From,7,7,0,A2
+services,__init__.py,From,8,8,0,A2
+services,__init__.py,Simple If statements,31,32,8,A1
+services,__init__.py,Simple If statements,34,35,8,A1
+services,__init__.py,Function with Simple argument with Default argument,22,25,4,A2
+services,__init__.py,Function with Simple argument,27,28,4,A1
+services,__init__.py,Function with Simple argument,30,38,4,A1
+services,__init__.py,Function with Simple argument with Default argument,40,44,4,A2
+services,__init__.py,Function with Simple argument with Default argument,46,55,4,A2
+services,__init__.py,Return,25,25,8,A1
+services,__init__.py,Return,38,38,8,A1
+services,__init__.py,Return,32,32,12,A1
+services,__init__.py,Simple Class ,12,55,0,B1

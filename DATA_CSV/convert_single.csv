@@ -1,0 +1,38 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+scripts,convert_single.py,Simple Atributte,24,24,1,A2
+scripts,convert_single.py,Simple Atributte,3,3,0,A2
+scripts,convert_single.py,Simple Atributte,4,4,0,A2
+scripts,convert_single.py,Simple Atributte,5,5,0,A2
+scripts,convert_single.py,Simple Atributte,22,22,1,A2
+scripts,convert_single.py,Simple Atributte,23,23,1,A2
+scripts,convert_single.py,Simple Atributte,27,27,12,A2
+scripts,convert_single.py,Simple Atributte,30,30,20,A2
+scripts,convert_single.py,Simple Atributte,39,39,17,A2
+scripts,convert_single.py,Simple Atributte,42,42,4,A2
+scripts,convert_single.py,Simple Atributte,43,43,4,A2
+scripts,convert_single.py,Simple Atributte,40,40,38,A2
+scripts,convert_single.py,Simple Atributte,32,32,15,A2
+scripts,convert_single.py,Simple Atributte,34,34,23,A2
+scripts,convert_single.py,Simple Atributte,35,35,17,A2
+scripts,convert_single.py,Simple Atributte,36,36,20,A2
+scripts,convert_single.py,Simple Atributte,43,43,31,A2
+scripts,convert_single.py,Simple Assignment,3,3,0,A1
+scripts,convert_single.py,Simple Assignment,4,4,0,A1
+scripts,convert_single.py,Simple Assignment,5,7,0,A1
+scripts,convert_single.py,Simple Assignment,19,19,0,A1
+scripts,convert_single.py,Simple Assignment,26,26,4,A1
+scripts,convert_single.py,Simple Assignment,27,27,4,A1
+scripts,convert_single.py,Simple Assignment,28,28,4,A1
+scripts,convert_single.py,Simple Assignment,30,30,4,A1
+scripts,convert_single.py,Simple Assignment,31,37,4,A1
+scripts,convert_single.py,Simple Assignment,38,38,4,A1
+scripts,convert_single.py,Simple Assignment,39,39,4,A1
+scripts,convert_single.py,Import,1,1,0,A2
+scripts,convert_single.py,Import,9,9,0,A2
+scripts,convert_single.py,Import,10,10,0,A2
+scripts,convert_single.py,From,12,12,0,A2
+scripts,convert_single.py,From,13,13,0,A2
+scripts,convert_single.py,From,14,14,0,A2
+scripts,convert_single.py,From,15,15,0,A2
+scripts,convert_single.py,From,16,16,0,A2
+scripts,convert_single.py,Function with Simple argument with ** argument,25,43,0,B1

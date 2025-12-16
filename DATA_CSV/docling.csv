@@ -1,0 +1,24 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+methods,docling.py,Simple Dictionary,22,25,15,A2
+methods,docling.py,Files --> 'write' call function,17,17,12,A2
+methods,docling.py,Simple Atributte,16,16,13,A2
+methods,docling.py,Simple Atributte,17,17,12,A2
+methods,docling.py,Simple Atributte,18,18,20,A2
+methods,docling.py,Simple Atributte,19,19,21,A2
+methods,docling.py,Simple Atributte,19,19,39,A2
+methods,docling.py,Simple Atributte,23,23,24,A2
+methods,docling.py,Simple Atributte,20,20,20,A2
+methods,docling.py,Simple Atributte,23,23,24,A2
+methods,docling.py,Simple Assignment,13,13,8,A1
+methods,docling.py,Simple Assignment,14,14,8,A1
+methods,docling.py,Simple Assignment,18,18,12,A1
+methods,docling.py,Simple Assignment,19,19,12,A1
+methods,docling.py,Assigment with sum (total = total + 1),20,20,12,A1
+methods,docling.py,Import,1,1,0,A2
+methods,docling.py,Import,2,2,0,A2
+methods,docling.py,From,4,4,0,A2
+methods,docling.py,From,12,12,8,A2
+methods,docling.py,With,16,20,8,B1
+methods,docling.py,Function with Simple argument,11,25,4,A1
+methods,docling.py,Return,22,25,8,A1
+methods,docling.py,Inherited Class from BaseMethod,7,25,0,B1

@@ -1,0 +1,14 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+blocks,caption.py,Super Function,17,17,15,C2
+blocks,caption.py,Super Function,13,13,19,C2
+blocks,caption.py,Simple Atributte,6,6,29,A2
+blocks,caption.py,Simple Atributte,12,12,11,A2
+blocks,caption.py,Simple Atributte,17,17,15,A2
+blocks,caption.py,Simple Atributte,13,13,19,A2
+blocks,caption.py,From,1,1,0,A2
+blocks,caption.py,From,2,2,0,A2
+blocks,caption.py,Simple If statements,12,15,8,A1
+blocks,caption.py,Function with Simple argument,11,19,4,A1
+blocks,caption.py,Return,17,19,8,A1
+blocks,caption.py,Return,13,15,12,A1
+blocks,caption.py,Inherited Class from Block,5,19,0,B1

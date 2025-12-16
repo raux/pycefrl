@@ -1,0 +1,36 @@
+{
+    "config": {
+        "crawler.py": {
+            "Levels": {
+                "A1": 13
+            },
+            "Class": {
+                "Simple Tuple": 13
+            }
+        },
+        "test_config.py": {
+            "Levels": {
+                "A1": 29,
+                "A2": 20,
+                "B2": 8,
+                "B1": 2
+            },
+            "Class": {
+                "Simple List": 4,
+                "Simple Dictionary": 1,
+                "Simple Atributte": 13,
+                "Simple Assignment": 17,
+                "'assert' exception": 7,
+                "Import": 2,
+                "From": 4,
+                "Simple For Loop": 1,
+                "Exception --> try/finally": 1,
+                "With": 1,
+                "Function with Simple argument": 1,
+                "Function": 4,
+                "Function with ** argument": 1,
+                "Return": 2
+            }
+        }
+    }
+}

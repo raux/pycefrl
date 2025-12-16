@@ -1,0 +1,44 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+builders,test_layout_replace.py,Simple List,23,23,17,A1
+builders,test_layout_replace.py,Simple List,12,12,35,A1
+builders,test_layout_replace.py,Simple Tuple,24,24,49,A1
+builders,test_layout_replace.py,1 List Dictionary,12,12,20,B1
+builders,test_layout_replace.py,Simple Atributte,11,11,1,A2
+builders,test_layout_replace.py,Simple Atributte,12,12,1,A2
+builders,test_layout_replace.py,Simple Atributte,20,20,15,A2
+builders,test_layout_replace.py,Simple Atributte,22,22,11,A2
+builders,test_layout_replace.py,Simple Atributte,24,24,17,A2
+builders,test_layout_replace.py,Simple Atributte,41,41,29,A2
+builders,test_layout_replace.py,Simple Atributte,11,11,1,A2
+builders,test_layout_replace.py,Simple Atributte,12,12,1,A2
+builders,test_layout_replace.py,Simple Atributte,24,24,50,A2
+builders,test_layout_replace.py,Simple Atributte,25,25,48,A2
+builders,test_layout_replace.py,Simple Atributte,31,31,8,A2
+builders,test_layout_replace.py,Simple Atributte,32,32,8,A2
+builders,test_layout_replace.py,Simple Atributte,36,36,15,A2
+builders,test_layout_replace.py,Simple Atributte,27,27,20,A2
+builders,test_layout_replace.py,Simple Atributte,28,28,20,A2
+builders,test_layout_replace.py,Simple Atributte,29,29,22,A2
+builders,test_layout_replace.py,Simple Atributte,36,36,15,A2
+builders,test_layout_replace.py,Simple Assignment,17,17,4,A1
+builders,test_layout_replace.py,Simple Assignment,18,18,4,A1
+builders,test_layout_replace.py,Simple Assignment,19,19,4,A1
+builders,test_layout_replace.py,Simple Assignment,20,20,4,A1
+builders,test_layout_replace.py,Simple Assignment,22,22,4,A1
+builders,test_layout_replace.py,Simple Assignment,23,23,4,A1
+builders,test_layout_replace.py,Simple Assignment,38,38,4,A1
+builders,test_layout_replace.py,Simple Assignment,39,39,4,A1
+builders,test_layout_replace.py,Simple Assignment,25,25,8,A1
+builders,test_layout_replace.py,Simple Assignment,26,30,8,A1
+builders,test_layout_replace.py,'assert' exception,41,41,4,B2
+builders,test_layout_replace.py,'assert' exception,36,36,8,B2
+builders,test_layout_replace.py,Import,1,1,0,A2
+builders,test_layout_replace.py,From,3,3,0,A2
+builders,test_layout_replace.py,From,4,4,0,A2
+builders,test_layout_replace.py,From,5,5,0,A2
+builders,test_layout_replace.py,From,6,6,0,A2
+builders,test_layout_replace.py,From,7,7,0,A2
+builders,test_layout_replace.py,From,8,8,0,A2
+builders,test_layout_replace.py,Simple For Loop,24,32,4,A1
+builders,test_layout_replace.py,Simple For Loop,35,36,4,A1
+builders,test_layout_replace.py,Function with Simple argument,13,41,0,A1

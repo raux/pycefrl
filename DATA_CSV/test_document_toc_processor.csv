@@ -1,0 +1,13 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+processors,test_document_toc_processor.py,Simple List,6,6,35,A1
+processors,test_document_toc_processor.py,1 List Dictionary,6,6,20,B1
+processors,test_document_toc_processor.py,Simple Atributte,6,6,1,A2
+processors,test_document_toc_processor.py,Simple Atributte,6,6,1,A2
+processors,test_document_toc_processor.py,Simple Atributte,11,11,15,A2
+processors,test_document_toc_processor.py,Simple Atributte,12,12,11,A2
+processors,test_document_toc_processor.py,Simple Assignment,8,8,4,A1
+processors,test_document_toc_processor.py,'assert' exception,11,11,4,B2
+processors,test_document_toc_processor.py,'assert' exception,12,12,4,B2
+processors,test_document_toc_processor.py,Import,1,1,0,A2
+processors,test_document_toc_processor.py,From,3,3,0,A2
+processors,test_document_toc_processor.py,Function with Simple argument,7,12,0,A1

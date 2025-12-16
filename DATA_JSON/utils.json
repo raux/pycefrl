@@ -1,0 +1,65 @@
+{
+    "utils": {
+        "batch.py": {
+            "Levels": {
+                "A1": 8,
+                "A2": 4
+            },
+            "Class": {
+                "Simple Tuple": 2,
+                "Simple Dictionary": 2,
+                "Simple Atributte": 1,
+                "Simple Assignment": 2,
+                "From": 1,
+                "Simple If statements": 1,
+                "Function with Simple argument": 1,
+                "Return": 2
+            }
+        },
+        "gpu.py": {
+            "Levels": {
+                "A1": 50,
+                "A2": 60,
+                "B1": 6
+            },
+            "Class": {
+                "Simple List": 4,
+                "Simple Tuple": 3,
+                "Simple Atributte": 55,
+                "Simple Assignment": 17,
+                "Import": 3,
+                "From": 2,
+                "Simple If statements": 6,
+                "Exception --> try/except": 5,
+                "Function with Simple argument": 8,
+                "Function": 1,
+                "Return": 11,
+                "Simple Class ": 1
+            }
+        },
+        "image.py": {
+            "Levels": {
+                "A1": 22,
+                "A2": 22,
+                "C1": 1,
+                "B1": 1
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Tuple": 3,
+                "'range' call function": 1,
+                "Simple Atributte": 17,
+                "Simple List Comprehension": 1,
+                "Simple Assignment": 10,
+                "Assigment with sum (total = total +)": 1,
+                "Import with 'as' extension ": 1,
+                "Import": 1,
+                "From": 2,
+                "Simple If statements": 3,
+                "Simple For Loop": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 3
+            }
+        }
+    }
+}

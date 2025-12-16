@@ -1,0 +1,4 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+groups,base.py,'pass' statement,5,5,4,B1
+groups,base.py,From,1,1,0,A2
+groups,base.py,Inherited Class from Block,4,5,0,B1

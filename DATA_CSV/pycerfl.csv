@@ -1,0 +1,200 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+.,pycerfl.py,Simple List,15,15,11,A1
+.,pycerfl.py,Simple List,16,16,12,A1
+.,pycerfl.py,Simple List,17,17,14,A1
+.,pycerfl.py,Simple List,18,18,17,A1
+.,pycerfl.py,Simple List,19,19,13,A1
+.,pycerfl.py,Simple List,20,20,10,A1
+.,pycerfl.py,Simple List,21,22,14,A1
+.,pycerfl.py,Simple List,23,24,17,A1
+.,pycerfl.py,Simple List,27,28,11,A1
+.,pycerfl.py,Simple List,31,31,18,A1
+.,pycerfl.py,Simple List,233,233,24,A1
+.,pycerfl.py,Simple List,222,222,59,A1
+.,pycerfl.py,Simple Tuple,210,210,4,A1
+.,pycerfl.py,Simple Tuple,216,216,12,A1
+.,pycerfl.py,Simple Tuple,220,220,16,A1
+.,pycerfl.py,Simple Dictionary,32,32,19,A2
+.,pycerfl.py,Simple Dictionary,218,218,45,A2
+.,pycerfl.py,Print,79,79,4,A1
+.,pycerfl.py,Print,105,105,4,A1
+.,pycerfl.py,Print,118,118,4,A1
+.,pycerfl.py,Print,119,119,4,A1
+.,pycerfl.py,Print,129,129,4,A1
+.,pycerfl.py,Print,150,150,4,A1
+.,pycerfl.py,Print,161,161,4,A1
+.,pycerfl.py,'range' call function,198,198,13,A2
+.,pycerfl.py,Print,245,245,4,A1
+.,pycerfl.py,Print,86,86,8,A1
+.,pycerfl.py,Print,136,136,8,A1
+.,pycerfl.py,Print,169,169,8,A1
+.,pycerfl.py,Print,172,172,8,A1
+.,pycerfl.py,'range' call function,173,173,17,A2
+.,pycerfl.py,Files --> 'open' call function,189,189,9,A2
+.,pycerfl.py,Files --> 'read' call function,190,190,18,A2
+.,pycerfl.py,'range' call function,199,199,17,A2
+.,pycerfl.py,Files --> 'open' call function,230,230,9,A2
+.,pycerfl.py,Files --> 'open' call function,237,237,9,A2
+.,pycerfl.py,Print,95,95,12,A1
+.,pycerfl.py,Print,99,99,12,A1
+.,pycerfl.py,Print,184,184,8,A1
+.,pycerfl.py,Print,175,175,16,A1
+.,pycerfl.py,Print,181,181,20,A1
+.,pycerfl.py,Simple Atributte,49,49,13,A2
+.,pycerfl.py,Simple Atributte,81,81,8,A2
+.,pycerfl.py,Simple Atributte,83,83,14,A2
+.,pycerfl.py,Simple Atributte,85,85,15,A2
+.,pycerfl.py,Simple Atributte,108,108,11,A2
+.,pycerfl.py,Simple Atributte,110,110,4,A2
+.,pycerfl.py,Simple Atributte,131,131,12,A2
+.,pycerfl.py,Simple Atributte,133,133,14,A2
+.,pycerfl.py,Simple Atributte,144,144,13,A2
+.,pycerfl.py,Simple Atributte,156,156,18,A2
+.,pycerfl.py,Simple Atributte,159,159,7,A2
+.,pycerfl.py,Simple Atributte,210,210,26,A2
+.,pycerfl.py,Simple Atributte,66,66,8,A2
+.,pycerfl.py,Simple Atributte,122,122,18,A2
+.,pycerfl.py,Simple Atributte,124,124,18,A2
+.,pycerfl.py,Simple Atributte,156,156,18,A2
+.,pycerfl.py,Simple Atributte,158,158,14,A2
+.,pycerfl.py,Simple Atributte,160,160,22,A2
+.,pycerfl.py,Simple Atributte,171,171,20,A2
+.,pycerfl.py,Simple Atributte,190,190,18,A2
+.,pycerfl.py,Simple Atributte,191,191,15,A2
+.,pycerfl.py,Simple Atributte,206,206,11,A2
+.,pycerfl.py,Simple Atributte,213,213,8,A2
+.,pycerfl.py,Simple Atributte,216,216,31,A2
+.,pycerfl.py,Simple Atributte,231,231,17,A2
+.,pycerfl.py,Simple Atributte,233,233,8,A2
+.,pycerfl.py,Simple Atributte,234,234,8,A2
+.,pycerfl.py,Simple Atributte,238,238,8,A2
+.,pycerfl.py,Simple Atributte,250,250,22,A2
+.,pycerfl.py,Simple Atributte,251,251,17,A2
+.,pycerfl.py,Simple Atributte,37,37,15,A2
+.,pycerfl.py,Simple Atributte,51,51,19,A2
+.,pycerfl.py,Simple Atributte,56,56,8,A2
+.,pycerfl.py,Simple Atributte,68,68,8,A2
+.,pycerfl.py,Simple Atributte,128,128,8,A2
+.,pycerfl.py,Simple Atributte,174,174,15,A2
+.,pycerfl.py,Simple Atributte,220,220,39,A2
+.,pycerfl.py,Simple Atributte,253,253,8,A2
+.,pycerfl.py,Simple Atributte,44,44,8,A2
+.,pycerfl.py,Simple Atributte,224,224,16,A2
+.,pycerfl.py,Simple Atributte,251,251,17,A2
+.,pycerfl.py,Simple Atributte,180,180,19,A2
+.,pycerfl.py,Simple Atributte,180,180,19,A2
+.,pycerfl.py,Simple Assignment,15,15,0,A1
+.,pycerfl.py,Simple Assignment,16,16,0,A1
+.,pycerfl.py,Simple Assignment,17,17,0,A1
+.,pycerfl.py,Simple Assignment,18,18,0,A1
+.,pycerfl.py,Simple Assignment,19,19,0,A1
+.,pycerfl.py,Simple Assignment,20,20,0,A1
+.,pycerfl.py,Simple Assignment,21,22,0,A1
+.,pycerfl.py,Simple Assignment,23,24,0,A1
+.,pycerfl.py,Simple Assignment,27,28,0,A1
+.,pycerfl.py,Simple Assignment,31,31,0,A1
+.,pycerfl.py,Simple Assignment,32,32,0,A1
+.,pycerfl.py,Simple Assignment,49,49,4,A1
+.,pycerfl.py,Simple Assignment,73,73,4,A1
+.,pycerfl.py,Simple Assignment,74,74,4,A1
+.,pycerfl.py,Simple Assignment,75,75,4,A1
+.,pycerfl.py,Assigment with sum (total = total + 1),77,78,4,A1
+.,pycerfl.py,Simple Assignment,81,81,4,A1
+.,pycerfl.py,Simple Assignment,83,83,4,A1
+.,pycerfl.py,Assigment with sum (total = total + 1),104,104,4,A1
+.,pycerfl.py,Simple Assignment,108,108,4,A1
+.,pycerfl.py,Assigment with sum (total = total + 1),117,117,4,A1
+.,pycerfl.py,Simple Assignment,131,131,4,A1
+.,pycerfl.py,Simple Assignment,133,133,4,A1
+.,pycerfl.py,Simple Assignment,144,144,4,A1
+.,pycerfl.py,Simple Assignment,146,146,4,A1
+.,pycerfl.py,Simple Assignment,156,156,4,A1
+.,pycerfl.py,Simple Assignment,158,158,4,A1
+.,pycerfl.py,Simple Assignment,206,206,4,A1
+.,pycerfl.py,Simple Assignment,207,207,4,A1
+.,pycerfl.py,Simple Assignment,210,210,4,A1
+.,pycerfl.py,Simple Assignment,243,243,4,A1
+.,pycerfl.py,Simple Assignment,37,37,8,A1
+.,pycerfl.py,Simple Assignment,51,51,8,A1
+.,pycerfl.py,Simple Assignment,52,52,8,A1
+.,pycerfl.py,Simple Assignment,53,53,8,A1
+.,pycerfl.py,Simple Assignment,54,54,8,A1
+.,pycerfl.py,Assigment with sum (total = total + 1),93,93,8,A1
+.,pycerfl.py,Simple Assignment,122,122,8,A1
+.,pycerfl.py,Simple Assignment,124,124,8,A1
+.,pycerfl.py,Simple Assignment,126,126,8,A1
+.,pycerfl.py,Assigment with sum (total = total + 1),137,137,8,A1
+.,pycerfl.py,Simple Assignment,149,149,8,A1
+.,pycerfl.py,Simple Assignment,160,160,8,A1
+.,pycerfl.py,Simple Assignment,168,168,8,A1
+.,pycerfl.py,Simple Assignment,170,170,8,A1
+.,pycerfl.py,Simple Assignment,171,171,8,A1
+.,pycerfl.py,Simple Assignment,190,190,8,A1
+.,pycerfl.py,Simple Assignment,191,191,8,A1
+.,pycerfl.py,Simple Assignment,231,231,8,A1
+.,pycerfl.py,Simple Assignment,250,250,8,A1
+.,pycerfl.py,Simple Assignment,251,251,8,A1
+.,pycerfl.py,Simple Assignment,88,88,12,A1
+.,pycerfl.py,Simple Assignment,89,89,12,A1
+.,pycerfl.py,Simple Assignment,200,200,12,A1
+.,pycerfl.py,Assigment with sum (total = total + 1),176,176,16,A1
+.,pycerfl.py,Simple Assignment,218,218,16,A1
+.,pycerfl.py,Assigment with sum (total = total + 1),179,179,16,A1
+.,pycerfl.py,Simple Assignment,222,222,20,A1
+.,pycerfl.py,Simplified incremental Assignment with increase amount,90,90,8,A2
+.,pycerfl.py,Import,3,3,0,A2
+.,pycerfl.py,Import,4,4,0,A2
+.,pycerfl.py,Import,5,5,0,A2
+.,pycerfl.py,Import,9,9,0,A2
+.,pycerfl.py,Import,10,10,0,A2
+.,pycerfl.py,Import,11,11,0,A2
+.,pycerfl.py,Import,12,12,0,A2
+.,pycerfl.py,From,6,6,0,A2
+.,pycerfl.py,From,7,7,0,A2
+.,pycerfl.py,From,8,8,0,A2
+.,pycerfl.py,If statements using → __name__ == ‘__main__’,248,255,0,B2
+.,pycerfl.py,Simple If statements,36,44,4,A1
+.,pycerfl.py,Simple If statements,65,68,4,A1
+.,pycerfl.py,Simple If statements,92,99,4,A1
+.,pycerfl.py,Simple If statements,148,149,4,A1
+.,pycerfl.py,Simple If statements,159,160,4,A1
+.,pycerfl.py,Simple If statements,212,213,4,A1
+.,pycerfl.py,Simple If statements,215,224,4,A1
+.,pycerfl.py,Simple If statements,39,44,4,A1
+.,pycerfl.py,Simple If statements,67,68,4,A1
+.,pycerfl.py,Simple If statements,87,89,8,A1
+.,pycerfl.py,Simple If statements,94,99,8,A1
+.,pycerfl.py,Simple If statements,41,44,4,A1
+.,pycerfl.py,Simple If statements,174,182,12,A1
+.,pycerfl.py,Simple If statements,217,218,12,A1
+.,pycerfl.py,Simple If statements,178,182,12,A1
+.,pycerfl.py,Simple If statements,221,222,16,A1
+.,pycerfl.py,Simple If statements,180,182,16,A1
+.,pycerfl.py,Simple For Loop,85,90,4,A1
+.,pycerfl.py,Simple For Loop,135,138,4,A1
+.,pycerfl.py,1 Nested For Loop,198,201,4,A2
+.,pycerfl.py,Simple For Loop,173,182,8,A1
+.,pycerfl.py,Simple For Loop,199,201,8,A1
+.,pycerfl.py,For Loop with Tuple as name,216,224,8,A2
+.,pycerfl.py,For Loop with Tuple as name,220,224,12,A2
+.,pycerfl.py,Exception --> try/except,50,56,4,B1
+.,pycerfl.py,Exception --> try/except,120,128,4,B1
+.,pycerfl.py,Exception --> try/except,167,184,4,B1
+.,pycerfl.py,Exception --> try/except,249,253,4,B1
+.,pycerfl.py,With,189,193,4,B1
+.,pycerfl.py,With,230,234,4,B1
+.,pycerfl.py,With,237,238,4,B1
+.,pycerfl.py,Function,34,44,0,A1
+.,pycerfl.py,Function,47,60,0,A1
+.,pycerfl.py,Function with Simple argument,63,68,0,A1
+.,pycerfl.py,Function with Simple argument,71,99,0,A1
+.,pycerfl.py,Function with Simple argument,102,111,0,A1
+.,pycerfl.py,Function,114,138,0,A1
+.,pycerfl.py,Function with Simple argument,141,151,0,A1
+.,pycerfl.py,Function with Simple argument,154,162,0,A1
+.,pycerfl.py,Recursive Functions,165,184,0,B2
+.,pycerfl.py,Function with Simple argument,187,193,0,A1
+.,pycerfl.py,Function with Simple argument,196,201,0,A1
+.,pycerfl.py,Function with Simple argument,204,224,0,A1
+.,pycerfl.py,Function,227,238,0,A1
+.,pycerfl.py,Function,240,245,0,A1

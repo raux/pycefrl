@@ -1,0 +1,135 @@
+{
+    "converters": {
+        "__init__.py": {
+            "Levels": {
+                "A1": 28,
+                "A2": 29,
+                "C2": 1,
+                "C1": 3,
+                "B1": 5
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Tuple": 2,
+                "Simple Dictionary": 1,
+                "'enumerate' call function": 1,
+                "Simple Atributte": 19,
+                "List Comprehension withIf statements": 3,
+                "Simple Assignment": 14,
+                "'raise' exception": 2,
+                "Import": 1,
+                "From": 6,
+                "Simple If statements": 5,
+                "For Loop with Tuple as name": 1,
+                "Simple For Loop": 1,
+                "'continue' statement": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument with * argument  with ** argument": 1,
+                "Function with Simple argument": 2,
+                "Return": 3,
+                "Simple Class  Using the constructor method --> __init__": 1
+            }
+        },
+        "extraction.py": {
+            "Levels": {
+                "A1": 34,
+                "A2": 38,
+                "C1": 1,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Tuple": 3,
+                "Simple Atributte": 26,
+                "Simple Assignment": 24,
+                "Import're' module": 1,
+                "From": 12,
+                "Simple If statements": 2,
+                "Simple For Loop": 1,
+                "Function with Simple argument": 2,
+                "Return": 2,
+                "Inherited Class from PdfConverter": 1
+            }
+        },
+        "ocr.py": {
+            "Levels": {
+                "A1": 21,
+                "A2": 27,
+                "C2": 1,
+                "B1": 2
+            },
+            "Class": {
+                "Simple Tuple": 2,
+                "Simple Dictionary": 1,
+                "Super Function": 1,
+                "Simple Atributte": 17,
+                "Simple Assignment": 13,
+                "From": 9,
+                "Simple If statements": 1,
+                "Simple For Loop": 1,
+                "Function with Simple argument with * argument  with ** argument": 1,
+                "Function with Simple argument": 2,
+                "Return": 2,
+                "Inherited Class from PdfConverter": 1
+            }
+        },
+        "pdf.py": {
+            "Levels": {
+                "A1": 53,
+                "A2": 98,
+                "C2": 1,
+                "B1": 4,
+                "B2": 1,
+                "C1": 2
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 8,
+                "Simple Dictionary": 1,
+                "Super Function": 1,
+                "Files --> 'write' call function": 1,
+                "Simple Atributte": 44,
+                "Simple Assignment": 29,
+                "'raise' exception": 1,
+                "Import": 3,
+                "From": 47,
+                "Simple If statements": 8,
+                "For Loop with Tuple as name": 1,
+                "Simple For Loop": 1,
+                "Exception --> try/finally": 1,
+                "With": 2,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument": 3,
+                "Return": 2,
+                "Generator Function (yield)": 2,
+                "Inherited Class from BaseConverter": 1
+            }
+        },
+        "table.py": {
+            "Levels": {
+                "A1": 21,
+                "A2": 34,
+                "C1": 1,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Tuple": 3,
+                "Simple Atributte": 21,
+                "List Comprehension withIf statements": 1,
+                "Simple Assignment": 12,
+                "From": 13,
+                "Simple For Loop": 2,
+                "Function with Simple argument": 2,
+                "Return": 2,
+                "Inherited Class from PdfConverter": 1
+            }
+        },
+        "test_extraction_converter.py": {
+            "Levels": {
+                "A1": 3
+            },
+            "Class": {
+                "Simple List": 3
+            }
+        }
+    }
+}

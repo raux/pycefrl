@@ -1,0 +1,133 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+table,scoring.py,Simple List,73,73,25,A1
+table,scoring.py,Simple List,77,77,19,A1
+table,scoring.py,Simple Tuple,96,96,4,A1
+table,scoring.py,Simple Tuple,96,96,17,A1
+table,scoring.py,Simple Tuple,28,28,21,A1
+table,scoring.py,'map' call function,38,38,19,C2
+table,scoring.py,Super Function,22,22,8,C2
+table,scoring.py,Simple Atributte,16,16,8,A2
+table,scoring.py,Simple Atributte,17,17,8,A2
+table,scoring.py,Simple Atributte,18,18,8,A2
+table,scoring.py,Simple Atributte,19,19,8,A2
+table,scoring.py,Simple Atributte,31,31,21,A2
+table,scoring.py,Simple Atributte,56,56,4,A2
+table,scoring.py,Simple Atributte,57,57,7,A2
+table,scoring.py,Simple Atributte,59,59,13,A2
+table,scoring.py,Simple Atributte,61,61,7,A2
+table,scoring.py,Simple Atributte,71,71,7,A2
+table,scoring.py,Simple Atributte,86,86,7,A2
+table,scoring.py,Simple Atributte,22,22,8,A2
+table,scoring.py,Simple Atributte,26,26,11,A2
+table,scoring.py,Simple Atributte,33,33,15,A2
+table,scoring.py,Simple Atributte,46,46,11,A2
+table,scoring.py,Simple Atributte,56,56,31,A2
+table,scoring.py,Simple Atributte,58,58,27,A2
+table,scoring.py,Simple Atributte,62,62,8,A2
+table,scoring.py,Simple Atributte,63,63,7,A2
+table,scoring.py,Simple Atributte,63,63,28,A2
+table,scoring.py,Simple Atributte,64,64,31,A2
+table,scoring.py,Simple Atributte,78,78,29,A2
+table,scoring.py,Simple Atributte,83,83,29,A2
+table,scoring.py,Simple Atributte,85,85,8,A2
+table,scoring.py,Simple Atributte,87,87,17,A2
+table,scoring.py,Simple Atributte,96,96,17,A2
+table,scoring.py,Simple Atributte,96,96,40,A2
+table,scoring.py,Simple Atributte,97,97,7,A2
+table,scoring.py,Simple Atributte,97,97,36,A2
+table,scoring.py,Simple Atributte,105,105,19,A2
+table,scoring.py,Simple Atributte,30,30,35,A2
+table,scoring.py,Simple Atributte,32,32,22,A2
+table,scoring.py,Simple Atributte,41,41,57,A2
+table,scoring.py,Simple Atributte,44,44,12,A2
+table,scoring.py,Simple Atributte,44,44,25,A2
+table,scoring.py,Simple Atributte,44,44,40,A2
+table,scoring.py,Simple Atributte,44,44,57,A2
+table,scoring.py,Simple Atributte,44,44,76,A2
+table,scoring.py,Simple Atributte,44,44,93,A2
+table,scoring.py,Simple Atributte,47,47,15,A2
+table,scoring.py,Simple Atributte,47,47,32,A2
+table,scoring.py,Simple Atributte,62,62,36,A2
+table,scoring.py,Simple Atributte,75,75,19,A2
+table,scoring.py,Simple Atributte,85,85,8,A2
+table,scoring.py,Simple Atributte,98,98,15,A2
+table,scoring.py,Simple Atributte,99,99,15,A2
+table,scoring.py,Simple Atributte,100,100,27,A2
+table,scoring.py,Simple Atributte,101,101,27,A2
+table,scoring.py,Simple Atributte,28,28,22,A2
+table,scoring.py,Simple Atributte,28,28,32,A2
+table,scoring.py,Simple Atributte,28,28,46,A2
+table,scoring.py,Simple Atributte,28,28,60,A2
+table,scoring.py,Simple Atributte,41,41,21,A2
+table,scoring.py,Simple Atributte,48,48,23,A2
+table,scoring.py,Simple Atributte,48,48,48,A2
+table,scoring.py,Simple Atributte,48,48,63,A2
+table,scoring.py,Simple Atributte,79,79,33,A2
+table,scoring.py,Simple Atributte,80,80,33,A2
+table,scoring.py,Simple Atributte,79,79,33,A2
+table,scoring.py,Simple Atributte,80,80,33,A2
+table,scoring.py,Simple Assignment,96,96,4,A1
+table,scoring.py,Simple Assignment,16,16,8,A1
+table,scoring.py,Simple Assignment,17,17,8,A1
+table,scoring.py,Simple Assignment,18,18,8,A1
+table,scoring.py,Simple Assignment,19,19,8,A1
+table,scoring.py,Simple Assignment,78,81,8,A1
+table,scoring.py,Simple Assignment,83,83,8,A1
+table,scoring.py,Simple Assignment,98,98,8,A1
+table,scoring.py,Simple Assignment,99,99,8,A1
+table,scoring.py,Simple Assignment,100,100,8,A1
+table,scoring.py,Simple Assignment,101,101,8,A1
+table,scoring.py,Simple Assignment,102,102,8,A1
+table,scoring.py,Simple Assignment,103,103,8,A1
+table,scoring.py,Simple Assignment,104,104,8,A1
+table,scoring.py,Simple Assignment,105,105,8,A1
+table,scoring.py,Assigment with sum (total = total + 1),27,28,12,A1
+table,scoring.py,Assigment with sum (total = total + 1),30,30,12,A1
+table,scoring.py,Simple Assignment,73,73,12,A1
+table,scoring.py,Simple Assignment,75,75,12,A1
+table,scoring.py,Simple Assignment,77,77,12,A1
+table,scoring.py,Simplified incremental Assignment with increase amount,58,58,8,A2
+table,scoring.py,Simplified incremental Assignment with increase amount,64,64,12,A2
+table,scoring.py,Simplified incremental Assignment with increase amount,32,32,12,A2
+table,scoring.py,Import,5,5,0,A2
+table,scoring.py,From,6,6,0,A2
+table,scoring.py,From,7,7,0,A2
+table,scoring.py,From,8,8,0,A2
+table,scoring.py,From,9,9,0,A2
+table,scoring.py,Simple If statements,57,58,4,A1
+table,scoring.py,Simple If statements,61,62,4,A1
+table,scoring.py,Simple If statements,63,64,4,A1
+table,scoring.py,Simple If statements,71,83,4,A1
+table,scoring.py,Simple If statements,84,85,4,A1
+table,scoring.py,Simple If statements,86,88,4,A1
+table,scoring.py,Simple If statements,89,90,4,A1
+table,scoring.py,Simple If statements,97,108,4,A1
+table,scoring.py,Simple If statements,26,30,8,A1
+table,scoring.py,Simple If statements,44,45,8,A1
+table,scoring.py,Simple If statements,46,48,8,A1
+table,scoring.py,Simple If statements,72,77,8,A1
+table,scoring.py,Simple If statements,47,48,12,A1
+table,scoring.py,Simple For Loop,59,60,4,A1
+table,scoring.py,Simple For Loop,31,32,8,A1
+table,scoring.py,Simple For Loop,87,88,8,A1
+table,scoring.py,Function with Simple argument,11,12,0,A1
+table,scoring.py,Recursive Functions,51,64,0,B2
+table,scoring.py,Recursive Functions,66,90,0,B2
+table,scoring.py,Function with Simple argument with Default argument,92,108,0,A2
+table,scoring.py,Function with Simple argument with Default argument with * argument ,15,22,4,B1
+table,scoring.py,Function with Simple argument,24,33,4,A1
+table,scoring.py,Function with * argument ,37,38,4,B1
+table,scoring.py,Function with Simple argument with * argument ,40,41,4,B1
+table,scoring.py,Function with Simple argument,43,49,4,A1
+table,scoring.py,Return,12,12,4,A1
+table,scoring.py,Return,33,33,8,A1
+table,scoring.py,Return,38,38,8,A1
+table,scoring.py,Return,41,41,8,A1
+table,scoring.py,Return,49,49,8,A1
+table,scoring.py,Return,90,90,8,A1
+table,scoring.py,Return,106,106,8,A1
+table,scoring.py,Return,108,108,8,A1
+table,scoring.py,Return,45,45,12,A1
+table,scoring.py,Return,48,48,16,A1
+table,scoring.py,Inherited Class from Tree Using the constructor method --> __init__,14,33,0,B1
+table,scoring.py,Inherited Class from Config,35,49,0,B1

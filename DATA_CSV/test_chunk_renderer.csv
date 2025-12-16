@@ -1,0 +1,38 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+renderers,test_chunk_renderer.py,Simple List,6,6,35,A1
+renderers,test_chunk_renderer.py,1 List Dictionary,6,6,20,B1
+renderers,test_chunk_renderer.py,Simple Atributte,10,10,13,A2
+renderers,test_chunk_renderer.py,Simple Atributte,11,11,16,A2
+renderers,test_chunk_renderer.py,Simple Atributte,6,6,1,A2
+renderers,test_chunk_renderer.py,Simple Atributte,14,14,11,A2
+renderers,test_chunk_renderer.py,Simple Atributte,27,27,11,A2
+renderers,test_chunk_renderer.py,Simple Atributte,29,29,45,A2
+renderers,test_chunk_renderer.py,Simple Atributte,6,6,1,A2
+renderers,test_chunk_renderer.py,Simple Atributte,28,28,15,A2
+renderers,test_chunk_renderer.py,Simple Atributte,18,18,50,A2
+renderers,test_chunk_renderer.py,Simple Atributte,19,19,44,A2
+renderers,test_chunk_renderer.py,Simple Atributte,20,20,45,A2
+renderers,test_chunk_renderer.py,List Comprehension with 1If statements,18,18,20,C1
+renderers,test_chunk_renderer.py,List Comprehension with 1If statements,19,19,14,C1
+renderers,test_chunk_renderer.py,List Comprehension with 1If statements,20,20,15,C1
+renderers,test_chunk_renderer.py,Simple Assignment,8,8,4,A1
+renderers,test_chunk_renderer.py,Simple Assignment,9,9,4,A1
+renderers,test_chunk_renderer.py,Simple Assignment,10,10,4,A1
+renderers,test_chunk_renderer.py,Simple Assignment,11,11,4,A1
+renderers,test_chunk_renderer.py,Simple Assignment,18,18,4,A1
+renderers,test_chunk_renderer.py,Simple Assignment,19,19,4,A1
+renderers,test_chunk_renderer.py,Simple Assignment,20,20,4,A1
+renderers,test_chunk_renderer.py,Simple Assignment,26,26,4,A1
+renderers,test_chunk_renderer.py,'assert' exception,13,13,4,B2
+renderers,test_chunk_renderer.py,'assert' exception,14,14,4,B2
+renderers,test_chunk_renderer.py,'assert' exception,15,15,4,B2
+renderers,test_chunk_renderer.py,'assert' exception,16,16,4,B2
+renderers,test_chunk_renderer.py,'assert' exception,22,22,4,B2
+renderers,test_chunk_renderer.py,'assert' exception,23,23,4,B2
+renderers,test_chunk_renderer.py,'assert' exception,24,24,4,B2
+renderers,test_chunk_renderer.py,'assert' exception,27,27,4,B2
+renderers,test_chunk_renderer.py,'assert' exception,28,28,4,B2
+renderers,test_chunk_renderer.py,'assert' exception,29,29,4,B2
+renderers,test_chunk_renderer.py,Import,1,1,0,A2
+renderers,test_chunk_renderer.py,From,3,3,0,A2
+renderers,test_chunk_renderer.py,Function with Simple argument,7,29,0,A1

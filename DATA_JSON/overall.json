@@ -1,0 +1,105 @@
+{
+    "overall": {
+        "elo.py": {
+            "Levels": {
+                "A1": 54,
+                "A2": 56,
+                "C2": 2,
+                "C1": 1,
+                "B2": 2,
+                "B1": 8
+            },
+            "Class": {
+                "Simple List": 5,
+                "Simple Tuple": 5,
+                "Simple Dictionary": 2,
+                "Print": 4,
+                "'range' call function": 1,
+                "'enumerate' call function": 2,
+                "Simple Atributte": 28,
+                "Simple Dictionary Comprehension": 1,
+                "Simple Assignment": 20,
+                "Simplified incremental Assignment with increase amount": 4,
+                "'assert' exception": 1,
+                "'pass' statement": 1,
+                "Import": 7,
+                "From": 9,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1,
+                "Simple If statements": 6,
+                "For Loop with Tuple as name": 4,
+                " Nested For Loop": 1,
+                "'continue' statement": 2,
+                "Exception --> try/except": 2,
+                "Function with Simple argument": 6,
+                "Lambda": 1,
+                "Return": 8,
+                "Inherited Class from BaseModel": 1,
+                "Simple Class  Using the constructor method --> __init__": 1
+            }
+        },
+        "overall.py": {
+            "Levels": {
+                "A1": 67,
+                "A2": 68,
+                "C2": 2,
+                "B1": 15,
+                "C1": 1,
+                "B2": 1
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 2,
+                "Simple Dictionary": 4,
+                "Print": 3,
+                "'enumerate' call function": 1,
+                "Files --> 'open' call function": 1,
+                "'zip' call function": 1,
+                "If statements expression (else)": 2,
+                "Simple Atributte": 39,
+                "List Comprehension withIf statements": 1,
+                "Simple Assignment": 40,
+                "Simplified incremental Assignment with increase amount": 2,
+                "'raise' exception": 2,
+                "Import": 6,
+                "From": 12,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1,
+                "Simple If statements": 15,
+                "For Loop with Tuple as name": 2,
+                "Simple For Loop": 3,
+                " Nested For Loop": 1,
+                "'break' statement": 1,
+                "'continue' statement": 2,
+                "Exception --> try/except": 2,
+                "With": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument": 1,
+                "Lambda": 5,
+                "Return": 1
+            }
+        },
+        "registry.py": {
+            "Levels": {
+                "A2": 11,
+                "A1": 2
+            },
+            "Class": {
+                "Simple Dictionary": 2,
+                "Simple Assignment": 2,
+                "From": 9
+            }
+        },
+        "schema.py": {
+            "Levels": {
+                "A1": 10,
+                "A2": 2,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Tuple": 9,
+                "Simple Assignment": 1,
+                "From": 2,
+                "Inherited Class from TypedDict": 1
+            }
+        }
+    }
+}

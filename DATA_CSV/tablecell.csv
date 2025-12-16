@@ -1,0 +1,37 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+blocks,tablecell.py,Simple List,35,35,30,A1
+blocks,tablecell.py,If statements expression (else),26,26,18,B1
+blocks,tablecell.py,Simple Atributte,8,8,29,A2
+blocks,tablecell.py,Simple Atributte,19,19,15,A2
+blocks,tablecell.py,Simple Atributte,19,19,25,A2
+blocks,tablecell.py,Simple Atributte,26,26,26,A2
+blocks,tablecell.py,Simple Atributte,28,28,11,A2
+blocks,tablecell.py,Simple Atributte,30,30,11,A2
+blocks,tablecell.py,Simple Atributte,34,34,11,A2
+blocks,tablecell.py,Simple Atributte,35,35,12,A2
+blocks,tablecell.py,Simple Atributte,36,36,15,A2
+blocks,tablecell.py,Simple Atributte,36,36,27,A2
+blocks,tablecell.py,Simple Atributte,24,24,39,A2
+blocks,tablecell.py,Simple Atributte,29,29,31,A2
+blocks,tablecell.py,Simple Atributte,31,31,31,A2
+blocks,tablecell.py,Simple Atributte,33,33,38,A2
+blocks,tablecell.py,Simple Assignment,24,24,8,A1
+blocks,tablecell.py,Simple Assignment,26,26,8,A1
+blocks,tablecell.py,Simple Assignment,27,27,8,A1
+blocks,tablecell.py,Simple Assignment,36,36,8,A1
+blocks,tablecell.py,Simple Assignment,35,35,12,A1
+blocks,tablecell.py,Simplified incremental Assignment with increase amount,29,29,12,A2
+blocks,tablecell.py,Simplified incremental Assignment with increase amount,31,31,12,A2
+blocks,tablecell.py,Simplified incremental Assignment with increase amount,33,33,12,A2
+blocks,tablecell.py,From,1,1,0,A2
+blocks,tablecell.py,From,3,3,0,A2
+blocks,tablecell.py,From,4,4,0,A2
+blocks,tablecell.py,Simple If statements,28,29,8,A1
+blocks,tablecell.py,Simple If statements,30,31,8,A1
+blocks,tablecell.py,Simple If statements,32,33,8,A1
+blocks,tablecell.py,Simple If statements,34,35,8,A1
+blocks,tablecell.py,Function with Simple argument,18,19,4,A1
+blocks,tablecell.py,Function with Simple argument with Default argument,21,37,4,A2
+blocks,tablecell.py,Return,19,19,8,A1
+blocks,tablecell.py,Return,37,37,8,A1
+blocks,tablecell.py,Inherited Class from Block,7,37,0,B1

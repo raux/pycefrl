@@ -1,0 +1,32 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+methods,marker.py,Simple Dictionary,37,40,15,A2
+methods,marker.py,Simple Dictionary,16,23,30,A2
+methods,marker.py,Files --> 'write' call function,32,32,12,A2
+methods,marker.py,Simple Atributte,38,38,24,A2
+methods,marker.py,Simple Atributte,19,19,27,A2
+methods,marker.py,Simple Atributte,20,20,36,A2
+methods,marker.py,Simple Atributte,26,26,26,A2
+methods,marker.py,Simple Atributte,31,31,13,A2
+methods,marker.py,Simple Atributte,32,32,12,A2
+methods,marker.py,Simple Atributte,33,33,20,A2
+methods,marker.py,Simple Atributte,34,34,39,A2
+methods,marker.py,Simple Atributte,22,22,37,A2
+methods,marker.py,Simple Atributte,27,27,19,A2
+methods,marker.py,Simple Atributte,28,28,24,A2
+methods,marker.py,Simple Atributte,35,35,20,A2
+methods,marker.py,Simple Assignment,15,15,8,A1
+methods,marker.py,Simple Assignment,16,23,8,A1
+methods,marker.py,Simple Assignment,25,29,8,A1
+methods,marker.py,Simple Assignment,33,33,12,A1
+methods,marker.py,Simple Assignment,34,34,12,A1
+methods,marker.py,Assigment with sum (total = total + 1),35,35,12,A1
+methods,marker.py,Import,1,1,0,A2
+methods,marker.py,Import,2,2,0,A2
+methods,marker.py,Import,3,3,0,A2
+methods,marker.py,From,5,5,0,A2
+methods,marker.py,From,6,6,0,A2
+methods,marker.py,From,7,7,0,A2
+methods,marker.py,With,31,35,8,B1
+methods,marker.py,Function with Simple argument,14,40,4,A1
+methods,marker.py,Return,37,40,8,A1
+methods,marker.py,Inherited Class from BaseMethod,10,40,0,B1

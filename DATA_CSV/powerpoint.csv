@@ -1,0 +1,224 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+providers,powerpoint.py,Simple List,71,71,21,A1
+providers,powerpoint.py,Simple List,118,118,22,A1
+providers,powerpoint.py,Simple List,157,157,21,A1
+providers,powerpoint.py,Simple List,231,231,21,A1
+providers,powerpoint.py,Simple List,235,235,23,A1
+providers,powerpoint.py,Simple List,109,109,44,A1
+providers,powerpoint.py,Simple List,151,151,35,A1
+providers,powerpoint.py,Simple Tuple,73,73,12,A1
+providers,powerpoint.py,'enumerate' call function,73,73,34,C2
+providers,powerpoint.py,Print,54,54,12,A1
+providers,powerpoint.py,Super Function,58,58,8,C2
+providers,powerpoint.py,If statements expression (else),173,173,36,B1
+providers,powerpoint.py,Simple Atributte,47,47,8,A2
+providers,powerpoint.py,Simple Atributte,47,47,29,A2
+providers,powerpoint.py,Simple Atributte,119,119,21,A2
+providers,powerpoint.py,Simple Atributte,149,149,11,A2
+providers,powerpoint.py,Simple Atributte,161,161,25,A2
+providers,powerpoint.py,Simple Atributte,217,217,16,A2
+providers,powerpoint.py,Simple Atributte,218,218,22,A2
+providers,powerpoint.py,Simple Atributte,234,234,19,A2
+providers,powerpoint.py,Simple Atributte,46,46,19,A2
+providers,powerpoint.py,Simple Atributte,48,48,8,A2
+providers,powerpoint.py,Simple Atributte,58,58,8,A2
+providers,powerpoint.py,Simple Atributte,58,58,25,A2
+providers,powerpoint.py,Simple Atributte,61,61,11,A2
+providers,powerpoint.py,Simple Atributte,61,61,26,A2
+providers,powerpoint.py,Simple Atributte,73,73,44,A2
+providers,powerpoint.py,Simple Atributte,75,75,15,A2
+providers,powerpoint.py,Simple Atributte,79,79,25,A2
+providers,powerpoint.py,Simple Atributte,105,105,15,A2
+providers,powerpoint.py,Simple Atributte,108,108,8,A2
+providers,powerpoint.py,Simple Atributte,109,109,12,A2
+providers,powerpoint.py,Simple Atributte,124,124,15,A2
+providers,powerpoint.py,Simple Atributte,138,138,15,A2
+providers,powerpoint.py,Simple Atributte,150,150,31,A2
+providers,powerpoint.py,Simple Atributte,161,161,25,A2
+providers,powerpoint.py,Simple Atributte,162,162,19,A2
+providers,powerpoint.py,Simple Atributte,211,211,15,A2
+providers,powerpoint.py,Simple Atributte,232,232,8,A2
+providers,powerpoint.py,Simple Atributte,234,234,19,A2
+providers,powerpoint.py,Simple Atributte,236,236,24,A2
+providers,powerpoint.py,Simple Atributte,241,241,8,A2
+providers,powerpoint.py,Simple Atributte,242,242,15,A2
+providers,powerpoint.py,Simple Atributte,249,253,12,A2
+providers,powerpoint.py,Simple Atributte,52,52,12,A2
+providers,powerpoint.py,Simple Atributte,61,61,11,A2
+providers,powerpoint.py,Simple Atributte,62,62,12,A2
+providers,powerpoint.py,Simple Atributte,62,62,22,A2
+providers,powerpoint.py,Simple Atributte,74,74,12,A2
+providers,powerpoint.py,Simple Atributte,86,86,19,A2
+providers,powerpoint.py,Simple Atributte,103,103,12,A2
+providers,powerpoint.py,Simple Atributte,120,120,15,A2
+providers,powerpoint.py,Simple Atributte,120,120,35,A2
+providers,powerpoint.py,Simple Atributte,128,128,15,A2
+providers,powerpoint.py,Simple Atributte,128,128,35,A2
+providers,powerpoint.py,Simple Atributte,133,133,19,A2
+providers,powerpoint.py,Simple Atributte,150,150,31,A2
+providers,powerpoint.py,Simple Atributte,164,164,26,A2
+providers,powerpoint.py,Simple Atributte,165,165,25,A2
+providers,powerpoint.py,Simple Atributte,209,209,12,A2
+providers,powerpoint.py,Simple Atributte,221,221,22,A2
+providers,powerpoint.py,Simple Atributte,238,238,12,A2
+providers,powerpoint.py,Simple Atributte,239,239,12,A2
+providers,powerpoint.py,Simple Atributte,76,76,16,A2
+providers,powerpoint.py,Simple Atributte,81,81,19,A2
+providers,powerpoint.py,Simple Atributte,81,81,39,A2
+providers,powerpoint.py,Simple Atributte,91,91,19,A2
+providers,powerpoint.py,Simple Atributte,91,91,39,A2
+providers,powerpoint.py,Simple Atributte,97,97,23,A2
+providers,powerpoint.py,Simple Atributte,121,121,16,A2
+providers,powerpoint.py,Simple Atributte,125,125,16,A2
+providers,powerpoint.py,Simple Atributte,129,129,16,A2
+providers,powerpoint.py,Simple Atributte,151,151,36,A2
+providers,powerpoint.py,Simple Atributte,151,151,58,A2
+providers,powerpoint.py,Simple Atributte,153,153,37,A2
+providers,powerpoint.py,Simple Atributte,164,164,62,A2
+providers,powerpoint.py,Simple Atributte,165,165,64,A2
+providers,powerpoint.py,Simple Atributte,167,167,54,A2
+providers,powerpoint.py,Simple Atributte,187,187,25,A2
+providers,powerpoint.py,Simple Atributte,200,200,25,A2
+providers,powerpoint.py,Simple Atributte,222,222,37,A2
+providers,powerpoint.py,Simple Atributte,224,224,12,A2
+providers,powerpoint.py,Simple Atributte,237,237,16,A2
+providers,powerpoint.py,Simple Atributte,239,239,30,A2
+providers,powerpoint.py,Simple Atributte,249,252,12,A2
+providers,powerpoint.py,Simple Atributte,54,54,18,A2
+providers,powerpoint.py,Simple Atributte,82,82,20,A2
+providers,powerpoint.py,Simple Atributte,87,87,20,A2
+providers,powerpoint.py,Simple Atributte,92,92,20,A2
+providers,powerpoint.py,Simple Atributte,96,96,46,A2
+providers,powerpoint.py,Simple Atributte,109,109,62,A2
+providers,powerpoint.py,Simple Atributte,121,121,35,A2
+providers,powerpoint.py,Simple Atributte,125,125,35,A2
+providers,powerpoint.py,Simple Atributte,129,129,35,A2
+providers,powerpoint.py,Simple Atributte,134,134,20,A2
+providers,powerpoint.py,Simple Atributte,136,136,20,A2
+providers,powerpoint.py,Simple Atributte,178,178,20,A2
+providers,powerpoint.py,Simple Atributte,187,187,33,A2
+providers,powerpoint.py,Simple Atributte,189,189,20,A2
+providers,powerpoint.py,Simple Atributte,194,194,20,A2
+providers,powerpoint.py,Simple Atributte,200,200,33,A2
+providers,powerpoint.py,Simple Atributte,203,203,20,A2
+providers,powerpoint.py,Simple Atributte,221,221,22,A2
+providers,powerpoint.py,Simple Atributte,82,82,38,A2
+providers,powerpoint.py,Simple Atributte,87,87,38,A2
+providers,powerpoint.py,Simple Atributte,92,92,38,A2
+providers,powerpoint.py,Simple Atributte,99,99,24,A2
+providers,powerpoint.py,Simple Atributte,101,101,24,A2
+providers,powerpoint.py,Simple Atributte,134,134,39,A2
+providers,powerpoint.py,Simple Atributte,182,182,20,A2
+providers,powerpoint.py,Simple Atributte,184,184,20,A2
+providers,powerpoint.py,Simple Atributte,187,187,53,A2
+providers,powerpoint.py,Simple Atributte,200,200,53,A2
+providers,powerpoint.py,Simple Atributte,249,251,12,A2
+providers,powerpoint.py,Simple Atributte,99,99,42,A2
+providers,powerpoint.py,Simple Atributte,237,237,39,A2
+providers,powerpoint.py,Simple Atributte,237,237,57,A2
+providers,powerpoint.py,Simple Atributte,136,136,45,A2
+providers,powerpoint.py,Simple Atributte,136,136,63,A2
+providers,powerpoint.py,Simple Atributte,189,189,45,A2
+providers,powerpoint.py,Simple Atributte,204,204,45,A2
+providers,powerpoint.py,Simple Atributte,249,250,12,A2
+providers,powerpoint.py,Simple Atributte,101,101,48,A2
+providers,powerpoint.py,Simple Atributte,101,101,66,A2
+providers,powerpoint.py,Simple Atributte,249,249,12,A2
+providers,powerpoint.py,Generator Expression,187,187,32,C1
+providers,powerpoint.py,Generator Expression,200,200,32,C1
+providers,powerpoint.py,Simple Assignment,9,9,0,A1
+providers,powerpoint.py,Simple Assignment,11,39,0,A1
+providers,powerpoint.py,Simple Assignment,46,46,8,A1
+providers,powerpoint.py,Simple Assignment,47,47,8,A1
+providers,powerpoint.py,Simple Assignment,69,69,8,A1
+providers,powerpoint.py,Simple Assignment,71,71,8,A1
+providers,powerpoint.py,Simple Assignment,105,105,8,A1
+providers,powerpoint.py,Simple Assignment,118,118,8,A1
+providers,powerpoint.py,Simple Assignment,148,148,8,A1
+providers,powerpoint.py,Simple Assignment,157,157,8,A1
+providers,powerpoint.py,Simple Assignment,158,158,8,A1
+providers,powerpoint.py,Simple Assignment,159,159,8,A1
+providers,powerpoint.py,Simple Assignment,217,217,8,A1
+providers,powerpoint.py,Simple Assignment,218,218,8,A1
+providers,powerpoint.py,Simple Assignment,231,231,8,A1
+providers,powerpoint.py,Simple Assignment,150,150,12,A1
+providers,powerpoint.py,Simple Assignment,162,162,12,A1
+providers,powerpoint.py,Simple Assignment,164,164,12,A1
+providers,powerpoint.py,Simple Assignment,165,165,12,A1
+providers,powerpoint.py,Simple Assignment,167,167,12,A1
+providers,powerpoint.py,Simple Assignment,168,168,12,A1
+providers,powerpoint.py,Simple Assignment,221,221,12,A1
+providers,powerpoint.py,Simple Assignment,235,235,12,A1
+providers,powerpoint.py,Simple Assignment,152,152,16,A1
+providers,powerpoint.py,Simple Assignment,173,173,16,A1
+providers,powerpoint.py,Simple Assignment,187,187,16,A1
+providers,powerpoint.py,Simple Assignment,200,200,16,A1
+providers,powerpoint.py,Simple Assignment,154,154,16,A1
+providers,powerpoint.py,Simple Assignment,176,176,20,A1
+providers,powerpoint.py,Simple Assignment,177,177,20,A1
+providers,powerpoint.py,Simple Assignment,195,195,20,A1
+providers,powerpoint.py,Simple Assignment,196,196,20,A1
+providers,powerpoint.py,Simple Assignment,183,183,20,A1
+providers,powerpoint.py,'raise' exception,55,55,12,B1
+providers,powerpoint.py,Import,1,1,0,A2
+providers,powerpoint.py,Import,2,2,0,A2
+providers,powerpoint.py,Import,3,3,0,A2
+providers,powerpoint.py,Import,4,4,0,A2
+providers,powerpoint.py,From,6,6,0,A2
+providers,powerpoint.py,From,7,7,0,A2
+providers,powerpoint.py,From,65,65,8,A2
+providers,powerpoint.py,From,66,66,8,A2
+providers,powerpoint.py,From,67,67,8,A2
+providers,powerpoint.py,From,116,116,8,A2
+providers,powerpoint.py,From,145,145,8,A2
+providers,powerpoint.py,Simple If statements,61,62,8,A1
+providers,powerpoint.py,Simple If statements,149,154,8,A1
+providers,powerpoint.py,Simple If statements,208,209,8,A1
+providers,powerpoint.py,Simple If statements,75,76,12,A1
+providers,powerpoint.py,Simple If statements,120,122,12,A1
+providers,powerpoint.py,Simple If statements,124,126,12,A1
+providers,powerpoint.py,Simple If statements,128,130,12,A1
+providers,powerpoint.py,Simple If statements,132,136,12,A1
+providers,powerpoint.py,Simple If statements,151,154,12,A1
+providers,powerpoint.py,Simple If statements,171,205,12,A1
+providers,powerpoint.py,Simple If statements,81,83,16,A1
+providers,powerpoint.py,Simple If statements,86,88,16,A1
+providers,powerpoint.py,Simple If statements,91,93,16,A1
+providers,powerpoint.py,Simple If statements,96,101,16,A1
+providers,powerpoint.py,Simple If statements,133,136,16,A1
+providers,powerpoint.py,Simple If statements,153,154,12,A1
+providers,powerpoint.py,Simple If statements,174,184,16,A1
+providers,powerpoint.py,Simple If statements,188,189,16,A1
+providers,powerpoint.py,Simple If statements,193,196,16,A1
+providers,powerpoint.py,Simple If statements,201,205,16,A1
+providers,powerpoint.py,Simple If statements,97,101,20,A1
+providers,powerpoint.py,Simple If statements,180,184,16,A1
+providers,powerpoint.py,For Loop with Tuple as name,73,103,8,A2
+providers,powerpoint.py,Simple For Loop,119,136,8,A1
+providers,powerpoint.py,Simple For Loop,161,205,8,A1
+providers,powerpoint.py,1 Nested For Loop,234,239,8,A2
+providers,powerpoint.py,Simple For Loop,79,101,12,A1
+providers,powerpoint.py,Simple For Loop,236,237,12,A1
+providers,powerpoint.py,'continue' statement,122,122,16,B1
+providers,powerpoint.py,'continue' statement,126,126,16,B1
+providers,powerpoint.py,'continue' statement,130,130,16,B1
+providers,powerpoint.py,'continue' statement,83,83,20,B1
+providers,powerpoint.py,'continue' statement,88,88,20,B1
+providers,powerpoint.py,'continue' statement,93,93,20,B1
+providers,powerpoint.py,Exception --> try/except,51,55,8,B1
+providers,powerpoint.py,Exception --> try/except,220,225,8,B1
+providers,powerpoint.py,Function with Simple argument with Default argument,45,58,4,A2
+providers,powerpoint.py,Function with Simple argument,60,62,4,A1
+providers,powerpoint.py,Function with Simple argument,64,110,4,A1
+providers,powerpoint.py,Function with Simple argument,112,138,4,A1
+providers,powerpoint.py,Function with Simple argument,140,211,4,A1
+providers,powerpoint.py,Function with Simple argument,213,225,4,A1
+providers,powerpoint.py,Function with Simple argument,227,242,4,A1
+providers,powerpoint.py,Function with Simple argument,244,254,4,A1
+providers,powerpoint.py,Return,138,138,8,A1
+providers,powerpoint.py,Return,211,211,8,A1
+providers,powerpoint.py,Return,242,242,8,A1
+providers,powerpoint.py,Return,248,254,8,A1
+providers,powerpoint.py,Return,222,222,12,A1
+providers,powerpoint.py,Return,225,225,12,A1
+providers,powerpoint.py,Inherited Class from PdfProvider,42,254,0,B1

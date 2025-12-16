@@ -1,0 +1,247 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+marker,util.py,Simple List,201,201,15,A1
+marker,util.py,Simple List,29,29,14,A1
+marker,util.py,Simple List,84,84,15,A1
+marker,util.py,Simple List,146,146,19,A1
+marker,util.py,Simple List,142,142,41,A1
+marker,util.py,Simple Tuple,49,49,8,A1
+marker,util.py,Simple Tuple,147,147,8,A1
+marker,util.py,Simple Tuple,179,179,11,A1
+marker,util.py,Simple Tuple,198,198,11,A1
+marker,util.py,Simple Tuple,212,212,8,A1
+marker,util.py,Simple Tuple,31,31,8,A1
+marker,util.py,Simple Tuple,102,102,20,A1
+marker,util.py,Simple Tuple,103,103,20,A1
+marker,util.py,Simple Tuple,128,128,36,A1
+marker,util.py,Simple Tuple,129,129,36,A1
+marker,util.py,Simple Tuple,87,87,12,A1
+marker,util.py,Simple Tuple,97,97,24,A1
+marker,util.py,Simple Tuple,105,105,30,A1
+marker,util.py,Simple Tuple,105,105,46,A1
+marker,util.py,Simple Tuple,106,106,30,A1
+marker,util.py,Simple Tuple,106,106,46,A1
+marker,util.py,Simple Tuple,107,107,30,A1
+marker,util.py,Simple Tuple,107,107,46,A1
+marker,util.py,Simple Tuple,108,108,30,A1
+marker,util.py,Simple Tuple,108,108,46,A1
+marker,util.py,Simple Tuple,118,118,24,A1
+marker,util.py,Simple Tuple,120,120,24,A1
+marker,util.py,Simple Tuple,177,177,19,A1
+marker,util.py,Simple Tuple,196,196,19,A1
+marker,util.py,Simple Tuple,125,125,29,A1
+marker,util.py,Simple Tuple,125,125,45,A1
+marker,util.py,Simple Tuple,126,126,29,A1
+marker,util.py,Simple Tuple,126,126,45,A1
+marker,util.py,Simple Tuple,50,50,49,A1
+marker,util.py,Simple Dictionary,16,26,14,A2
+marker,util.py,Simple Dictionary,203,210,16,A2
+marker,util.py,Simple Dictionary,138,138,22,A2
+marker,util.py,Files --> 'open' call function,157,157,59,A2
+marker,util.py,'range' call function,88,88,29,A2
+marker,util.py,Files --> 'write' call function,160,160,16,A2
+marker,util.py,Simple Atributte,95,95,86,A2
+marker,util.py,Simple Atributte,116,116,77,A2
+marker,util.py,Simple Atributte,14,14,20,A2
+marker,util.py,Simple Atributte,15,15,20,A2
+marker,util.py,Simple Atributte,59,59,15,A2
+marker,util.py,Simple Atributte,202,202,19,A2
+marker,util.py,Simple Atributte,202,202,58,A2
+marker,util.py,Simple Atributte,46,46,18,A2
+marker,util.py,Special Class Attribute __class__,46,46,42,B2
+marker,util.py,Simple Atributte,49,49,33,A2
+marker,util.py,Special Class Attribute __class__,59,59,15,B2
+marker,util.py,Simple Atributte,83,83,16,A2
+marker,util.py,Simple Atributte,99,99,13,A2
+marker,util.py,Simple Atributte,100,100,13,A2
+marker,util.py,Simple Atributte,105,105,12,A2
+marker,util.py,Simple Atributte,106,106,12,A2
+marker,util.py,Simple Atributte,107,107,12,A2
+marker,util.py,Simple Atributte,108,108,12,A2
+marker,util.py,Simple Atributte,110,110,12,A2
+marker,util.py,Simple Atributte,111,111,13,A2
+marker,util.py,Simple Atributte,122,122,13,A2
+marker,util.py,Simple Atributte,123,123,13,A2
+marker,util.py,Simple Atributte,131,131,16,A2
+marker,util.py,Simple Atributte,172,172,12,A2
+marker,util.py,Simple Atributte,191,191,12,A2
+marker,util.py,Simple Atributte,212,212,16,A2
+marker,util.py,Simple Atributte,218,218,7,A2
+marker,util.py,Simple Atributte,31,31,34,A2
+marker,util.py,Simple Atributte,33,33,8,A2
+marker,util.py,Simple Atributte,55,55,51,A2
+marker,util.py,Simple Atributte,76,76,18,A2
+marker,util.py,Simple Atributte,97,97,15,A2
+marker,util.py,Simple Atributte,102,102,23,A2
+marker,util.py,Simple Atributte,103,103,20,A2
+marker,util.py,Simple Atributte,118,118,15,A2
+marker,util.py,Simple Atributte,120,120,15,A2
+marker,util.py,Simple Atributte,128,128,39,A2
+marker,util.py,Simple Atributte,129,129,36,A2
+marker,util.py,Simple Atributte,131,131,16,A2
+marker,util.py,Simple Atributte,143,143,8,A2
+marker,util.py,Simple Atributte,147,147,27,A2
+marker,util.py,Simple Atributte,149,149,8,A2
+marker,util.py,Simple Atributte,154,154,11,A2
+marker,util.py,Simple Atributte,154,154,26,A2
+marker,util.py,Simple Atributte,155,155,8,A2
+marker,util.py,Simple Atributte,175,175,19,A2
+marker,util.py,Simple Atributte,194,194,19,A2
+marker,util.py,Simple Atributte,213,213,12,A2
+marker,util.py,Simple Atributte,220,220,16,A2
+marker,util.py,Simple Atributte,223,223,25,A2
+marker,util.py,Simple Atributte,226,226,20,A2
+marker,util.py,Simple Atributte,39,39,15,A2
+marker,util.py,Simple Atributte,42,42,15,A2
+marker,util.py,Simple Atributte,42,42,33,A2
+marker,util.py,Special Class Attribute __class__,55,55,51,B2
+marker,util.py,Simple Atributte,63,63,22,A2
+marker,util.py,Simple Atributte,87,87,25,A2
+marker,util.py,Simple Atributte,90,90,12,A2
+marker,util.py,Simple Atributte,154,154,11,A2
+marker,util.py,Simple Atributte,155,155,20,A2
+marker,util.py,Simple Atributte,155,155,36,A2
+marker,util.py,Simple Atributte,156,156,26,A2
+marker,util.py,Simple Atributte,156,156,50,A2
+marker,util.py,Simple Atributte,157,157,13,A2
+marker,util.py,Simple Atributte,157,157,64,A2
+marker,util.py,Simple Atributte,158,158,12,A2
+marker,util.py,Simple Atributte,159,159,25,A2
+marker,util.py,Simple Atributte,220,220,73,A2
+marker,util.py,Simple Atributte,233,233,19,A2
+marker,util.py,Simple Atributte,155,155,20,A2
+marker,util.py,Simple Atributte,160,160,16,A2
+marker,util.py,Simple Atributte,140,140,26,A2
+marker,util.py,Simple Atributte,148,148,51,A2
+marker,util.py,Simple List Comprehension,42,42,11,C1
+marker,util.py,Generator Expression,232,232,18,C1
+marker,util.py,Simple Assignment,14,14,0,A1
+marker,util.py,Simple Assignment,15,15,0,A1
+marker,util.py,Simple Assignment,16,26,0,A1
+marker,util.py,Simple Assignment,201,201,0,A1
+marker,util.py,Simple Assignment,202,202,0,A1
+marker,util.py,Simple Assignment,203,210,0,A1
+marker,util.py,Simple Assignment,29,29,4,A1
+marker,util.py,Simple Assignment,46,46,4,A1
+marker,util.py,Simple Assignment,48,48,4,A1
+marker,util.py,Simple Assignment,59,59,4,A1
+marker,util.py,Simple Assignment,83,83,4,A1
+marker,util.py,Simple Assignment,84,84,4,A1
+marker,util.py,Simple Assignment,91,91,4,A1
+marker,util.py,Simple Assignment,99,99,4,A1
+marker,util.py,Simple Assignment,100,100,4,A1
+marker,util.py,Simple Assignment,102,102,4,A1
+marker,util.py,Simple Assignment,103,103,4,A1
+marker,util.py,Simple Assignment,105,105,4,A1
+marker,util.py,Simple Assignment,106,106,4,A1
+marker,util.py,Simple Assignment,107,107,4,A1
+marker,util.py,Simple Assignment,108,108,4,A1
+marker,util.py,Simple Assignment,110,110,4,A1
+marker,util.py,Simple Assignment,111,111,4,A1
+marker,util.py,Simple Assignment,122,122,4,A1
+marker,util.py,Simple Assignment,123,123,4,A1
+marker,util.py,Assigment with sum (total = total + 1),125,125,4,A1
+marker,util.py,Assigment with sum (total = total + 1),126,126,4,A1
+marker,util.py,Simple Assignment,128,128,4,A1
+marker,util.py,Simple Assignment,129,129,4,A1
+marker,util.py,Simple Assignment,131,131,4,A1
+marker,util.py,Simple Assignment,138,138,4,A1
+marker,util.py,Simple Assignment,146,146,4,A1
+marker,util.py,Simple Assignment,172,172,4,A1
+marker,util.py,Simple Assignment,191,191,4,A1
+marker,util.py,Simple Assignment,31,31,8,A1
+marker,util.py,Simple Assignment,32,32,8,A1
+marker,util.py,Simple Assignment,76,76,8,A1
+marker,util.py,Assigment with sum (total = total + 1),140,140,8,A1
+marker,util.py,Simple Assignment,148,148,8,A1
+marker,util.py,Simple Assignment,156,156,8,A1
+marker,util.py,Simple Assignment,175,175,8,A1
+marker,util.py,Simple Assignment,194,194,8,A1
+marker,util.py,Simple Assignment,213,213,8,A1
+marker,util.py,Simple Assignment,220,220,8,A1
+marker,util.py,Simple Assignment,223,223,8,A1
+marker,util.py,Simple Assignment,226,226,8,A1
+marker,util.py,Simple Assignment,229,229,8,A1
+marker,util.py,Simple Assignment,51,51,12,A1
+marker,util.py,Simple Assignment,63,63,8,A1
+marker,util.py,Simple Assignment,87,87,12,A1
+marker,util.py,Simple Assignment,142,142,12,A1
+marker,util.py,Simple Assignment,65,65,8,A1
+marker,util.py,Simplified incremental Assignment with increase amount,88,88,12,A2
+marker,util.py,Simplified incremental Assignment with increase amount,53,53,16,A2
+marker,util.py,'raise' exception,40,40,12,B1
+marker,util.py,'raise' exception,67,67,8,B1
+marker,util.py,'assert' exception,55,55,4,B2
+marker,util.py,Import,1,1,0,A2
+marker,util.py,Import,2,2,0,A2
+marker,util.py,Import're' module,5,5,0,C1
+marker,util.py,Import with 'as' extension ,7,7,0,B1
+marker,util.py,Import,8,8,0,A2
+marker,util.py,From'importlib' module,3,3,0,C1
+marker,util.py,From,4,4,0,A2
+marker,util.py,From,9,9,0,A2
+marker,util.py,From,11,11,0,A2
+marker,util.py,From,12,12,0,A2
+marker,util.py,Simple If statements,60,67,4,A1
+marker,util.py,Simple If statements,96,97,4,A1
+marker,util.py,Simple If statements,117,118,4,A1
+marker,util.py,Simple If statements,119,120,4,A1
+marker,util.py,Simple If statements,154,160,4,A1
+marker,util.py,Simple If statements,174,177,4,A1
+marker,util.py,Simple If statements,193,196,4,A1
+marker,util.py,Simple If statements,218,233,4,A1
+marker,util.py,Simple If statements,39,40,8,A1
+marker,util.py,Simple If statements,50,53,8,A1
+marker,util.py,Simple If statements,62,67,4,A1
+marker,util.py,Simple If statements,70,71,8,A1
+marker,util.py,Simple If statements,73,74,8,A1
+marker,util.py,Simple If statements,78,79,8,A1
+marker,util.py,Simple If statements,86,90,8,A1
+marker,util.py,Simple If statements,141,142,8,A1
+marker,util.py,Simple If statements,176,177,8,A1
+marker,util.py,Simple If statements,195,196,8,A1
+marker,util.py,Simple If statements,232,233,8,A1
+marker,util.py,Simple If statements,52,53,12,A1
+marker,util.py,Simple If statements,64,67,4,A1
+marker,util.py,Simple For Loop,30,33,4,A1
+marker,util.py,Simple For Loop,38,40,4,A1
+marker,util.py,For Loop with Tuple as name,49,53,4,A2
+marker,util.py,Simple For Loop,69,71,4,A1
+marker,util.py,Simple For Loop,72,79,4,A1
+marker,util.py,Simple For Loop,85,90,4,A1
+marker,util.py,Simple For Loop,139,143,4,A1
+marker,util.py,For Loop with Tuple as name,147,149,4,A2
+marker,util.py,For Loop with Tuple as name,212,213,4,A2
+marker,util.py,Simple For Loop,159,160,12,A1
+marker,util.py,'continue' statement,74,74,12,B1
+marker,util.py,With,157,160,8,B1
+marker,util.py,Function with Simple argument,28,34,0,A1
+marker,util.py,Function with Simple argument,37,42,0,A1
+marker,util.py,Function with Simple argument,45,55,0,A1
+marker,util.py,Function with Simple argument,58,79,0,A1
+marker,util.py,Function with Simple argument,82,92,0,A1
+marker,util.py,Function with Simple argument,95,113,0,A1
+marker,util.py,Function with Simple argument,116,132,0,A1
+marker,util.py,Function with Simple argument with Default argument,135,151,0,A2
+marker,util.py,Function,153,160,0,A1
+marker,util.py,Function with Simple argument,162,179,0,A1
+marker,util.py,Function with Simple argument,181,198,0,A1
+marker,util.py,Function with Simple argument,211,214,0,A1
+marker,util.py,Function with Simple argument with Default argument,216,236,0,A2
+marker,util.py,Lambda,148,148,41,B1
+marker,util.py,Return,34,34,4,A1
+marker,util.py,Return,42,42,4,A1
+marker,util.py,Return,92,92,4,A1
+marker,util.py,Return,113,113,4,A1
+marker,util.py,Return,132,132,4,A1
+marker,util.py,Return,151,151,4,A1
+marker,util.py,Return,179,179,4,A1
+marker,util.py,Return,198,198,4,A1
+marker,util.py,Return,214,214,4,A1
+marker,util.py,Return,236,236,4,A1
+marker,util.py,Return,61,61,8,A1
+marker,util.py,Return,97,97,8,A1
+marker,util.py,Return,118,118,8,A1
+marker,util.py,Return,120,120,8,A1
+marker,util.py,Return,177,177,12,A1
+marker,util.py,Return,196,196,12,A1
+marker,util.py,Return,233,233,12,A1

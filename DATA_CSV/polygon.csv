@@ -1,0 +1,307 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+schema,polygon.py,Simple List,47,47,15,A1
+schema,polygon.py,Simple List,51,51,15,A1
+schema,polygon.py,Simple List,76,76,15,A1
+schema,polygon.py,Simple List,79,79,22,A1
+schema,polygon.py,Simple List,94,94,22,A1
+schema,polygon.py,Simple List,106,106,22,A1
+schema,polygon.py,Simple List,194,194,18,A1
+schema,polygon.py,Simple List,196,196,23,A1
+schema,polygon.py,Simple List,197,197,23,A1
+schema,polygon.py,4 Nested List,219,219,27,A2
+schema,polygon.py,Simple List,84,84,35,A1
+schema,polygon.py,Simple List,98,98,35,A1
+schema,polygon.py,Simple List,110,110,35,A1
+schema,polygon.py,Simple List,204,204,31,A1
+schema,polygon.py,Simple List,219,219,28,A1
+schema,polygon.py,Simple List,219,219,48,A1
+schema,polygon.py,Simple List,219,219,68,A1
+schema,polygon.py,Simple List,219,219,88,A1
+schema,polygon.py,Simple List,86,86,35,A1
+schema,polygon.py,Simple List,100,100,35,A1
+schema,polygon.py,Simple List,112,112,35,A1
+schema,polygon.py,Simple List,206,206,31,A1
+schema,polygon.py,Simple List,88,88,35,A1
+schema,polygon.py,Simple List,208,208,31,A1
+schema,polygon.py,Simple List,90,90,35,A1
+schema,polygon.py,Simple List,210,210,31,A1
+schema,polygon.py,Simple Tuple,82,82,12,A1
+schema,polygon.py,Simple Tuple,96,96,12,A1
+schema,polygon.py,Simple Tuple,108,108,12,A1
+schema,polygon.py,Simple Tuple,158,158,8,A1
+schema,polygon.py,Simple Tuple,159,159,8,A1
+schema,polygon.py,Simple Tuple,129,129,24,A1
+schema,polygon.py,Simple Tuple,129,129,54,A1
+schema,polygon.py,Simple Tuple,131,131,24,A1
+schema,polygon.py,Simple Tuple,131,131,54,A1
+schema,polygon.py,Simple Tuple,133,133,24,A1
+schema,polygon.py,Simple Tuple,133,133,54,A1
+schema,polygon.py,Simple Tuple,135,135,24,A1
+schema,polygon.py,Simple Tuple,135,135,54,A1
+schema,polygon.py,'enumerate' call function,82,82,25,C2
+schema,polygon.py,'enumerate' call function,96,96,25,C2
+schema,polygon.py,'enumerate' call function,108,108,25,C2
+schema,polygon.py,'range' call function,195,195,17,A2
+schema,polygon.py,Simple Atributte,43,43,15,A2
+schema,polygon.py,Simple Atributte,43,43,28,A2
+schema,polygon.py,Simple Atributte,51,51,16,A2
+schema,polygon.py,Simple Atributte,51,51,28,A2
+schema,polygon.py,Simple Atributte,55,55,15,A2
+schema,polygon.py,Simple Atributte,59,59,15,A2
+schema,polygon.py,Simple Atributte,63,63,15,A2
+schema,polygon.py,Simple Atributte,67,67,15,A2
+schema,polygon.py,Simple Atributte,80,80,30,A2
+schema,polygon.py,Simple Atributte,81,81,30,A2
+schema,polygon.py,Simple Atributte,82,82,35,A2
+schema,polygon.py,Simple Atributte,95,95,30,A2
+schema,polygon.py,Simple Atributte,96,96,35,A2
+schema,polygon.py,Simple Atributte,107,107,30,A2
+schema,polygon.py,Simple Atributte,108,108,35,A2
+schema,polygon.py,Simple Atributte,164,164,22,A2
+schema,polygon.py,Simple Atributte,164,164,36,A2
+schema,polygon.py,Simple Atributte,171,171,22,A2
+schema,polygon.py,Simple Atributte,171,171,36,A2
+schema,polygon.py,Simple Atributte,187,187,11,A2
+schema,polygon.py,Simple Atributte,190,190,23,A2
+schema,polygon.py,Simple Atributte,191,191,30,A2
+schema,polygon.py,Simple Atributte,35,35,15,A2
+schema,polygon.py,Simple Atributte,35,35,30,A2
+schema,polygon.py,Simple Atributte,39,39,15,A2
+schema,polygon.py,Simple Atributte,39,39,30,A2
+schema,polygon.py,Simple Atributte,118,118,11,A2
+schema,polygon.py,Simple Atributte,124,124,15,A2
+schema,polygon.py,Simple Atributte,124,124,31,A2
+schema,polygon.py,Simple Atributte,125,125,16,A2
+schema,polygon.py,Simple Atributte,125,125,31,A2
+schema,polygon.py,Simple Atributte,126,126,17,A2
+schema,polygon.py,Simple Atributte,126,126,33,A2
+schema,polygon.py,Simple Atributte,127,127,14,A2
+schema,polygon.py,Simple Atributte,127,127,29,A2
+schema,polygon.py,Simple Atributte,184,184,15,A2
+schema,polygon.py,Simple Atributte,184,184,39,A2
+schema,polygon.py,Simple Atributte,195,195,27,A2
+schema,polygon.py,Simple Atributte,72,72,45,A2
+schema,polygon.py,Simple Atributte,73,73,45,A2
+schema,polygon.py,Simple Atributte,74,74,45,A2
+schema,polygon.py,Simple Atributte,75,75,45,A2
+schema,polygon.py,Simple Atributte,84,84,16,A2
+schema,polygon.py,Simple Atributte,98,98,16,A2
+schema,polygon.py,Simple Atributte,110,110,16,A2
+schema,polygon.py,Simple Atributte,204,204,16,A2
+schema,polygon.py,Simple Atributte,47,47,17,A2
+schema,polygon.py,Simple Atributte,47,47,32,A2
+schema,polygon.py,Simple Atributte,47,47,52,A2
+schema,polygon.py,Simple Atributte,47,47,67,A2
+schema,polygon.py,Simple Atributte,86,86,16,A2
+schema,polygon.py,Simple Atributte,100,100,16,A2
+schema,polygon.py,Simple Atributte,102,102,16,A2
+schema,polygon.py,Simple Atributte,112,112,16,A2
+schema,polygon.py,Simple Atributte,114,114,16,A2
+schema,polygon.py,Simple Atributte,129,129,25,A2
+schema,polygon.py,Simple Atributte,129,129,39,A2
+schema,polygon.py,Simple Atributte,129,129,55,A2
+schema,polygon.py,Simple Atributte,129,129,70,A2
+schema,polygon.py,Simple Atributte,178,178,26,A2
+schema,polygon.py,Simple Atributte,178,178,40,A2
+schema,polygon.py,Simple Atributte,178,178,61,A2
+schema,polygon.py,Simple Atributte,178,178,75,A2
+schema,polygon.py,Simple Atributte,181,181,26,A2
+schema,polygon.py,Simple Atributte,181,181,40,A2
+schema,polygon.py,Simple Atributte,181,181,61,A2
+schema,polygon.py,Simple Atributte,181,181,75,A2
+schema,polygon.py,Simple Atributte,206,206,16,A2
+schema,polygon.py,Simple Atributte,88,88,16,A2
+schema,polygon.py,Simple Atributte,131,131,25,A2
+schema,polygon.py,Simple Atributte,131,131,39,A2
+schema,polygon.py,Simple Atributte,131,131,55,A2
+schema,polygon.py,Simple Atributte,131,131,70,A2
+schema,polygon.py,Simple Atributte,154,154,17,A2
+schema,polygon.py,Simple Atributte,154,154,32,A2
+schema,polygon.py,Simple Atributte,154,154,55,A2
+schema,polygon.py,Simple Atributte,154,154,70,A2
+schema,polygon.py,Simple Atributte,196,196,24,A2
+schema,polygon.py,Simple Atributte,196,196,47,A2
+schema,polygon.py,Simple Atributte,197,197,24,A2
+schema,polygon.py,Simple Atributte,197,197,47,A2
+schema,polygon.py,Simple Atributte,208,208,16,A2
+schema,polygon.py,Simple Atributte,90,90,16,A2
+schema,polygon.py,Simple Atributte,133,133,25,A2
+schema,polygon.py,Simple Atributte,133,133,39,A2
+schema,polygon.py,Simple Atributte,133,133,55,A2
+schema,polygon.py,Simple Atributte,133,133,70,A2
+schema,polygon.py,Simple Atributte,151,151,23,A2
+schema,polygon.py,Simple Atributte,151,151,40,A2
+schema,polygon.py,Simple Atributte,151,151,74,A2
+schema,polygon.py,Simple Atributte,151,151,91,A2
+schema,polygon.py,Simple Atributte,210,210,16,A2
+schema,polygon.py,Simple Atributte,135,135,25,A2
+schema,polygon.py,Simple Atributte,135,135,39,A2
+schema,polygon.py,Simple Atributte,135,135,55,A2
+schema,polygon.py,Simple Atributte,135,135,70,A2
+schema,polygon.py,Simple Atributte,137,137,19,A2
+schema,polygon.py,Simple Atributte,137,137,34,A2
+schema,polygon.py,Simple Atributte,149,149,21,A2
+schema,polygon.py,Simple Atributte,149,149,38,A2
+schema,polygon.py,Simple Atributte,149,149,74,A2
+schema,polygon.py,Simple Atributte,149,149,91,A2
+schema,polygon.py,Simple Atributte,139,139,19,A2
+schema,polygon.py,Simple Atributte,139,139,35,A2
+schema,polygon.py,Simple Atributte,141,141,19,A2
+schema,polygon.py,Simple Atributte,141,141,34,A2
+schema,polygon.py,Simple Atributte,143,143,19,A2
+schema,polygon.py,Simple Atributte,143,143,35,A2
+schema,polygon.py,Simple List Comprehension,22,22,20,C1
+schema,polygon.py,Simple List Comprehension,23,23,20,C1
+schema,polygon.py,Simple List Comprehension,72,72,20,C1
+schema,polygon.py,Simple List Comprehension,73,73,20,C1
+schema,polygon.py,Simple List Comprehension,74,74,20,C1
+schema,polygon.py,Simple List Comprehension,75,75,20,C1
+schema,polygon.py,Simple List Comprehension,196,196,46,C1
+schema,polygon.py,Simple List Comprehension,197,197,46,C1
+schema,polygon.py,Simple Assignment,22,22,8,A1
+schema,polygon.py,Simple Assignment,23,23,8,A1
+schema,polygon.py,Simple Assignment,26,26,8,A1
+schema,polygon.py,Simple Assignment,72,72,8,A1
+schema,polygon.py,Simple Assignment,73,73,8,A1
+schema,polygon.py,Simple Assignment,74,74,8,A1
+schema,polygon.py,Simple Assignment,75,75,8,A1
+schema,polygon.py,Simple Assignment,79,79,8,A1
+schema,polygon.py,Assigment with sum (total = total + 1),80,80,8,A1
+schema,polygon.py,Assigment with sum (total = total + 1),81,81,8,A1
+schema,polygon.py,Simple Assignment,94,94,8,A1
+schema,polygon.py,Assigment with sum (total = total + 1),95,95,8,A1
+schema,polygon.py,Simple Assignment,106,106,8,A1
+schema,polygon.py,Assigment with sum (total = total + 1),107,107,8,A1
+schema,polygon.py,Simple Assignment,124,124,8,A1
+schema,polygon.py,Simple Assignment,125,125,8,A1
+schema,polygon.py,Simple Assignment,126,126,8,A1
+schema,polygon.py,Simple Assignment,127,127,8,A1
+schema,polygon.py,Simple Assignment,158,158,8,A1
+schema,polygon.py,Simple Assignment,159,159,8,A1
+schema,polygon.py,Assigment with sum (total = total + 1),161,161,8,A1
+schema,polygon.py,Assigment with sum (total = total + 1),162,162,8,A1
+schema,polygon.py,Simple Assignment,164,164,8,A1
+schema,polygon.py,Simple Assignment,171,171,8,A1
+schema,polygon.py,Simple Assignment,190,190,8,A1
+schema,polygon.py,Simple Assignment,194,194,8,A1
+schema,polygon.py,Assigment with sum (total = total + 1),166,166,12,A1
+schema,polygon.py,Assigment with sum (total = total + 1),167,167,12,A1
+schema,polygon.py,Simple Assignment,173,173,12,A1
+schema,polygon.py,Simple Assignment,174,174,12,A1
+schema,polygon.py,Assigment with sum (total = total + 1),196,196,12,A1
+schema,polygon.py,Assigment with sum (total = total + 1),197,197,12,A1
+schema,polygon.py,Simple Assignment,198,198,12,A1
+schema,polygon.py,Simple Assignment,199,199,12,A1
+schema,polygon.py,Simple Assignment,200,200,12,A1
+schema,polygon.py,Simple Assignment,201,201,12,A1
+schema,polygon.py,Simple Assignment,216,216,12,A1
+schema,polygon.py,Simple Assignment,217,217,12,A1
+schema,polygon.py,Simple Assignment,218,218,12,A1
+schema,polygon.py,'raise' exception,16,16,12,B1
+schema,polygon.py,'raise' exception,20,20,16,B1
+schema,polygon.py,'assert' exception,27,27,8,B2
+schema,polygon.py,'assert' exception,28,28,8,B2
+schema,polygon.py,'assert' exception,29,29,8,B2
+schema,polygon.py,'assert' exception,30,30,8,B2
+schema,polygon.py,Import,2,2,0,A2
+schema,polygon.py,Import with 'as' extension ,5,5,0,B1
+schema,polygon.py,From,1,1,0,A2
+schema,polygon.py,From,3,3,0,A2
+schema,polygon.py,From,6,6,0,A2
+schema,polygon.py,Simple If statements,15,16,8,A1
+schema,polygon.py,Simple If statements,118,119,8,A1
+schema,polygon.py,Simple If statements,128,145,8,A1
+schema,polygon.py,Simple If statements,148,151,8,A1
+schema,polygon.py,Simple If statements,187,188,8,A1
+schema,polygon.py,Simple If statements,215,218,8,A1
+schema,polygon.py,Simple If statements,19,20,12,A1
+schema,polygon.py,Simple If statements,83,90,12,A1
+schema,polygon.py,Simple If statements,97,102,12,A1
+schema,polygon.py,Simple If statements,109,114,12,A1
+schema,polygon.py,Simple If statements,130,145,8,A1
+schema,polygon.py,Simple If statements,203,210,12,A1
+schema,polygon.py,Simple If statements,85,90,12,A1
+schema,polygon.py,Simple If statements,99,102,12,A1
+schema,polygon.py,Simple If statements,111,114,12,A1
+schema,polygon.py,Simple If statements,132,145,8,A1
+schema,polygon.py,Simple If statements,205,210,12,A1
+schema,polygon.py,Simple If statements,87,90,12,A1
+schema,polygon.py,Simple If statements,134,145,8,A1
+schema,polygon.py,Simple If statements,207,210,12,A1
+schema,polygon.py,Simple If statements,89,90,12,A1
+schema,polygon.py,Simple If statements,136,145,8,A1
+schema,polygon.py,Simple If statements,209,210,12,A1
+schema,polygon.py,Simple If statements,138,145,8,A1
+schema,polygon.py,Simple If statements,140,145,8,A1
+schema,polygon.py,Simple If statements,142,145,8,A1
+schema,polygon.py,Simple For Loop,18,20,8,A1
+schema,polygon.py,For Loop with Tuple as name,82,90,8,A2
+schema,polygon.py,For Loop with Tuple as name,96,102,8,A2
+schema,polygon.py,For Loop with Tuple as name,108,114,8,A2
+schema,polygon.py,Simple For Loop,165,167,8,A1
+schema,polygon.py,Simple For Loop,172,174,8,A1
+schema,polygon.py,Simple For Loop,195,210,8,A1
+schema,polygon.py,Function with Simple argument,14,31,4,A1
+schema,polygon.py,Function with Simple argument,34,35,4,A1
+schema,polygon.py,Function with Simple argument,38,39,4,A1
+schema,polygon.py,Function with Simple argument,42,43,4,A1
+schema,polygon.py,Function with Simple argument,46,47,4,A1
+schema,polygon.py,Function with Simple argument,50,51,4,A1
+schema,polygon.py,Function with Simple argument,54,55,4,A1
+schema,polygon.py,Function with Simple argument,58,59,4,A1
+schema,polygon.py,Function with Simple argument,62,63,4,A1
+schema,polygon.py,Function with Simple argument,66,67,4,A1
+schema,polygon.py,Function with Simple argument,71,76,4,A1
+schema,polygon.py,Function with Simple argument,78,91,4,A1
+schema,polygon.py,Function with Simple argument,93,103,4,A1
+schema,polygon.py,Function with Simple argument,105,115,4,A1
+schema,polygon.py,Function with Simple argument,117,145,4,A1
+schema,polygon.py,Function with Simple argument with Default argument,147,151,4,A2
+schema,polygon.py,Function with Simple argument,153,154,4,A1
+schema,polygon.py,Function with Simple argument,156,168,4,A1
+schema,polygon.py,Function with Simple argument,170,175,4,A1
+schema,polygon.py,Function with Simple argument,177,178,4,A1
+schema,polygon.py,Function with Simple argument,180,181,4,A1
+schema,polygon.py,Function with Simple argument,183,184,4,A1
+schema,polygon.py,Function with Simple argument,186,191,4,A1
+schema,polygon.py,Function with Simple argument,193,211,4,A1
+schema,polygon.py,Function with Simple argument with Default argument,214,219,4,A2
+schema,polygon.py,Function with Simple argument,121,122,8,A1
+schema,polygon.py,Return,31,31,8,A1
+schema,polygon.py,Return,35,35,8,A1
+schema,polygon.py,Return,39,39,8,A1
+schema,polygon.py,Return,43,43,8,A1
+schema,polygon.py,Return,47,47,8,A1
+schema,polygon.py,Return,51,51,8,A1
+schema,polygon.py,Return,55,55,8,A1
+schema,polygon.py,Return,59,59,8,A1
+schema,polygon.py,Return,63,63,8,A1
+schema,polygon.py,Return,67,67,8,A1
+schema,polygon.py,Return,76,76,8,A1
+schema,polygon.py,Return,91,91,8,A1
+schema,polygon.py,Return,103,103,8,A1
+schema,polygon.py,Return,115,115,8,A1
+schema,polygon.py,Return,154,154,8,A1
+schema,polygon.py,Return,168,168,8,A1
+schema,polygon.py,Return,175,175,8,A1
+schema,polygon.py,Return,178,178,8,A1
+schema,polygon.py,Return,181,181,8,A1
+schema,polygon.py,Return,184,184,8,A1
+schema,polygon.py,Return,191,191,8,A1
+schema,polygon.py,Return,211,211,8,A1
+schema,polygon.py,Return,219,219,8,A1
+schema,polygon.py,Return,119,119,12,A1
+schema,polygon.py,Return,122,122,12,A1
+schema,polygon.py,Return,129,129,12,A1
+schema,polygon.py,Return,149,149,12,A1
+schema,polygon.py,Return,151,151,12,A1
+schema,polygon.py,Return,188,188,12,A1
+schema,polygon.py,Return,131,131,12,A1
+schema,polygon.py,Return,133,133,12,A1
+schema,polygon.py,Return,135,135,12,A1
+schema,polygon.py,Return,137,137,12,A1
+schema,polygon.py,Return,139,139,12,A1
+schema,polygon.py,Return,141,141,12,A1
+schema,polygon.py,Return,143,143,12,A1
+schema,polygon.py,Return,145,145,12,A1
+schema,polygon.py,Inherited Class from BaseModel,9,219,0,B1

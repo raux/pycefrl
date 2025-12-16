@@ -1,0 +1,62 @@
+{
+    "display": {
+        "dataset.py": {
+            "Levels": {
+                "A1": 21,
+                "A2": 19,
+                "C2": 1,
+                "B1": 6
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Tuple": 2,
+                "Simple Dictionary": 1,
+                "'enumerate' call function": 1,
+                "Simple Atributte": 9,
+                "Simple Assignment": 13,
+                "Import": 2,
+                "From": 4,
+                "Simple If statements": 3,
+                "For Loop with Tuple as name": 1,
+                " Nested For Loop": 1,
+                "Simple For Loop": 1,
+                "'break' statement": 1,
+                "'continue' statement": 2,
+                "Exception --> try/except": 3,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 1
+            }
+        },
+        "table.py": {
+            "Levels": {
+                "A1": 35,
+                "C2": 3,
+                "A2": 29,
+                "C1": 4,
+                "B1": 3
+            },
+            "Class": {
+                "Simple List": 7,
+                "Simple Tuple": 3,
+                "Print": 3,
+                "'enumerate' call function": 3,
+                "Files --> 'open' call function": 1,
+                "Files --> 'write' call function": 2,
+                "Simple Atributte": 13,
+                "Simple List Comprehension": 4,
+                "Simple Assignment": 11,
+                "Assigment with sum (total = total +)": 5,
+                "Import": 1,
+                "From": 3,
+                " Nested For Loop": 5,
+                "For Loop with Tuple as name": 3,
+                "Simple For Loop": 5,
+                "'continue' statement": 1,
+                "Exception --> try/except": 1,
+                "With": 1,
+                "Function with Simple argument": 1,
+                "Function with Simple argument with Default argument": 1
+            }
+        }
+    }
+}

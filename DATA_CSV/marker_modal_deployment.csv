@@ -1,0 +1,276 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+examples,marker_modal_deployment.py,Simple List,19,27,17,A1
+examples,marker_modal_deployment.py,Simple List,43,43,82,A1
+examples,marker_modal_deployment.py,Simple List,164,164,80,A1
+examples,marker_modal_deployment.py,Simple List,200,200,36,A1
+examples,marker_modal_deployment.py,Simple List,17,17,17,A1
+examples,marker_modal_deployment.py,Simple List,283,283,65,A1
+examples,marker_modal_deployment.py,Simple Tuple,371,371,29,A1
+examples,marker_modal_deployment.py,Simple Tuple,253,253,20,A1
+examples,marker_modal_deployment.py,Simple Tuple,262,262,24,A1
+examples,marker_modal_deployment.py,Simple Dictionary,73,73,12,A2
+examples,marker_modal_deployment.py,Simple Dictionary,101,101,12,A2
+examples,marker_modal_deployment.py,Simple Dictionary,18,18,9,A2
+examples,marker_modal_deployment.py,Simple Dictionary,166,173,19,A2
+examples,marker_modal_deployment.py,Simple Dictionary,371,371,20,A2
+examples,marker_modal_deployment.py,Simple Dictionary,372,372,19,A2
+examples,marker_modal_deployment.py,Simple Dictionary,216,223,25,A2
+examples,marker_modal_deployment.py,Simple Dictionary,246,246,33,A2
+examples,marker_modal_deployment.py,Simple Dictionary,274,284,36,A2
+examples,marker_modal_deployment.py,Print,348,348,4,A1
+examples,marker_modal_deployment.py,Print,349,349,4,A1
+examples,marker_modal_deployment.py,Print,324,324,8,A1
+examples,marker_modal_deployment.py,Print,329,329,8,A1
+examples,marker_modal_deployment.py,Print,342,342,8,A1
+examples,marker_modal_deployment.py,Print,357,357,8,A1
+examples,marker_modal_deployment.py,Print,358,358,8,A1
+examples,marker_modal_deployment.py,Print,344,344,8,A1
+examples,marker_modal_deployment.py,Print,345,345,8,A1
+examples,marker_modal_deployment.py,Print,361,361,12,A1
+examples,marker_modal_deployment.py,Print,364,364,8,A1
+examples,marker_modal_deployment.py,Files --> 'open' call function,370,370,13,A2
+examples,marker_modal_deployment.py,Print,374,374,12,A1
+examples,marker_modal_deployment.py,Print,379,379,12,A1
+examples,marker_modal_deployment.py,Print,380,380,12,A1
+examples,marker_modal_deployment.py,Print,381,381,12,A1
+examples,marker_modal_deployment.py,Print,382,382,12,A1
+examples,marker_modal_deployment.py,Print,387,387,12,A1
+examples,marker_modal_deployment.py,Print,393,393,12,A1
+examples,marker_modal_deployment.py,Print,394,394,12,A1
+examples,marker_modal_deployment.py,Print,397,397,8,A1
+examples,marker_modal_deployment.py,Files --> 'open' call function,385,385,17,A2
+examples,marker_modal_deployment.py,Print,390,390,16,A1
+examples,marker_modal_deployment.py,Files --> 'read' call function,208,208,37,A2
+examples,marker_modal_deployment.py,Files --> 'open' call function,212,212,21,A2
+examples,marker_modal_deployment.py,Files --> 'write' call function,213,213,20,A2
+examples,marker_modal_deployment.py,If statements expression (else),43,43,26,B1
+examples,marker_modal_deployment.py,If statements expression (else),160,160,26,B1
+examples,marker_modal_deployment.py,If statements expression (else),164,164,29,B1
+examples,marker_modal_deployment.py,If statements expression (else),167,167,26,B1
+examples,marker_modal_deployment.py,If statements expression (else),235,235,32,B1
+examples,marker_modal_deployment.py,Simple Atributte,10,10,6,A2
+examples,marker_modal_deployment.py,Simple Atributte,16,19,4,A2
+examples,marker_modal_deployment.py,Simple Atributte,31,31,16,A2
+examples,marker_modal_deployment.py,Simple Atributte,71,71,1,A2
+examples,marker_modal_deployment.py,Simple Atributte,96,96,1,A2
+examples,marker_modal_deployment.py,Simple Atributte,307,307,1,A2
+examples,marker_modal_deployment.py,Simple Atributte,31,31,16,A2
+examples,marker_modal_deployment.py,Simple Atributte,42,42,24,A2
+examples,marker_modal_deployment.py,Simple Atributte,45,45,4,A2
+examples,marker_modal_deployment.py,Simple Atributte,46,46,4,A2
+examples,marker_modal_deployment.py,Simple Atributte,55,55,4,A2
+examples,marker_modal_deployment.py,Simple Atributte,58,58,7,A2
+examples,marker_modal_deployment.py,Simple Atributte,83,83,4,A2
+examples,marker_modal_deployment.py,Simple Atributte,84,84,13,A2
+examples,marker_modal_deployment.py,Simple Atributte,86,86,4,A2
+examples,marker_modal_deployment.py,Simple Atributte,87,87,4,A2
+examples,marker_modal_deployment.py,Simple Atributte,105,105,5,A2
+examples,marker_modal_deployment.py,Simple Atributte,122,122,5,A2
+examples,marker_modal_deployment.py,Simple Atributte,16,18,4,A2
+examples,marker_modal_deployment.py,Simple Atributte,42,42,24,A2
+examples,marker_modal_deployment.py,Simple Atributte,43,43,26,A2
+examples,marker_modal_deployment.py,Simple Atributte,49,49,8,A2
+examples,marker_modal_deployment.py,Simple Atributte,51,51,8,A2
+examples,marker_modal_deployment.py,Simple Atributte,58,58,7,A2
+examples,marker_modal_deployment.py,Simple Atributte,59,59,19,A2
+examples,marker_modal_deployment.py,Simple Atributte,60,60,8,A2
+examples,marker_modal_deployment.py,Simple Atributte,64,64,8,A2
+examples,marker_modal_deployment.py,Simple Atributte,65,65,8,A2
+examples,marker_modal_deployment.py,Simple Atributte,66,66,8,A2
+examples,marker_modal_deployment.py,Simple Atributte,67,67,8,A2
+examples,marker_modal_deployment.py,Simple Atributte,83,83,30,A2
+examples,marker_modal_deployment.py,Simple Atributte,111,111,8,A2
+examples,marker_modal_deployment.py,Simple Atributte,112,112,17,A2
+examples,marker_modal_deployment.py,Simple Atributte,114,114,8,A2
+examples,marker_modal_deployment.py,Simple Atributte,116,116,12,A2
+examples,marker_modal_deployment.py,Simple Atributte,139,139,8,A2
+examples,marker_modal_deployment.py,Simple Atributte,140,140,17,A2
+examples,marker_modal_deployment.py,Simple Atributte,157,157,9,A2
+examples,marker_modal_deployment.py,Simple Atributte,175,175,9,A2
+examples,marker_modal_deployment.py,Simple Atributte,328,328,11,A2
+examples,marker_modal_deployment.py,Simple Atributte,336,336,18,A2
+examples,marker_modal_deployment.py,Simple Atributte,341,341,18,A2
+examples,marker_modal_deployment.py,Simple Atributte,355,355,26,A2
+examples,marker_modal_deployment.py,Simple Atributte,356,356,22,A2
+examples,marker_modal_deployment.py,Simple Atributte,377,377,11,A2
+examples,marker_modal_deployment.py,Simple Atributte,93,93,8,A2
+examples,marker_modal_deployment.py,Simple Atributte,111,111,34,A2
+examples,marker_modal_deployment.py,Simple Atributte,120,120,12,A2
+examples,marker_modal_deployment.py,Simple Atributte,139,139,34,A2
+examples,marker_modal_deployment.py,Simple Atributte,145,145,12,A2
+examples,marker_modal_deployment.py,Simple Atributte,147,147,12,A2
+examples,marker_modal_deployment.py,Simple Atributte,163,163,27,A2
+examples,marker_modal_deployment.py,Simple Atributte,192,192,23,A2
+examples,marker_modal_deployment.py,Simple Atributte,267,267,27,A2
+examples,marker_modal_deployment.py,Simple Atributte,336,336,18,A2
+examples,marker_modal_deployment.py,Simple Atributte,341,341,18,A2
+examples,marker_modal_deployment.py,Simple Atributte,348,348,36,A2
+examples,marker_modal_deployment.py,Simple Atributte,375,375,23,A2
+examples,marker_modal_deployment.py,Simple Atributte,378,378,21,A2
+examples,marker_modal_deployment.py,Simple Atributte,16,17,4,A2
+examples,marker_modal_deployment.py,Simple Atributte,118,118,12,A2
+examples,marker_modal_deployment.py,Simple Atributte,119,119,12,A2
+examples,marker_modal_deployment.py,Simple Atributte,159,159,56,A2
+examples,marker_modal_deployment.py,Simple Atributte,160,160,30,A2
+examples,marker_modal_deployment.py,Simple Atributte,163,163,27,A2
+examples,marker_modal_deployment.py,Simple Atributte,164,164,29,A2
+examples,marker_modal_deployment.py,Simple Atributte,186,186,46,A2
+examples,marker_modal_deployment.py,Simple Atributte,187,187,16,A2
+examples,marker_modal_deployment.py,Simple Atributte,192,192,23,A2
+examples,marker_modal_deployment.py,Simple Atributte,227,227,30,A2
+examples,marker_modal_deployment.py,Simple Atributte,239,239,16,A2
+examples,marker_modal_deployment.py,Simple Atributte,269,269,16,A2
+examples,marker_modal_deployment.py,Simple Atributte,272,272,16,A2
+examples,marker_modal_deployment.py,Simple Atributte,371,371,30,A2
+examples,marker_modal_deployment.py,Simple Atributte,384,384,29,A2
+examples,marker_modal_deployment.py,Simple Atributte,386,386,16,A2
+examples,marker_modal_deployment.py,Simple Atributte,91,91,55,A2
+examples,marker_modal_deployment.py,Simple Atributte,208,208,37,A2
+examples,marker_modal_deployment.py,Simple Atributte,211,211,36,A2
+examples,marker_modal_deployment.py,Simple Atributte,213,213,20,A2
+examples,marker_modal_deployment.py,Simple Atributte,232,232,34,A2
+examples,marker_modal_deployment.py,Simple Atributte,250,250,35,A2
+examples,marker_modal_deployment.py,Simple Atributte,262,262,45,A2
+examples,marker_modal_deployment.py,Simple Atributte,276,276,32,A2
+examples,marker_modal_deployment.py,Simple Atributte,288,288,19,A2
+examples,marker_modal_deployment.py,Simple Atributte,291,291,16,A2
+examples,marker_modal_deployment.py,Simple Atributte,292,292,16,A2
+examples,marker_modal_deployment.py,Simple Atributte,393,393,44,A2
+examples,marker_modal_deployment.py,Simple Atributte,394,394,28,A2
+examples,marker_modal_deployment.py,Simple Atributte,16,16,4,A2
+examples,marker_modal_deployment.py,Simple Atributte,192,192,28,A2
+examples,marker_modal_deployment.py,Simple Atributte,233,233,35,A2
+examples,marker_modal_deployment.py,Simple Atributte,234,234,29,A2
+examples,marker_modal_deployment.py,Simple Atributte,239,239,42,A2
+examples,marker_modal_deployment.py,Simple Atributte,263,263,38,A2
+examples,marker_modal_deployment.py,Simple Atributte,264,264,24,A2
+examples,marker_modal_deployment.py,Simple Atributte,265,265,51,A2
+examples,marker_modal_deployment.py,Simple Atributte,269,269,56,A2
+examples,marker_modal_deployment.py,Simple Atributte,288,288,19,A2
+examples,marker_modal_deployment.py,Simple Atributte,289,289,20,A2
+examples,marker_modal_deployment.py,Simple Atributte,16,16,4,A2
+examples,marker_modal_deployment.py,Simple Atributte,235,235,32,A2
+examples,marker_modal_deployment.py,Simple Atributte,264,264,57,A2
+examples,marker_modal_deployment.py,Simple Atributte,283,283,38,A2
+examples,marker_modal_deployment.py,Simple Atributte,291,291,53,A2
+examples,marker_modal_deployment.py,Simple Atributte,265,265,51,A2
+examples,marker_modal_deployment.py,Simple Atributte,265,265,68,A2
+examples,marker_modal_deployment.py,Simple Assignment,10,10,0,A1
+examples,marker_modal_deployment.py,Simple Assignment,11,11,0,A1
+examples,marker_modal_deployment.py,Simple Assignment,12,12,0,A1
+examples,marker_modal_deployment.py,Simple Assignment,15,28,0,A1
+examples,marker_modal_deployment.py,Simple Assignment,31,31,0,A1
+examples,marker_modal_deployment.py,Simple Assignment,42,42,4,A1
+examples,marker_modal_deployment.py,Simple Assignment,43,43,4,A1
+examples,marker_modal_deployment.py,Simple Assignment,54,54,4,A1
+examples,marker_modal_deployment.py,Simple Assignment,84,84,4,A1
+examples,marker_modal_deployment.py,Simple Assignment,327,327,4,A1
+examples,marker_modal_deployment.py,Simple Assignment,59,59,8,A1
+examples,marker_modal_deployment.py,Simple Assignment,90,90,8,A1
+examples,marker_modal_deployment.py,Simple Assignment,112,112,8,A1
+examples,marker_modal_deployment.py,Simple Assignment,140,140,8,A1
+examples,marker_modal_deployment.py,Simple Assignment,150,155,8,A1
+examples,marker_modal_deployment.py,Simple Assignment,336,340,8,A1
+examples,marker_modal_deployment.py,Simple Assignment,341,341,8,A1
+examples,marker_modal_deployment.py,Simple Assignment,355,355,8,A1
+examples,marker_modal_deployment.py,Simple Assignment,356,356,8,A1
+examples,marker_modal_deployment.py,Simple Assignment,116,116,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,159,159,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,160,160,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,163,163,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,164,164,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,191,191,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,192,192,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,371,371,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,372,372,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,375,375,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,378,378,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,384,384,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,120,120,12,A1
+examples,marker_modal_deployment.py,Simple Assignment,208,208,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,211,211,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,216,223,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,226,226,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,227,227,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,228,228,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,230,236,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,240,240,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,243,243,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,244,244,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,245,245,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,246,246,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,267,267,16,A1
+examples,marker_modal_deployment.py,Simple Assignment,250,250,20,A1
+examples,marker_modal_deployment.py,Simple Assignment,253,253,20,A1
+examples,marker_modal_deployment.py,Simple Assignment,257,257,24,A1
+examples,marker_modal_deployment.py,Simple Assignment,259,259,24,A1
+examples,marker_modal_deployment.py,Simple Assignment,263,263,24,A1
+examples,marker_modal_deployment.py,Simple Assignment,265,265,24,A1
+examples,marker_modal_deployment.py,'raise' exception,94,94,8,B1
+examples,marker_modal_deployment.py,'raise' exception,188,188,16,B1
+examples,marker_modal_deployment.py,'raise' exception,194,197,16,B1
+examples,marker_modal_deployment.py,'raise' exception,201,204,16,B1
+examples,marker_modal_deployment.py,'raise' exception,294,297,16,B1
+examples,marker_modal_deployment.py,Import,5,5,0,A2
+examples,marker_modal_deployment.py,Import,6,6,0,A2
+examples,marker_modal_deployment.py,Import,37,37,4,A2
+examples,marker_modal_deployment.py,Import,38,38,4,A2
+examples,marker_modal_deployment.py,Import,81,81,4,A2
+examples,marker_modal_deployment.py,Import,319,319,4,A2
+examples,marker_modal_deployment.py,Import,320,320,4,A2
+examples,marker_modal_deployment.py,Import,108,108,8,A2
+examples,marker_modal_deployment.py,Import,109,109,8,A2
+examples,marker_modal_deployment.py,Import,124,124,8,A2
+examples,marker_modal_deployment.py,Import,125,125,8,A2
+examples,marker_modal_deployment.py,Import,126,126,8,A2
+examples,marker_modal_deployment.py,Import,127,127,8,A2
+examples,marker_modal_deployment.py,From,7,7,0,A2
+examples,marker_modal_deployment.py,From,39,39,4,A2
+examples,marker_modal_deployment.py,From,321,321,4,A2
+examples,marker_modal_deployment.py,From,128,128,8,A2
+examples,marker_modal_deployment.py,From,129,129,8,A2
+examples,marker_modal_deployment.py,From,130,130,8,A2
+examples,marker_modal_deployment.py,From,132,132,8,A2
+examples,marker_modal_deployment.py,From,133,133,8,A2
+examples,marker_modal_deployment.py,From,135,135,8,A2
+examples,marker_modal_deployment.py,From,136,136,8,A2
+examples,marker_modal_deployment.py,From,137,137,8,A2
+examples,marker_modal_deployment.py,From,252,252,20,A2
+examples,marker_modal_deployment.py,Simple If statements,48,51,4,A1
+examples,marker_modal_deployment.py,Simple If statements,58,60,4,A1
+examples,marker_modal_deployment.py,Simple If statements,63,67,4,A1
+examples,marker_modal_deployment.py,Simple If statements,323,325,4,A1
+examples,marker_modal_deployment.py,Simple If statements,328,330,4,A1
+examples,marker_modal_deployment.py,Simple If statements,360,361,8,A1
+examples,marker_modal_deployment.py,Simple If statements,377,394,8,A1
+examples,marker_modal_deployment.py,Simple If statements,186,188,12,A1
+examples,marker_modal_deployment.py,Simple If statements,193,197,12,A1
+examples,marker_modal_deployment.py,Simple If statements,200,204,12,A1
+examples,marker_modal_deployment.py,Simple If statements,389,390,12,A1
+examples,marker_modal_deployment.py,Simple If statements,248,265,16,A1
+examples,marker_modal_deployment.py,Simple If statements,256,259,20,A1
+examples,marker_modal_deployment.py,Simple If statements,288,289,16,A1
+examples,marker_modal_deployment.py,For Loop with Tuple as name,262,265,20,A2
+examples,marker_modal_deployment.py,Exception --> try/except,89,94,4,B1
+examples,marker_modal_deployment.py,Exception --> try/except,335,346,4,B1
+examples,marker_modal_deployment.py,Exception --> try/except,354,364,4,B1
+examples,marker_modal_deployment.py,Exception --> try/except,369,397,4,B1
+examples,marker_modal_deployment.py,Exception --> try/except,115,120,8,B1
+examples,marker_modal_deployment.py,Exception --> try/except,206,297,12,B1
+examples,marker_modal_deployment.py,With,370,375,8,B1
+examples,marker_modal_deployment.py,With,385,386,12,B1
+examples,marker_modal_deployment.py,With,212,213,16,B1
+examples,marker_modal_deployment.py,Function with Simple argument with Default argument,33,69,0,A2
+examples,marker_modal_deployment.py,Function,77,94,0,A1
+examples,marker_modal_deployment.py,Function with Simple argument,106,120,4,A1
+examples,marker_modal_deployment.py,Function with Simple argument,123,299,4,A1
+examples,marker_modal_deployment.py,Return,69,69,4,A1
+examples,marker_modal_deployment.py,Return,91,91,8,A1
+examples,marker_modal_deployment.py,Return,299,299,8,A1
+examples,marker_modal_deployment.py,Return,325,325,8,A1
+examples,marker_modal_deployment.py,Return,330,330,8,A1
+examples,marker_modal_deployment.py,Return,166,173,12,A1
+examples,marker_modal_deployment.py,Return,346,346,8,A1
+examples,marker_modal_deployment.py,Return,274,284,16,A1
+examples,marker_modal_deployment.py,Generator Function (yield),146,146,12,C1
+examples,marker_modal_deployment.py,Simple Class ,104,299,0,B1

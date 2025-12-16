@@ -1,0 +1,117 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+utils,gpu.py,Simple List,36,36,27,A1
+utils,gpu.py,Simple List,47,53,16,A1
+utils,gpu.py,Simple List,84,84,16,A1
+utils,gpu.py,Simple List,106,106,16,A1
+utils,gpu.py,Simple Tuple,38,38,15,A1
+utils,gpu.py,Simple Tuple,63,63,15,A1
+utils,gpu.py,Simple Tuple,92,92,15,A1
+utils,gpu.py,Simple Atributte,15,15,8,A2
+utils,gpu.py,Simple Atributte,16,16,8,A2
+utils,gpu.py,Simple Atributte,17,17,8,A2
+utils,gpu.py,Simple Atributte,20,20,11,A2
+utils,gpu.py,Simple Atributte,25,25,11,A2
+utils,gpu.py,Simple Atributte,30,30,25,A2
+utils,gpu.py,Simple Atributte,43,43,19,A2
+utils,gpu.py,Simple Atributte,83,83,12,A2
+utils,gpu.py,Simple Atributte,113,113,15,A2
+utils,gpu.py,Simple Atributte,128,128,8,A2
+utils,gpu.py,Simple Atributte,21,21,12,A2
+utils,gpu.py,Simple Atributte,26,26,12,A2
+utils,gpu.py,Simple Atributte,33,33,15,A2
+utils,gpu.py,Simple Atributte,36,36,12,A2
+utils,gpu.py,Simple Atributte,38,38,16,A2
+utils,gpu.py,Simple Atributte,42,42,15,A2
+utils,gpu.py,Simple Atributte,46,46,21,A2
+utils,gpu.py,Simple Atributte,63,63,16,A2
+utils,gpu.py,Simple Atributte,64,64,19,A2
+utils,gpu.py,Simple Atributte,67,67,15,A2
+utils,gpu.py,Simple Atributte,72,72,18,A2
+utils,gpu.py,Simple Atributte,79,79,12,A2
+utils,gpu.py,Simple Atributte,80,80,12,A2
+utils,gpu.py,Simple Atributte,83,83,38,A2
+utils,gpu.py,Simple Atributte,90,90,12,A2
+utils,gpu.py,Simple Atributte,92,92,16,A2
+utils,gpu.py,Simple Atributte,101,101,18,A2
+utils,gpu.py,Simple Atributte,105,105,12,A2
+utils,gpu.py,Simple Atributte,119,119,16,A2
+utils,gpu.py,Simple Atributte,121,121,12,A2
+utils,gpu.py,Simple Atributte,33,33,15,A2
+utils,gpu.py,Simple Atributte,59,59,26,A2
+utils,gpu.py,Simple Atributte,72,72,18,A2
+utils,gpu.py,Simple Atributte,73,73,42,A2
+utils,gpu.py,Simple Atributte,74,74,41,A2
+utils,gpu.py,Simple Atributte,86,86,23,A2
+utils,gpu.py,Simple Atributte,87,87,23,A2
+utils,gpu.py,Simple Atributte,93,93,12,A2
+utils,gpu.py,Simple Atributte,101,101,18,A2
+utils,gpu.py,Simple Atributte,102,102,64,A2
+utils,gpu.py,Simple Atributte,103,103,63,A2
+utils,gpu.py,Simple Atributte,114,114,16,A2
+utils,gpu.py,Simple Atributte,117,117,23,A2
+utils,gpu.py,Simple Atributte,123,123,12,A2
+utils,gpu.py,Simple Atributte,52,52,24,A2
+utils,gpu.py,Simple Atributte,59,59,26,A2
+utils,gpu.py,Simple Atributte,90,90,63,A2
+utils,gpu.py,Simple Atributte,114,114,16,A2
+utils,gpu.py,Simple Atributte,116,116,20,A2
+utils,gpu.py,Simple Atributte,121,121,63,A2
+utils,gpu.py,Simple Atributte,94,94,56,A2
+utils,gpu.py,Simple Atributte,116,116,20,A2
+utils,gpu.py,Simple Atributte,118,118,20,A2
+utils,gpu.py,Simple Atributte,124,124,55,A2
+utils,gpu.py,Simple Atributte,118,118,20,A2
+utils,gpu.py,Simple Assignment,8,8,0,A1
+utils,gpu.py,Simple Assignment,15,15,8,A1
+utils,gpu.py,Simple Assignment,16,16,8,A1
+utils,gpu.py,Simple Assignment,17,17,8,A1
+utils,gpu.py,Simple Assignment,46,57,12,A1
+utils,gpu.py,Simple Assignment,59,59,12,A1
+utils,gpu.py,Simple Assignment,60,60,12,A1
+utils,gpu.py,Simple Assignment,72,72,12,A1
+utils,gpu.py,Simple Assignment,73,73,12,A1
+utils,gpu.py,Simple Assignment,74,74,12,A1
+utils,gpu.py,Simple Assignment,75,75,12,A1
+utils,gpu.py,Simple Assignment,76,76,12,A1
+utils,gpu.py,Simple Assignment,83,88,12,A1
+utils,gpu.py,Simple Assignment,101,101,12,A1
+utils,gpu.py,Simple Assignment,102,102,12,A1
+utils,gpu.py,Simple Assignment,103,103,12,A1
+utils,gpu.py,Simple Assignment,119,119,16,A1
+utils,gpu.py,Import,1,1,0,A2
+utils,gpu.py,Import,2,2,0,A2
+utils,gpu.py,Import,3,3,0,A2
+utils,gpu.py,From,5,5,0,A2
+utils,gpu.py,From,6,6,0,A2
+utils,gpu.py,Simple If statements,20,21,8,A1
+utils,gpu.py,Simple If statements,25,26,8,A1
+utils,gpu.py,Simple If statements,33,34,8,A1
+utils,gpu.py,Simple If statements,42,43,8,A1
+utils,gpu.py,Simple If statements,67,68,8,A1
+utils,gpu.py,Simple If statements,113,119,12,A1
+utils,gpu.py,Exception --> try/except,35,39,8,B1
+utils,gpu.py,Exception --> try/except,45,64,8,B1
+utils,gpu.py,Exception --> try/except,70,96,8,B1
+utils,gpu.py,Exception --> try/except,99,125,8,B1
+utils,gpu.py,Exception --> try/except,115,118,16,B1
+utils,gpu.py,Function with Simple argument,14,17,4,A1
+utils,gpu.py,Function with Simple argument,19,22,4,A1
+utils,gpu.py,Function with Simple argument,24,26,4,A1
+utils,gpu.py,Function,29,30,4,A1
+utils,gpu.py,Function with Simple argument,32,39,4,A1
+utils,gpu.py,Function with Simple argument,41,64,4,A1
+utils,gpu.py,Function with Simple argument,66,96,4,A1
+utils,gpu.py,Function with Simple argument,98,125,4,A1
+utils,gpu.py,Function with Simple argument,127,128,4,A1
+utils,gpu.py,Return,22,22,8,A1
+utils,gpu.py,Return,30,30,8,A1
+utils,gpu.py,Return,34,34,12,A1
+utils,gpu.py,Return,37,37,12,A1
+utils,gpu.py,Return,43,43,12,A1
+utils,gpu.py,Return,61,61,12,A1
+utils,gpu.py,Return,68,68,12,A1
+utils,gpu.py,Return,91,91,12,A1
+utils,gpu.py,Return,39,39,12,A1
+utils,gpu.py,Return,64,64,12,A1
+utils,gpu.py,Return,96,96,12,A1
+utils,gpu.py,Simple Class ,11,128,0,B1

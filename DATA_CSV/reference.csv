@@ -1,0 +1,11 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+blocks,reference.py,Super Function,13,13,19,C2
+blocks,reference.py,Simple Atributte,6,6,29,A2
+blocks,reference.py,Simple Atributte,13,13,19,A2
+blocks,reference.py,Simple Atributte,16,16,28,A2
+blocks,reference.py,Simple Assignment,13,15,8,A1
+blocks,reference.py,From,1,1,0,A2
+blocks,reference.py,From,2,2,0,A2
+blocks,reference.py,Function with Simple argument with Default argument,10,16,4,A2
+blocks,reference.py,Return,16,16,8,A1
+blocks,reference.py,Inherited Class from Block,5,16,0,B1

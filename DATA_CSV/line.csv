@@ -1,0 +1,146 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+text,line.py,Simple List,105,105,24,A1
+text,line.py,Simple List,126,126,42,A1
+text,line.py,Simple List,121,121,21,A1
+text,line.py,Simple Tuple,48,48,53,A1
+text,line.py,Simple Tuple,62,62,53,A1
+text,line.py,Simple Atributte,40,40,29,A2
+text,line.py,Simple Atributte,14,14,11,A2
+text,line.py,Simple Atributte,28,28,19,A2
+text,line.py,Simple Atributte,28,28,56,A2
+text,line.py,Simple Atributte,29,29,33,A2
+text,line.py,Simple Atributte,126,126,8,A2
+text,line.py,Simple Atributte,18,18,19,A2
+text,line.py,Simple Atributte,33,33,7,A2
+text,line.py,Simple Atributte,48,48,21,A2
+text,line.py,Simple Atributte,50,50,25,A2
+text,line.py,Simple Atributte,51,51,15,A2
+text,line.py,Simple Atributte,58,58,15,A2
+text,line.py,Simple Atributte,62,62,21,A2
+text,line.py,Simple Atributte,65,65,15,A2
+text,line.py,Simple Atributte,73,73,15,A2
+text,line.py,Simple Atributte,87,87,24,A2
+text,line.py,Simple Atributte,89,89,19,A2
+text,line.py,Simple Atributte,90,90,24,A2
+text,line.py,Simple Atributte,90,90,47,A2
+text,line.py,Simple Atributte,107,107,28,A2
+text,line.py,Simple Atributte,126,126,23,A2
+text,line.py,Simple Atributte,129,129,11,A2
+text,line.py,Simple Atributte,130,130,12,A2
+text,line.py,Simple Atributte,130,130,29,A2
+text,line.py,Simple Atributte,135,135,11,A2
+text,line.py,Simple Atributte,136,136,12,A2
+text,line.py,Simple Atributte,136,136,27,A2
+text,line.py,Simple Atributte,48,48,54,A2
+text,line.py,Simple Atributte,53,53,17,A2
+text,line.py,Simple Atributte,62,62,54,A2
+text,line.py,Simple Atributte,63,63,25,A2
+text,line.py,Simple Atributte,63,63,37,A2
+text,line.py,Simple Atributte,70,70,15,A2
+text,line.py,Simple Atributte,75,75,17,A2
+text,line.py,Simple Atributte,93,93,24,A2
+text,line.py,Simple Atributte,94,94,33,A2
+text,line.py,Simple Atributte,97,97,23,A2
+text,line.py,Simple Atributte,106,106,11,A2
+text,line.py,Simple Atributte,119,119,20,A2
+text,line.py,Simple Atributte,120,120,15,A2
+text,line.py,Simple Atributte,126,126,23,A2
+text,line.py,Simple Atributte,126,126,43,A2
+text,line.py,Simple Atributte,131,131,13,A2
+text,line.py,Simple Atributte,132,132,12,A2
+text,line.py,Simple Atributte,137,137,13,A2
+text,line.py,Simple Atributte,138,138,12,A2
+text,line.py,Simple Atributte,22,22,55,A2
+text,line.py,Simple Atributte,66,66,29,A2
+text,line.py,Simple Atributte,77,77,17,A2
+text,line.py,Simple Atributte,106,106,46,A2
+text,line.py,Simple Atributte,108,108,24,A2
+text,line.py,Simple Atributte,109,109,16,A2
+text,line.py,Simple Atributte,116,116,17,A2
+text,line.py,Simple Atributte,132,132,29,A2
+text,line.py,Simple Atributte,132,132,46,A2
+text,line.py,Simple Atributte,22,22,20,A2
+text,line.py,Simple Atributte,71,71,41,A2
+text,line.py,Simple Atributte,110,110,20,A2
+text,line.py,Simple Atributte,138,138,36,A2
+text,line.py,Simple Atributte,138,138,51,A2
+text,line.py,Simple Assignment,10,10,0,A1
+text,line.py,Simple Assignment,18,18,4,A1
+text,line.py,Simple Assignment,21,21,4,A1
+text,line.py,Simple Assignment,26,26,4,A1
+text,line.py,Simple Assignment,28,28,4,A1
+text,line.py,Simple Assignment,29,31,4,A1
+text,line.py,Simple Assignment,34,34,8,A1
+text,line.py,Simple Assignment,47,47,8,A1
+text,line.py,Simple Assignment,61,61,8,A1
+text,line.py,Simple Assignment,85,85,8,A1
+text,line.py,Simple Assignment,89,89,8,A1
+text,line.py,Simple Assignment,90,90,8,A1
+text,line.py,Simple Assignment,105,105,8,A1
+text,line.py,Simple Assignment,126,126,8,A1
+text,line.py,Simple Assignment,50,50,12,A1
+text,line.py,Simple Assignment,63,63,12,A1
+text,line.py,Simple Assignment,92,92,12,A1
+text,line.py,Simple Assignment,93,93,12,A1
+text,line.py,Simple Assignment,94,94,12,A1
+text,line.py,Simple Assignment,95,95,12,A1
+text,line.py,Simple Assignment,97,99,12,A1
+text,line.py,Simple Assignment,130,130,12,A1
+text,line.py,Simple Assignment,136,136,12,A1
+text,line.py,Simple Assignment,66,66,16,A1
+text,line.py,Simple Assignment,71,71,16,A1
+text,line.py,Simple Assignment,108,108,16,A1
+text,line.py,Assigment with sum (total = total + 1),132,132,12,A1
+text,line.py,Simple Assignment,138,138,12,A1
+text,line.py,Simple Assignment,68,68,20,A1
+text,line.py,Simplified incremental Assignment with increase amount,87,87,12,A2
+text,line.py,Simplified incremental Assignment with increase amount,52,52,16,A2
+text,line.py,Simplified incremental Assignment with increase amount,74,74,16,A2
+text,line.py,Simplified incremental Assignment with increase amount,54,54,16,A2
+text,line.py,Simplified incremental Assignment with increase amount,56,56,16,A2
+text,line.py,Simplified incremental Assignment with increase amount,76,76,16,A2
+text,line.py,Simplified incremental Assignment with increase amount,78,78,16,A2
+text,line.py,Simplified incremental Assignment with increase amount,80,80,16,A2
+text,line.py,Import,1,1,0,A2
+text,line.py,Import're' module,2,2,0,C1
+text,line.py,Import,5,5,0,A2
+text,line.py,From,3,3,0,A2
+text,line.py,From,7,7,0,A2
+text,line.py,From,8,8,0,A2
+text,line.py,Simple If statements,19,20,4,A1
+text,line.py,Simple If statements,33,34,4,A1
+text,line.py,Simple If statements,91,99,8,A1
+text,line.py,Simple If statements,106,113,8,A1
+text,line.py,Simple If statements,129,132,8,A1
+text,line.py,Simple If statements,135,138,8,A1
+text,line.py,Simple If statements,51,56,12,A1
+text,line.py,Simple If statements,65,68,12,A1
+text,line.py,Simple If statements,70,71,12,A1
+text,line.py,Simple If statements,73,80,12,A1
+text,line.py,Simple If statements,131,132,8,A1
+text,line.py,Simple If statements,137,138,8,A1
+text,line.py,Simple If statements,53,56,12,A1
+text,line.py,Simple If statements,67,68,16,A1
+text,line.py,Simple If statements,75,80,12,A1
+text,line.py,Simple If statements,77,80,12,A1
+text,line.py,Simple For Loop,48,56,8,A1
+text,line.py,Simple For Loop,62,80,8,A1
+text,line.py,Simple For Loop,86,87,8,A1
+text,line.py,Simple For Loop,107,113,12,A1
+text,line.py,Function with Simple argument,13,14,0,A1
+text,line.py,Function with Simple argument,17,22,0,A1
+text,line.py,Function with Simple argument,25,36,0,A1
+text,line.py,Function with Simple argument,46,58,4,A1
+text,line.py,Function with Simple argument with Default argument,60,82,4,A2
+text,line.py,Function with Simple argument,84,100,4,A1
+text,line.py,Function with Simple argument with Default argument,102,123,4,A2
+text,line.py,Function with Simple argument,125,138,4,A1
+text,line.py,Return,14,14,4,A1
+text,line.py,Return,22,22,4,A1
+text,line.py,Return,36,36,4,A1
+text,line.py,Return,20,20,8,A1
+text,line.py,Return,58,58,8,A1
+text,line.py,Return,82,82,8,A1
+text,line.py,Return,100,100,8,A1
+text,line.py,Return,115,123,8,A1
+text,line.py,Inherited Class from Block,39,138,0,B1

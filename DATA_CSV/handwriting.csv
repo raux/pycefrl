@@ -1,0 +1,13 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+blocks,handwriting.py,Super Function,17,17,19,C2
+blocks,handwriting.py,Simple Atributte,6,6,29,A2
+blocks,handwriting.py,Simple Atributte,14,14,11,A2
+blocks,handwriting.py,Simple Atributte,15,15,19,A2
+blocks,handwriting.py,Simple Atributte,17,17,19,A2
+blocks,handwriting.py,From,1,1,0,A2
+blocks,handwriting.py,From,2,2,0,A2
+blocks,handwriting.py,Simple If statements,14,19,8,A1
+blocks,handwriting.py,Function with Simple argument with Default argument,11,19,4,A2
+blocks,handwriting.py,Return,15,15,12,A1
+blocks,handwriting.py,Return,17,19,12,A1
+blocks,handwriting.py,Inherited Class from Block,5,19,0,B1

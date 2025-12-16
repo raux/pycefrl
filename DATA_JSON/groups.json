@@ -1,0 +1,154 @@
+{
+    "groups": {
+        "__init__.py": {
+            "Levels": {
+                "A2": 6
+            },
+            "Class": {
+                "From": 6
+            }
+        },
+        "base.py": {
+            "Levels": {
+                "B1": 2,
+                "A2": 1
+            },
+            "Class": {
+                "'pass' statement": 1,
+                "From": 1,
+                "Inherited Class from Block": 1
+            }
+        },
+        "figure.py": {
+            "Levels": {
+                "C2": 1,
+                "A2": 7,
+                "A1": 4,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 1,
+                "Simple Atributte": 4,
+                "Simple Assignment": 1,
+                "From": 2,
+                "Simple If statements": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 2,
+                "Inherited Class from Group": 1
+            }
+        },
+        "list.py": {
+            "Levels": {
+                "C2": 1,
+                "A2": 10,
+                "A1": 6,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 1,
+                "Simple Atributte": 6,
+                "Simple Assignment": 2,
+                "Simplified incremental Assignment with increase amount": 1,
+                "From": 2,
+                "Simple If statements": 2,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 2,
+                "Inherited Class from Group": 1
+            }
+        },
+        "page.py": {
+            "Levels": {
+                "A1": 162,
+                "A2": 191,
+                "C2": 5,
+                "B1": 12,
+                "C1": 14,
+                "B2": 1
+            },
+            "Class": {
+                "Simple List": 7,
+                "Simple Tuple": 20,
+                "Simple Dictionary": 1,
+                "'enumerate' call function": 4,
+                "'range' call function": 1,
+                "Super Function": 1,
+                "If statements expression (else)": 1,
+                "Simple Atributte": 163,
+                "List Comprehension withIf statements": 3,
+                "Simple List Comprehension": 11,
+                "Simple Assignment": 72,
+                "Assigment with sum (total = total +)": 1,
+                "Simplified incremental Assignment with increase amount": 2,
+                "'assert' exception": 1,
+                "Import with 'as' extension ": 1,
+                "From": 12,
+                "Simple If statements": 26,
+                "Simple For Loop": 9,
+                "For Loop with Tuple as name": 5,
+                " Nested For Loop": 3,
+                "'continue' statement": 7,
+                "Function with Simple argument": 13,
+                "Function with Simple argument with * argument  with Keyword-Only argument with ** argument": 1,
+                "Function with Simple argument with Default argument": 4,
+                "Lambda": 1,
+                "Return": 14,
+                "Inherited Class from Group": 1
+            }
+        },
+        "picture.py": {
+            "Levels": {
+                "C2": 1,
+                "A2": 7,
+                "A1": 4,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 1,
+                "Simple Atributte": 4,
+                "Simple Assignment": 1,
+                "From": 2,
+                "Simple If statements": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 2,
+                "Inherited Class from Group": 1
+            }
+        },
+        "table.py": {
+            "Levels": {
+                "C2": 1,
+                "A2": 9,
+                "A1": 3,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 1,
+                "Simple Atributte": 4,
+                "From": 4,
+                "Simple If statements": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 2,
+                "Inherited Class from Group": 1
+            }
+        },
+        "test_list_grouping.py": {
+            "Levels": {
+                "A1": 8,
+                "B1": 1,
+                "A2": 12,
+                "B2": 1
+            },
+            "Class": {
+                "Simple List": 2,
+                " List Dictionary": 1,
+                "Simple Atributte": 9,
+                "Simple Assignment": 3,
+                "'assert' exception": 1,
+                "Import": 1,
+                "From": 2,
+                "Simple If statements": 1,
+                "Simple For Loop": 1,
+                "Function with Simple argument": 1
+            }
+        }
+    }
+}

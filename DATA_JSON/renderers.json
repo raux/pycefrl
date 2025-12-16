@@ -1,0 +1,285 @@
+{
+    "renderers": {
+        "__init__.py": {
+            "Levels": {
+                "A1": 68,
+                "A2": 76,
+                "C1": 2,
+                "B1": 5
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Tuple": 11,
+                "Simple Dictionary": 5,
+                "Simple Atributte": 56,
+                "Simple List Comprehension": 1,
+                "Simple Assignment": 28,
+                "'raise' exception": 1,
+                "Import": 2,
+                "Import're' module": 1,
+                "From": 9,
+                "Simple If statements": 10,
+                "Simple For Loop": 2,
+                " Nested For Loop": 1,
+                "Simple While Loop": 1,
+                "'break' statement": 2,
+                "Function with Simple argument with Default argument": 3,
+                "Function with Simple argument": 6,
+                "Return": 10,
+                "Simple Class ": 1
+            }
+        },
+        "chunk.py": {
+            "Levels": {
+                "A1": 36,
+                "A2": 49,
+                "C1": 5,
+                "B2": 3,
+                "B1": 3
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 3,
+                "Simple Dictionary": 3,
+                "Simple Atributte": 40,
+                "Simple List Comprehension": 4,
+                "Simple Dictionary Comprehension": 1,
+                "Simple Assignment": 13,
+                "Import": 1,
+                "From": 5,
+                "Simple If statements": 5,
+                "Simple For Loop": 4,
+                "Recursive Functions": 3,
+                "Function with Simple argument": 1,
+                "Return": 8,
+                "Inherited Class from BaseModel": 2,
+                "Inherited Class from JSONRenderer": 1
+            }
+        },
+        "extraction.py": {
+            "Levels": {
+                "A2": 5,
+                "A1": 2,
+                "B1": 2
+            },
+            "Class": {
+                "Simple Atributte": 2,
+                "From": 3,
+                "Function with Simple argument": 1,
+                "Return": 1,
+                "Inherited Class from BaseModel": 1,
+                "Inherited Class from BaseRenderer": 1
+            }
+        },
+        "html.py": {
+            "Levels": {
+                "A1": 63,
+                "A2": 70,
+                "B1": 4
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Tuple": 6,
+                "Simple Dictionary": 2,
+                "Simple Atributte": 56,
+                "Simple Assignment": 34,
+                "Import": 2,
+                "From": 8,
+                "Simple If statements": 11,
+                " Nested For Loop": 1,
+                "Simple For Loop": 3,
+                "'break' statement": 2,
+                "Function with Simple argument": 3,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 5,
+                "Inherited Class from BaseModel": 1,
+                "Inherited Class from BaseRenderer": 1
+            }
+        },
+        "json.py": {
+            "Levels": {
+                "A1": 27,
+                "A2": 44,
+                "B1": 3
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 7,
+                "Simple Dictionary": 1,
+                "Simple Atributte": 35,
+                "Simple Assignment": 8,
+                "From": 7,
+                "Simple If statements": 1,
+                "For Loop with Tuple as name": 1,
+                "Simple For Loop": 2,
+                "Function with Simple argument": 3,
+                "Return": 4,
+                "Inherited Class from BaseModel": 2,
+                "Inherited Class from BaseRenderer": 1
+            }
+        },
+        "markdown.py": {
+            "Levels": {
+                "A1": 142,
+                "C2": 9,
+                "A2": 127,
+                "B1": 12,
+                "C1": 5
+            },
+            "Class": {
+                "Simple List": 10,
+                "Simple Tuple": 13,
+                "'enumerate' call function": 6,
+                "Super Function": 3,
+                "'range' call function": 5,
+                "If statements expression (else)": 2,
+                "Simple Atributte": 91,
+                "Simple List Comprehension": 2,
+                "Generator Expression": 2,
+                "Simple Assignment": 51,
+                "Assigment with sum (total = total +)": 4,
+                "Simplified incremental Assignment with increase amount": 8,
+                "Import're' module": 1,
+                "Import": 2,
+                "From": 9,
+                "Simple If statements": 29,
+                "Simple For Loop": 3,
+                "For Loop with Tuple as name": 6,
+                " Nested For Loop": 4,
+                "Simple While Loop": 1,
+                "'continue' statement": 4,
+                "Exception --> try/except": 1,
+                "Function with Simple argument": 11,
+                "Function with Simple argument with ** argument": 1,
+                "Function with Simple argument with Default argument": 2,
+                "Function": 1,
+                "Return": 20,
+                "Inherited Class from MarkdownConverter Using the constructor method --> __init__": 1,
+                "Inherited Class from BaseModel": 1,
+                "Inherited Class from HTMLRenderer": 1
+            }
+        },
+        "ocr_json.py": {
+            "Levels": {
+                "A1": 32,
+                "B1": 8,
+                "A2": 59,
+                "C1": 6
+            },
+            "Class": {
+                "Simple List": 5,
+                "Simple Tuple": 4,
+                "If statements expression (else)": 1,
+                "Simple Atributte": 52,
+                "List Comprehension withIf statements": 3,
+                "Simple List Comprehension": 3,
+                "Simple Assignment": 13,
+                "Simplified incremental Assignment with increase amount": 1,
+                "From": 5,
+                "Simple If statements": 3,
+                " Nested For Loop": 1,
+                "Simple For Loop": 3,
+                "'continue' statement": 2,
+                "Function with Simple argument": 2,
+                "Return": 2,
+                "Inherited Class from BaseModel": 4,
+                "Inherited Class from BaseRenderer": 1
+            }
+        },
+        "test_chunk_renderer.py": {
+            "Levels": {
+                "A1": 10,
+                "B1": 1,
+                "A2": 13,
+                "C1": 3,
+                "B2": 10
+            },
+            "Class": {
+                "Simple List": 1,
+                " List Dictionary": 1,
+                "Simple Atributte": 11,
+                "List Comprehension withIf statements": 3,
+                "Simple Assignment": 8,
+                "'assert' exception": 10,
+                "Import": 1,
+                "From": 1,
+                "Function with Simple argument": 1
+            }
+        },
+        "test_extract_images.py": {
+            "Levels": {
+                "A1": 8,
+                "B1": 2,
+                "A2": 13,
+                "B2": 2
+            },
+            "Class": {
+                "Simple List": 2,
+                " List Dictionary": 2,
+                "Simple Dictionary": 1,
+                "Simple Atributte": 10,
+                "Simple Assignment": 4,
+                "'assert' exception": 2,
+                "Import": 1,
+                "From": 1,
+                "Function with Simple argument": 2
+            }
+        },
+        "test_html_renderer.py": {
+            "Levels": {
+                "A1": 4,
+                "B1": 1,
+                "A2": 5,
+                "B2": 1
+            },
+            "Class": {
+                "Simple List": 1,
+                " List Dictionary": 1,
+                "Simple Atributte": 3,
+                "Simple Assignment": 2,
+                "'assert' exception": 1,
+                "Import": 1,
+                "From": 1,
+                "Function with Simple argument": 1
+            }
+        },
+        "test_json_renderer.py": {
+            "Levels": {
+                "A1": 4,
+                "B1": 1,
+                "A2": 8,
+                "B2": 3
+            },
+            "Class": {
+                "Simple List": 1,
+                " List Dictionary": 1,
+                "Simple Atributte": 6,
+                "Simple Assignment": 2,
+                "'assert' exception": 3,
+                "Import": 1,
+                "From": 1,
+                "Function with Simple argument": 1
+            }
+        },
+        "test_markdown_renderer.py": {
+            "Levels": {
+                "A1": 40,
+                "B1": 7,
+                "A2": 43,
+                "B2": 9
+            },
+            "Class": {
+                "Simple List": 11,
+                "Simple Tuple": 1,
+                " List Dictionary": 7,
+                "Simple Dictionary": 4,
+                "Simple Atributte": 35,
+                "Simple Assignment": 21,
+                "'assert' exception": 9,
+                "Import": 1,
+                "From": 3,
+                "Function with Simple argument": 7
+            }
+        }
+    }
+}

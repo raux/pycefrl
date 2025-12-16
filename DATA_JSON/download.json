@@ -1,0 +1,110 @@
+{
+    "download": {
+        "base.py": {
+            "Levels": {
+                "A1": 23,
+                "A2": 38,
+                "C2": 1,
+                "B1": 9
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Tuple": 1,
+                "Simple Dictionary": 1,
+                "'enumerate' call function": 1,
+                "Files --> 'open' call function": 1,
+                "Print": 2,
+                "Simple Atributte": 29,
+                "Simple Assignment": 11,
+                "Assigment with sum (total = total +)": 1,
+                "'raise' exception": 1,
+                "Import": 2,
+                "From": 3,
+                "Simple If statements": 2,
+                "Simple For Loop": 1,
+                "For Loop with Tuple as name": 1,
+                "'break' statement": 1,
+                "'continue' statement": 3,
+                "Exception --> try/except": 1,
+                "With": 2,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument": 4,
+                "Simple Class ": 1
+            }
+        },
+        "llamaparse.py": {
+            "Levels": {
+                "A1": 20,
+                "A2": 25,
+                "B1": 2
+            },
+            "Class": {
+                "Simple Tuple": 1,
+                "Simple Dictionary": 3,
+                "'range' call function": 1,
+                "Simple Atributte": 16,
+                "Simple Assignment": 12,
+                "Assigment with sum (total = total +)": 1,
+                "'raise' exception": 1,
+                "Import": 3,
+                "From": 1,
+                "Simple If statements": 2,
+                "Simple For Loop": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument": 1,
+                "Return": 2,
+                "Inherited Class from Downloader": 1
+            }
+        },
+        "main.py": {
+            "Levels": {
+                "A1": 4,
+                "A2": 11,
+                "B2": 1
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Dictionary": 1,
+                "Simple Atributte": 6,
+                "Simple Assignment": 2,
+                "Import": 1,
+                "From": 3,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1,
+                "Function with Simple argument": 1
+            }
+        },
+        "mathpix.py": {
+            "Levels": {
+                "A1": 35,
+                "A2": 23,
+                "B1": 7
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Dictionary": 5,
+                " Nested Dictionary": 1,
+                "If statements expression (else)": 1,
+                "Simple Atributte": 13,
+                "Simple Assignment": 22,
+                "Import": 3,
+                "From": 1,
+                "Simple If statements": 5,
+                "Simple While Loop": 1,
+                "'break' statement": 2,
+                "'continue' statement": 1,
+                "Function with Simple argument": 3,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 4,
+                "Inherited Class from Downloader": 1
+            }
+        },
+        "mistral.py": {
+            "Levels": {
+                "A1": 2
+            },
+            "Class": {
+                "Simple Tuple": 2
+            }
+        }
+    }
+}

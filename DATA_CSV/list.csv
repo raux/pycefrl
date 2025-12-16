@@ -1,0 +1,19 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+groups,list.py,Super Function,19,19,19,C2
+groups,list.py,Simple Atributte,6,6,29,A2
+groups,list.py,Simple Atributte,14,14,11,A2
+groups,list.py,Simple Atributte,24,24,11,A2
+groups,list.py,Simple Atributte,19,19,19,A2
+groups,list.py,Simple Atributte,15,15,19,A2
+groups,list.py,Simple Atributte,23,23,34,A2
+groups,list.py,Simple Assignment,19,21,8,A1
+groups,list.py,Simple Assignment,23,23,8,A1
+groups,list.py,Simplified incremental Assignment with increase amount,25,25,12,A2
+groups,list.py,From,1,1,0,A2
+groups,list.py,From,2,2,0,A2
+groups,list.py,Simple If statements,14,17,8,A1
+groups,list.py,Simple If statements,24,25,8,A1
+groups,list.py,Function with Simple argument with Default argument,11,26,4,A2
+groups,list.py,Return,26,26,8,A1
+groups,list.py,Return,15,17,12,A1
+groups,list.py,Inherited Class from Group,5,26,0,B1

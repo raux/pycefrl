@@ -1,0 +1,188 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+scripts,extraction_app.py,Simple List,50,50,24,A1
+scripts,extraction_app.py,Simple List,65,65,9,A1
+scripts,extraction_app.py,Simple List,107,107,25,A1
+scripts,extraction_app.py,Simple List,225,225,52,A1
+scripts,extraction_app.py,Simple Tuple,31,31,5,A1
+scripts,extraction_app.py,Simple Tuple,50,50,0,A1
+scripts,extraction_app.py,Simple Tuple,107,107,4,A1
+scripts,extraction_app.py,Simple Tuple,31,31,16,A1
+scripts,extraction_app.py,Simple Dictionary,211,215,12,A2
+scripts,extraction_app.py,Files --> 'write' call function,113,113,8,A2
+scripts,extraction_app.py,Files --> 'write' call function,140,140,8,A2
+scripts,extraction_app.py,Files --> 'open' call function,207,207,13,A2
+scripts,extraction_app.py,Files --> 'write' call function,208,208,12,A2
+scripts,extraction_app.py,Files --> 'write' call function,224,224,16,A2
+scripts,extraction_app.py,If statements expression (else),115,117,12,B1
+scripts,extraction_app.py,Simple Atributte,97,97,11,A2
+scripts,extraction_app.py,Simple Atributte,16,16,0,A2
+scripts,extraction_app.py,Simple Atributte,17,17,0,A2
+scripts,extraction_app.py,Simple Atributte,49,49,0,A2
+scripts,extraction_app.py,Simple Atributte,50,50,13,A2
+scripts,extraction_app.py,Simple Atributte,55,55,0,A2
+scripts,extraction_app.py,Simple Atributte,63,63,24,A2
+scripts,extraction_app.py,Simple Atributte,69,69,37,A2
+scripts,extraction_app.py,Simple Atributte,70,70,4,A2
+scripts,extraction_app.py,Simple Atributte,72,72,21,A2
+scripts,extraction_app.py,Simple Atributte,73,73,4,A2
+scripts,extraction_app.py,Simple Atributte,75,75,28,A2
+scripts,extraction_app.py,Simple Atributte,76,76,4,A2
+scripts,extraction_app.py,Simple Atributte,184,184,13,A2
+scripts,extraction_app.py,Simple Atributte,186,186,10,A2
+scripts,extraction_app.py,Simple Atributte,189,189,12,A2
+scripts,extraction_app.py,Simple Atributte,190,190,21,A2
+scripts,extraction_app.py,Simple Atributte,36,36,18,A2
+scripts,extraction_app.py,Simple Atributte,63,63,24,A2
+scripts,extraction_app.py,Simple Atributte,70,70,4,A2
+scripts,extraction_app.py,Simple Atributte,73,73,4,A2
+scripts,extraction_app.py,Simple Atributte,76,76,4,A2
+scripts,extraction_app.py,Simple Atributte,84,84,7,A2
+scripts,extraction_app.py,Simple Atributte,85,85,8,A2
+scripts,extraction_app.py,Simple Atributte,86,86,8,A2
+scripts,extraction_app.py,Simple Atributte,89,89,7,A2
+scripts,extraction_app.py,Simple Atributte,90,90,8,A2
+scripts,extraction_app.py,Simple Atributte,91,91,8,A2
+scripts,extraction_app.py,Simple Atributte,92,92,8,A2
+scripts,extraction_app.py,Simple Atributte,95,95,4,A2
+scripts,extraction_app.py,Simple Atributte,101,101,18,A2
+scripts,extraction_app.py,Simple Atributte,105,105,4,A2
+scripts,extraction_app.py,Simple Atributte,107,107,17,A2
+scripts,extraction_app.py,Simple Atributte,184,184,13,A2
+scripts,extraction_app.py,Simple Atributte,186,186,10,A2
+scripts,extraction_app.py,Simple Atributte,189,189,12,A2
+scripts,extraction_app.py,Simple Atributte,190,190,21,A2
+scripts,extraction_app.py,Simple Atributte,81,81,25,A2
+scripts,extraction_app.py,Simple Atributte,81,81,40,A2
+scripts,extraction_app.py,Simple Atributte,84,84,7,A2
+scripts,extraction_app.py,Simple Atributte,85,85,8,A2
+scripts,extraction_app.py,Simple Atributte,86,86,8,A2
+scripts,extraction_app.py,Simple Atributte,89,89,7,A2
+scripts,extraction_app.py,Simple Atributte,90,90,8,A2
+scripts,extraction_app.py,Simple Atributte,91,91,8,A2
+scripts,extraction_app.py,Simple Atributte,92,92,8,A2
+scripts,extraction_app.py,Simple Atributte,113,113,8,A2
+scripts,extraction_app.py,Simple Atributte,116,116,15,A2
+scripts,extraction_app.py,Simple Atributte,115,115,12,A2
+scripts,extraction_app.py,Simple Atributte,119,119,28,A2
+scripts,extraction_app.py,Simple Atributte,140,140,8,A2
+scripts,extraction_app.py,Simple Atributte,156,156,24,A2
+scripts,extraction_app.py,Simple Atributte,199,199,8,A2
+scripts,extraction_app.py,Simple Atributte,202,202,8,A2
+scripts,extraction_app.py,Simple Atributte,205,205,9,A2
+scripts,extraction_app.py,Simple Atributte,206,206,19,A2
+scripts,extraction_app.py,Simple Atributte,210,210,8,A2
+scripts,extraction_app.py,Simple Atributte,234,234,8,A2
+scripts,extraction_app.py,Simple Atributte,42,42,23,A2
+scripts,extraction_app.py,Simple Atributte,43,43,17,A2
+scripts,extraction_app.py,Simple Atributte,44,44,20,A2
+scripts,extraction_app.py,Simple Atributte,116,116,15,A2
+scripts,extraction_app.py,Simple Atributte,115,115,12,A2
+scripts,extraction_app.py,Simple Atributte,129,129,33,A2
+scripts,extraction_app.py,Simple Atributte,135,135,19,A2
+scripts,extraction_app.py,Simple Atributte,165,165,16,A2
+scripts,extraction_app.py,Simple Atributte,206,206,19,A2
+scripts,extraction_app.py,Simple Atributte,208,208,12,A2
+scripts,extraction_app.py,Simple Atributte,220,220,47,A2
+scripts,extraction_app.py,Simple Atributte,226,226,16,A2
+scripts,extraction_app.py,Simple Atributte,226,226,44,A2
+scripts,extraction_app.py,Simple Atributte,81,81,60,A2
+scripts,extraction_app.py,Simple Atributte,132,132,16,A2
+scripts,extraction_app.py,Simple Atributte,133,133,25,A2
+scripts,extraction_app.py,Simple Atributte,134,134,16,A2
+scripts,extraction_app.py,Simple Atributte,161,161,30,A2
+scripts,extraction_app.py,Simple Atributte,162,162,25,A2
+scripts,extraction_app.py,Simple Atributte,163,163,16,A2
+scripts,extraction_app.py,Simple Atributte,164,164,16,A2
+scripts,extraction_app.py,Simple Atributte,165,165,16,A2
+scripts,extraction_app.py,Simple Atributte,171,171,16,A2
+scripts,extraction_app.py,Simple Atributte,208,208,20,A2
+scripts,extraction_app.py,Simple Atributte,220,220,47,A2
+scripts,extraction_app.py,Simple Atributte,224,224,16,A2
+scripts,extraction_app.py,Simple Atributte,225,225,16,A2
+scripts,extraction_app.py,Simple Atributte,226,226,16,A2
+scripts,extraction_app.py,Simple Atributte,229,229,12,A2
+scripts,extraction_app.py,Simple Atributte,136,136,16,A2
+scripts,extraction_app.py,Simple Atributte,167,167,16,A2
+scripts,extraction_app.py,Simple Atributte,179,179,16,A2
+scripts,extraction_app.py,Simple Atributte,225,225,24,A2
+scripts,extraction_app.py,Simple Assignment,16,16,0,A1
+scripts,extraction_app.py,Simple Assignment,17,17,0,A1
+scripts,extraction_app.py,Simple Assignment,50,50,0,A1
+scripts,extraction_app.py,Simple Assignment,52,52,0,A1
+scripts,extraction_app.py,Simple Assignment,53,53,0,A1
+scripts,extraction_app.py,Simple Assignment,97,97,0,A1
+scripts,extraction_app.py,Simple Assignment,184,184,0,A1
+scripts,extraction_app.py,Simple Assignment,186,188,0,A1
+scripts,extraction_app.py,Simple Assignment,189,189,0,A1
+scripts,extraction_app.py,Simple Assignment,190,194,0,A1
+scripts,extraction_app.py,Simple Assignment,32,32,4,A1
+scripts,extraction_app.py,Simple Assignment,33,33,4,A1
+scripts,extraction_app.py,Simple Assignment,34,34,4,A1
+scripts,extraction_app.py,Simple Assignment,35,35,4,A1
+scripts,extraction_app.py,Simple Assignment,36,36,4,A1
+scripts,extraction_app.py,Simple Assignment,38,38,4,A1
+scripts,extraction_app.py,Simple Assignment,39,45,4,A1
+scripts,extraction_app.py,Simple Assignment,70,70,4,A1
+scripts,extraction_app.py,Simple Assignment,73,73,4,A1
+scripts,extraction_app.py,Simple Assignment,76,76,4,A1
+scripts,extraction_app.py,Simple Assignment,81,81,4,A1
+scripts,extraction_app.py,Simple Assignment,100,100,4,A1
+scripts,extraction_app.py,Simple Assignment,101,103,4,A1
+scripts,extraction_app.py,Simple Assignment,104,104,4,A1
+scripts,extraction_app.py,Simple Assignment,107,107,4,A1
+scripts,extraction_app.py,Simple Assignment,110,110,4,A1
+scripts,extraction_app.py,Simple Assignment,85,85,8,A1
+scripts,extraction_app.py,Simple Assignment,86,86,8,A1
+scripts,extraction_app.py,Simple Assignment,90,90,8,A1
+scripts,extraction_app.py,Simple Assignment,91,91,8,A1
+scripts,extraction_app.py,Simple Assignment,92,92,8,A1
+scripts,extraction_app.py,Simple Assignment,114,118,8,A1
+scripts,extraction_app.py,Simple Assignment,119,126,8,A1
+scripts,extraction_app.py,Simple Assignment,141,154,8,A1
+scripts,extraction_app.py,Simple Assignment,156,156,8,A1
+scripts,extraction_app.py,Simple Assignment,206,206,8,A1
+scripts,extraction_app.py,Simple Assignment,219,221,12,A1
+scripts,extraction_app.py,Simple Assignment,133,133,16,A1
+scripts,extraction_app.py,Simple Assignment,161,161,16,A1
+scripts,extraction_app.py,Simple Assignment,162,162,16,A1
+scripts,extraction_app.py,Simple Assignment,165,165,16,A1
+scripts,extraction_app.py,Simple Assignment,226,226,16,A1
+scripts,extraction_app.py,Simple Assignment,137,137,16,A1
+scripts,extraction_app.py,Simple Assignment,168,168,16,A1
+scripts,extraction_app.py,Import,1,1,0,A2
+scripts,extraction_app.py,Import,2,2,0,A2
+scripts,extraction_app.py,Import,21,21,0,A2
+scripts,extraction_app.py,Import with 'as' extension ,24,24,0,B1
+scripts,extraction_app.py,From,4,4,0,A2
+scripts,extraction_app.py,From,5,5,0,A2
+scripts,extraction_app.py,From,7,7,0,A2
+scripts,extraction_app.py,From,8,14,0,A2
+scripts,extraction_app.py,From,19,19,0,A2
+scripts,extraction_app.py,From,22,22,0,A2
+scripts,extraction_app.py,From,26,26,0,A2
+scripts,extraction_app.py,Simple If statements,69,70,0,A1
+scripts,extraction_app.py,Simple If statements,72,73,0,A1
+scripts,extraction_app.py,Simple If statements,75,76,0,A1
+scripts,extraction_app.py,Simple If statements,79,92,0,A1
+scripts,extraction_app.py,Simple If statements,94,95,0,A1
+scripts,extraction_app.py,Simple If statements,197,234,0,A1
+scripts,extraction_app.py,Simple If statements,84,86,4,A1
+scripts,extraction_app.py,Simple If statements,89,92,4,A1
+scripts,extraction_app.py,Simple If statements,198,202,4,A1
+scripts,extraction_app.py,Simple If statements,233,234,4,A1
+scripts,extraction_app.py,Simple If statements,129,137,8,A1
+scripts,extraction_app.py,Simple If statements,158,181,8,A1
+scripts,extraction_app.py,Simple If statements,169,181,8,A1
+scripts,extraction_app.py,Simple If statements,175,181,12,A1
+scripts,extraction_app.py,Exception --> try/except,218,229,8,B1
+scripts,extraction_app.py,Exception --> try/except,130,137,12,B1
+scripts,extraction_app.py,Exception --> try/except,159,168,12,B1
+scripts,extraction_app.py,With,99,105,0,B1
+scripts,extraction_app.py,With,106,181,0,B1
+scripts,extraction_app.py,With,112,137,4,B1
+scripts,extraction_app.py,With,139,181,4,B1
+scripts,extraction_app.py,With,205,229,4,B1
+scripts,extraction_app.py,With,207,208,8,B1
+scripts,extraction_app.py,With,223,226,12,B1
+scripts,extraction_app.py,Function with Simple argument with Default argument,29,46,0,A2
+scripts,extraction_app.py,Return,46,46,4,A1

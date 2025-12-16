@@ -1,0 +1,160 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+builders,structure.py,Simple List,47,47,30,A1
+builders,structure.py,Simple List,48,48,32,A1
+builders,structure.py,Simple List,49,49,28,A1
+builders,structure.py,Simple List,91,91,30,A1
+builders,structure.py,Simple List,92,92,32,A1
+builders,structure.py,Simple List,41,41,39,A1
+builders,structure.py,Simple List,85,85,39,A1
+builders,structure.py,Simple List,96,99,23,A1
+builders,structure.py,Simple Tuple,17,18,8,A1
+builders,structure.py,Simple Tuple,21,22,8,A1
+builders,structure.py,Simple Tuple,39,39,12,A1
+builders,structure.py,Simple Tuple,83,83,12,A1
+builders,structure.py,Simple Tuple,94,94,16,A1
+builders,structure.py,'enumerate' call function,39,39,27,C2
+builders,structure.py,'enumerate' call function,83,83,27,C2
+builders,structure.py,'enumerate' call function,94,94,36,C2
+builders,structure.py,Super Function,26,26,8,C2
+builders,structure.py,Simple Atributte,29,29,20,A2
+builders,structure.py,Simple Atributte,118,118,24,A2
+builders,structure.py,Simple Atributte,26,26,8,A2
+builders,structure.py,Simple Atributte,35,35,27,A2
+builders,structure.py,Simple Atributte,35,35,48,A2
+builders,structure.py,Simple Atributte,36,36,32,A2
+builders,structure.py,Simple Atributte,77,77,8,A2
+builders,structure.py,Simple Atributte,80,80,27,A2
+builders,structure.py,Simple Atributte,80,80,53,A2
+builders,structure.py,Simple Atributte,81,81,32,A2
+builders,structure.py,Simple Atributte,114,114,8,A2
+builders,structure.py,Simple Atributte,30,30,12,A2
+builders,structure.py,Simple Atributte,31,31,12,A2
+builders,structure.py,Simple Atributte,32,32,12,A2
+builders,structure.py,Simple Atributte,35,35,48,A2
+builders,structure.py,Simple Atributte,36,36,32,A2
+builders,structure.py,Simple Atributte,40,40,20,A2
+builders,structure.py,Simple Atributte,41,41,15,A2
+builders,structure.py,Simple Atributte,44,44,15,A2
+builders,structure.py,Simple Atributte,48,48,33,A2
+builders,structure.py,Simple Atributte,49,49,29,A2
+builders,structure.py,Simple Atributte,49,49,49,A2
+builders,structure.py,Simple Atributte,51,51,25,A2
+builders,structure.py,Simple Atributte,52,52,25,A2
+builders,structure.py,Simple Atributte,72,72,16,A2
+builders,structure.py,Simple Atributte,80,80,53,A2
+builders,structure.py,Simple Atributte,81,81,32,A2
+builders,structure.py,Simple Atributte,84,84,20,A2
+builders,structure.py,Simple Atributte,85,85,15,A2
+builders,structure.py,Simple Atributte,88,88,15,A2
+builders,structure.py,Simple Atributte,92,92,33,A2
+builders,structure.py,Simple Atributte,108,108,16,A2
+builders,structure.py,Simple Atributte,119,119,20,A2
+builders,structure.py,Simple Atributte,120,120,15,A2
+builders,structure.py,Simple Atributte,120,120,35,A2
+builders,structure.py,Simple Atributte,41,41,40,A2
+builders,structure.py,Simple Atributte,41,41,58,A2
+builders,structure.py,Simple Atributte,41,41,77,A2
+builders,structure.py,Simple Atributte,55,55,16,A2
+builders,structure.py,Simple Atributte,57,57,20,A2
+builders,structure.py,Simple Atributte,58,58,16,A2
+builders,structure.py,Simple Atributte,58,58,42,A2
+builders,structure.py,Simple Atributte,59,59,16,A2
+builders,structure.py,Simple Atributte,59,59,41,A2
+builders,structure.py,Simple Atributte,62,62,20,A2
+builders,structure.py,Simple Atributte,64,64,16,A2
+builders,structure.py,Simple Atributte,64,64,39,A2
+builders,structure.py,Simple Atributte,65,65,16,A2
+builders,structure.py,Simple Atributte,65,65,41,A2
+builders,structure.py,Simple Atributte,70,70,30,A2
+builders,structure.py,Simple Atributte,71,71,30,A2
+builders,structure.py,Simple Atributte,75,75,16,A2
+builders,structure.py,Simple Atributte,75,75,53,A2
+builders,structure.py,Simple Atributte,76,76,16,A2
+builders,structure.py,Simple Atributte,85,85,40,A2
+builders,structure.py,Simple Atributte,94,94,46,A2
+builders,structure.py,Simple Atributte,95,95,29,A2
+builders,structure.py,Simple Atributte,106,106,30,A2
+builders,structure.py,Simple Atributte,107,107,30,A2
+builders,structure.py,Simple Atributte,111,111,16,A2
+builders,structure.py,Simple Atributte,111,111,53,A2
+builders,structure.py,Simple Atributte,112,112,16,A2
+builders,structure.py,Simple Atributte,126,126,16,A2
+builders,structure.py,Simple Atributte,56,56,16,A2
+builders,structure.py,Simple Atributte,56,56,47,A2
+builders,structure.py,Simple Atributte,63,63,20,A2
+builders,structure.py,Simple Atributte,63,63,51,A2
+builders,structure.py,Simple Atributte,70,70,30,A2
+builders,structure.py,Simple Atributte,100,100,20,A2
+builders,structure.py,Simple Atributte,101,101,20,A2
+builders,structure.py,Simple Atributte,101,101,45,A2
+builders,structure.py,Simple Atributte,106,106,30,A2
+builders,structure.py,Simple Atributte,122,122,28,A2
+builders,structure.py,Simple Atributte,123,123,28,A2
+builders,structure.py,Simple Atributte,124,124,30,A2
+builders,structure.py,Simple Atributte,56,56,16,A2
+builders,structure.py,Simple Atributte,63,63,20,A2
+builders,structure.py,Simple Atributte,69,69,59,A2
+builders,structure.py,Simple Atributte,97,97,20,A2
+builders,structure.py,Simple Atributte,97,97,45,A2
+builders,structure.py,Simple Atributte,69,69,59,A2
+builders,structure.py,Simple Atributte,98,98,20,A2
+builders,structure.py,Simple Atributte,98,98,20,A2
+builders,structure.py,Assigment with sum (total = total + 1),35,35,8,A1
+builders,structure.py,Simple Assignment,36,36,8,A1
+builders,structure.py,Simple Assignment,37,37,8,A1
+builders,structure.py,Assigment with sum (total = total + 1),80,80,8,A1
+builders,structure.py,Simple Assignment,81,81,8,A1
+builders,structure.py,Simple Assignment,82,82,8,A1
+builders,structure.py,Simple Assignment,40,40,12,A1
+builders,structure.py,Simple Assignment,47,47,12,A1
+builders,structure.py,Simple Assignment,48,48,12,A1
+builders,structure.py,Simple Assignment,49,49,12,A1
+builders,structure.py,Simple Assignment,51,51,12,A1
+builders,structure.py,Simple Assignment,52,52,12,A1
+builders,structure.py,Simple Assignment,84,84,12,A1
+builders,structure.py,Simple Assignment,91,91,12,A1
+builders,structure.py,Simple Assignment,92,92,12,A1
+builders,structure.py,Simple Assignment,119,119,12,A1
+builders,structure.py,Simple Assignment,69,69,16,A1
+builders,structure.py,Simple Assignment,70,70,16,A1
+builders,structure.py,Simple Assignment,71,71,16,A1
+builders,structure.py,Simple Assignment,72,72,16,A1
+builders,structure.py,Simple Assignment,95,95,16,A1
+builders,structure.py,Simple Assignment,106,106,16,A1
+builders,structure.py,Simple Assignment,107,107,16,A1
+builders,structure.py,Simple Assignment,108,108,16,A1
+builders,structure.py,Simple Assignment,121,125,16,A1
+builders,structure.py,From,1,1,0,A2
+builders,structure.py,From,3,3,0,A2
+builders,structure.py,From,4,4,0,A2
+builders,structure.py,From,5,5,0,A2
+builders,structure.py,From,6,6,0,A2
+builders,structure.py,From,7,7,0,A2
+builders,structure.py,From,8,8,0,A2
+builders,structure.py,From,9,9,0,A2
+builders,structure.py,Simple If statements,41,42,12,A1
+builders,structure.py,Simple If statements,44,45,12,A1
+builders,structure.py,Simple If statements,54,59,12,A1
+builders,structure.py,Simple If statements,61,65,12,A1
+builders,structure.py,Simple If statements,67,76,12,A1
+builders,structure.py,Simple If statements,85,86,12,A1
+builders,structure.py,Simple If statements,88,89,12,A1
+builders,structure.py,Simple If statements,105,112,12,A1
+builders,structure.py,Simple If statements,120,126,12,A1
+builders,structure.py,Simple If statements,96,103,16,A1
+builders,structure.py,Simple For Loop,29,32,8,A1
+builders,structure.py,For Loop with Tuple as name,39,76,8,A2
+builders,structure.py,For Loop with Tuple as name,83,112,8,A2
+builders,structure.py,Simple For Loop,118,126,8,A1
+builders,structure.py,For Loop with Tuple as name,94,103,12,A2
+builders,structure.py,'break' statement,103,103,20,B1
+builders,structure.py,'continue' statement,42,42,16,B1
+builders,structure.py,'continue' statement,45,45,16,B1
+builders,structure.py,'continue' statement,86,86,16,B1
+builders,structure.py,'continue' statement,89,89,16,B1
+builders,structure.py,Function with Simple argument with Default argument,25,26,4,A2
+builders,structure.py,Function with Simple argument,28,32,4,A1
+builders,structure.py,Function with Simple argument,34,77,4,A1
+builders,structure.py,Function with Simple argument,79,114,4,A1
+builders,structure.py,Function with Simple argument,116,126,4,A1
+builders,structure.py,Inherited Class from BaseBuilder,12,126,0,B1

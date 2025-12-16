@@ -1,0 +1,176 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+builders,layout.py,Simple List,37,41,8,A1
+builders,layout.py,Simple List,68,68,25,A1
+builders,layout.py,Simple List,157,157,33,A1
+builders,layout.py,Simple List,161,161,32,A1
+builders,layout.py,Simple List,73,80,27,A1
+builders,layout.py,Simple Tuple,22,24,8,A1
+builders,layout.py,Simple Tuple,27,28,8,A1
+builders,layout.py,Simple Tuple,31,32,8,A1
+builders,layout.py,Simple Tuple,35,36,8,A1
+builders,layout.py,Simple Tuple,43,43,8,A1
+builders,layout.py,Simple Tuple,134,134,12,A1
+builders,layout.py,Simple Tuple,147,147,32,A1
+builders,layout.py,Simple Tuple,129,129,36,A1
+builders,layout.py,Simple Tuple,150,150,24,A1
+builders,layout.py,Simple Tuple,107,107,40,A1
+builders,layout.py,Simple Dictionary,77,77,34,A2
+builders,layout.py,'zip' call function,134,134,35,C2
+builders,layout.py,Super Function,49,49,8,C2
+builders,layout.py,If statements expression (else),118,118,24,B1
+builders,layout.py,If statements expression (else),121,123,24,B1
+builders,layout.py,Simple Atributte,38,38,8,A2
+builders,layout.py,Simple Atributte,39,39,8,A2
+builders,layout.py,Simple Atributte,40,40,8,A2
+builders,layout.py,Simple Atributte,47,47,8,A2
+builders,layout.py,Simple Atributte,87,87,8,A2
+builders,layout.py,Simple Atributte,87,87,41,A2
+builders,layout.py,Simple Atributte,95,95,20,A2
+builders,layout.py,Simple Atributte,49,49,8,A2
+builders,layout.py,Simple Atributte,52,52,11,A2
+builders,layout.py,Simple Atributte,57,57,8,A2
+builders,layout.py,Simple Atributte,57,57,33,A2
+builders,layout.py,Simple Atributte,58,58,8,A2
+builders,layout.py,Simple Atributte,61,61,11,A2
+builders,layout.py,Simple Atributte,62,62,19,A2
+builders,layout.py,Simple Atributte,87,87,8,A2
+builders,layout.py,Simple Atributte,88,88,25,A2
+builders,layout.py,Simple Atributte,98,98,24,A2
+builders,layout.py,Simple Atributte,100,100,28,A2
+builders,layout.py,Simple Atributte,135,135,31,A2
+builders,layout.py,Simple Atributte,136,136,33,A2
+builders,layout.py,Simple Atributte,137,137,12,A2
+builders,layout.py,Simple Atributte,138,138,16,A2
+builders,layout.py,Simple Atributte,54,54,29,A2
+builders,layout.py,Simple Atributte,54,54,48,A2
+builders,layout.py,Simple Atributte,56,56,29,A2
+builders,layout.py,Simple Atributte,56,56,47,A2
+builders,layout.py,Simple Atributte,63,63,13,A2
+builders,layout.py,Simple Atributte,70,70,12,A2
+builders,layout.py,Simple Atributte,98,98,24,A2
+builders,layout.py,Simple Atributte,136,136,33,A2
+builders,layout.py,Simple Atributte,140,140,31,A2
+builders,layout.py,Simple Atributte,145,145,16,A2
+builders,layout.py,Simple Atributte,148,148,16,A2
+builders,layout.py,Simple Atributte,156,156,15,A2
+builders,layout.py,Simple Atributte,157,157,16,A2
+builders,layout.py,Simple Atributte,160,160,15,A2
+builders,layout.py,Simple Atributte,161,161,16,A2
+builders,layout.py,Simple Atributte,89,89,13,A2
+builders,layout.py,Simple Atributte,97,97,27,A2
+builders,layout.py,Simple Atributte,97,97,62,A2
+builders,layout.py,Simple Atributte,101,101,24,A2
+builders,layout.py,Simple Atributte,102,102,19,A2
+builders,layout.py,Simple Atributte,102,102,39,A2
+builders,layout.py,Simple Atributte,126,126,20,A2
+builders,layout.py,Simple Atributte,135,135,31,A2
+builders,layout.py,Simple Atributte,135,135,52,A2
+builders,layout.py,Simple Atributte,142,142,31,A2
+builders,layout.py,Simple Atributte,145,147,39,A2
+builders,layout.py,Simple Atributte,153,153,16,A2
+builders,layout.py,Simple Atributte,72,72,31,A2
+builders,layout.py,Simple Atributte,90,90,27,A2
+builders,layout.py,Simple Atributte,105,105,24,A2
+builders,layout.py,Simple Atributte,126,129,36,A2
+builders,layout.py,Simple Atributte,140,140,67,A2
+builders,layout.py,Simple Atributte,141,141,55,A2
+builders,layout.py,Simple Atributte,72,72,31,A2
+builders,layout.py,Simple Atributte,105,107,40,A2
+builders,layout.py,Simple Atributte,118,118,57,A2
+builders,layout.py,Simple Atributte,118,118,34,A2
+builders,layout.py,Simple Atributte,122,122,27,A2
+builders,layout.py,Simple Atributte,121,121,34,A2
+builders,layout.py,Simple Atributte,143,143,50,A2
+builders,layout.py,Simple Atributte,145,145,39,A2
+builders,layout.py,Simple Atributte,150,150,41,A2
+builders,layout.py,Simple Atributte,151,151,32,A2
+builders,layout.py,Simple Atributte,111,111,24,A2
+builders,layout.py,Simple Atributte,111,111,50,A2
+builders,layout.py,Simple Atributte,118,118,57,A2
+builders,layout.py,Simple Atributte,118,118,34,A2
+builders,layout.py,Simple Atributte,122,122,27,A2
+builders,layout.py,Simple Atributte,121,121,34,A2
+builders,layout.py,Simple Atributte,126,126,36,A2
+builders,layout.py,Simple Atributte,145,145,39,A2
+builders,layout.py,Simple Atributte,150,150,41,A2
+builders,layout.py,Simple Atributte,75,75,34,A2
+builders,layout.py,Simple Atributte,78,78,36,A2
+builders,layout.py,Simple Atributte,105,105,40,A2
+builders,layout.py,Simple Atributte,106,106,28,A2
+builders,layout.py,Simple Atributte,106,106,50,A2
+builders,layout.py,Simple Atributte,111,111,24,A2
+builders,layout.py,Simple Atributte,126,126,36,A2
+builders,layout.py,Simple Atributte,127,127,28,A2
+builders,layout.py,Simple Atributte,128,128,28,A2
+builders,layout.py,Simple Atributte,77,77,35,A2
+builders,layout.py,Simple Atributte,78,78,36,A2
+builders,layout.py,Simple Atributte,105,105,40,A2
+builders,layout.py,Simple List Comprehension,89,89,12,C1
+builders,layout.py,Simple List Comprehension,97,97,26,C1
+builders,layout.py,List Comprehension with 1If statements,103,103,35,C1
+builders,layout.py,Generator Expression,110,113,33,C1
+builders,layout.py,Dictionary Comprehension with 1 If statements,148,152,37,C2
+builders,layout.py,Simple Assignment,47,47,8,A1
+builders,layout.py,Simple Assignment,68,68,8,A1
+builders,layout.py,Simple Assignment,87,87,8,A1
+builders,layout.py,Simple Assignment,88,91,8,A1
+builders,layout.py,Simple Assignment,54,54,12,A1
+builders,layout.py,Simple Assignment,56,56,12,A1
+builders,layout.py,Simple Assignment,97,97,12,A1
+builders,layout.py,Simple Assignment,98,98,12,A1
+builders,layout.py,Simple Assignment,135,135,12,A1
+builders,layout.py,Simple Assignment,136,136,12,A1
+builders,layout.py,Simple Assignment,137,139,12,A1
+builders,layout.py,Simple Assignment,101,101,16,A1
+builders,layout.py,Simple Assignment,141,141,16,A1
+builders,layout.py,Simple Assignment,142,144,16,A1
+builders,layout.py,Simple Assignment,145,147,16,A1
+builders,layout.py,Simple Assignment,148,152,16,A1
+builders,layout.py,Simple Assignment,157,157,16,A1
+builders,layout.py,Simple Assignment,161,161,16,A1
+builders,layout.py,Simple Assignment,103,103,20,A1
+builders,layout.py,Simple Assignment,110,113,20,A1
+builders,layout.py,Simple Assignment,117,119,20,A1
+builders,layout.py,Simple Assignment,120,124,20,A1
+builders,layout.py,Simple Assignment,126,129,20,A1
+builders,layout.py,Simple Assignment,105,107,24,A1
+builders,layout.py,From,1,1,0,A2
+builders,layout.py,From,3,3,0,A2
+builders,layout.py,From,4,4,0,A2
+builders,layout.py,From,6,6,0,A2
+builders,layout.py,From,7,7,0,A2
+builders,layout.py,From,8,8,0,A2
+builders,layout.py,From,9,9,0,A2
+builders,layout.py,From,10,10,0,A2
+builders,layout.py,From,11,11,0,A2
+builders,layout.py,From,12,12,0,A2
+builders,layout.py,From,13,13,0,A2
+builders,layout.py,Simple If statements,52,56,8,A1
+builders,layout.py,Simple If statements,61,64,8,A1
+builders,layout.py,Simple If statements,63,64,8,A1
+builders,layout.py,Simple If statements,156,157,12,A1
+builders,layout.py,Simple If statements,160,161,12,A1
+builders,layout.py,Simple If statements,102,129,16,A1
+builders,layout.py,Simple If statements,104,108,20,A1
+builders,layout.py,Simple If statements,114,115,20,A1
+builders,layout.py,Simple For Loop,69,83,8,A1
+builders,layout.py,1 Nested For Loop,95,129,8,A2
+builders,layout.py,For Loop with Tuple as name,134,161,8,A2
+builders,layout.py,Simple For Loop,100,129,12,A1
+builders,layout.py,Simple For Loop,140,153,12,A1
+builders,layout.py,'continue' statement,108,108,24,B1
+builders,layout.py,'continue' statement,115,115,24,B1
+builders,layout.py,Function with Simple argument with Default argument,46,49,4,A2
+builders,layout.py,Function with Simple argument,51,58,4,A1
+builders,layout.py,Function with Simple argument,60,65,4,A1
+builders,layout.py,Function with Simple argument,67,84,4,A1
+builders,layout.py,Function with Simple argument,86,92,4,A1
+builders,layout.py,Function with Simple argument,94,129,4,A1
+builders,layout.py,Function with Simple argument,131,161,4,A1
+builders,layout.py,Lambda,140,140,57,B1
+builders,layout.py,Return,65,65,8,A1
+builders,layout.py,Return,84,84,8,A1
+builders,layout.py,Return,92,92,8,A1
+builders,layout.py,Return,62,62,12,A1
+builders,layout.py,Return,64,64,12,A1
+builders,layout.py,Inherited Class from BaseBuilder,16,161,0,B1

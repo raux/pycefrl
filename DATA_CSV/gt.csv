@@ -1,0 +1,24 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+methods,gt.py,Simple Dictionary,14,17,15,A2
+methods,gt.py,Simple Atributte,19,19,41,A2
+methods,gt.py,Simple Atributte,11,11,20,A2
+methods,gt.py,Simple Atributte,20,20,17,A2
+methods,gt.py,Simple Atributte,21,28,15,A2
+methods,gt.py,Simple Atributte,29,29,15,A2
+methods,gt.py,Simple Atributte,13,13,23,A2
+methods,gt.py,List Comprehension with 1If statements,12,12,18,C1
+methods,gt.py,Simple List Comprehension,13,13,22,C1
+methods,gt.py,Simple Assignment,11,11,8,A1
+methods,gt.py,Simple Assignment,12,12,8,A1
+methods,gt.py,Simple Assignment,13,13,8,A1
+methods,gt.py,Simple Assignment,20,20,8,A1
+methods,gt.py,Simple Assignment,21,28,8,A1
+methods,gt.py,Import,2,2,0,A2
+methods,gt.py,From,1,1,0,A2
+methods,gt.py,From,4,4,0,A2
+methods,gt.py,From,6,6,0,A2
+methods,gt.py,Function with Simple argument,10,17,4,A1
+methods,gt.py,Function with Simple argument,19,29,4,A1
+methods,gt.py,Return,14,17,8,A1
+methods,gt.py,Return,29,29,8,A1
+methods,gt.py,Inherited Class from BaseMethod,9,29,0,B1

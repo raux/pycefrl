@@ -1,0 +1,60 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+builders,test_ocr_pipeline.py,Simple List,38,38,54,A1
+builders,test_ocr_pipeline.py,Simple List,43,43,54,A1
+builders,test_ocr_pipeline.py,Simple Tuple,24,24,59,A1
+builders,test_ocr_pipeline.py,Simple Tuple,26,26,22,A1
+builders,test_ocr_pipeline.py,1 List Dictionary,38,38,20,B1
+builders,test_ocr_pipeline.py,1 List Dictionary,43,43,20,B1
+builders,test_ocr_pipeline.py,Simple Atributte,38,38,1,A2
+builders,test_ocr_pipeline.py,Simple Atributte,43,43,1,A2
+builders,test_ocr_pipeline.py,Simple Atributte,8,8,17,A2
+builders,test_ocr_pipeline.py,Simple Atributte,11,11,18,A2
+builders,test_ocr_pipeline.py,Simple Atributte,12,12,11,A2
+builders,test_ocr_pipeline.py,Simple Atributte,13,13,11,A2
+builders,test_ocr_pipeline.py,Simple Atributte,13,13,37,A2
+builders,test_ocr_pipeline.py,Simple Atributte,15,15,29,A2
+builders,test_ocr_pipeline.py,Simple Atributte,16,16,11,A2
+builders,test_ocr_pipeline.py,Simple Atributte,16,16,42,A2
+builders,test_ocr_pipeline.py,Simple Atributte,18,18,17,A2
+builders,test_ocr_pipeline.py,Simple Atributte,19,19,11,A2
+builders,test_ocr_pipeline.py,Simple Atributte,19,19,36,A2
+builders,test_ocr_pipeline.py,Simple Atributte,24,24,17,A2
+builders,test_ocr_pipeline.py,Simple Atributte,25,25,18,A2
+builders,test_ocr_pipeline.py,Simple Atributte,38,38,1,A2
+builders,test_ocr_pipeline.py,Simple Atributte,43,43,1,A2
+builders,test_ocr_pipeline.py,Simple Atributte,9,9,11,A2
+builders,test_ocr_pipeline.py,Simple Atributte,11,11,39,A2
+builders,test_ocr_pipeline.py,Simple Atributte,15,15,50,A2
+builders,test_ocr_pipeline.py,Simple Atributte,18,18,38,A2
+builders,test_ocr_pipeline.py,Simple Atributte,20,20,11,A2
+builders,test_ocr_pipeline.py,Simple Atributte,24,24,60,A2
+builders,test_ocr_pipeline.py,Simple Atributte,26,26,23,A2
+builders,test_ocr_pipeline.py,Simple Atributte,26,26,40,A2
+builders,test_ocr_pipeline.py,Simple Atributte,31,31,29,A2
+builders,test_ocr_pipeline.py,Simple Atributte,33,33,9,A2
+builders,test_ocr_pipeline.py,Simple Atributte,20,20,11,A2
+builders,test_ocr_pipeline.py,Simple Atributte,31,31,29,A2
+builders,test_ocr_pipeline.py,Simple Atributte,33,33,9,A2
+builders,test_ocr_pipeline.py,Simple Atributte,33,33,57,A2
+builders,test_ocr_pipeline.py,Simple List Comprehension,31,31,28,C1
+builders,test_ocr_pipeline.py,List Comprehension with 1If statements,33,33,8,C1
+builders,test_ocr_pipeline.py,Simple Assignment,8,8,4,A1
+builders,test_ocr_pipeline.py,Simple Assignment,11,11,4,A1
+builders,test_ocr_pipeline.py,Simple Assignment,18,18,4,A1
+builders,test_ocr_pipeline.py,Simple Assignment,24,24,4,A1
+builders,test_ocr_pipeline.py,Simple Assignment,25,27,4,A1
+builders,test_ocr_pipeline.py,Simple Assignment,31,31,4,A1
+builders,test_ocr_pipeline.py,Simple Assignment,32,34,4,A1
+builders,test_ocr_pipeline.py,'assert' exception,9,9,4,B2
+builders,test_ocr_pipeline.py,'assert' exception,12,12,4,B2
+builders,test_ocr_pipeline.py,'assert' exception,13,13,4,B2
+builders,test_ocr_pipeline.py,'assert' exception,16,16,4,B2
+builders,test_ocr_pipeline.py,'assert' exception,19,19,4,B2
+builders,test_ocr_pipeline.py,'assert' exception,20,20,4,B2
+builders,test_ocr_pipeline.py,'assert' exception,35,35,4,B2
+builders,test_ocr_pipeline.py,Import,1,1,0,A2
+builders,test_ocr_pipeline.py,From,3,3,0,A2
+builders,test_ocr_pipeline.py,From,4,4,0,A2
+builders,test_ocr_pipeline.py,Function with Simple argument,7,35,0,A1
+builders,test_ocr_pipeline.py,Function with Simple argument,39,40,0,A1
+builders,test_ocr_pipeline.py,Function with Simple argument,44,45,0,A1

@@ -1,0 +1,37 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+benchmarks,verify_scores.py,Files --> 'open' call function,6,6,9,A2
+benchmarks,verify_scores.py,Files --> 'open' call function,17,17,9,A2
+benchmarks,verify_scores.py,Simple Atributte,26,26,13,A2
+benchmarks,verify_scores.py,Simple Atributte,27,27,4,A2
+benchmarks,verify_scores.py,Simple Atributte,28,28,4,A2
+benchmarks,verify_scores.py,Simple Atributte,29,29,11,A2
+benchmarks,verify_scores.py,Simple Atributte,30,30,7,A2
+benchmarks,verify_scores.py,Simple Atributte,7,7,15,A2
+benchmarks,verify_scores.py,Simple Atributte,18,18,15,A2
+benchmarks,verify_scores.py,Simple Atributte,31,31,22,A2
+benchmarks,verify_scores.py,Simple Atributte,32,32,9,A2
+benchmarks,verify_scores.py,Simple Atributte,33,33,28,A2
+benchmarks,verify_scores.py,Simple List Comprehension,9,9,17,C1
+benchmarks,verify_scores.py,Simple List Comprehension,10,10,20,C1
+benchmarks,verify_scores.py,Simple List Comprehension,20,20,14,C1
+benchmarks,verify_scores.py,Simple Assignment,9,9,4,A1
+benchmarks,verify_scores.py,Simple Assignment,10,10,4,A1
+benchmarks,verify_scores.py,Assigment with sum (total = total + 1),11,11,4,A1
+benchmarks,verify_scores.py,Assigment with sum (total = total + 1),20,20,4,A1
+benchmarks,verify_scores.py,Simple Assignment,26,26,4,A1
+benchmarks,verify_scores.py,Simple Assignment,29,29,4,A1
+benchmarks,verify_scores.py,Simple Assignment,7,7,8,A1
+benchmarks,verify_scores.py,Simple Assignment,18,18,8,A1
+benchmarks,verify_scores.py,'raise' exception,13,13,8,B1
+benchmarks,verify_scores.py,'raise' exception,22,22,8,B1
+benchmarks,verify_scores.py,Import,1,1,0,A2
+benchmarks,verify_scores.py,Import,2,2,0,A2
+benchmarks,verify_scores.py,If statements using → __name__ == ‘__main__’,25,33,0,B2
+benchmarks,verify_scores.py,Simple If statements,12,13,4,A1
+benchmarks,verify_scores.py,Simple If statements,21,22,4,A1
+benchmarks,verify_scores.py,Simple If statements,30,33,4,A1
+benchmarks,verify_scores.py,Simple If statements,32,33,4,A1
+benchmarks,verify_scores.py,With,6,7,4,B1
+benchmarks,verify_scores.py,With,17,18,4,B1
+benchmarks,verify_scores.py,Function with Simple argument,5,13,0,A1
+benchmarks,verify_scores.py,Function with Simple argument,16,22,0,A1

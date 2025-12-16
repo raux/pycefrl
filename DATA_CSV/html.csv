@@ -1,0 +1,138 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+renderers,html.py,Simple List,54,54,34,A1
+renderers,html.py,Simple Tuple,37,37,8,A1
+renderers,html.py,Simple Tuple,35,36,8,A1
+renderers,html.py,Simple Tuple,39,40,8,A1
+renderers,html.py,Simple Tuple,141,141,15,A1
+renderers,html.py,Simple Tuple,145,145,8,A1
+renderers,html.py,Simple Tuple,93,93,20,A1
+renderers,html.py,Simple Dictionary,86,86,17,A2
+renderers,html.py,Simple Dictionary,89,89,25,A2
+renderers,html.py,Simple Atributte,20,20,0,A2
+renderers,html.py,Simple Atributte,17,17,0,A2
+renderers,html.py,Simple Atributte,37,37,9,A2
+renderers,html.py,Simple Atributte,57,57,11,A2
+renderers,html.py,Simple Atributte,44,44,22,A2
+renderers,html.py,Simple Atributte,45,45,18,A2
+renderers,html.py,Simple Atributte,54,54,11,A2
+renderers,html.py,Simple Atributte,60,60,27,A2
+renderers,html.py,Simple Atributte,82,82,29,A2
+renderers,html.py,Simple Atributte,84,84,23,A2
+renderers,html.py,Simple Atributte,91,91,24,A2
+renderers,html.py,Simple Atributte,144,144,26,A2
+renderers,html.py,Simple Atributte,144,144,42,A2
+renderers,html.py,Simple Atributte,145,145,28,A2
+renderers,html.py,Simple Atributte,147,147,20,A2
+renderers,html.py,Simple Atributte,54,54,35,A2
+renderers,html.py,Simple Atributte,54,54,52,A2
+renderers,html.py,Simple Atributte,70,70,17,A2
+renderers,html.py,Simple Atributte,88,88,18,A2
+renderers,html.py,Simple Atributte,98,98,15,A2
+renderers,html.py,Simple Atributte,98,98,42,A2
+renderers,html.py,Simple Atributte,99,99,19,A2
+renderers,html.py,Simple Atributte,124,124,21,A2
+renderers,html.py,Simple Atributte,125,125,21,A2
+renderers,html.py,Simple Atributte,126,126,21,A2
+renderers,html.py,Simple Atributte,129,129,21,A2
+renderers,html.py,Simple Atributte,46,46,30,A2
+renderers,html.py,Simple Atributte,61,61,48,A2
+renderers,html.py,Simple Atributte,92,92,19,A2
+renderers,html.py,Simple Atributte,95,95,44,A2
+renderers,html.py,Simple Atributte,111,111,17,A2
+renderers,html.py,Simple Atributte,111,111,44,A2
+renderers,html.py,Simple Atributte,113,113,19,A2
+renderers,html.py,Simple Atributte,151,151,21,A2
+renderers,html.py,Simple Atributte,71,71,26,A2
+renderers,html.py,Simple Atributte,74,74,32,A2
+renderers,html.py,Simple Atributte,78,78,16,A2
+renderers,html.py,Simple Atributte,93,93,43,A2
+renderers,html.py,Simple Atributte,94,94,20,A2
+renderers,html.py,Simple Atributte,100,100,28,A2
+renderers,html.py,Simple Atributte,106,106,20,A2
+renderers,html.py,Simple Atributte,110,110,20,A2
+renderers,html.py,Simple Atributte,112,112,16,A2
+renderers,html.py,Simple Atributte,116,116,16,A2
+renderers,html.py,Simple Atributte,118,118,16,A2
+renderers,html.py,Simple Atributte,120,120,16,A2
+renderers,html.py,Simple Atributte,76,76,20,A2
+renderers,html.py,Simple Atributte,77,77,20,A2
+renderers,html.py,Simple Atributte,106,106,37,A2
+renderers,html.py,Simple Atributte,110,110,37,A2
+renderers,html.py,Simple Atributte,116,116,33,A2
+renderers,html.py,Simple Atributte,120,120,33,A2
+renderers,html.py,Simple Atributte,101,101,36,A2
+renderers,html.py,Simple Atributte,101,101,61,A2
+renderers,html.py,Simple Atributte,114,114,65,A2
+renderers,html.py,Simple Atributte,101,101,61,A2
+renderers,html.py,Simple Assignment,20,20,0,A1
+renderers,html.py,Simple Assignment,44,44,8,A1
+renderers,html.py,Simple Assignment,45,47,8,A1
+renderers,html.py,Simple Assignment,82,82,8,A1
+renderers,html.py,Simple Assignment,84,84,8,A1
+renderers,html.py,Simple Assignment,85,85,8,A1
+renderers,html.py,Simple Assignment,86,86,8,A1
+renderers,html.py,Simple Assignment,122,122,8,A1
+renderers,html.py,Simple Assignment,144,144,8,A1
+renderers,html.py,Simple Assignment,145,145,8,A1
+renderers,html.py,Simple Assignment,146,146,8,A1
+renderers,html.py,Simple Assignment,147,147,8,A1
+renderers,html.py,Simple Assignment,59,59,12,A1
+renderers,html.py,Simple Assignment,88,88,12,A1
+renderers,html.py,Simple Assignment,89,89,12,A1
+renderers,html.py,Simple Assignment,90,90,12,A1
+renderers,html.py,Simple Assignment,124,124,12,A1
+renderers,html.py,Simple Assignment,125,125,12,A1
+renderers,html.py,Simple Assignment,126,128,12,A1
+renderers,html.py,Simple Assignment,129,139,12,A1
+renderers,html.py,Simple Assignment,67,67,16,A1
+renderers,html.py,Simple Assignment,62,62,20,A1
+renderers,html.py,Simple Assignment,71,71,16,A1
+renderers,html.py,Simple Assignment,72,72,16,A1
+renderers,html.py,Simple Assignment,74,74,16,A1
+renderers,html.py,Simple Assignment,93,93,20,A1
+renderers,html.py,Simple Assignment,100,100,20,A1
+renderers,html.py,Simple Assignment,101,101,20,A1
+renderers,html.py,Simple Assignment,102,102,20,A1
+renderers,html.py,Simple Assignment,103,105,20,A1
+renderers,html.py,Simple Assignment,109,109,20,A1
+renderers,html.py,Simple Assignment,115,115,16,A1
+renderers,html.py,Simple Assignment,119,119,16,A1
+renderers,html.py,Simple Assignment,114,114,20,A1
+renderers,html.py,Import,1,1,0,A2
+renderers,html.py,Import,15,15,0,A2
+renderers,html.py,From,3,3,0,A2
+renderers,html.py,From,4,4,0,A2
+renderers,html.py,From,6,6,0,A2
+renderers,html.py,From,7,7,0,A2
+renderers,html.py,From,9,9,0,A2
+renderers,html.py,From,10,10,0,A2
+renderers,html.py,From,11,11,0,A2
+renderers,html.py,From,12,12,0,A2
+renderers,html.py,Simple If statements,54,55,8,A1
+renderers,html.py,Simple If statements,57,78,8,A1
+renderers,html.py,Simple If statements,123,139,8,A1
+renderers,html.py,Simple If statements,66,78,12,A1
+renderers,html.py,Simple If statements,98,120,12,A1
+renderers,html.py,Simple If statements,61,63,16,A1
+renderers,html.py,Simple If statements,70,78,12,A1
+renderers,html.py,Simple If statements,92,96,16,A1
+renderers,html.py,Simple If statements,99,110,16,A1
+renderers,html.py,Simple If statements,111,120,12,A1
+renderers,html.py,Simple If statements,113,114,16,A1
+renderers,html.py,1 Nested For Loop,87,120,8,A2
+renderers,html.py,Simple For Loop,60,63,12,A1
+renderers,html.py,Simple For Loop,91,96,12,A1
+renderers,html.py,Simple For Loop,75,77,16,A1
+renderers,html.py,'break' statement,63,63,20,B1
+renderers,html.py,'break' statement,96,96,20,B1
+renderers,html.py,Function with Simple argument,43,48,4,A1
+renderers,html.py,Function with Simple argument,50,79,4,A1
+renderers,html.py,Function with Simple argument with Default argument,81,141,4,A2
+renderers,html.py,Function with Simple argument,143,152,4,A1
+renderers,html.py,Return,48,48,8,A1
+renderers,html.py,Return,79,79,8,A1
+renderers,html.py,Return,141,141,8,A1
+renderers,html.py,Return,148,152,8,A1
+renderers,html.py,Return,55,55,12,A1
+renderers,html.py,Inherited Class from BaseModel,23,26,0,B1
+renderers,html.py,Inherited Class from BaseRenderer,29,152,0,B1

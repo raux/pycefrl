@@ -1,0 +1,9 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+services,azure_openai.py,1 Dictionary List,61,69,19,B1
+services,azure_openai.py,Simple List,31,31,21,A1
+services,azure_openai.py,1 Dictionary List,64,67,27,B1
+services,azure_openai.py,Simple Tuple,19,19,8,A1
+services,azure_openai.py,Simple Tuple,22,22,8,A1
+services,azure_openai.py,Simple Tuple,24,24,33,A1
+services,azure_openai.py,Simple Tuple,26,26,8,A1
+services,azure_openai.py,Simple Tuple,91,91,19,A1

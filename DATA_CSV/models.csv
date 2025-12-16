@@ -1,0 +1,16 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+marker,models.py,Simple Dictionary,19,25,11,A2
+marker,models.py,Simple Atributte,3,3,0,A2
+marker,models.py,Simple Atributte,20,20,71,A2
+marker,models.py,Simple Atributte,21,21,81,A2
+marker,models.py,Simple Assignment,3,5,0,A1
+marker,models.py,Import,1,1,0,A2
+marker,models.py,From,7,7,0,A2
+marker,models.py,From,8,8,0,A2
+marker,models.py,From,9,9,0,A2
+marker,models.py,From,10,10,0,A2
+marker,models.py,From,11,11,0,A2
+marker,models.py,From,12,12,0,A2
+marker,models.py,From with 'as' extension ,13,13,0,B1
+marker,models.py,Function with Simple argument with Default argument,16,25,0,A2
+marker,models.py,Return,19,25,4,A1

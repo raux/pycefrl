@@ -1,0 +1,143 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+tests,conftest.py,Simple List,119,119,41,A1
+tests,conftest.py,Simple List,153,153,33,A1
+tests,conftest.py,Simple List,123,123,36,A1
+tests,conftest.py,Simple Tuple,65,65,8,A1
+tests,conftest.py,Simple Tuple,64,64,23,A1
+tests,conftest.py,Simple Tuple,158,158,27,A1
+tests,conftest.py,Simple Tuple,160,160,14,A1
+tests,conftest.py,Simple Dictionary,62,62,53,A2
+tests,conftest.py,Simple Dictionary,64,64,77,A2
+tests,conftest.py,Files --> 'write' call function,85,85,4,A2
+tests,conftest.py,If statements expression (else),62,62,13,B1
+tests,conftest.py,If statements expression (else),79,79,15,B1
+tests,conftest.py,Simple Atributte,27,27,1,A2
+tests,conftest.py,Simple Atributte,34,34,1,A2
+tests,conftest.py,Simple Atributte,39,39,1,A2
+tests,conftest.py,Simple Atributte,44,44,1,A2
+tests,conftest.py,Simple Atributte,49,49,1,A2
+tests,conftest.py,Simple Atributte,54,54,1,A2
+tests,conftest.py,Simple Atributte,59,59,1,A2
+tests,conftest.py,Simple Atributte,71,71,1,A2
+tests,conftest.py,Simple Atributte,76,76,1,A2
+tests,conftest.py,Simple Atributte,90,90,1,A2
+tests,conftest.py,Simple Atributte,96,96,1,A2
+tests,conftest.py,Simple Atributte,116,116,1,A2
+tests,conftest.py,Simple Atributte,129,129,1,A2
+tests,conftest.py,Simple Atributte,147,147,1,A2
+tests,conftest.py,Simple Atributte,156,156,1,A2
+tests,conftest.py,Simple Atributte,61,61,18,A2
+tests,conftest.py,Simple Atributte,64,64,50,A2
+tests,conftest.py,Simple Atributte,65,65,43,A2
+tests,conftest.py,Simple Atributte,73,73,11,A2
+tests,conftest.py,Simple Atributte,78,78,20,A2
+tests,conftest.py,Simple Atributte,81,81,10,A2
+tests,conftest.py,Simple Atributte,84,84,15,A2
+tests,conftest.py,Simple Atributte,85,85,4,A2
+tests,conftest.py,Simple Atributte,86,86,4,A2
+tests,conftest.py,Simple Atributte,92,92,42,A2
+tests,conftest.py,Simple Atributte,131,131,7,A2
+tests,conftest.py,Simple Atributte,149,149,18,A2
+tests,conftest.py,Simple Atributte,158,158,10,A2
+tests,conftest.py,Simple Atributte,159,159,11,A2
+tests,conftest.py,Simple Atributte,160,160,4,A2
+tests,conftest.py,Simple Atributte,61,61,18,A2
+tests,conftest.py,Simple Atributte,62,62,13,A2
+tests,conftest.py,Simple Atributte,78,78,20,A2
+tests,conftest.py,Simple Atributte,79,79,15,A2
+tests,conftest.py,Simple Atributte,82,82,13,A2
+tests,conftest.py,Simple Atributte,93,93,23,A2
+tests,conftest.py,Simple Atributte,131,131,7,A2
+tests,conftest.py,Simple Atributte,132,132,24,A2
+tests,conftest.py,Simple Atributte,161,161,9,A2
+tests,conftest.py,Simple Atributte,162,162,8,A2
+tests,conftest.py,Simple Atributte,162,162,17,A2
+tests,conftest.py,Simple Atributte,163,163,8,A2
+tests,conftest.py,Simple Atributte,132,132,24,A2
+tests,conftest.py,Simple Atributte,132,132,24,A2
+tests,conftest.py,Simple Assignment,29,29,4,A1
+tests,conftest.py,Simple Assignment,61,61,4,A1
+tests,conftest.py,Simple Assignment,62,62,4,A1
+tests,conftest.py,Simple Assignment,78,78,4,A1
+tests,conftest.py,Simple Assignment,79,79,4,A1
+tests,conftest.py,Simple Assignment,81,81,4,A1
+tests,conftest.py,Simple Assignment,82,82,4,A1
+tests,conftest.py,Simple Assignment,84,84,4,A1
+tests,conftest.py,Simple Assignment,92,92,4,A1
+tests,conftest.py,Simple Assignment,106,106,4,A1
+tests,conftest.py,Simple Assignment,107,107,4,A1
+tests,conftest.py,Simple Assignment,108,108,4,A1
+tests,conftest.py,Simple Assignment,109,109,4,A1
+tests,conftest.py,Simple Assignment,110,110,4,A1
+tests,conftest.py,Simple Assignment,111,111,4,A1
+tests,conftest.py,Simple Assignment,149,149,4,A1
+tests,conftest.py,Simple Assignment,158,158,4,A1
+tests,conftest.py,Simple Assignment,159,159,4,A1
+tests,conftest.py,Simple Assignment,119,119,8,A1
+tests,conftest.py,Simple Assignment,132,132,8,A1
+tests,conftest.py,'raise' exception,142,142,12,B1
+tests,conftest.py,Import,1,1,0,A2
+tests,conftest.py,Import,6,6,0,A2
+tests,conftest.py,Import,7,7,0,A2
+tests,conftest.py,From,2,2,0,A2
+tests,conftest.py,From,4,4,0,A2
+tests,conftest.py,From,9,9,0,A2
+tests,conftest.py,From,10,10,0,A2
+tests,conftest.py,From,11,11,0,A2
+tests,conftest.py,From,12,12,0,A2
+tests,conftest.py,From,13,13,0,A2
+tests,conftest.py,From,14,14,0,A2
+tests,conftest.py,From,15,15,0,A2
+tests,conftest.py,From,16,16,0,A2
+tests,conftest.py,From,17,17,0,A2
+tests,conftest.py,From,18,18,0,A2
+tests,conftest.py,From,19,19,0,A2
+tests,conftest.py,From,20,20,0,A2
+tests,conftest.py,From,21,21,0,A2
+tests,conftest.py,From,22,22,0,A2
+tests,conftest.py,From,23,23,0,A2
+tests,conftest.py,From,24,24,0,A2
+tests,conftest.py,Simple If statements,118,119,4,A1
+tests,conftest.py,Simple If statements,131,144,4,A1
+tests,conftest.py,Simple If statements,150,153,4,A1
+tests,conftest.py,Simple If statements,133,142,8,A1
+tests,conftest.py,Simple If statements,135,142,8,A1
+tests,conftest.py,Simple If statements,137,142,8,A1
+tests,conftest.py,Simple If statements,139,142,8,A1
+tests,conftest.py,For Loop with Tuple as name,65,66,4,A2
+tests,conftest.py,With,161,164,4,B1
+tests,conftest.py,Function,28,31,0,A1
+tests,conftest.py,Function with Simple argument,35,36,0,A1
+tests,conftest.py,Function with Simple argument,40,41,0,A1
+tests,conftest.py,Function with Simple argument,45,46,0,A1
+tests,conftest.py,Function with Simple argument,50,51,0,A1
+tests,conftest.py,Function with Simple argument,55,56,0,A1
+tests,conftest.py,Function with Simple argument,60,68,0,A1
+tests,conftest.py,Function,72,73,0,A1
+tests,conftest.py,Function with Simple argument,77,87,0,A1
+tests,conftest.py,Function with Simple argument,91,93,0,A1
+tests,conftest.py,Function with Simple argument,97,113,0,A1
+tests,conftest.py,Function with Simple argument,117,126,0,A1
+tests,conftest.py,Function with Simple argument,130,144,0,A1
+tests,conftest.py,Function with Simple argument,148,153,0,A1
+tests,conftest.py,Function,157,164,0,A1
+tests,conftest.py,Return,68,68,4,A1
+tests,conftest.py,Return,73,73,4,A1
+tests,conftest.py,Return,144,144,8,A1
+tests,conftest.py,Return,134,134,12,A1
+tests,conftest.py,Return,136,136,12,A1
+tests,conftest.py,Return,138,138,12,A1
+tests,conftest.py,Return,140,140,12,A1
+tests,conftest.py,Generator Function (yield),30,30,4,C1
+tests,conftest.py,Generator Function (yield),36,36,4,C1
+tests,conftest.py,Generator Function (yield),41,41,4,C1
+tests,conftest.py,Generator Function (yield),46,46,4,C1
+tests,conftest.py,Generator Function (yield),51,51,4,C1
+tests,conftest.py,Generator Function (yield),56,56,4,C1
+tests,conftest.py,Generator Function (yield),87,87,4,C1
+tests,conftest.py,Generator Function (yield),93,93,4,C1
+tests,conftest.py,Generator Function (yield),113,113,4,C1
+tests,conftest.py,Generator Function (yield),120,126,4,C1
+tests,conftest.py,Generator Function (yield),151,151,8,C1
+tests,conftest.py,Generator Function (yield),153,153,8,C1
+tests,conftest.py,Generator Function (yield),164,164,8,C1

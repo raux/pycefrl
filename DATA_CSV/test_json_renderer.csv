@@ -1,0 +1,17 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+renderers,test_json_renderer.py,Simple List,6,6,35,A1
+renderers,test_json_renderer.py,1 List Dictionary,6,6,20,B1
+renderers,test_json_renderer.py,Simple Atributte,9,9,12,A2
+renderers,test_json_renderer.py,Simple Atributte,6,6,1,A2
+renderers,test_json_renderer.py,Simple Atributte,12,12,11,A2
+renderers,test_json_renderer.py,Simple Atributte,13,13,11,A2
+renderers,test_json_renderer.py,Simple Atributte,6,6,1,A2
+renderers,test_json_renderer.py,Simple Atributte,13,13,11,A2
+renderers,test_json_renderer.py,Simple Assignment,8,8,4,A1
+renderers,test_json_renderer.py,Simple Assignment,9,9,4,A1
+renderers,test_json_renderer.py,'assert' exception,11,11,4,B2
+renderers,test_json_renderer.py,'assert' exception,12,12,4,B2
+renderers,test_json_renderer.py,'assert' exception,13,13,4,B2
+renderers,test_json_renderer.py,Import,1,1,0,A2
+renderers,test_json_renderer.py,From,3,3,0,A2
+renderers,test_json_renderer.py,Function with Simple argument,7,13,0,A1

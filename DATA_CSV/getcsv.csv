@@ -1,0 +1,44 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+.,getcsv.py,Simple List,49,49,21,A1
+.,getcsv.py,1 Nested List,14,15,24,A2
+.,getcsv.py,Simple List,14,15,25,A1
+.,getcsv.py,Files --> 'open' call function,35,35,19,A2
+.,getcsv.py,Files --> 'open' call function,47,47,9,A2
+.,getcsv.py,Files --> 'open' call function,40,40,13,A2
+.,getcsv.py,Simple Atributte,25,25,9,A2
+.,getcsv.py,Simple Atributte,17,17,8,A2
+.,getcsv.py,Simple Atributte,28,28,8,A2
+.,getcsv.py,Simple Atributte,48,48,17,A2
+.,getcsv.py,Simple Atributte,31,31,16,A2
+.,getcsv.py,Simple Atributte,37,37,21,A2
+.,getcsv.py,Simple Atributte,38,38,12,A2
+.,getcsv.py,Simple Atributte,41,41,21,A2
+.,getcsv.py,Simple Atributte,42,42,12,A2
+.,getcsv.py,Simple Atributte,51,51,12,A2
+.,getcsv.py,Simple Assignment,10,10,4,A1
+.,getcsv.py,Simple Assignment,11,11,4,A1
+.,getcsv.py,Simple Assignment,25,25,4,A1
+.,getcsv.py,Assigment with sum (total = total + 1),31,31,4,A1
+.,getcsv.py,Assigment with sum (total = total + 1),32,32,4,A1
+.,getcsv.py,Simple Assignment,18,18,8,A1
+.,getcsv.py,Simple Assignment,35,35,8,A1
+.,getcsv.py,Simple Assignment,48,48,8,A1
+.,getcsv.py,Simple Assignment,49,49,8,A1
+.,getcsv.py,Simple Assignment,14,15,12,A1
+.,getcsv.py,Simple Assignment,37,37,12,A1
+.,getcsv.py,Simple Assignment,41,41,12,A1
+.,getcsv.py,'pass' statement,30,30,8,B1
+.,getcsv.py,Import,3,3,0,A2
+.,getcsv.py,Import,4,4,0,A2
+.,getcsv.py,If statements using → __name__ == ‘__main__’,56,57,0,B2
+.,getcsv.py,Simple If statements,34,42,4,A1
+.,getcsv.py,Simple If statements,13,15,8,A1
+.,getcsv.py,Simple For Loop,12,19,4,A1
+.,getcsv.py,Simple For Loop,50,51,8,A1
+.,getcsv.py,Exception --> try/except,27,30,4,B1
+.,getcsv.py,With,47,53,4,B1
+.,getcsv.py,With,36,38,8,B1
+.,getcsv.py,With,40,42,8,B1
+.,getcsv.py,Function with Simple argument,7,19,0,A1
+.,getcsv.py,Function with Simple argument with Default argument,22,42,0,A2
+.,getcsv.py,Function with Simple argument with Default argument,45,53,0,A2

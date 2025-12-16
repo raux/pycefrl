@@ -1,0 +1,98 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+providers,spreadsheet.py,Simple List,66,66,24,A1
+providers,spreadsheet.py,Simple Tuple,89,89,12,A1
+providers,spreadsheet.py,Simple Tuple,73,73,12,A1
+providers,spreadsheet.py,Simple Tuple,91,91,16,A1
+providers,spreadsheet.py,Simple Tuple,74,74,24,A1
+providers,spreadsheet.py,Simple Tuple,92,92,19,A1
+providers,spreadsheet.py,Simple Tuple,96,96,46,A1
+providers,spreadsheet.py,Simple Tuple,101,101,31,A1
+providers,spreadsheet.py,Simple Tuple,101,101,41,A1
+providers,spreadsheet.py,Simple Tuple,102,102,47,A1
+providers,spreadsheet.py,Simple Dictionary,71,71,22,A2
+providers,spreadsheet.py,Simple Dictionary,74,78,46,A2
+providers,spreadsheet.py,'enumerate' call function,89,89,28,C2
+providers,spreadsheet.py,'enumerate' call function,91,91,33,C2
+providers,spreadsheet.py,Super Function,44,44,8,C2
+providers,spreadsheet.py,'range' call function,99,99,29,A2
+providers,spreadsheet.py,'range' call function,100,100,33,A2
+providers,spreadsheet.py,If statements expression (else),105,105,28,B1
+providers,spreadsheet.py,If statements expression (else),109,109,28,B1
+providers,spreadsheet.py,Simple Atributte,34,34,8,A2
+providers,spreadsheet.py,Simple Atributte,34,34,29,A2
+providers,spreadsheet.py,Simple Atributte,72,72,28,A2
+providers,spreadsheet.py,Simple Atributte,33,33,19,A2
+providers,spreadsheet.py,Simple Atributte,35,35,8,A2
+providers,spreadsheet.py,Simple Atributte,44,44,8,A2
+providers,spreadsheet.py,Simple Atributte,44,44,25,A2
+providers,spreadsheet.py,Simple Atributte,47,47,11,A2
+providers,spreadsheet.py,Simple Atributte,47,47,26,A2
+providers,spreadsheet.py,Simple Atributte,57,57,30,A2
+providers,spreadsheet.py,Simple Atributte,64,64,8,A2
+providers,spreadsheet.py,Simple Atributte,65,65,12,A2
+providers,spreadsheet.py,Simple Atributte,72,72,28,A2
+providers,spreadsheet.py,Simple Atributte,73,73,49,A2
+providers,spreadsheet.py,Simple Atributte,82,82,23,A2
+providers,spreadsheet.py,Simple Atributte,89,89,38,A2
+providers,spreadsheet.py,Simple Atributte,39,39,12,A2
+providers,spreadsheet.py,Simple Atributte,47,47,11,A2
+providers,spreadsheet.py,Simple Atributte,48,48,12,A2
+providers,spreadsheet.py,Simple Atributte,48,48,22,A2
+providers,spreadsheet.py,Simple Atributte,96,96,29,A2
+providers,spreadsheet.py,Simple Atributte,66,66,42,A2
+providers,spreadsheet.py,Simple Atributte,105,105,28,A2
+providers,spreadsheet.py,Simple Atributte,109,109,28,A2
+providers,spreadsheet.py,Simple Atributte,59,59,56,A2
+providers,spreadsheet.py,Simple Atributte,105,105,42,A2
+providers,spreadsheet.py,Simple Atributte,109,109,42,A2
+providers,spreadsheet.py,Simple Atributte,102,102,32,A2
+providers,spreadsheet.py,Simple Assignment,6,28,0,A1
+providers,spreadsheet.py,Simple Assignment,33,33,8,A1
+providers,spreadsheet.py,Simple Assignment,34,34,8,A1
+providers,spreadsheet.py,Simple Assignment,54,54,8,A1
+providers,spreadsheet.py,Simple Assignment,55,55,8,A1
+providers,spreadsheet.py,Simple Assignment,71,71,8,A1
+providers,spreadsheet.py,Simple Assignment,82,82,8,A1
+providers,spreadsheet.py,Simple Assignment,84,84,8,A1
+providers,spreadsheet.py,Simple Assignment,87,87,8,A1
+providers,spreadsheet.py,Simple Assignment,73,73,12,A1
+providers,spreadsheet.py,Simple Assignment,74,78,12,A1
+providers,spreadsheet.py,Simple Assignment,58,58,16,A1
+providers,spreadsheet.py,Simple Assignment,96,96,16,A1
+providers,spreadsheet.py,Simple Assignment,105,105,20,A1
+providers,spreadsheet.py,Simple Assignment,109,109,20,A1
+providers,spreadsheet.py,Simplified incremental Assignment with increase amount,114,114,8,A2
+providers,spreadsheet.py,Simplified incremental Assignment with increase amount,90,90,12,A2
+providers,spreadsheet.py,Simplified incremental Assignment with increase amount,113,113,12,A2
+providers,spreadsheet.py,Simplified incremental Assignment with increase amount,59,59,16,A2
+providers,spreadsheet.py,Simplified incremental Assignment with increase amount,112,112,16,A2
+providers,spreadsheet.py,Simplified incremental Assignment with increase amount,106,106,20,A2
+providers,spreadsheet.py,Simplified incremental Assignment with increase amount,110,110,20,A2
+providers,spreadsheet.py,'raise' exception,61,61,12,B1
+providers,spreadsheet.py,'raise' exception,41,41,12,B1
+providers,spreadsheet.py,Import,1,1,0,A2
+providers,spreadsheet.py,Import,2,2,0,A2
+providers,spreadsheet.py,From,4,4,0,A2
+providers,spreadsheet.py,From,51,51,8,A2
+providers,spreadsheet.py,From,52,52,8,A2
+providers,spreadsheet.py,Simple If statements,47,48,8,A1
+providers,spreadsheet.py,Simple If statements,56,61,8,A1
+providers,spreadsheet.py,Simple If statements,92,93,16,A1
+providers,spreadsheet.py,Simple If statements,97,110,16,A1
+providers,spreadsheet.py,Simple If statements,101,102,28,A1
+providers,spreadsheet.py,Simple For Loop,72,78,8,A1
+providers,spreadsheet.py,For Loop with Tuple as name,89,113,8,A2
+providers,spreadsheet.py,Simple For Loop,57,59,12,A1
+providers,spreadsheet.py,For Loop with Tuple as name,91,112,12,A2
+providers,spreadsheet.py,1 Nested For Loop,99,102,20,A2
+providers,spreadsheet.py,Simple For Loop,100,102,24,A1
+providers,spreadsheet.py,'continue' statement,93,93,20,B1
+providers,spreadsheet.py,Exception --> try/except,38,41,8,B1
+providers,spreadsheet.py,Function with Simple argument with Default argument,32,44,4,A2
+providers,spreadsheet.py,Function with Simple argument,46,48,4,A1
+providers,spreadsheet.py,Function with Simple argument,50,67,4,A1
+providers,spreadsheet.py,Function with Simple argument,70,79,4,A1
+providers,spreadsheet.py,Function with Simple argument,81,115,4,A1
+providers,spreadsheet.py,Return,79,79,8,A1
+providers,spreadsheet.py,Return,115,115,8,A1
+providers,spreadsheet.py,Inherited Class from PdfProvider Using the constructor method --> __init__,31,115,0,B1

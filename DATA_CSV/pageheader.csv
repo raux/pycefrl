@@ -1,0 +1,18 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+blocks,pageheader.py,Super Function,21,21,15,C2
+blocks,pageheader.py,Simple Atributte,6,6,29,A2
+blocks,pageheader.py,Simple Atributte,16,16,12,A2
+blocks,pageheader.py,Simple Atributte,18,18,11,A2
+blocks,pageheader.py,Simple Atributte,19,19,19,A2
+blocks,pageheader.py,Simple Atributte,21,21,15,A2
+blocks,pageheader.py,Simple Atributte,15,15,28,A2
+blocks,pageheader.py,Simple Atributte,18,18,29,A2
+blocks,pageheader.py,Simple Assignment,16,16,12,A1
+blocks,pageheader.py,From,1,1,0,A2
+blocks,pageheader.py,From,2,2,0,A2
+blocks,pageheader.py,Simple If statements,15,16,8,A1
+blocks,pageheader.py,Simple If statements,18,19,8,A1
+blocks,pageheader.py,Function with Simple argument,14,23,4,A1
+blocks,pageheader.py,Return,21,23,8,A1
+blocks,pageheader.py,Return,19,19,12,A1
+blocks,pageheader.py,Inherited Class from Block,5,23,0,B1

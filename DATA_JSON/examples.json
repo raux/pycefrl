@@ -1,0 +1,37 @@
+{
+    "examples": {
+        "marker_modal_deployment.py": {
+            "Levels": {
+                "A1": 106,
+                "A2": 148,
+                "B1": 20,
+                "C1": 1
+            },
+            "Class": {
+                "Simple List": 6,
+                "Simple Tuple": 3,
+                "Simple Dictionary": 9,
+                "Print": 21,
+                "Files --> 'open' call function": 3,
+                "Files --> 'read' call function": 1,
+                "Files --> 'write' call function": 1,
+                "If statements expression (else)": 5,
+                "Simple Atributte": 107,
+                "Simple Assignment": 51,
+                "'raise' exception": 5,
+                "Import": 13,
+                "From": 12,
+                "Simple If statements": 14,
+                "For Loop with Tuple as name": 1,
+                "Exception --> try/except": 6,
+                "With": 3,
+                "Function with Simple argument with Default argument": 1,
+                "Function": 1,
+                "Function with Simple argument": 2,
+                "Return": 8,
+                "Generator Function (yield)": 1,
+                "Simple Class ": 1
+            }
+        }
+    }
+}

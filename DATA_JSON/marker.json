@@ -1,0 +1,184 @@
+{
+    "marker": {
+        "chunk_convert.py": {
+            "Levels": {
+                "A2": 1,
+                "B2": 1
+            },
+            "Class": {
+                "From": 1,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1
+            }
+        },
+        "convert.py": {
+            "Levels": {
+                "A2": 1,
+                "B2": 1
+            },
+            "Class": {
+                "From": 1,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1
+            }
+        },
+        "convert_single.py": {
+            "Levels": {
+                "A2": 1,
+                "B2": 1
+            },
+            "Class": {
+                "From": 1,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1
+            }
+        },
+        "extraction_app.py": {
+            "Levels": {
+                "A2": 1,
+                "B2": 1
+            },
+            "Class": {
+                "From": 1,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1
+            }
+        },
+        "logger.py": {
+            "Levels": {
+                "A2": 24,
+                "A1": 7
+            },
+            "Class": {
+                "Simple Atributte": 21,
+                "Simple Assignment": 3,
+                "Import": 2,
+                "From": 1,
+                "Simple If statements": 1,
+                "Function": 2,
+                "Return": 1
+            }
+        },
+        "models.py": {
+            "Levels": {
+                "A2": 12,
+                "A1": 2,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Dictionary": 1,
+                "Simple Atributte": 3,
+                "Simple Assignment": 1,
+                "Import": 1,
+                "From": 6,
+                "From with 'as' extension ": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 1
+            }
+        },
+        "output.py": {
+            "Levels": {
+                "A1": 55,
+                "A2": 70,
+                "C1": 2,
+                "B1": 3,
+                "B2": 1
+            },
+            "Class": {
+                "Simple List": 4,
+                "Simple Tuple": 8,
+                "Simple Dictionary": 4,
+                "Files --> 'open' call function": 2,
+                "Files --> 'write' call function": 2,
+                "Simple Atributte": 48,
+                "Simple List Comprehension": 2,
+                "Simple Assignment": 13,
+                "'raise' exception": 1,
+                "Import": 2,
+                "From": 11,
+                "Simple If statements": 11,
+                "Simple For Loop": 2,
+                "For Loop with Tuple as name": 1,
+                "With": 2,
+                "Function with Simple argument": 5,
+                "Recursive Functions": 1,
+                "Return": 12
+            }
+        },
+        "util.py": {
+            "Levels": {
+                "A1": 142,
+                "A2": 90,
+                "B2": 4,
+                "C1": 4,
+                "B1": 6
+            },
+            "Class": {
+                "Simple List": 5,
+                "Simple Tuple": 29,
+                "Simple Dictionary": 3,
+                "Files --> 'open' call function": 1,
+                "'range' call function": 1,
+                "Files --> 'write' call function": 1,
+                "Simple Atributte": 70,
+                "Special Class Attribute __class__": 3,
+                "Simple List Comprehension": 1,
+                "Generator Expression": 1,
+                "Simple Assignment": 49,
+                "Assigment with sum (total = total +)": 3,
+                "Simplified incremental Assignment with increase amount": 2,
+                "'raise' exception": 2,
+                "'assert' exception": 1,
+                "Import": 3,
+                "Import're' module": 1,
+                "Import with 'as' extension ": 1,
+                "From'importlib' module": 1,
+                "From": 4,
+                "Simple If statements": 21,
+                "Simple For Loop": 7,
+                "For Loop with Tuple as name": 3,
+                "'continue' statement": 1,
+                "With": 1,
+                "Function with Simple argument": 10,
+                "Function with Simple argument with Default argument": 2,
+                "Function": 1,
+                "Lambda": 1,
+                "Return": 17
+            }
+        },
+        "settings.py": {
+            "Levels": {
+                "A2": 31,
+                "A1": 15,
+                "B1": 2
+            },
+            "Class": {
+                "Simple Atributte": 25,
+                "Simple Assignment": 3,
+                "Import": 2,
+                "From": 4,
+                "Simple If statements": 4,
+                "Function with Simple argument": 2,
+                "Return": 6,
+                "Inherited Class from BaseSettings": 1,
+                "Simple Class ": 1
+            }
+        },
+        "marker_server.py": {
+            "Levels": {
+                "A2": 1,
+                "B2": 1
+            },
+            "Class": {
+                "From": 1,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1
+            }
+        },
+        "marker_app.py": {
+            "Levels": {
+                "A2": 1,
+                "B2": 1
+            },
+            "Class": {
+                "From": 1,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1
+            }
+        }
+    }
+}

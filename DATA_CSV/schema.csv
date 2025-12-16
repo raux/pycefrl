@@ -1,0 +1,14 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+overall,schema.py,Simple Tuple,5,5,16,A1
+overall,schema.py,Simple Tuple,8,8,17,A1
+overall,schema.py,Simple Tuple,11,11,24,A1
+overall,schema.py,Simple Tuple,12,12,19,A1
+overall,schema.py,Simple Tuple,5,5,26,A1
+overall,schema.py,Simple Tuple,8,8,27,A1
+overall,schema.py,Simple Tuple,12,12,29,A1
+overall,schema.py,Simple Tuple,5,5,36,A1
+overall,schema.py,Simple Tuple,8,8,37,A1
+overall,schema.py,Simple Assignment,5,5,0,A1
+overall,schema.py,From,1,1,0,A2
+overall,schema.py,From,3,3,0,A2
+overall,schema.py,Inherited Class from TypedDict,7,12,0,B1

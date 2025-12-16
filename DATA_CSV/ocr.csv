@@ -1,0 +1,52 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+converters,ocr.py,Simple Tuple,14,14,52,A1
+converters,ocr.py,Simple Tuple,14,14,30,A1
+converters,ocr.py,Simple Dictionary,20,20,26,A2
+converters,ocr.py,Super Function,17,17,8,C2
+converters,ocr.py,Simple Atributte,23,23,8,A2
+converters,ocr.py,Simple Atributte,35,35,25,A2
+converters,ocr.py,Simple Atributte,42,42,8,A2
+converters,ocr.py,Simple Atributte,17,17,8,A2
+converters,ocr.py,Simple Atributte,19,19,15,A2
+converters,ocr.py,Simple Atributte,20,20,12,A2
+converters,ocr.py,Simple Atributte,22,22,8,A2
+converters,ocr.py,Simple Atributte,27,27,25,A2
+converters,ocr.py,Simple Atributte,27,27,51,A2
+converters,ocr.py,Simple Atributte,28,28,23,A2
+converters,ocr.py,Simple Atributte,29,29,22,A2
+converters,ocr.py,Simple Atributte,30,30,43,A2
+converters,ocr.py,Simple Atributte,32,32,42,A2
+converters,ocr.py,Simple Atributte,41,41,19,A2
+converters,ocr.py,Simple Atributte,42,42,30,A2
+converters,ocr.py,Simple Atributte,43,43,19,A2
+converters,ocr.py,Simple Atributte,43,43,45,A2
+converters,ocr.py,Simple Assignment,22,22,8,A1
+converters,ocr.py,Simple Assignment,23,23,8,A1
+converters,ocr.py,Simple Assignment,26,26,8,A1
+converters,ocr.py,Simple Assignment,27,27,8,A1
+converters,ocr.py,Simple Assignment,28,28,8,A1
+converters,ocr.py,Simple Assignment,29,29,8,A1
+converters,ocr.py,Simple Assignment,30,30,8,A1
+converters,ocr.py,Simple Assignment,32,32,8,A1
+converters,ocr.py,Simple Assignment,33,33,8,A1
+converters,ocr.py,Simple Assignment,41,41,8,A1
+converters,ocr.py,Simple Assignment,42,42,8,A1
+converters,ocr.py,Simple Assignment,43,43,8,A1
+converters,ocr.py,Simple Assignment,20,20,12,A1
+converters,ocr.py,From,1,1,0,A2
+converters,ocr.py,From,3,3,0,A2
+converters,ocr.py,From,4,4,0,A2
+converters,ocr.py,From,5,5,0,A2
+converters,ocr.py,From,6,6,0,A2
+converters,ocr.py,From,7,7,0,A2
+converters,ocr.py,From,8,8,0,A2
+converters,ocr.py,From,9,9,0,A2
+converters,ocr.py,From,10,10,0,A2
+converters,ocr.py,Simple If statements,19,20,8,A1
+converters,ocr.py,Simple For Loop,35,36,8,A1
+converters,ocr.py,Function with Simple argument with * argument  with ** argument,16,23,4,B1
+converters,ocr.py,Function with Simple argument,25,38,4,A1
+converters,ocr.py,Function with Simple argument,40,44,4,A1
+converters,ocr.py,Return,38,38,8,A1
+converters,ocr.py,Return,44,44,8,A1
+converters,ocr.py,Inherited Class from PdfConverter,13,44,0,B1

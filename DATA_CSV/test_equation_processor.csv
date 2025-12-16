@@ -1,0 +1,18 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+processors,test_equation_processor.py,Simple List,7,7,35,A1
+processors,test_equation_processor.py,1 List Dictionary,7,7,20,B1
+processors,test_equation_processor.py,Simple Atributte,12,12,17,A2
+processors,test_equation_processor.py,Simple Atributte,7,7,1,A2
+processors,test_equation_processor.py,Simple Atributte,7,7,1,A2
+processors,test_equation_processor.py,Simple Atributte,12,12,17,A2
+processors,test_equation_processor.py,Simple Atributte,13,13,11,A2
+processors,test_equation_processor.py,Simple Atributte,13,13,31,A2
+processors,test_equation_processor.py,Simple Atributte,14,14,19,A2
+processors,test_equation_processor.py,Simple Assignment,9,9,4,A1
+processors,test_equation_processor.py,'assert' exception,14,14,12,B2
+processors,test_equation_processor.py,Import,1,1,0,A2
+processors,test_equation_processor.py,From,3,3,0,A2
+processors,test_equation_processor.py,From,4,4,0,A2
+processors,test_equation_processor.py,Simple If statements,13,14,8,A1
+processors,test_equation_processor.py,Simple For Loop,12,14,4,A1
+processors,test_equation_processor.py,Function with Simple argument,8,14,0,A1

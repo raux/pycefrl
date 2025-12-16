@@ -1,0 +1,32 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+marker,logger.py,Simple Atributte,11,11,11,A2
+marker,logger.py,Simple Atributte,19,19,4,A2
+marker,logger.py,Simple Atributte,19,19,20,A2
+marker,logger.py,Simple Atributte,22,22,4,A2
+marker,logger.py,Simple Atributte,25,25,4,A2
+marker,logger.py,Simple Atributte,25,25,38,A2
+marker,logger.py,Simple Atributte,26,26,4,A2
+marker,logger.py,Simple Atributte,26,26,51,A2
+marker,logger.py,Simple Atributte,27,27,4,A2
+marker,logger.py,Simple Atributte,27,27,57,A2
+marker,logger.py,Simple Atributte,28,28,4,A2
+marker,logger.py,Simple Atributte,28,28,45,A2
+marker,logger.py,Simple Atributte,32,32,11,A2
+marker,logger.py,Simple Atributte,12,12,18,A2
+marker,logger.py,Simple Atributte,13,13,20,A2
+marker,logger.py,Simple Atributte,16,16,8,A2
+marker,logger.py,Simple Atributte,17,17,8,A2
+marker,logger.py,Simple Atributte,25,25,4,A2
+marker,logger.py,Simple Atributte,26,26,4,A2
+marker,logger.py,Simple Atributte,27,27,4,A2
+marker,logger.py,Simple Atributte,28,28,4,A2
+marker,logger.py,Simple Assignment,9,9,4,A1
+marker,logger.py,Simple Assignment,12,12,8,A1
+marker,logger.py,Simple Assignment,13,15,8,A1
+marker,logger.py,Import,1,1,0,A2
+marker,logger.py,Import,2,2,0,A2
+marker,logger.py,From,4,4,0,A2
+marker,logger.py,Simple If statements,11,17,4,A1
+marker,logger.py,Function,7,28,0,A1
+marker,logger.py,Function,31,32,0,A1
+marker,logger.py,Return,32,32,4,A1

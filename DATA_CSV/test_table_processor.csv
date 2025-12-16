@@ -1,0 +1,99 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+processors,test_table_processor.py,Simple List,11,11,35,A1
+processors,test_table_processor.py,Simple List,33,33,35,A1
+processors,test_table_processor.py,Simple List,52,52,35,A1
+processors,test_table_processor.py,Simple List,70,70,35,A1
+processors,test_table_processor.py,Simple List,80,80,35,A1
+processors,test_table_processor.py,Simple Tuple,37,37,43,A1
+processors,test_table_processor.py,Simple Tuple,38,38,53,A1
+processors,test_table_processor.py,Simple Tuple,87,87,22,A1
+processors,test_table_processor.py,Simple Tuple,85,85,42,A1
+processors,test_table_processor.py,Simple Tuple,20,20,60,A1
+processors,test_table_processor.py,Simple Tuple,25,25,45,A1
+processors,test_table_processor.py,1 List Dictionary,11,11,20,B1
+processors,test_table_processor.py,1 List Dictionary,33,33,20,B1
+processors,test_table_processor.py,1 List Dictionary,52,52,20,B1
+processors,test_table_processor.py,1 List Dictionary,70,70,20,B1
+processors,test_table_processor.py,1 List Dictionary,80,80,20,B1
+processors,test_table_processor.py,Simple Dictionary,42,42,68,A2
+processors,test_table_processor.py,Simple Atributte,18,18,17,A2
+processors,test_table_processor.py,Simple Atributte,11,11,1,A2
+processors,test_table_processor.py,Simple Atributte,32,32,1,A2
+processors,test_table_processor.py,Simple Atributte,33,33,1,A2
+processors,test_table_processor.py,Simple Atributte,51,51,1,A2
+processors,test_table_processor.py,Simple Atributte,52,52,1,A2
+processors,test_table_processor.py,Simple Atributte,69,69,1,A2
+processors,test_table_processor.py,Simple Atributte,70,70,1,A2
+processors,test_table_processor.py,Simple Atributte,80,80,1,A2
+processors,test_table_processor.py,Simple Atributte,29,29,25,A2
+processors,test_table_processor.py,Simple Atributte,11,11,1,A2
+processors,test_table_processor.py,Simple Atributte,37,37,13,A2
+processors,test_table_processor.py,Simple Atributte,38,38,12,A2
+processors,test_table_processor.py,Simple Atributte,48,48,29,A2
+processors,test_table_processor.py,Simple Atributte,32,32,1,A2
+processors,test_table_processor.py,Simple Atributte,33,33,1,A2
+processors,test_table_processor.py,Simple Atributte,56,56,11,A2
+processors,test_table_processor.py,Simple Atributte,51,51,1,A2
+processors,test_table_processor.py,Simple Atributte,52,52,1,A2
+processors,test_table_processor.py,Simple Atributte,77,77,24,A2
+processors,test_table_processor.py,Simple Atributte,69,69,1,A2
+processors,test_table_processor.py,Simple Atributte,70,70,1,A2
+processors,test_table_processor.py,Simple Atributte,86,86,29,A2
+processors,test_table_processor.py,Simple Atributte,80,80,1,A2
+processors,test_table_processor.py,Simple Atributte,18,18,17,A2
+processors,test_table_processor.py,Simple Atributte,19,19,11,A2
+processors,test_table_processor.py,Simple Atributte,19,19,31,A2
+processors,test_table_processor.py,Simple Atributte,37,37,44,A2
+processors,test_table_processor.py,Simple Atributte,38,38,54,A2
+processors,test_table_processor.py,Simple Atributte,57,57,63,A2
+processors,test_table_processor.py,Simple Atributte,64,64,63,A2
+processors,test_table_processor.py,Simple Atributte,85,85,12,A2
+processors,test_table_processor.py,Simple Atributte,87,87,23,A2
+processors,test_table_processor.py,Simple Atributte,20,20,23,A2
+processors,test_table_processor.py,Simple Atributte,25,25,15,A2
+processors,test_table_processor.py,Simple Atributte,85,85,43,A2
+processors,test_table_processor.py,Simple Atributte,89,89,27,A2
+processors,test_table_processor.py,Simple Atributte,20,20,61,A2
+processors,test_table_processor.py,Simple Atributte,25,25,46,A2
+processors,test_table_processor.py,Simple List Comprehension,89,89,26,C1
+processors,test_table_processor.py,Simple Assignment,15,15,4,A1
+processors,test_table_processor.py,Simple Assignment,27,27,4,A1
+processors,test_table_processor.py,Simple Assignment,28,28,4,A1
+processors,test_table_processor.py,Simple Assignment,37,37,4,A1
+processors,test_table_processor.py,Simple Assignment,38,38,4,A1
+processors,test_table_processor.py,Simple Assignment,41,43,4,A1
+processors,test_table_processor.py,Simple Assignment,46,46,4,A1
+processors,test_table_processor.py,Simple Assignment,47,47,4,A1
+processors,test_table_processor.py,Simple Assignment,56,56,4,A1
+processors,test_table_processor.py,Simple Assignment,61,61,4,A1
+processors,test_table_processor.py,Simple Assignment,72,72,4,A1
+processors,test_table_processor.py,Simple Assignment,75,75,4,A1
+processors,test_table_processor.py,Simple Assignment,76,76,4,A1
+processors,test_table_processor.py,Simple Assignment,82,82,4,A1
+processors,test_table_processor.py,Simple Assignment,85,85,4,A1
+processors,test_table_processor.py,Simple Assignment,89,89,4,A1
+processors,test_table_processor.py,Simple Assignment,20,20,12,A1
+processors,test_table_processor.py,'assert' exception,25,25,4,B2
+processors,test_table_processor.py,'assert' exception,29,29,4,B2
+processors,test_table_processor.py,'assert' exception,39,39,4,B2
+processors,test_table_processor.py,'assert' exception,48,48,4,B2
+processors,test_table_processor.py,'assert' exception,57,59,4,B2
+processors,test_table_processor.py,'assert' exception,64,66,4,B2
+processors,test_table_processor.py,'assert' exception,77,77,4,B2
+processors,test_table_processor.py,'assert' exception,90,90,4,B2
+processors,test_table_processor.py,'assert' exception,21,21,12,B2
+processors,test_table_processor.py,'assert' exception,22,22,12,B2
+processors,test_table_processor.py,'assert' exception,23,23,12,B2
+processors,test_table_processor.py,Import,3,3,0,A2
+processors,test_table_processor.py,From,1,1,0,A2
+processors,test_table_processor.py,From,5,5,0,A2
+processors,test_table_processor.py,From,6,6,0,A2
+processors,test_table_processor.py,From,7,7,0,A2
+processors,test_table_processor.py,From,8,8,0,A2
+processors,test_table_processor.py,Simple If statements,19,23,8,A1
+processors,test_table_processor.py,Simple For Loop,18,23,4,A1
+processors,test_table_processor.py,Function with Simple argument,12,29,0,A1
+processors,test_table_processor.py,Function with Simple argument,34,48,0,A1
+processors,test_table_processor.py,Function with Simple argument,53,66,0,A1
+processors,test_table_processor.py,Function with Simple argument,71,77,0,A1
+processors,test_table_processor.py,Function with Simple argument,81,90,0,A1

@@ -1,0 +1,24 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+scripts,run_streamlit_app.py,Simple List,10,18,10,A1
+scripts,run_streamlit_app.py,Simple List,20,20,15,A1
+scripts,run_streamlit_app.py,Simple Dictionary,21,21,28,A2
+scripts,run_streamlit_app.py,Simple Atributte,7,7,11,A2
+scripts,run_streamlit_app.py,Simple Atributte,8,8,14,A2
+scripts,run_streamlit_app.py,Simple Atributte,9,9,15,A2
+scripts,run_streamlit_app.py,Simple Atributte,21,21,4,A2
+scripts,run_streamlit_app.py,Simple Atributte,8,8,14,A2
+scripts,run_streamlit_app.py,Simple Atributte,8,8,30,A2
+scripts,run_streamlit_app.py,Simple Atributte,9,9,15,A2
+scripts,run_streamlit_app.py,Simple Atributte,8,8,30,A2
+scripts,run_streamlit_app.py,Simple Atributte,21,21,31,A2
+scripts,run_streamlit_app.py,Simple Assignment,7,7,4,A1
+scripts,run_streamlit_app.py,Simple Assignment,8,8,4,A1
+scripts,run_streamlit_app.py,Simple Assignment,9,9,4,A1
+scripts,run_streamlit_app.py,Simple Assignment,10,18,4,A1
+scripts,run_streamlit_app.py,Simplified incremental Assignment with increase amount,20,20,8,A2
+scripts,run_streamlit_app.py,Import,1,1,0,A2
+scripts,run_streamlit_app.py,Import,2,2,0,A2
+scripts,run_streamlit_app.py,Import,3,3,0,A2
+scripts,run_streamlit_app.py,Simple If statements,19,20,4,A1
+scripts,run_streamlit_app.py,Function with Simple argument with Default argument,6,21,0,A2
+scripts,run_streamlit_app.py,Function,24,25,0,A1

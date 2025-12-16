@@ -1,0 +1,48 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+display,dataset.py,Simple List,12,12,11,A1
+display,dataset.py,Simple Tuple,13,13,8,A1
+display,dataset.py,Simple Tuple,36,36,50,A1
+display,dataset.py,Simple Dictionary,20,25,14,A2
+display,dataset.py,'enumerate' call function,13,13,28,C2
+display,dataset.py,Simple Atributte,11,11,127,A2
+display,dataset.py,Simple Atributte,11,11,33,A2
+display,dataset.py,Simple Atributte,51,51,9,A2
+display,dataset.py,Simple Atributte,50,50,8,A2
+display,dataset.py,Simple Atributte,51,51,9,A2
+display,dataset.py,Simple Atributte,33,33,29,A2
+display,dataset.py,Simple Atributte,36,36,29,A2
+display,dataset.py,Simple Atributte,47,47,59,A2
+display,dataset.py,Simple Atributte,36,36,29,A2
+display,dataset.py,Simple Assignment,12,12,4,A1
+display,dataset.py,Simple Assignment,51,51,4,A1
+display,dataset.py,Simple Assignment,20,25,8,A1
+display,dataset.py,Simple Assignment,30,30,12,A1
+display,dataset.py,Simple Assignment,31,31,12,A1
+display,dataset.py,Simple Assignment,38,38,12,A1
+display,dataset.py,Simple Assignment,39,39,12,A1
+display,dataset.py,Simple Assignment,33,33,16,A1
+display,dataset.py,Simple Assignment,36,36,16,A1
+display,dataset.py,Simple Assignment,43,43,20,A1
+display,dataset.py,Simple Assignment,47,47,20,A1
+display,dataset.py,Simple Assignment,45,45,20,A1
+display,dataset.py,Simple Assignment,49,49,20,A1
+display,dataset.py,Import,1,1,0,A2
+display,dataset.py,Import,4,4,0,A2
+display,dataset.py,From,2,2,0,A2
+display,dataset.py,From,5,5,0,A2
+display,dataset.py,From,7,7,0,A2
+display,dataset.py,From,8,8,0,A2
+display,dataset.py,Simple If statements,14,15,8,A1
+display,dataset.py,Simple If statements,17,18,8,A1
+display,dataset.py,Simple If statements,27,28,12,A1
+display,dataset.py,For Loop with Tuple as name,13,50,4,A2
+display,dataset.py,1 Nested For Loop,26,49,8,A2
+display,dataset.py,Simple For Loop,41,49,12,A1
+display,dataset.py,'break' statement,18,18,12,B1
+display,dataset.py,'continue' statement,15,15,12,B1
+display,dataset.py,'continue' statement,28,28,16,B1
+display,dataset.py,Exception --> try/except,32,36,12,B1
+display,dataset.py,Exception --> try/except,42,45,16,B1
+display,dataset.py,Exception --> try/except,46,49,16,B1
+display,dataset.py,Function with Simple argument with Default argument,11,52,0,A2
+display,dataset.py,Return,52,52,4,A1

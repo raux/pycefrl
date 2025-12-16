@@ -1,0 +1,60 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+config,test_config.py,Simple List,30,37,15,A1
+config,test_config.py,Simple List,51,51,28,A1
+config,test_config.py,Simple List,60,60,28,A1
+config,test_config.py,Simple List,69,69,28,A1
+config,test_config.py,Simple Dictionary,12,12,22,A2
+config,test_config.py,Simple Atributte,18,18,20,A2
+config,test_config.py,Simple Atributte,19,19,4,A2
+config,test_config.py,Simple Atributte,30,30,4,A2
+config,test_config.py,Simple Atributte,53,53,15,A2
+config,test_config.py,Simple Atributte,11,11,14,A2
+config,test_config.py,Simple Atributte,24,24,8,A2
+config,test_config.py,Simple Atributte,38,38,28,A2
+config,test_config.py,Simple Atributte,40,40,18,A2
+config,test_config.py,Simple Atributte,62,62,18,A2
+config,test_config.py,Simple Atributte,71,71,18,A2
+config,test_config.py,Simple Atributte,15,15,8,A2
+config,test_config.py,Simple Atributte,56,56,15,A2
+config,test_config.py,Simple Atributte,22,22,20,A2
+config,test_config.py,Simple Assignment,11,11,4,A1
+config,test_config.py,Simple Assignment,12,12,4,A1
+config,test_config.py,Simple Assignment,18,18,4,A1
+config,test_config.py,Simple Assignment,19,19,4,A1
+config,test_config.py,Simple Assignment,30,37,4,A1
+config,test_config.py,Simple Assignment,38,38,4,A1
+config,test_config.py,Simple Assignment,39,39,4,A1
+config,test_config.py,Simple Assignment,40,40,4,A1
+config,test_config.py,Simple Assignment,51,51,4,A1
+config,test_config.py,Simple Assignment,60,60,4,A1
+config,test_config.py,Simple Assignment,61,61,4,A1
+config,test_config.py,Simple Assignment,62,62,4,A1
+config,test_config.py,Simple Assignment,69,69,4,A1
+config,test_config.py,Simple Assignment,70,70,4,A1
+config,test_config.py,Simple Assignment,71,71,4,A1
+config,test_config.py,Simple Assignment,24,24,8,A1
+config,test_config.py,Simple Assignment,55,55,8,A1
+config,test_config.py,'assert' exception,43,43,4,B2
+config,test_config.py,'assert' exception,44,44,4,B2
+config,test_config.py,'assert' exception,46,46,4,B2
+config,test_config.py,'assert' exception,47,47,4,B2
+config,test_config.py,'assert' exception,65,65,4,B2
+config,test_config.py,'assert' exception,74,74,4,B2
+config,test_config.py,'assert' exception,56,56,8,B2
+config,test_config.py,Import,1,1,0,A2
+config,test_config.py,Import,3,3,0,A2
+config,test_config.py,From,2,2,0,A2
+config,test_config.py,From,5,5,0,A2
+config,test_config.py,From,6,6,0,A2
+config,test_config.py,From,7,7,0,A2
+config,test_config.py,Simple For Loop,53,56,4,A1
+config,test_config.py,Exception --> try/finally,20,24,4,B2
+config,test_config.py,With,21,22,8,B1
+config,test_config.py,Function with Simple argument,10,26,0,A1
+config,test_config.py,Function,29,47,0,A1
+config,test_config.py,Function,50,56,0,A1
+config,test_config.py,Function,59,65,0,A1
+config,test_config.py,Function,68,74,0,A1
+config,test_config.py,Function with ** argument,14,16,4,B1
+config,test_config.py,Return,26,26,4,A1
+config,test_config.py,Return,16,16,8,A1

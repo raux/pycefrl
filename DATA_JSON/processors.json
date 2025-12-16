@@ -1,0 +1,260 @@
+{
+    "processors": {
+        "__init__.py": {
+            "Levels": {
+                "B1": 3,
+                "A2": 6
+            },
+            "Class": {
+                "'raise' exception": 1,
+                "From": 5,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument with * argument  with ** argument": 1,
+                "Simple Class ": 1
+            }
+        },
+        "blank_page.py": {
+            "Levels": {
+                "A1": 33,
+                "A2": 43,
+                "B1": 3
+            },
+            "Class": {
+                "Simple List": 3,
+                "Simple Tuple": 5,
+                "'range' call function": 1,
+                "Simple Atributte": 34,
+                "Simple Assignment": 13,
+                "Assigment with sum (total = total +)": 1,
+                "Import with 'as' extension ": 1,
+                "Import": 1,
+                "From": 7,
+                "Simple If statements": 4,
+                "Simple For Loop": 2,
+                "'continue' statement": 1,
+                "Function with Simple argument": 2,
+                "Return": 3,
+                "Inherited Class from BaseProcessor": 1
+            }
+        },
+        "block_relabel.py": {
+            "Levels": {
+                "A1": 29,
+                "A2": 43,
+                "C2": 2,
+                "B1": 6
+            },
+            "Class": {
+                "Simple Tuple": 5,
+                "Simple Dictionary": 1,
+                "'enumerate' call function": 1,
+                "Super Function": 1,
+                "Simple Atributte": 31,
+                "Simple Assignment": 14,
+                "'raise' exception": 1,
+                "From": 8,
+                "Simple If statements": 6,
+                "For Loop with Tuple as name": 1,
+                " Nested For Loop": 1,
+                "Simple For Loop": 1,
+                "'continue' statement": 3,
+                "Exception --> try/except": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument": 1,
+                "Return": 2,
+                "Inherited Class from BaseProcessor": 1
+            }
+        },
+        "blockquote.py": {
+            "Levels": {
+                "A1": 26,
+                "C2": 1,
+                "A2": 52,
+                "B1": 7
+            },
+            "Class": {
+                "Simple Tuple": 5,
+                "Super Function": 1,
+                "Simple Atributte": 46,
+                "Simple Assignment": 9,
+                "Simplified incremental Assignment with increase amount": 1,
+                "From": 4,
+                "Simple If statements": 9,
+                " Nested For Loop": 1,
+                "Simple For Loop": 1,
+                "'continue' statement": 6,
+                "Function with Simple argument": 2,
+                "Inherited Class from BaseProcessor": 1
+            }
+        },
+        "code.py": {
+            "Levels": {
+                "A1": 25,
+                "A2": 26,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Tuple": 2,
+                "Simple Atributte": 18,
+                "Simple Assignment": 13,
+                "Assigment with sum (total = total +)": 3,
+                "Simplified incremental Assignment with increase amount": 3,
+                "From": 4,
+                "Simple If statements": 2,
+                " Nested For Loop": 1,
+                "Simple For Loop": 3,
+                "Function with Simple argument": 2,
+                "Inherited Class from BaseProcessor": 1
+            }
+        },
+        "debug.py": {
+            "Levels": {
+                "A1": 22
+            },
+            "Class": {
+                "Simple List": 10,
+                "Simple Tuple": 12
+            }
+        },
+        "test_document_toc_processor.py": {
+            "Levels": {
+                "A1": 3,
+                "B1": 1,
+                "A2": 6,
+                "B2": 2
+            },
+            "Class": {
+                "Simple List": 1,
+                " List Dictionary": 1,
+                "Simple Atributte": 4,
+                "Simple Assignment": 1,
+                "'assert' exception": 2,
+                "Import": 1,
+                "From": 1,
+                "Function with Simple argument": 1
+            }
+        },
+        "test_equation_processor.py": {
+            "Levels": {
+                "A1": 5,
+                "B1": 1,
+                "A2": 10,
+                "B2": 1
+            },
+            "Class": {
+                "Simple List": 1,
+                " List Dictionary": 1,
+                "Simple Atributte": 7,
+                "Simple Assignment": 1,
+                "'assert' exception": 1,
+                "Import": 1,
+                "From": 2,
+                "Simple If statements": 1,
+                "Simple For Loop": 1,
+                "Function with Simple argument": 1
+            }
+        },
+        "test_footnote_processor.py": {
+            "Levels": {
+                "A1": 5,
+                "B1": 1,
+                "A2": 13,
+                "B2": 2
+            },
+            "Class": {
+                "Simple List": 2,
+                " List Dictionary": 1,
+                "Simple Atributte": 10,
+                "Simple Assignment": 2,
+                "'assert' exception": 2,
+                "Import": 1,
+                "From": 2,
+                "Function with Simple argument": 1
+            }
+        },
+        "test_ignoretext.py": {
+            "Levels": {
+                "A1": 4,
+                "A2": 16,
+                "B2": 2
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Dictionary": 1,
+                "'range' call function": 1,
+                "Simple Atributte": 11,
+                "Simple Assignment": 2,
+                "'assert' exception": 2,
+                "Import": 1,
+                "From": 2,
+                "Function with Simple argument": 1
+            }
+        },
+        "test_llm_processors.py": {
+            "Levels": {
+                "A1": 90,
+                "B1": 8,
+                "A2": 103,
+                "C1": 5,
+                "B2": 11
+            },
+            "Class": {
+                "Simple List": 16,
+                "Simple Tuple": 9,
+                " List Dictionary": 8,
+                "Simple Dictionary": 13,
+                "Print": 1,
+                "Simple Atributte": 78,
+                "Simple List Comprehension": 1,
+                "Generator Expression": 4,
+                "Simple Assignment": 53,
+                "Assigment with sum (total = total +)": 3,
+                "'assert' exception": 11,
+                "Import": 1,
+                "From": 11,
+                "Function with Simple argument": 8
+            }
+        },
+        "test_table_merge.py": {
+            "Levels": {
+                "A1": 9,
+                "A2": 14,
+                "B2": 2
+            },
+            "Class": {
+                "Simple Tuple": 2,
+                "Simple Dictionary": 2,
+                "Simple Atributte": 7,
+                "Simple Assignment": 6,
+                "'assert' exception": 2,
+                "Import": 1,
+                "From": 4,
+                "Function with Simple argument": 1
+            }
+        },
+        "test_table_processor.py": {
+            "Levels": {
+                "A1": 35,
+                "B1": 5,
+                "A2": 46,
+                "C1": 1,
+                "B2": 11
+            },
+            "Class": {
+                "Simple List": 5,
+                "Simple Tuple": 6,
+                " List Dictionary": 5,
+                "Simple Dictionary": 1,
+                "Simple Atributte": 39,
+                "Simple List Comprehension": 1,
+                "Simple Assignment": 17,
+                "'assert' exception": 11,
+                "Import": 1,
+                "From": 5,
+                "Simple If statements": 1,
+                "Simple For Loop": 1,
+                "Function with Simple argument": 5
+            }
+        }
+    }
+}

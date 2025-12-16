@@ -1,0 +1,55 @@
+{
+    "services": {
+        "__init__.py": {
+            "Levels": {
+                "A1": 16,
+                "A2": 23,
+                "B1": 3
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 4,
+                "Simple Atributte": 13,
+                "Simple Assignment": 3,
+                "'raise' exception": 2,
+                "Import": 2,
+                "From": 5,
+                "Simple If statements": 2,
+                "Function with Simple argument with Default argument": 3,
+                "Function with Simple argument": 2,
+                "Return": 3,
+                "Simple Class ": 1
+            }
+        },
+        "azure_openai.py": {
+            "Levels": {
+                "B1": 2,
+                "A1": 6
+            },
+            "Class": {
+                " Dictionary List": 2,
+                "Simple List": 1,
+                "Simple Tuple": 5
+            }
+        },
+        "test_service_init.py": {
+            "Levels": {
+                "A1": 13,
+                "B1": 7,
+                "A2": 45,
+                "B2": 12
+            },
+            "Class": {
+                "Simple List": 6,
+                " List Dictionary": 6,
+                "Simple Dictionary": 1,
+                "Simple Atributte": 37,
+                "'assert' exception": 12,
+                "Import": 1,
+                "From": 6,
+                "With": 1,
+                "Function with Simple argument": 7
+            }
+        }
+    }
+}

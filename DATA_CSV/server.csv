@@ -1,0 +1,97 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+scripts,server.py,Simple List,87,87,35,A1
+scripts,server.py,Simple Tuple,114,114,8,A1
+scripts,server.py,Simple Tuple,57,57,8,A1
+scripts,server.py,Simple Tuple,60,64,8,A1
+scripts,server.py,Simple Tuple,67,70,8,A1
+scripts,server.py,Simple Tuple,73,76,8,A1
+scripts,server.py,Simple Tuple,79,82,8,A1
+scripts,server.py,Simple Tuple,104,104,8,A1
+scripts,server.py,Simple Dictionary,22,22,11,A2
+scripts,server.py,Simple Dictionary,113,113,14,A2
+scripts,server.py,Simple Dictionary,121,127,11,A2
+scripts,server.py,Simple Dictionary,108,111,15,A2
+scripts,server.py,Files --> 'open' call function,146,146,9,A2
+scripts,server.py,Files --> 'write' call function,148,148,8,A2
+scripts,server.py,Files --> 'read' call function,147,147,30,A2
+scripts,server.py,Simple Atributte,26,26,0,A2
+scripts,server.py,Simple Atributte,42,42,1,A2
+scripts,server.py,Simple Atributte,130,130,1,A2
+scripts,server.py,Simple Atributte,135,135,1,A2
+scripts,server.py,Simple Atributte,162,162,1,A2
+scripts,server.py,Simple Atributte,163,163,1,A2
+scripts,server.py,Simple Atributte,164,164,1,A2
+scripts,server.py,Simple Atributte,87,87,11,A2
+scripts,server.py,Simple Atributte,105,105,19,A2
+scripts,server.py,Simple Atributte,114,114,16,A2
+scripts,server.py,Simple Atributte,122,122,18,A2
+scripts,server.py,Simple Atributte,145,145,18,A2
+scripts,server.py,Simple Atributte,145,145,49,A2
+scripts,server.py,Simple Atributte,158,158,4,A2
+scripts,server.py,Simple Atributte,169,169,4,A2
+scripts,server.py,Simple Atributte,91,91,18,A2
+scripts,server.py,Simple Atributte,93,93,22,A2
+scripts,server.py,Simple Atributte,103,103,29,A2
+scripts,server.py,Simple Atributte,115,115,22,A2
+scripts,server.py,Simple Atributte,116,116,8,A2
+scripts,server.py,Simple Atributte,117,117,21,A2
+scripts,server.py,Simple Atributte,118,118,12,A2
+scripts,server.py,Simple Atributte,145,145,18,A2
+scripts,server.py,Simple Atributte,148,148,8,A2
+scripts,server.py,Simple Atributte,107,107,8,A2
+scripts,server.py,Simple Atributte,116,116,35,A2
+scripts,server.py,Simple Atributte,147,147,30,A2
+scripts,server.py,Simple Atributte,99,99,27,A2
+scripts,server.py,Simple Atributte,100,100,21,A2
+scripts,server.py,Simple Atributte,101,101,24,A2
+scripts,server.py,Simple Atributte,117,117,21,A2
+scripts,server.py,Simple Atributte,117,117,38,A2
+scripts,server.py,Simple Assignment,22,22,0,A1
+scripts,server.py,Simple Assignment,25,25,0,A1
+scripts,server.py,Simple Assignment,39,39,0,A1
+scripts,server.py,Simple Assignment,31,31,4,A1
+scripts,server.py,Simple Assignment,113,113,4,A1
+scripts,server.py,Simple Assignment,145,145,4,A1
+scripts,server.py,Simple Assignment,150,156,4,A1
+scripts,server.py,Simple Assignment,157,157,4,A1
+scripts,server.py,Simple Assignment,91,91,8,A1
+scripts,server.py,Simple Assignment,92,92,8,A1
+scripts,server.py,Simple Assignment,93,93,8,A1
+scripts,server.py,Simple Assignment,94,94,8,A1
+scripts,server.py,Simple Assignment,95,95,8,A1
+scripts,server.py,Simple Assignment,96,102,8,A1
+scripts,server.py,Simple Assignment,103,103,8,A1
+scripts,server.py,Simple Assignment,104,104,8,A1
+scripts,server.py,Simple Assignment,105,105,8,A1
+scripts,server.py,Simple Assignment,115,115,8,A1
+scripts,server.py,Simple Assignment,117,119,8,A1
+scripts,server.py,Simple Assignment,147,147,8,A1
+scripts,server.py,'assert' exception,87,89,4,B2
+scripts,server.py,Import,1,1,0,A2
+scripts,server.py,Import,3,3,0,A2
+scripts,server.py,Import,4,4,0,A2
+scripts,server.py,Import,12,12,0,A2
+scripts,server.py,Import,15,15,0,A2
+scripts,server.py,Import,166,166,4,A2
+scripts,server.py,From,6,6,0,A2
+scripts,server.py,From,7,7,0,A2
+scripts,server.py,From,9,9,0,A2
+scripts,server.py,From,10,10,0,A2
+scripts,server.py,From,13,13,0,A2
+scripts,server.py,From,14,14,0,A2
+scripts,server.py,From,17,17,0,A2
+scripts,server.py,From,18,18,0,A2
+scripts,server.py,From,19,19,0,A2
+scripts,server.py,From,20,20,0,A2
+scripts,server.py,Simple If statements,35,36,4,A1
+scripts,server.py,For Loop with Tuple as name,114,119,4,A2
+scripts,server.py,Exception --> try/except,90,111,4,B1
+scripts,server.py,With,146,148,4,B1
+scripts,server.py,Function with Simple argument,165,173,0,A1
+scripts,server.py,Return,44,52,4,A1
+scripts,server.py,Return,121,127,4,A1
+scripts,server.py,Return,132,132,4,A1
+scripts,server.py,Return,159,159,4,A1
+scripts,server.py,Return,108,111,8,A1
+scripts,server.py,Generator Function (yield),33,33,4,C1
+scripts,server.py,Inherited Class from BaseModel,55,83,0,B1

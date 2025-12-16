@@ -1,0 +1,541 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+.,texto.py,Simple List,3,3,4,A1
+.,texto.py,1 Nested List,6,6,4,A2
+.,texto.py,1 Dictionary List,9,9,4,B1
+.,texto.py,Simple List,191,191,0,A1
+.,texto.py,Simple List,191,191,14,A1
+.,texto.py,Simple List,290,290,7,A1
+.,texto.py,Simple List,291,291,8,A1
+.,texto.py,Simple List,301,301,9,A1
+.,texto.py,Simple List,312,312,18,A1
+.,texto.py,Simple List,315,315,18,A1
+.,texto.py,Simple List,348,348,8,A1
+.,texto.py,Simple List,350,350,4,A1
+.,texto.py,Simple List,6,6,18,A1
+.,texto.py,Simple List,26,26,17,A1
+.,texto.py,Simple List,26,26,58,A1
+.,texto.py,Simple List,104,104,24,A1
+.,texto.py,Simple List,244,244,4,A1
+.,texto.py,Simple List,510,510,16,A1
+.,texto.py,Simple List,31,31,18,A1
+.,texto.py,Simple List,32,32,14,A1
+.,texto.py,Simple List,35,35,14,A1
+.,texto.py,Simple List,36,36,17,A1
+.,texto.py,Simple List,39,39,16,A1
+.,texto.py,Simple List,88,88,42,A1
+.,texto.py,Simple List,324,324,9,A1
+.,texto.py,Simple List,324,324,33,A1
+.,texto.py,Simple List,540,540,30,A1
+.,texto.py,Simple List,543,543,14,A1
+.,texto.py,Simple List,546,546,14,A1
+.,texto.py,2 Nested Tuple,77,77,5,A2
+.,texto.py,Simple Tuple,93,93,10,A1
+.,texto.py,Simple Tuple,189,189,0,A1
+.,texto.py,Simple Tuple,189,189,12,A1
+.,texto.py,2 Nested Tuple,195,195,0,A2
+.,texto.py,Simple Tuple,195,195,14,A1
+.,texto.py,Simple Tuple,197,197,0,A1
+.,texto.py,Simple Tuple,308,308,4,A1
+.,texto.py,2 Nested Tuple,312,312,4,A2
+.,texto.py,Simple Tuple,315,315,4,A1
+.,texto.py,Simple Tuple,329,329,4,A1
+.,texto.py,Simple Tuple,333,333,4,A1
+.,texto.py,Simple Tuple,77,77,13,A1
+.,texto.py,Simple Tuple,195,195,1,A1
+.,texto.py,Simple Tuple,290,290,20,A1
+.,texto.py,Simple Tuple,291,291,9,A1
+.,texto.py,Simple Tuple,312,312,5,A1
+.,texto.py,2 Nested Tuple,312,312,19,A2
+.,texto.py,2 Nested Tuple,312,312,32,A2
+.,texto.py,Simple Tuple,315,315,19,A1
+.,texto.py,Simple Tuple,315,315,33,A1
+.,texto.py,Simple Tuple,51,51,45,A1
+.,texto.py,Simple Tuple,56,56,22,A1
+.,texto.py,Simple Tuple,61,61,21,A1
+.,texto.py,Simple Tuple,66,66,51,A1
+.,texto.py,Simple Tuple,312,312,20,A1
+.,texto.py,Simple Tuple,312,312,33,A1
+.,texto.py,Simple Tuple,332,332,11,A1
+.,texto.py,Simple Tuple,334,334,21,A1
+.,texto.py,Simple Dictionary,23,23,5,A2
+.,texto.py,2 List Dictionary,26,26,5,B1
+.,texto.py,5 List in 3Dictionary of Dictionary,29,41,5,B2
+.,texto.py,Simple Dictionary,49,49,12,A2
+.,texto.py,Simple Dictionary,55,55,16,A2
+.,texto.py,Simple Dictionary,60,60,16,A2
+.,texto.py,Simple Dictionary,65,65,16,A2
+.,texto.py,Simple Dictionary,225,225,9,A2
+.,texto.py,Simple Dictionary,9,9,11,A2
+.,texto.py,2 List Dictionary,30,33,12,B1
+.,texto.py,2 List Dictionary,34,37,16,B1
+.,texto.py,1 List Dictionary,38,40,15,B1
+.,texto.py,Simple Dictionary,223,223,6,A2
+.,texto.py,Attribute  statements __slots__,510,510,4,C1
+.,texto.py,Print,52,52,0,A1
+.,texto.py,Print,57,57,0,A1
+.,texto.py,Print,62,62,0,A1
+.,texto.py,Print,67,67,0,A1
+.,texto.py,Print,94,94,0,A1
+.,texto.py,Print,95,95,0,A1
+.,texto.py,Print,96,96,0,A1
+.,texto.py,Print,98,98,0,A1
+.,texto.py,Print,99,99,0,A1
+.,texto.py,'map' call function,135,135,4,C2
+.,texto.py,Files --> 'open' call function,141,141,9,A2
+.,texto.py,Files --> 'open' call function,143,143,0,A2
+.,texto.py,Files --> 'open' call function,144,144,8,A2
+.,texto.py,Files --> 'read' call function,147,147,10,A2
+.,texto.py,Files --> 'readline' call function,148,148,10,A2
+.,texto.py,Files --> 'write' call function,151,151,0,A2
+.,texto.py,Files --> 'writelines' call function,152,152,0,A2
+.,texto.py,Print,160,160,0,A1
+.,texto.py,Files --> 'readline' call function,165,165,7,A2
+.,texto.py,Files --> 'open' call function,171,171,4,A2
+.,texto.py,Files --> 'read' call function,172,172,7,A2
+.,texto.py,Files --> 'open' call function,177,177,4,A2
+.,texto.py,Print,223,223,0,A1
+.,texto.py,Print,226,226,0,A1
+.,texto.py,Print,227,227,0,A1
+.,texto.py,'enumerate' call function,329,329,22,C2
+.,texto.py,'enumerate' call function,333,333,14,C2
+.,texto.py,Print,414,414,0,A1
+.,texto.py,Print,415,415,0,A1
+.,texto.py,Print,416,416,0,A1
+.,texto.py,Print,488,488,0,A1
+.,texto.py,Print,123,123,4,A1
+.,texto.py,Print,126,126,4,A1
+.,texto.py,Files --> 'read' call function,160,160,6,A2
+.,texto.py,Files --> 'open' call function,162,162,14,A2
+.,texto.py,Print,204,204,4,A1
+.,texto.py,Print,211,211,4,A1
+.,texto.py,Print,230,230,4,A1
+.,texto.py,Print,249,249,4,A1
+.,texto.py,Print,251,251,4,A1
+.,texto.py,Print,254,254,4,A1
+.,texto.py,Print,302,302,4,A1
+.,texto.py,Print,306,306,4,A1
+.,texto.py,Print,310,310,4,A1
+.,texto.py,Print,313,313,4,A1
+.,texto.py,Print,316,316,4,A1
+.,texto.py,'range' call function,320,320,5,A2
+.,texto.py,'range' call function,321,321,5,A2
+.,texto.py,'range' call function,322,322,5,A2
+.,texto.py,'zip' call function,324,324,5,C2
+.,texto.py,'map' call function,326,326,5,C2
+.,texto.py,Print,330,330,4,A1
+.,texto.py,Files --> 'open' call function,333,333,24,A2
+.,texto.py,Print,334,334,4,A1
+.,texto.py,Print,339,339,4,A1
+.,texto.py,'range' call function,345,345,13,A2
+.,texto.py,Print,352,352,4,A1
+.,texto.py,Print,353,353,4,A1
+.,texto.py,Print,358,358,4,A1
+.,texto.py,Print,363,363,4,A1
+.,texto.py,Print,366,366,4,A1
+.,texto.py,Print,368,368,4,A1
+.,texto.py,Print,371,371,4,A1
+.,texto.py,Print,373,373,4,A1
+.,texto.py,Print,376,376,4,A1
+.,texto.py,Print,379,379,4,A1
+.,texto.py,'range' call function,393,393,13,A2
+.,texto.py,Print,431,431,4,A1
+.,texto.py,Print,494,494,4,A1
+.,texto.py,Print,556,556,2,A1
+.,texto.py,Print,561,561,2,A1
+.,texto.py,Print,578,578,2,A1
+.,texto.py,Print,628,628,4,A1
+.,texto.py,Print,632,632,4,A1
+.,texto.py,Print,637,637,4,A1
+.,texto.py,Print,640,640,4,A1
+.,texto.py,Print,646,646,4,A1
+.,texto.py,Print,648,648,4,A1
+.,texto.py,Print,658,658,4,A1
+.,texto.py,Print,660,660,4,A1
+.,texto.py,Files --> 'open' call function,673,673,5,A2
+.,texto.py,'range' call function,13,13,20,A2
+.,texto.py,'range' call function,16,16,22,A2
+.,texto.py,'range' call function,45,45,22,A2
+.,texto.py,'range' call function,70,70,56,A2
+.,texto.py,Files --> 'open' call function,159,159,19,A2
+.,texto.py,Print,206,206,4,A1
+.,texto.py,Print,208,208,4,A1
+.,texto.py,Print,213,213,4,A1
+.,texto.py,Print,232,232,4,A1
+.,texto.py,Print,268,268,8,A1
+.,texto.py,Print,276,276,8,A1
+.,texto.py,Print,282,282,8,A1
+.,texto.py,Print,286,286,8,A1
+.,texto.py,'enumerate' call function,332,332,21,C2
+.,texto.py,'range' call function,397,397,17,A2
+.,texto.py,Print,464,464,8,A1
+.,texto.py,Print,474,474,8,A1
+.,texto.py,Print,499,499,8,A1
+.,texto.py,Print,506,506,8,A1
+.,texto.py,Print,529,529,8,A1
+.,texto.py,Print,540,540,24,A1
+.,texto.py,Print,543,543,8,A1
+.,texto.py,Print,546,546,8,A1
+.,texto.py,staticmethod,548,548,16,C1
+.,texto.py,Print,570,570,4,A1
+.,texto.py,Print,572,572,4,A1
+.,texto.py,Print,573,573,4,A1
+.,texto.py,Print,587,587,8,A1
+.,texto.py,Print,596,596,4,A1
+.,texto.py,Print,614,614,8,A1
+.,texto.py,Print,618,618,8,A1
+.,texto.py,Print,625,625,4,A1
+.,texto.py,Print,642,642,4,A1
+.,texto.py,Print,644,644,4,A1
+.,texto.py,Print,652,652,8,A1
+.,texto.py,Print,656,656,4,A1
+.,texto.py,Print,665,665,4,A1
+.,texto.py,Print,675,675,8,A1
+.,texto.py,'range' call function,70,70,33,A2
+.,texto.py,Files --> 'open' call function,160,160,6,A2
+.,texto.py,Print,215,215,4,A1
+.,texto.py,Print,296,296,12,A1
+.,texto.py,Print,299,299,12,A1
+.,texto.py,Print,654,654,8,A1
+.,texto.py,Print,217,217,4,A1
+.,texto.py,Print,219,219,4,A1
+.,texto.py,Super Function,617,617,8,C2
+.,texto.py,If statements expression (else),240,240,4,B1
+.,texto.py,If statements expression (else),66,66,18,B1
+.,texto.py,If statements expression (else),389,389,11,B1
+.,texto.py,If statements expression (else),591,591,15,B1
+.,texto.py,Special Class Attribute __class__,489,489,0,B2
+.,texto.py,Simple Atributte,490,490,0,A2
+.,texto.py,Special Class Attribute __dict__,493,493,11,B2
+.,texto.py,Simple Atributte,519,519,0,A2
+.,texto.py,Simple Atributte,520,520,0,A2
+.,texto.py,Simple Atributte,534,534,0,A2
+.,texto.py,Simple Atributte,535,535,0,A2
+.,texto.py,Simple Atributte,536,536,0,A2
+.,texto.py,Simple Atributte,147,147,10,A2
+.,texto.py,Simple Atributte,148,148,10,A2
+.,texto.py,Simple Atributte,151,151,0,A2
+.,texto.py,Simple Atributte,152,152,0,A2
+.,texto.py,Simple Atributte,155,155,0,A2
+.,texto.py,Simple Atributte,159,159,0,A2
+.,texto.py,Simple Atributte,162,162,4,A2
+.,texto.py,Simple Atributte,165,165,7,A2
+.,texto.py,Simple Atributte,166,166,8,A2
+.,texto.py,Simple Atributte,172,172,7,A2
+.,texto.py,Simple Atributte,174,174,8,A2
+.,texto.py,Simple Atributte,179,179,4,A2
+.,texto.py,Simple Atributte,403,403,0,A2
+.,texto.py,Simple Atributte,406,406,0,A2
+.,texto.py,Simple Atributte,415,415,6,A2
+.,texto.py,Simple Atributte,416,416,6,A2
+.,texto.py,Simple Atributte,446,446,9,A2
+.,texto.py,Simple Atributte,469,469,0,A2
+.,texto.py,Simple Atributte,470,470,0,A2
+.,texto.py,Special Class Attribute __class__,490,490,0,B2
+.,texto.py,Simple Atributte,94,94,18,A2
+.,texto.py,Simple Atributte,95,95,20,A2
+.,texto.py,Simple Atributte,96,96,15,A2
+.,texto.py,Simple Atributte,98,98,7,A2
+.,texto.py,Simple Atributte,99,99,7,A2
+.,texto.py,Simple Atributte,160,160,6,A2
+.,texto.py,Simple Atributte,226,226,6,A2
+.,texto.py,Simple Atributte,227,227,6,A2
+.,texto.py,Simple Atributte,416,416,6,A2
+.,texto.py,Simple Atributte,462,462,8,A2
+.,texto.py,Simple Atributte,479,479,8,A2
+.,texto.py,Simple Atributte,492,492,5,A2
+.,texto.py,Simple Atributte,527,527,8,A2
+.,texto.py,Simple Atributte,567,567,4,A2
+.,texto.py,Simple Atributte,585,585,8,A2
+.,texto.py,Simple Atributte,51,51,62,A2
+.,texto.py,Simple Atributte,56,56,32,A2
+.,texto.py,Simple Atributte,61,61,31,A2
+.,texto.py,Simple Atributte,66,66,61,A2
+.,texto.py,Simple Atributte,464,464,14,A2
+.,texto.py,Simple Atributte,483,483,36,A2
+.,texto.py,Special Class Attribute __dict__,492,492,5,B2
+.,texto.py,Special Class Attribute __dict__,494,494,21,B2
+.,texto.py,Simple Atributte,502,502,8,A2
+.,texto.py,Simple Atributte,571,571,14,A2
+.,texto.py,Simple Atributte,588,588,15,A2
+.,texto.py,Simple Atributte,617,617,8,A2
+.,texto.py,Simple Atributte,474,474,39,A2
+.,texto.py,Simple Atributte,481,481,26,A2
+.,texto.py,Simple Atributte,334,334,25,A2
+.,texto.py,Simple List Comprehension,13,13,5,C1
+.,texto.py,List Comprehension with 1If statements,16,16,5,C1
+.,texto.py,2Nested List Comprehension with,19,19,5,C2
+.,texto.py,Simple List Comprehension,130,130,4,C1
+.,texto.py,Simple List Comprehension,168,168,10,C1
+.,texto.py,Simple List Comprehension,332,332,0,C1
+.,texto.py,Generator Expression,397,397,0,C1
+.,texto.py,Simple Dictionary Comprehension,45,45,5,C1
+.,texto.py,Simple Dictionary Comprehension,51,51,12,C1
+.,texto.py,Dictionary Comprehension with 1 If statements,56,56,12,C2
+.,texto.py,Dictionary Comprehension with 2 If statements,61,61,11,C2
+.,texto.py,Dictionary Comprehension with 1 if expression (If-Else),66,66,13,C2
+.,texto.py,1 Nested Dictionary Comprehension,70,70,5,C2
+.,texto.py,Simple Dictionary Comprehension,70,70,10,C1
+.,texto.py,Simple Assignment,3,3,0,A1
+.,texto.py,Simple Assignment,6,6,0,A1
+.,texto.py,Simple Assignment,9,9,0,A1
+.,texto.py,Simple Assignment,13,13,0,A1
+.,texto.py,Simple Assignment,16,16,0,A1
+.,texto.py,Simple Assignment,19,19,0,A1
+.,texto.py,Simple Assignment,23,23,0,A1
+.,texto.py,Simple Assignment,26,26,0,A1
+.,texto.py,Simple Assignment,29,41,0,A1
+.,texto.py,Simple Assignment,45,45,0,A1
+.,texto.py,Simple Assignment,49,49,0,A1
+.,texto.py,Simple Assignment,50,50,0,A1
+.,texto.py,Simple Assignment,51,51,0,A1
+.,texto.py,Simple Assignment,55,55,0,A1
+.,texto.py,Simple Assignment,56,56,0,A1
+.,texto.py,Simple Assignment,60,60,0,A1
+.,texto.py,Simple Assignment,61,61,0,A1
+.,texto.py,Simple Assignment,65,65,0,A1
+.,texto.py,Simple Assignment,66,66,0,A1
+.,texto.py,Simple Assignment,70,70,0,A1
+.,texto.py,Simple Assignment,74,74,0,A1
+.,texto.py,Simple Assignment,77,77,0,A1
+.,texto.py,Simple Assignment,81,81,0,A1
+.,texto.py,Assigment with sum (total = total + 1),84,84,0,A1
+.,texto.py,Simple Assignment,88,88,0,A1
+.,texto.py,Simple Assignment,90,90,0,A1
+.,texto.py,Simple Assignment,93,93,0,A1
+.,texto.py,Simple Assignment,104,104,0,A1
+.,texto.py,Simple Assignment,109,109,0,A1
+.,texto.py,Assigment with sum (total = total + 1),112,112,0,A1
+.,texto.py,Assigment with sum (total = total + 1),113,113,0,A1
+.,texto.py,Simple Assignment,116,116,0,A1
+.,texto.py,Simple Assignment,129,129,0,A1
+.,texto.py,Simple Assignment,130,130,0,A1
+.,texto.py,Simple Assignment,133,133,0,A1
+.,texto.py,Simple Assignment,134,134,0,A1
+.,texto.py,Simple Assignment,135,135,0,A1
+.,texto.py,Simple Assignment,141,141,0,A1
+.,texto.py,Simple Assignment,144,144,0,A1
+.,texto.py,Simple Assignment,147,147,0,A1
+.,texto.py,Simple Assignment,148,148,0,A1
+.,texto.py,Simple Assignment,162,162,0,A1
+.,texto.py,Simple Assignment,165,165,0,A1
+.,texto.py,Simple Assignment,166,166,0,A1
+.,texto.py,Simple Assignment,168,168,0,A1
+.,texto.py,Simple Assignment,171,171,0,A1
+.,texto.py,Simple Assignment,172,172,0,A1
+.,texto.py,Simple Assignment,174,174,0,A1
+.,texto.py,Simple Assignment,177,177,0,A1
+.,texto.py,Simple Assignment,179,179,0,A1
+.,texto.py,Simple Assignment,182,182,0,A1
+.,texto.py,Assigment with sum (total = total + 1),184,184,0,A1
+.,texto.py,Simple Assignment,189,189,0,A1
+.,texto.py,Simple Assignment,191,191,0,A1
+.,texto.py,Simple Assignment,193,193,0,A1
+.,texto.py,Simple Assignment,195,195,0,A1
+.,texto.py,Simple Assignment,197,197,0,A1
+.,texto.py,Simple Assignment,222,222,0,A1
+.,texto.py,Simple Assignment,225,225,0,A1
+.,texto.py,Simple Assignment,240,240,0,A1
+.,texto.py,Simple Assignment,242,242,0,A1
+.,texto.py,Simple Assignment,244,244,0,A1
+.,texto.py,Simple Assignment,263,263,0,A1
+.,texto.py,Assigment with sum (total = total + 1),279,279,0,A1
+.,texto.py,Simple Assignment,290,290,0,A1
+.,texto.py,Simple Assignment,291,291,0,A1
+.,texto.py,Simple Assignment,304,304,0,A1
+.,texto.py,Simple Assignment,308,308,0,A1
+.,texto.py,Simple Assignment,328,328,0,A1
+.,texto.py,Simple Assignment,348,348,0,A1
+.,texto.py,Simple Assignment,350,350,0,A1
+.,texto.py,Simple Assignment,412,412,0,A1
+.,texto.py,Simple Assignment,441,441,0,A1
+.,texto.py,Simple Assignment,442,442,0,A1
+.,texto.py,Simple Assignment,445,445,0,A1
+.,texto.py,Simple Assignment,446,446,0,A1
+.,texto.py,Simple Assignment,466,466,0,A1
+.,texto.py,Simple Assignment,467,467,0,A1
+.,texto.py,Simple Assignment,487,487,0,A1
+.,texto.py,Simple Assignment,511,511,0,A1
+.,texto.py,Simple Assignment,518,518,0,A1
+.,texto.py,Simple Assignment,533,533,0,A1
+.,texto.py,Simple Assignment,535,535,0,A1
+.,texto.py,Simple Assignment,236,236,4,A1
+.,texto.py,Simple Assignment,238,238,4,A1
+.,texto.py,Assigment with sum (total = total + 1),265,265,4,A1
+.,texto.py,Simple Assignment,272,272,4,A1
+.,texto.py,Simple Assignment,510,510,4,A1
+.,texto.py,Simple Assignment,517,517,4,A1
+.,texto.py,Simple Assignment,532,532,4,A1
+.,texto.py,Simple Assignment,609,609,4,A1
+.,texto.py,Simple Assignment,275,275,8,A1
+.,texto.py,Simple Assignment,462,462,8,A1
+.,texto.py,Simple Assignment,479,479,8,A1
+.,texto.py,Simple Assignment,527,527,8,A1
+.,texto.py,Simple Assignment,548,548,8,A1
+.,texto.py,Simple Assignment,549,549,8,A1
+.,texto.py,Simple Assignment,567,567,4,A1
+.,texto.py,Simple Assignment,571,571,4,A1
+.,texto.py,Simple Assignment,585,585,8,A1
+.,texto.py,Simplified incremental Assignment with increase amount,185,185,0,A2
+.,texto.py,Simplified incremental Assignment with decrease subtraction,186,186,0,A2
+.,texto.py,Simplified incremental Assignment with increase multiplication,187,187,0,A2
+.,texto.py,Simplified incremental Assignment with decrease subtraction,284,284,8,A2
+.,texto.py,'raise' exception,663,663,4,B1
+.,texto.py,'assert' exception,669,669,4,B2
+.,texto.py,'pass' statement,260,260,4,B1
+.,texto.py,'pass' statement,606,606,4,B1
+.,texto.py,'pass' statement,603,603,8,B1
+.,texto.py,'pass' statement,630,630,4,B1
+.,texto.py,Import'struct' module,173,173,0,C1
+.,texto.py,Import'pickle' module,178,178,0,C1
+.,texto.py,Import,402,402,0,A2
+.,texto.py,Import,413,413,0,A2
+.,texto.py,Import with 'as' extension ,436,436,0,B1
+.,texto.py,Import'importlib' module,444,444,0,C1
+.,texto.py,Import'struct' module,449,449,0,C1
+.,texto.py,Import'pickle' module,450,450,0,C1
+.,texto.py,Import'shelve' module,451,451,0,C1
+.,texto.py,Import'dbm' module,452,452,0,C1
+.,texto.py,Import're' module,453,453,0,C1
+.,texto.py,Import'importlib' module,454,454,0,C1
+.,texto.py,Import'struct' module'pickle' module,455,455,0,C1
+.,texto.py,From,103,103,0,A2
+.,texto.py,From,405,405,0,A2
+.,texto.py,From with *statements ,408,408,0,B1
+.,texto.py,Relative From,420,420,0,B1
+.,texto.py,Relative From,422,422,0,B1
+.,texto.py,Relative From,424,424,0,B1
+.,texto.py,From,428,428,0,A2
+.,texto.py,From with 'as' extension ,437,437,0,B1
+.,texto.py,From with *statements 'struct' module,456,456,0,C1
+.,texto.py,From,486,486,0,A2
+.,texto.py,Simple If statements,125,126,0,A1
+.,texto.py,Simple If statements,203,208,0,A1
+.,texto.py,Simple If statements,210,219,0,A1
+.,texto.py,Simple If statements,235,238,0,A1
+.,texto.py,If statements using → __name__ == ‘__main__’,432,433,0,B2
+.,texto.py,Simple If statements,205,208,0,A1
+.,texto.py,Simple If statements,212,219,0,A1
+.,texto.py,Simple If statements,266,268,4,A1
+.,texto.py,Simple If statements,273,276,4,A1
+.,texto.py,Simple If statements,281,286,4,A1
+.,texto.py,Simple If statements,383,386,4,A1
+.,texto.py,Simple If statements,214,219,0,A1
+.,texto.py,Simple If statements,295,299,8,A1
+.,texto.py,Simple If statements,216,219,0,A1
+.,texto.py,Simple For Loop,122,123,0,A1
+.,texto.py,1 Nested For Loop,293,299,0,A2
+.,texto.py,For Loop with 1 List to iterate,301,302,0,A2
+.,texto.py,Simple For Loop,305,306,0,A1
+.,texto.py,Simple For Loop,309,310,0,A1
+.,texto.py,For Loop with 1 List to iterate,312,313,0,A2
+.,texto.py,For Loop with 1 List to iterate,315,316,0,A2
+.,texto.py,For Loop with Tuple as name,329,330,0,A2
+.,texto.py,For Loop with Tuple as name,333,334,0,A2
+.,texto.py,Simple For Loop,351,353,0,A1
+.,texto.py,Simple For Loop,493,494,0,A1
+.,texto.py,Simple For Loop,294,299,4,A1
+.,texto.py,Simple For Loop,345,346,4,A1
+.,texto.py,Simple For Loop,393,394,4,A1
+.,texto.py,Simple For Loop,674,675,4,A1
+.,texto.py,While with Else Loop,248,251,0,B1
+.,texto.py,Simple While Loop,253,254,0,B1
+.,texto.py,Simple While Loop,264,268,0,B1
+.,texto.py,Simple While Loop,271,276,0,B1
+.,texto.py,Simple While Loop,280,286,0,B1
+.,texto.py,'break' statement,274,274,8,B1
+.,texto.py,'break' statement,283,283,8,B1
+.,texto.py,'break' statement,297,297,12,B1
+.,texto.py,'continue' statement,267,267,8,B1
+.,texto.py,Exception --> try/except,229,232,0,B1
+.,texto.py,Exception --> try/except,622,625,0,B1
+.,texto.py,Exception --> try/except/else,627,632,0,B1
+.,texto.py,Exception --> try/finally,634,637,0,B2
+.,texto.py,Exception --> try/except/else/finally,639,648,0,B2
+.,texto.py,Exception --> try/try/except/else/finally,650,660,0,B2
+.,texto.py,Exception --> try/except,662,665,0,B1
+.,texto.py,Exception --> try/except,651,654,4,B1
+.,texto.py,With,673,675,0,B1
+.,texto.py,Function,259,260,0,A1
+.,texto.py,Function with Simple argument,338,339,0,A1
+.,texto.py,Function with Simple argument with Default argument with * argument ,341,342,0,B1
+.,texto.py,Function with Simple argument,344,346,0,A1
+.,texto.py,Function with Simple argument,357,358,0,A1
+.,texto.py,Function with Simple argument with Default argument,362,363,0,A2
+.,texto.py,Function with * argument ,365,366,0,B1
+.,texto.py,Function with ** argument,367,368,0,B1
+.,texto.py,Function with * argument  with Keyword-Only argument,370,371,0,B1
+.,texto.py,Function with Keyword-Only argument,372,373,0,B1
+.,texto.py,Function with Simple argument with Default argument with * argument  with Keyword-Only argument with ** argument,375,376,0,B1
+.,texto.py,Function,378,379,0,A1
+.,texto.py,Recursive Functions,382,386,0,B2
+.,texto.py,Recursive Functions,388,389,0,B2
+.,texto.py,Function with Simple argument,392,394,0,A1
+.,texto.py,Function,430,431,0,A1
+.,texto.py,Function with Simple argument,555,557,0,A1
+.,texto.py,Function,560,561,0,A1
+.,texto.py,Function,577,579,0,A1
+.,texto.py,Function with Simple argument,668,670,0,A1
+.,texto.py,Function with Simple argument,461,462,4,A1
+.,texto.py,Function with Simple argument,463,464,4,A1
+.,texto.py,Function with Simple argument,473,474,4,A1
+.,texto.py,Function with Simple argument,478,479,4,A1
+.,texto.py,Function with Simple argument,480,481,4,A1
+.,texto.py,Function with Simple argument,482,483,4,A1
+.,texto.py,Function with Simple argument,498,499,4,A1
+.,texto.py,Function with Simple argument,501,502,4,A1
+.,texto.py,Function with Simple argument,505,506,4,A1
+.,texto.py,Function with Simple argument,515,516,4,A1
+.,texto.py,Function with Simple argument,524,525,4,A1
+.,texto.py,Function with Simple argument,526,527,4,A1
+.,texto.py,Function with Simple argument,528,529,4,A1
+.,texto.py,Function with Simple argument,540,540,4,A1
+.,texto.py,Function with Simple argument,542,543,4,A1
+.,texto.py,Function with Simple argument,545,549,4,A1
+.,texto.py,Function with Simple argument,566,567,2,A1
+.,texto.py,Function with Simple argument with * argument  with ** argument,569,574,2,B1
+.,texto.py,Function with Simple argument,584,585,4,A1
+.,texto.py,Function with Simple argument with * argument  with ** argument,586,588,4,B1
+.,texto.py,Function with Simple argument,589,591,4,A1
+.,texto.py,Function with Simple argument,595,596,2,A1
+.,texto.py,Function with Simple argument,602,603,4,A1
+.,texto.py,Function with Simple argument,613,614,4,A1
+.,texto.py,Function with Simple argument,616,618,4,A1
+.,texto.py,Lambda,348,348,9,B1
+.,texto.py,Lambda,348,348,26,B1
+.,texto.py,Lambda,350,350,5,B1
+.,texto.py,Lambda,350,350,23,B1
+.,texto.py,Lambda,350,350,40,B1
+.,texto.py,Return,342,342,4,A1
+.,texto.py,Return,389,389,4,A1
+.,texto.py,Return,557,557,2,A1
+.,texto.py,Return,579,579,2,A1
+.,texto.py,Return,670,670,4,A1
+.,texto.py,Return,384,384,8,A1
+.,texto.py,Return,386,386,8,A1
+.,texto.py,Return,481,481,8,A1
+.,texto.py,Return,483,483,8,A1
+.,texto.py,Return,516,516,8,A1
+.,texto.py,Return,525,525,8,A1
+.,texto.py,Return,574,574,4,A1
+.,texto.py,Return,588,588,8,A1
+.,texto.py,Return,591,591,8,A1
+.,texto.py,Generator Function (yield),346,346,8,C1
+.,texto.py,Generator Function (yield),394,394,8,C1
+.,texto.py,Simple Class ,460,464,0,B1
+.,texto.py,Inherited Class from FirstClass,472,474,0,B1
+.,texto.py,Inherited Class from SecondClass Using the constructor method --> __init__,477,483,0,B1
+.,texto.py,Simple Class  Private Methods __secret of the class Private Attributes __secret of the class,497,502,0,C2
+.,texto.py,Inherited Class from Demo Private Methods __secret of the class,504,506,0,C2
+.,texto.py,Inherited Class from object,509,510,0,B1
+.,texto.py,Inherited Class from object with Class Properties ,514,517,0,C1
+.,texto.py,Inherited Class from object with Descriptors __get__ with Descriptors __set__ with Descriptors __delete__,523,529,0,B1C1C1C1
+.,texto.py,Inherited Class from object,531,532,0,B1
+.,texto.py,Simple Class ,539,549,0,B1
+.,texto.py,Inherited Class from object,564,574,0,B1
+.,texto.py,Inherited Class from object Using the constructor method --> __init__ with Descriptors __get__,583,591,0,B1C1
+.,texto.py,Inherited Class from object Using the constructor method --> __init__,594,596,0,B1
+.,texto.py,Inherited Class from type Metaclass (3.X) created with --> __new__,601,603,0,C2
+.,texto.py,Simple Class  Metaclass created in the class header --> 'metaclass = 'Meta,605,606,0,C2
+.,texto.py,Simple Class ,608,609,0,B1
+.,texto.py,Simple Class ,612,614,0,B1
+.,texto.py,Inherited Class from C,615,618,0,B1

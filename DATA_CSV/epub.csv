@@ -1,0 +1,92 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+providers,epub.py,Simple List,73,73,17,A1
+providers,epub.py,Simple List,104,104,29,A1
+providers,epub.py,Simple List,109,109,24,A1
+providers,epub.py,Simple Dictionary,75,75,19,A2
+providers,epub.py,Super Function,60,60,8,C2
+providers,epub.py,Simple Atributte,50,50,8,A2
+providers,epub.py,Simple Atributte,50,50,29,A2
+providers,epub.py,Simple Atributte,49,49,19,A2
+providers,epub.py,Simple Atributte,51,51,8,A2
+providers,epub.py,Simple Atributte,60,60,8,A2
+providers,epub.py,Simple Atributte,60,60,25,A2
+providers,epub.py,Simple Atributte,63,63,11,A2
+providers,epub.py,Simple Atributte,63,63,26,A2
+providers,epub.py,Simple Atributte,71,71,16,A2
+providers,epub.py,Simple Atributte,77,77,20,A2
+providers,epub.py,Simple Atributte,84,84,20,A2
+providers,epub.py,Simple Atributte,89,89,19,A2
+providers,epub.py,Simple Atributte,96,96,21,A2
+providers,epub.py,Simple Atributte,104,104,21,A2
+providers,epub.py,Simple Atributte,107,107,8,A2
+providers,epub.py,Simple Atributte,108,108,12,A2
+providers,epub.py,Simple Atributte,55,55,12,A2
+providers,epub.py,Simple Atributte,63,63,11,A2
+providers,epub.py,Simple Atributte,64,64,12,A2
+providers,epub.py,Simple Atributte,64,64,22,A2
+providers,epub.py,Simple Atributte,78,78,34,A2
+providers,epub.py,Simple Atributte,85,85,34,A2
+providers,epub.py,Simple Atributte,90,90,18,A2
+providers,epub.py,Simple Atributte,97,97,18,A2
+providers,epub.py,Simple Atributte,78,78,15,A2
+providers,epub.py,Simple Atributte,79,79,27,A2
+providers,epub.py,Simple Atributte,80,80,25,A2
+providers,epub.py,Simple Atributte,81,81,36,A2
+providers,epub.py,Simple Atributte,85,85,15,A2
+providers,epub.py,Simple Atributte,86,86,32,A2
+providers,epub.py,Simple Atributte,92,92,33,A2
+providers,epub.py,Simple Atributte,99,99,33,A2
+providers,epub.py,Simple Atributte,80,80,51,A2
+providers,epub.py,Simple Atributte,81,81,17,A2
+providers,epub.py,Simple Atributte,82,82,16,A2
+providers,epub.py,Simple Atributte,109,109,49,A2
+providers,epub.py,Simple Atributte,79,79,27,A2
+providers,epub.py,Simple Atributte,82,82,30,A2
+providers,epub.py,Simple Atributte,86,86,32,A2
+providers,epub.py,Simple Atributte,79,79,44,A2
+providers,epub.py,Simple Atributte,82,82,30,A2
+providers,epub.py,Simple Assignment,9,44,0,A1
+providers,epub.py,Simple Assignment,49,49,8,A1
+providers,epub.py,Simple Assignment,50,50,8,A1
+providers,epub.py,Simple Assignment,71,71,8,A1
+providers,epub.py,Simple Assignment,73,73,8,A1
+providers,epub.py,Simple Assignment,74,74,8,A1
+providers,epub.py,Simple Assignment,75,75,8,A1
+providers,epub.py,Simple Assignment,88,88,8,A1
+providers,epub.py,Simple Assignment,103,103,8,A1
+providers,epub.py,Simple Assignment,104,104,8,A1
+providers,epub.py,Simple Assignment,90,90,12,A1
+providers,epub.py,Simple Assignment,97,97,12,A1
+providers,epub.py,Simple Assignment,79,79,16,A1
+providers,epub.py,Simple Assignment,80,80,16,A1
+providers,epub.py,Simple Assignment,92,92,16,A1
+providers,epub.py,Simple Assignment,99,99,16,A1
+providers,epub.py,Simple Assignment,94,94,20,A1
+providers,epub.py,Simple Assignment,101,101,20,A1
+providers,epub.py,Simplified incremental Assignment with increase amount,86,86,16,A2
+providers,epub.py,'raise' exception,57,57,12,B1
+providers,epub.py,Import,1,1,0,A2
+providers,epub.py,Import,2,2,0,A2
+providers,epub.py,Import,3,3,0,A2
+providers,epub.py,Import,69,69,8,A2
+providers,epub.py,From,5,5,0,A2
+providers,epub.py,From,7,7,0,A2
+providers,epub.py,From,67,67,8,A2
+providers,epub.py,From,68,68,8,A2
+providers,epub.py,Simple If statements,63,64,8,A1
+providers,epub.py,Simple If statements,78,82,12,A1
+providers,epub.py,Simple If statements,85,86,12,A1
+providers,epub.py,Simple If statements,91,94,12,A1
+providers,epub.py,Simple If statements,98,101,12,A1
+providers,epub.py,Simple If statements,81,82,12,A1
+providers,epub.py,Simple If statements,93,94,16,A1
+providers,epub.py,Simple If statements,100,101,16,A1
+providers,epub.py,Simple For Loop,77,82,8,A1
+providers,epub.py,Simple For Loop,84,86,8,A1
+providers,epub.py,Simple For Loop,89,94,8,A1
+providers,epub.py,Simple For Loop,96,101,8,A1
+providers,epub.py,Exception --> try/except,54,57,8,B1
+providers,epub.py,Function with Simple argument with Default argument,48,60,4,A2
+providers,epub.py,Function with Simple argument,62,64,4,A1
+providers,epub.py,Function with Simple argument,66,110,4,A1
+providers,epub.py,Inherited Class from PdfProvider Using the constructor method --> __init__,47,110,0,B1

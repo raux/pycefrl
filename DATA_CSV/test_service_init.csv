@@ -1,0 +1,78 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+services,test_service_init.py,Simple List,12,12,35,A1
+services,test_service_init.py,Simple List,24,24,35,A1
+services,test_service_init.py,Simple List,33,33,22,A1
+services,test_service_init.py,Simple List,47,47,22,A1
+services,test_service_init.py,Simple List,60,60,22,A1
+services,test_service_init.py,Simple List,74,74,22,A1
+services,test_service_init.py,1 List Dictionary,12,12,20,B1
+services,test_service_init.py,1 List Dictionary,24,24,20,B1
+services,test_service_init.py,1 List Dictionary,32,37,4,B1
+services,test_service_init.py,1 List Dictionary,46,50,4,B1
+services,test_service_init.py,1 List Dictionary,59,64,4,B1
+services,test_service_init.py,1 List Dictionary,73,81,4,B1
+services,test_service_init.py,Simple Dictionary,20,20,54,A2
+services,test_service_init.py,Simple Atributte,11,11,1,A2
+services,test_service_init.py,Simple Atributte,12,12,1,A2
+services,test_service_init.py,Simple Atributte,23,23,1,A2
+services,test_service_init.py,Simple Atributte,24,24,1,A2
+services,test_service_init.py,Simple Atributte,30,30,1,A2
+services,test_service_init.py,Simple Atributte,31,31,1,A2
+services,test_service_init.py,Simple Atributte,44,44,1,A2
+services,test_service_init.py,Simple Atributte,45,45,1,A2
+services,test_service_init.py,Simple Atributte,57,57,1,A2
+services,test_service_init.py,Simple Atributte,58,58,1,A2
+services,test_service_init.py,Simple Atributte,71,71,1,A2
+services,test_service_init.py,Simple Atributte,72,72,1,A2
+services,test_service_init.py,Simple Atributte,15,15,11,A2
+services,test_service_init.py,Simple Atributte,11,11,1,A2
+services,test_service_init.py,Simple Atributte,12,12,1,A2
+services,test_service_init.py,Simple Atributte,27,27,22,A2
+services,test_service_init.py,Simple Atributte,23,23,1,A2
+services,test_service_init.py,Simple Atributte,24,24,1,A2
+services,test_service_init.py,Simple Atributte,41,41,22,A2
+services,test_service_init.py,Simple Atributte,30,30,1,A2
+services,test_service_init.py,Simple Atributte,31,31,1,A2
+services,test_service_init.py,Simple Atributte,54,54,22,A2
+services,test_service_init.py,Simple Atributte,44,44,1,A2
+services,test_service_init.py,Simple Atributte,45,45,1,A2
+services,test_service_init.py,Simple Atributte,68,68,22,A2
+services,test_service_init.py,Simple Atributte,57,57,1,A2
+services,test_service_init.py,Simple Atributte,58,58,1,A2
+services,test_service_init.py,Simple Atributte,85,85,22,A2
+services,test_service_init.py,Simple Atributte,71,71,1,A2
+services,test_service_init.py,Simple Atributte,72,72,1,A2
+services,test_service_init.py,Simple Atributte,14,14,11,A2
+services,test_service_init.py,Simple Atributte,19,19,9,A2
+services,test_service_init.py,Simple Atributte,26,26,11,A2
+services,test_service_init.py,Simple Atributte,40,40,11,A2
+services,test_service_init.py,Simple Atributte,53,53,11,A2
+services,test_service_init.py,Simple Atributte,67,67,11,A2
+services,test_service_init.py,Simple Atributte,84,84,11,A2
+services,test_service_init.py,'assert' exception,14,14,4,B2
+services,test_service_init.py,'assert' exception,15,15,4,B2
+services,test_service_init.py,'assert' exception,26,26,4,B2
+services,test_service_init.py,'assert' exception,27,27,4,B2
+services,test_service_init.py,'assert' exception,40,40,4,B2
+services,test_service_init.py,'assert' exception,41,41,4,B2
+services,test_service_init.py,'assert' exception,53,53,4,B2
+services,test_service_init.py,'assert' exception,54,54,4,B2
+services,test_service_init.py,'assert' exception,67,67,4,B2
+services,test_service_init.py,'assert' exception,68,68,4,B2
+services,test_service_init.py,'assert' exception,84,84,4,B2
+services,test_service_init.py,'assert' exception,85,85,4,B2
+services,test_service_init.py,Import,1,1,0,A2
+services,test_service_init.py,From,3,3,0,A2
+services,test_service_init.py,From,4,4,0,A2
+services,test_service_init.py,From,5,5,0,A2
+services,test_service_init.py,From,6,6,0,A2
+services,test_service_init.py,From,7,7,0,A2
+services,test_service_init.py,From,8,8,0,A2
+services,test_service_init.py,With,19,20,4,B1
+services,test_service_init.py,Function with Simple argument,13,15,0,A1
+services,test_service_init.py,Function with Simple argument,18,20,0,A1
+services,test_service_init.py,Function with Simple argument,25,27,0,A1
+services,test_service_init.py,Function with Simple argument,39,41,0,A1
+services,test_service_init.py,Function with Simple argument,52,54,0,A1
+services,test_service_init.py,Function with Simple argument,66,68,0,A1
+services,test_service_init.py,Function with Simple argument,83,85,0,A1

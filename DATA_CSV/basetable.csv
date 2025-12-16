@@ -1,0 +1,53 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+blocks,basetable.py,Super Function,51,51,19,C2
+blocks,basetable.py,Simple Atributte,56,56,11,A2
+blocks,basetable.py,Simple Atributte,51,51,19,A2
+blocks,basetable.py,Simple Atributte,55,55,33,A2
+blocks,basetable.py,Simple Atributte,58,58,30,A2
+blocks,basetable.py,Simple Atributte,18,18,16,A2
+blocks,basetable.py,Simple Atributte,18,18,35,A2
+blocks,basetable.py,Simple Atributte,31,31,29,A2
+blocks,basetable.py,Simple Atributte,49,49,15,A2
+blocks,basetable.py,Simple Atributte,49,49,38,A2
+blocks,basetable.py,Simple Atributte,55,55,33,A2
+blocks,basetable.py,Simple Atributte,59,59,39,A2
+blocks,basetable.py,Simple Atributte,20,20,19,A2
+blocks,basetable.py,Simple Atributte,20,20,38,A2
+blocks,basetable.py,Simple Atributte,23,23,39,A2
+blocks,basetable.py,Simple Atributte,27,27,78,A2
+blocks,basetable.py,Simple Atributte,49,49,15,A2
+blocks,basetable.py,Simple Atributte,61,61,30,A2
+blocks,basetable.py,Simple Atributte,20,20,19,A2
+blocks,basetable.py,Simple Atributte,27,27,43,A2
+blocks,basetable.py,List Comprehension with 1If statements,46,50,27,C1
+blocks,basetable.py,List Comprehension with 1If statements,17,21,43,C1
+blocks,basetable.py,Simple List Comprehension,55,55,32,C1
+blocks,basetable.py,List Comprehension with 1If statements,27,27,16,C1
+blocks,basetable.py,Simple List Comprehension,23,23,38,C1
+blocks,basetable.py,Simple Assignment,23,23,8,A1
+blocks,basetable.py,Simple Assignment,24,24,8,A1
+blocks,basetable.py,Simple Assignment,46,50,8,A1
+blocks,basetable.py,Simple Assignment,51,53,8,A1
+blocks,basetable.py,Simple Assignment,55,55,8,A1
+blocks,basetable.py,Simple Assignment,26,28,12,A1
+blocks,basetable.py,Simplified incremental Assignment with increase amount,35,35,8,A2
+blocks,basetable.py,Simplified incremental Assignment with increase amount,29,29,12,A2
+blocks,basetable.py,Simplified incremental Assignment with increase amount,34,34,12,A2
+blocks,basetable.py,Simplified incremental Assignment with increase amount,31,33,16,A2
+blocks,basetable.py,From,1,1,0,A2
+blocks,basetable.py,From,3,3,0,A2
+blocks,basetable.py,From,4,4,0,A2
+blocks,basetable.py,From,5,5,0,A2
+blocks,basetable.py,Simple If statements,16,21,8,A1
+blocks,basetable.py,Simple If statements,56,64,8,A1
+blocks,basetable.py,Simple If statements,59,64,8,A1
+blocks,basetable.py,1 Nested For Loop,25,34,8,A2
+blocks,basetable.py,Simple For Loop,30,33,12,A1
+blocks,basetable.py,Function with Simple argument with Default argument,13,36,4,A2
+blocks,basetable.py,Function with Simple argument with Default argument,38,64,4,A2
+blocks,basetable.py,Lambda,27,27,68,B1
+blocks,basetable.py,Return,36,36,8,A1
+blocks,basetable.py,Return,58,58,12,A1
+blocks,basetable.py,Return,61,61,12,A1
+blocks,basetable.py,Return,64,64,12,A1
+blocks,basetable.py,Inherited Class from Block,8,64,0,B1

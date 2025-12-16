@@ -1,0 +1,169 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+table,inference.py,Simple List,22,22,13,A1
+table,inference.py,Simple List,49,49,14,A1
+table,inference.py,Simple List,118,118,29,A1
+table,inference.py,Simple List,65,68,31,A1
+table,inference.py,Simple Tuple,182,182,11,A1
+table,inference.py,Simple Tuple,121,121,16,A1
+table,inference.py,Simple Tuple,166,166,16,A1
+table,inference.py,Simple Tuple,160,160,20,A1
+table,inference.py,Simple Tuple,99,99,24,A1
+table,inference.py,Simple Tuple,99,99,54,A1
+table,inference.py,Simple Dictionary,47,47,33,A2
+table,inference.py,Simple Dictionary,174,178,31,A2
+table,inference.py,'range' call function,55,55,18,A2
+table,inference.py,'enumerate' call function,121,121,40,C2
+table,inference.py,Files --> 'write' call function,73,73,16,A2
+table,inference.py,Print,82,82,16,A1
+table,inference.py,Print,91,91,16,A1
+table,inference.py,Print,180,180,12,A1
+table,inference.py,Print,157,157,24,A1
+table,inference.py,Simple Atributte,32,32,12,A2
+table,inference.py,Simple Atributte,35,35,18,A2
+table,inference.py,Simple Atributte,36,36,8,A2
+table,inference.py,Simple Atributte,37,37,18,A2
+table,inference.py,Simple Atributte,41,41,24,A2
+table,inference.py,Simple Atributte,24,24,11,A2
+table,inference.py,Simple Atributte,26,26,13,A2
+table,inference.py,Simple Atributte,34,34,8,A2
+table,inference.py,Simple Atributte,38,38,8,A2
+table,inference.py,Simple Atributte,88,88,24,A2
+table,inference.py,Simple Atributte,179,179,15,A2
+table,inference.py,Simple Atributte,25,25,12,A2
+table,inference.py,Simple Atributte,38,38,28,A2
+table,inference.py,Simple Atributte,58,58,25,A2
+table,inference.py,Simple Atributte,75,75,30,A2
+table,inference.py,Simple Atributte,87,87,34,A2
+table,inference.py,Simple Atributte,27,27,12,A2
+table,inference.py,Simple Atributte,72,72,17,A2
+table,inference.py,Simple Atributte,73,73,16,A2
+table,inference.py,Simple Atributte,74,74,16,A2
+table,inference.py,Simple Atributte,77,77,22,A2
+table,inference.py,Simple Atributte,77,77,41,A2
+table,inference.py,Simple Atributte,78,78,29,A2
+table,inference.py,Simple Atributte,79,79,16,A2
+table,inference.py,Simple Atributte,96,96,16,A2
+table,inference.py,Simple Atributte,97,100,20,A2
+table,inference.py,Simple Atributte,159,159,16,A2
+table,inference.py,Simple Atributte,162,162,16,A2
+table,inference.py,Simple Atributte,171,171,51,A2
+table,inference.py,Simple Atributte,174,174,16,A2
+table,inference.py,Simple Atributte,27,27,41,A2
+table,inference.py,Simple Atributte,63,63,23,A2
+table,inference.py,Simple Atributte,69,69,25,A2
+table,inference.py,Simple Atributte,75,75,40,A2
+table,inference.py,Simple Atributte,123,123,31,A2
+table,inference.py,Simple Atributte,124,124,34,A2
+table,inference.py,Simple Atributte,132,132,20,A2
+table,inference.py,Simple Atributte,137,137,20,A2
+table,inference.py,Simple Atributte,143,143,20,A2
+table,inference.py,Simple Atributte,149,149,20,A2
+table,inference.py,Simple Atributte,78,78,29,A2
+table,inference.py,Simple Atributte,97,98,20,A2
+table,inference.py,Simple Atributte,127,127,20,A2
+table,inference.py,Simple Atributte,99,99,55,A2
+table,inference.py,Simple Atributte,99,99,73,A2
+table,inference.py,Simple Atributte,97,97,20,A2
+table,inference.py,Simple List Comprehension,87,87,33,C1
+table,inference.py,Simple List Comprehension,95,104,27,C1
+table,inference.py,Simple List Comprehension,113,113,23,C1
+table,inference.py,Simple List Comprehension,114,114,23,C1
+table,inference.py,Simple List Comprehension,115,115,27,C1
+table,inference.py,Simple Assignment,22,22,4,A1
+table,inference.py,Simple Assignment,31,31,4,A1
+table,inference.py,Simple Assignment,32,32,4,A1
+table,inference.py,Simple Assignment,40,40,4,A1
+table,inference.py,Simple Assignment,41,41,4,A1
+table,inference.py,Simple Assignment,46,46,4,A1
+table,inference.py,Simple Assignment,47,47,4,A1
+table,inference.py,Simple Assignment,48,48,4,A1
+table,inference.py,Simple Assignment,49,49,4,A1
+table,inference.py,Simple Assignment,51,51,4,A1
+table,inference.py,Simple Assignment,36,36,8,A1
+table,inference.py,Simple Assignment,53,53,8,A1
+table,inference.py,Simple Assignment,57,57,12,A1
+table,inference.py,Simple Assignment,58,58,12,A1
+table,inference.py,Simple Assignment,59,59,12,A1
+table,inference.py,Simple Assignment,62,70,12,A1
+table,inference.py,Simple Assignment,86,86,12,A1
+table,inference.py,Simple Assignment,87,87,12,A1
+table,inference.py,Simple Assignment,88,88,12,A1
+table,inference.py,Simple Assignment,95,104,12,A1
+table,inference.py,Simple Assignment,113,113,12,A1
+table,inference.py,Simple Assignment,114,114,12,A1
+table,inference.py,Simple Assignment,115,115,12,A1
+table,inference.py,Simple Assignment,116,116,12,A1
+table,inference.py,Simple Assignment,118,118,12,A1
+table,inference.py,Simple Assignment,119,119,12,A1
+table,inference.py,Simple Assignment,120,120,12,A1
+table,inference.py,Simple Assignment,75,75,16,A1
+table,inference.py,Simple Assignment,77,77,16,A1
+table,inference.py,Simple Assignment,78,78,16,A1
+table,inference.py,Assigment with sum (total = total + 1),108,108,16,A1
+table,inference.py,Assigment with sum (total = total + 1),109,109,16,A1
+table,inference.py,Assigment with sum (total = total + 1),110,110,16,A1
+table,inference.py,Assigment with sum (total = total + 1),111,111,16,A1
+table,inference.py,Assigment with sum (total = total + 1),141,141,16,A1
+table,inference.py,Assigment with sum (total = total + 1),147,147,16,A1
+table,inference.py,Simple Assignment,152,152,16,A1
+table,inference.py,Simple Assignment,167,167,16,A1
+table,inference.py,Simple Assignment,171,171,16,A1
+table,inference.py,Simple Assignment,172,172,16,A1
+table,inference.py,Simple Assignment,123,123,20,A1
+table,inference.py,Simple Assignment,124,124,20,A1
+table,inference.py,Simple Assignment,155,155,24,A1
+table,inference.py,Simplified incremental Assignment with increase amount,164,164,12,A2
+table,inference.py,Simplified incremental Assignment with increase amount,83,83,16,A2
+table,inference.py,Simplified incremental Assignment with increase amount,92,92,16,A2
+table,inference.py,Import with 'as' extension ,3,3,0,B1
+table,inference.py,Import with 'as' extension ,5,5,0,B1
+table,inference.py,Import,7,7,0,A2
+table,inference.py,Import,8,8,0,A2
+table,inference.py,From,1,1,0,A2
+table,inference.py,From,4,4,0,A2
+table,inference.py,From,6,6,0,A2
+table,inference.py,From,10,10,0,A2
+table,inference.py,From,11,11,0,A2
+table,inference.py,From,12,12,0,A2
+table,inference.py,From,13,13,0,A2
+table,inference.py,From,14,14,0,A2
+table,inference.py,From,15,15,0,A2
+table,inference.py,From,16,16,0,A2
+table,inference.py,From,17,17,0,A2
+table,inference.py,From,18,18,0,A2
+table,inference.py,Simple If statements,33,34,4,A1
+table,inference.py,Simple If statements,52,53,4,A1
+table,inference.py,Simple If statements,24,27,8,A1
+table,inference.py,Simple If statements,26,27,8,A1
+table,inference.py,Simple If statements,81,84,12,A1
+table,inference.py,Simple If statements,90,93,12,A1
+table,inference.py,Simple If statements,130,133,16,A1
+table,inference.py,Simple If statements,135,138,16,A1
+table,inference.py,Simple If statements,142,144,16,A1
+table,inference.py,Simple If statements,148,150,16,A1
+table,inference.py,Simple If statements,153,157,16,A1
+table,inference.py,Simple For Loop,23,27,4,A1
+table,inference.py,Simple For Loop,35,36,4,A1
+table,inference.py,Simple For Loop,37,38,4,A1
+table,inference.py,Simple For Loop,55,181,4,A1
+table,inference.py,Simple For Loop,107,111,12,A1
+table,inference.py,For Loop with Tuple as name,121,162,12,A2
+table,inference.py,For Loop with Tuple as name,166,178,12,A2
+table,inference.py,'continue' statement,84,84,16,B1
+table,inference.py,'continue' statement,93,93,16,B1
+table,inference.py,'continue' statement,181,181,12,B1
+table,inference.py,'continue' statement,133,133,20,B1
+table,inference.py,'continue' statement,138,138,20,B1
+table,inference.py,'continue' statement,144,144,20,B1
+table,inference.py,'continue' statement,150,150,20,B1
+table,inference.py,'continue' statement,128,128,20,B1
+table,inference.py,Exception --> try/except,56,181,8,B1
+table,inference.py,Exception --> try/except,122,128,16,B1
+table,inference.py,Exception --> try/except,154,157,20,B1
+table,inference.py,With,72,79,12,B1
+table,inference.py,Recursive Functions,21,28,0,B2
+table,inference.py,Function with Simple argument,30,42,0,A1
+table,inference.py,Function with Simple argument,45,182,0,A1
+table,inference.py,Return,28,28,4,A1
+table,inference.py,Return,42,42,4,A1
+table,inference.py,Return,182,182,4,A1

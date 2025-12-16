@@ -1,0 +1,80 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+processors,blank_page.py,Simple List,66,71,25,A1
+processors,blank_page.py,Simple List,67,67,46,A1
+processors,blank_page.py,Simple List,75,75,44,A1
+processors,blank_page.py,Simple Tuple,23,23,8,A1
+processors,blank_page.py,Simple Tuple,25,25,34,A1
+processors,blank_page.py,Simple Tuple,43,43,8,A1
+processors,blank_page.py,Simple Tuple,36,36,38,A1
+processors,blank_page.py,Simple Tuple,50,50,25,A1
+processors,blank_page.py,'range' call function,47,47,17,A2
+processors,blank_page.py,Simple Atributte,59,59,20,A2
+processors,blank_page.py,Simple Atributte,29,29,30,A2
+processors,blank_page.py,Simple Atributte,30,30,16,A2
+processors,blank_page.py,Simple Atributte,35,35,15,A2
+processors,blank_page.py,Simple Atributte,35,35,35,A2
+processors,blank_page.py,Simple Atributte,36,36,15,A2
+processors,blank_page.py,Simple Atributte,39,39,20,A2
+processors,blank_page.py,Simple Atributte,40,40,23,A2
+processors,blank_page.py,Simple Atributte,40,40,55,A2
+processors,blank_page.py,Simple Atributte,43,43,39,A2
+processors,blank_page.py,Simple Atributte,46,46,18,A2
+processors,blank_page.py,Simple Atributte,50,50,17,A2
+processors,blank_page.py,Simple Atributte,50,50,33,A2
+processors,blank_page.py,Simple Atributte,51,51,18,A2
+processors,blank_page.py,Simple Atributte,56,56,15,A2
+processors,blank_page.py,Simple Atributte,31,31,11,A2
+processors,blank_page.py,Simple Atributte,53,53,15,A2
+processors,blank_page.py,Simple Atributte,60,60,31,A2
+processors,blank_page.py,Simple Atributte,76,76,16,A2
+processors,blank_page.py,Simple Atributte,31,31,30,A2
+processors,blank_page.py,Simple Atributte,31,31,53,A2
+processors,blank_page.py,Simple Atributte,67,67,16,A2
+processors,blank_page.py,Simple Atributte,68,68,16,A2
+processors,blank_page.py,Simple Atributte,70,70,18,A2
+processors,blank_page.py,Simple Atributte,74,74,16,A2
+processors,blank_page.py,Simple Atributte,75,75,16,A2
+processors,blank_page.py,Simple Atributte,67,67,47,A2
+processors,blank_page.py,Simple Atributte,67,67,67,A2
+processors,blank_page.py,Simple Atributte,68,68,30,A2
+processors,blank_page.py,Simple Atributte,69,69,16,A2
+processors,blank_page.py,Simple Atributte,69,69,47,A2
+processors,blank_page.py,Simple Atributte,75,75,45,A2
+processors,blank_page.py,Simple Atributte,69,69,16,A2
+processors,blank_page.py,Simple Atributte,74,74,53,A2
+processors,blank_page.py,Simple Assignment,14,14,0,A1
+processors,blank_page.py,Simple Assignment,30,30,8,A1
+processors,blank_page.py,Simple Assignment,35,35,8,A1
+processors,blank_page.py,Simple Assignment,36,36,8,A1
+processors,blank_page.py,Simple Assignment,39,41,8,A1
+processors,blank_page.py,Simple Assignment,43,45,8,A1
+processors,blank_page.py,Simple Assignment,46,46,8,A1
+processors,blank_page.py,Simple Assignment,50,50,8,A1
+processors,blank_page.py,Simple Assignment,51,51,8,A1
+processors,blank_page.py,Assigment with sum (total = total + 1),52,52,8,A1
+processors,blank_page.py,Simple Assignment,48,48,12,A1
+processors,blank_page.py,Simple Assignment,60,60,12,A1
+processors,blank_page.py,Simple Assignment,66,71,12,A1
+processors,blank_page.py,Simple Assignment,76,76,16,A1
+processors,blank_page.py,Import with 'as' extension ,4,4,0,B1
+processors,blank_page.py,Import,5,5,0,A2
+processors,blank_page.py,From,1,1,0,A2
+processors,blank_page.py,From,3,3,0,A2
+processors,blank_page.py,From,7,7,0,A2
+processors,blank_page.py,From,8,8,0,A2
+processors,blank_page.py,From,9,9,0,A2
+processors,blank_page.py,From,10,10,0,A2
+processors,blank_page.py,From,12,12,0,A2
+processors,blank_page.py,Simple If statements,31,33,8,A1
+processors,blank_page.py,Simple If statements,56,57,8,A1
+processors,blank_page.py,Simple If statements,61,62,12,A1
+processors,blank_page.py,Simple If statements,73,76,12,A1
+processors,blank_page.py,Simple For Loop,47,48,8,A1
+processors,blank_page.py,Simple For Loop,59,76,8,A1
+processors,blank_page.py,'continue' statement,62,62,16,B1
+processors,blank_page.py,Function with Simple argument,29,53,4,A1
+processors,blank_page.py,Function with Simple argument,55,76,4,A1
+processors,blank_page.py,Return,53,53,8,A1
+processors,blank_page.py,Return,33,33,12,A1
+processors,blank_page.py,Return,57,57,12,A1
+processors,blank_page.py,Inherited Class from BaseProcessor,17,76,0,B1

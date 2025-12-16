@@ -1,0 +1,23 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+processors,test_ignoretext.py,Simple List,14,14,72,A1
+processors,test_ignoretext.py,Simple Dictionary,8,8,20,A2
+processors,test_ignoretext.py,'range' call function,8,8,40,A2
+processors,test_ignoretext.py,Simple Atributte,7,7,1,A2
+processors,test_ignoretext.py,Simple Atributte,8,8,1,A2
+processors,test_ignoretext.py,Simple Atributte,9,9,1,A2
+processors,test_ignoretext.py,Simple Atributte,17,17,11,A2
+processors,test_ignoretext.py,Simple Atributte,7,7,1,A2
+processors,test_ignoretext.py,Simple Atributte,8,8,1,A2
+processors,test_ignoretext.py,Simple Atributte,9,9,1,A2
+processors,test_ignoretext.py,Simple Atributte,14,14,19,A2
+processors,test_ignoretext.py,Simple Atributte,15,15,24,A2
+processors,test_ignoretext.py,Simple Atributte,14,14,73,A2
+processors,test_ignoretext.py,Simple Atributte,14,14,19,A2
+processors,test_ignoretext.py,Simple Assignment,11,11,4,A1
+processors,test_ignoretext.py,Simple Assignment,14,14,4,A1
+processors,test_ignoretext.py,'assert' exception,15,15,4,B2
+processors,test_ignoretext.py,'assert' exception,17,17,4,B2
+processors,test_ignoretext.py,Import,1,1,0,A2
+processors,test_ignoretext.py,From,3,3,0,A2
+processors,test_ignoretext.py,From,4,4,0,A2
+processors,test_ignoretext.py,Function with Simple argument,10,17,0,A1

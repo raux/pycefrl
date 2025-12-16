@@ -1,0 +1,79 @@
+{
+    "extractors": {
+        "__init__.py": {
+            "Levels": {
+                "A1": 4,
+                "A2": 12,
+                "B1": 3
+            },
+            "Class": {
+                "Simple Tuple": 2,
+                "Simple Atributte": 3,
+                "Simple Assignment": 1,
+                "'raise' exception": 1,
+                "From": 7,
+                "Function with Simple argument with Default argument": 2,
+                "Function with Simple argument with * argument  with ** argument": 1,
+                "Return": 1,
+                "Simple Class ": 1
+            }
+        },
+        "document.py": {
+            "Levels": {
+                "A1": 16,
+                "C2": 1,
+                "A2": 22,
+                "C1": 1,
+                "B1": 5
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Tuple": 2,
+                "'enumerate' call function": 1,
+                "Simple Atributte": 14,
+                "Simple List Comprehension": 1,
+                "Simple Assignment": 6,
+                "Simplified incremental Assignment with increase amount": 1,
+                "'raise' exception": 1,
+                "Import": 1,
+                "From": 5,
+                "Simple If statements": 3,
+                "For Loop with Tuple as name": 1,
+                "'continue' statement": 1,
+                "Function with Simple argument": 1,
+                "Function with Simple argument with ** argument": 1,
+                "Return": 3,
+                "Inherited Class from BaseModel": 1,
+                "Inherited Class from BaseExtractor": 1
+            }
+        },
+        "page.py": {
+            "Levels": {
+                "A1": 23,
+                "A2": 30,
+                "C1": 2,
+                "B1": 5
+            },
+            "Class": {
+                "Simple List": 3,
+                "Simple Tuple": 2,
+                "'range' call function": 1,
+                "Simple Atributte": 21,
+                "Simple List Comprehension": 2,
+                "Simple Assignment": 9,
+                "'raise' exception": 1,
+                "Import": 1,
+                "From": 6,
+                "Simple If statements": 2,
+                "Simple For Loop": 1,
+                "For Loop with List to iterate": 1,
+                "With": 1,
+                "Function with Simple argument": 2,
+                "Function with Simple argument with ** argument": 1,
+                "Return": 4,
+                "Inherited Class from BaseModel": 1,
+                "Inherited Class from BaseExtractor": 1
+            }
+        }
+    }
+}

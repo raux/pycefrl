@@ -1,0 +1,218 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+processors,test_llm_processors.py,Simple List,20,20,20,A1
+processors,test_llm_processors.py,Simple List,32,32,20,A1
+processors,test_llm_processors.py,Simple List,53,53,20,A1
+processors,test_llm_processors.py,Simple List,110,110,20,A1
+processors,test_llm_processors.py,Simple List,125,125,20,A1
+processors,test_llm_processors.py,Simple List,155,155,20,A1
+processors,test_llm_processors.py,Simple List,173,173,20,A1
+processors,test_llm_processors.py,Simple List,18,18,35,A1
+processors,test_llm_processors.py,Simple List,29,29,35,A1
+processors,test_llm_processors.py,Simple List,41,41,35,A1
+processors,test_llm_processors.py,Simple List,63,63,35,A1
+processors,test_llm_processors.py,Simple List,106,106,35,A1
+processors,test_llm_processors.py,Simple List,118,118,35,A1
+processors,test_llm_processors.py,Simple List,140,140,35,A1
+processors,test_llm_processors.py,Simple List,166,166,35,A1
+processors,test_llm_processors.py,Simple List,149,149,33,A1
+processors,test_llm_processors.py,Simple Tuple,24,24,42,A1
+processors,test_llm_processors.py,Simple Tuple,36,36,42,A1
+processors,test_llm_processors.py,Simple Tuple,57,57,42,A1
+processors,test_llm_processors.py,Simple Tuple,97,97,43,A1
+processors,test_llm_processors.py,Simple Tuple,98,98,59,A1
+processors,test_llm_processors.py,Simple Tuple,114,114,55,A1
+processors,test_llm_processors.py,Simple Tuple,129,129,55,A1
+processors,test_llm_processors.py,Simple Tuple,177,177,55,A1
+processors,test_llm_processors.py,Simple Tuple,180,180,56,A1
+processors,test_llm_processors.py,1 List Dictionary,18,18,20,B1
+processors,test_llm_processors.py,Simple Dictionary,31,31,13,A2
+processors,test_llm_processors.py,1 List Dictionary,29,29,20,B1
+processors,test_llm_processors.py,Simple Dictionary,47,47,28,A2
+processors,test_llm_processors.py,Simple Dictionary,52,52,13,A2
+processors,test_llm_processors.py,1 List Dictionary,41,41,20,B1
+processors,test_llm_processors.py,Simple Dictionary,89,89,28,A2
+processors,test_llm_processors.py,1 List Dictionary,63,63,20,B1
+processors,test_llm_processors.py,Simple Dictionary,108,108,13,A2
+processors,test_llm_processors.py,1 List Dictionary,106,106,20,B1
+processors,test_llm_processors.py,Simple Dictionary,122,122,28,A2
+processors,test_llm_processors.py,Simple Dictionary,124,124,13,A2
+processors,test_llm_processors.py,1 List Dictionary,118,118,20,B1
+processors,test_llm_processors.py,Simple Dictionary,144,144,28,A2
+processors,test_llm_processors.py,Simple Dictionary,154,154,13,A2
+processors,test_llm_processors.py,1 List Dictionary,140,140,20,B1
+processors,test_llm_processors.py,Simple Dictionary,170,170,28,A2
+processors,test_llm_processors.py,Simple Dictionary,172,172,13,A2
+processors,test_llm_processors.py,1 List Dictionary,166,166,20,B1
+processors,test_llm_processors.py,Simple Dictionary,94,94,44,A2
+processors,test_llm_processors.py,Simple Dictionary,133,133,32,A2
+processors,test_llm_processors.py,Print,181,181,4,A1
+processors,test_llm_processors.py,Simple Atributte,17,17,1,A2
+processors,test_llm_processors.py,Simple Atributte,18,18,1,A2
+processors,test_llm_processors.py,Simple Atributte,28,28,1,A2
+processors,test_llm_processors.py,Simple Atributte,29,29,1,A2
+processors,test_llm_processors.py,Simple Atributte,47,47,4,A2
+processors,test_llm_processors.py,Simple Atributte,40,40,1,A2
+processors,test_llm_processors.py,Simple Atributte,41,41,1,A2
+processors,test_llm_processors.py,Simple Atributte,89,89,4,A2
+processors,test_llm_processors.py,Simple Atributte,101,101,15,A2
+processors,test_llm_processors.py,Simple Atributte,62,62,1,A2
+processors,test_llm_processors.py,Simple Atributte,63,63,1,A2
+processors,test_llm_processors.py,Simple Atributte,105,105,1,A2
+processors,test_llm_processors.py,Simple Atributte,106,106,1,A2
+processors,test_llm_processors.py,Simple Atributte,122,122,4,A2
+processors,test_llm_processors.py,Simple Atributte,134,134,9,A2
+processors,test_llm_processors.py,Simple Atributte,117,117,1,A2
+processors,test_llm_processors.py,Simple Atributte,118,118,1,A2
+processors,test_llm_processors.py,Simple Atributte,144,144,4,A2
+processors,test_llm_processors.py,Simple Atributte,161,161,18,A2
+processors,test_llm_processors.py,Simple Atributte,139,139,1,A2
+processors,test_llm_processors.py,Simple Atributte,140,140,1,A2
+processors,test_llm_processors.py,Simple Atributte,170,170,4,A2
+processors,test_llm_processors.py,Simple Atributte,165,165,1,A2
+processors,test_llm_processors.py,Simple Atributte,166,166,1,A2
+processors,test_llm_processors.py,Simple Atributte,24,24,12,A2
+processors,test_llm_processors.py,Simple Atributte,25,25,11,A2
+processors,test_llm_processors.py,Simple Atributte,17,17,1,A2
+processors,test_llm_processors.py,Simple Atributte,18,18,1,A2
+processors,test_llm_processors.py,Simple Atributte,36,36,12,A2
+processors,test_llm_processors.py,Simple Atributte,37,37,11,A2
+processors,test_llm_processors.py,Simple Atributte,28,28,1,A2
+processors,test_llm_processors.py,Simple Atributte,29,29,1,A2
+processors,test_llm_processors.py,Simple Atributte,57,57,12,A2
+processors,test_llm_processors.py,Simple Atributte,58,58,11,A2
+processors,test_llm_processors.py,Simple Atributte,40,40,1,A2
+processors,test_llm_processors.py,Simple Atributte,41,41,1,A2
+processors,test_llm_processors.py,Simple Atributte,65,86,21,A2
+processors,test_llm_processors.py,Simple Atributte,97,97,13,A2
+processors,test_llm_processors.py,Simple Atributte,98,98,18,A2
+processors,test_llm_processors.py,Simple Atributte,99,99,11,A2
+processors,test_llm_processors.py,Simple Atributte,62,62,1,A2
+processors,test_llm_processors.py,Simple Atributte,63,63,1,A2
+processors,test_llm_processors.py,Simple Atributte,114,114,25,A2
+processors,test_llm_processors.py,Simple Atributte,105,105,1,A2
+processors,test_llm_processors.py,Simple Atributte,106,106,1,A2
+processors,test_llm_processors.py,Simple Atributte,129,129,25,A2
+processors,test_llm_processors.py,Simple Atributte,117,117,1,A2
+processors,test_llm_processors.py,Simple Atributte,118,118,1,A2
+processors,test_llm_processors.py,Simple Atributte,147,147,16,A2
+processors,test_llm_processors.py,Simple Atributte,151,151,4,A2
+processors,test_llm_processors.py,Simple Atributte,139,139,1,A2
+processors,test_llm_processors.py,Simple Atributte,140,140,1,A2
+processors,test_llm_processors.py,Simple Atributte,177,177,25,A2
+processors,test_llm_processors.py,Simple Atributte,180,180,26,A2
+processors,test_llm_processors.py,Simple Atributte,165,165,1,A2
+processors,test_llm_processors.py,Simple Atributte,166,166,1,A2
+processors,test_llm_processors.py,Simple Atributte,24,24,43,A2
+processors,test_llm_processors.py,Simple Atributte,36,36,43,A2
+processors,test_llm_processors.py,Simple Atributte,57,57,43,A2
+processors,test_llm_processors.py,Simple Atributte,58,58,28,A2
+processors,test_llm_processors.py,Simple Atributte,97,97,44,A2
+processors,test_llm_processors.py,Simple Atributte,98,98,60,A2
+processors,test_llm_processors.py,Simple Atributte,114,114,56,A2
+processors,test_llm_processors.py,Simple Atributte,114,114,76,A2
+processors,test_llm_processors.py,Simple Atributte,129,129,56,A2
+processors,test_llm_processors.py,Simple Atributte,129,129,76,A2
+processors,test_llm_processors.py,Simple Atributte,177,177,56,A2
+processors,test_llm_processors.py,Simple Atributte,177,177,76,A2
+processors,test_llm_processors.py,Simple Atributte,180,180,57,A2
+processors,test_llm_processors.py,Simple Atributte,181,181,11,A2
+processors,test_llm_processors.py,Simple Atributte,44,44,29,A2
+processors,test_llm_processors.py,Simple Atributte,115,115,15,A2
+processors,test_llm_processors.py,Simple Atributte,130,130,15,A2
+processors,test_llm_processors.py,Simple Atributte,147,147,16,A2
+processors,test_llm_processors.py,Simple Atributte,149,149,10,A2
+processors,test_llm_processors.py,Simple Atributte,151,151,4,A2
+processors,test_llm_processors.py,Simple Atributte,178,178,15,A2
+processors,test_llm_processors.py,Simple Atributte,182,182,15,A2
+processors,test_llm_processors.py,Simple List Comprehension,181,181,10,C1
+processors,test_llm_processors.py,Generator Expression,115,115,14,C1
+processors,test_llm_processors.py,Generator Expression,130,130,14,C1
+processors,test_llm_processors.py,Generator Expression,178,178,14,C1
+processors,test_llm_processors.py,Generator Expression,182,182,14,C1
+processors,test_llm_processors.py,Simple Assignment,20,20,4,A1
+processors,test_llm_processors.py,Simple Assignment,21,21,4,A1
+processors,test_llm_processors.py,Simple Assignment,24,24,4,A1
+processors,test_llm_processors.py,Simple Assignment,31,31,4,A1
+processors,test_llm_processors.py,Simple Assignment,32,32,4,A1
+processors,test_llm_processors.py,Simple Assignment,33,33,4,A1
+processors,test_llm_processors.py,Simple Assignment,36,36,4,A1
+processors,test_llm_processors.py,Assigment with sum (total = total + 1),43,43,4,A1
+processors,test_llm_processors.py,Assigment with sum (total = total + 1),44,44,4,A1
+processors,test_llm_processors.py,Simple Assignment,46,46,4,A1
+processors,test_llm_processors.py,Simple Assignment,47,47,4,A1
+processors,test_llm_processors.py,Simple Assignment,49,49,4,A1
+processors,test_llm_processors.py,Simple Assignment,52,52,4,A1
+processors,test_llm_processors.py,Simple Assignment,53,53,4,A1
+processors,test_llm_processors.py,Simple Assignment,54,54,4,A1
+processors,test_llm_processors.py,Simple Assignment,57,57,4,A1
+processors,test_llm_processors.py,Simple Assignment,65,86,4,A1
+processors,test_llm_processors.py,Simple Assignment,88,88,4,A1
+processors,test_llm_processors.py,Simple Assignment,89,89,4,A1
+processors,test_llm_processors.py,Simple Assignment,91,91,4,A1
+processors,test_llm_processors.py,Simple Assignment,94,94,4,A1
+processors,test_llm_processors.py,Simple Assignment,97,97,4,A1
+processors,test_llm_processors.py,Simple Assignment,98,98,4,A1
+processors,test_llm_processors.py,Simple Assignment,101,101,4,A1
+processors,test_llm_processors.py,Simple Assignment,108,108,4,A1
+processors,test_llm_processors.py,Simple Assignment,109,109,4,A1
+processors,test_llm_processors.py,Simple Assignment,110,110,4,A1
+processors,test_llm_processors.py,Simple Assignment,111,111,4,A1
+processors,test_llm_processors.py,Simple Assignment,114,114,4,A1
+processors,test_llm_processors.py,Simple Assignment,120,120,4,A1
+processors,test_llm_processors.py,Simple Assignment,121,121,4,A1
+processors,test_llm_processors.py,Simple Assignment,122,122,4,A1
+processors,test_llm_processors.py,Simple Assignment,124,124,4,A1
+processors,test_llm_processors.py,Simple Assignment,125,125,4,A1
+processors,test_llm_processors.py,Simple Assignment,126,126,4,A1
+processors,test_llm_processors.py,Simple Assignment,129,129,4,A1
+processors,test_llm_processors.py,Simple Assignment,133,133,4,A1
+processors,test_llm_processors.py,Simple Assignment,134,134,4,A1
+processors,test_llm_processors.py,Simple Assignment,142,142,4,A1
+processors,test_llm_processors.py,Simple Assignment,143,143,4,A1
+processors,test_llm_processors.py,Simple Assignment,144,144,4,A1
+processors,test_llm_processors.py,Simple Assignment,147,147,4,A1
+processors,test_llm_processors.py,Simple Assignment,148,150,4,A1
+processors,test_llm_processors.py,Simple Assignment,154,154,4,A1
+processors,test_llm_processors.py,Simple Assignment,155,155,4,A1
+processors,test_llm_processors.py,Simple Assignment,156,156,4,A1
+processors,test_llm_processors.py,Simple Assignment,160,160,4,A1
+processors,test_llm_processors.py,Simple Assignment,161,161,4,A1
+processors,test_llm_processors.py,Assigment with sum (total = total + 1),168,168,4,A1
+processors,test_llm_processors.py,Simple Assignment,169,169,4,A1
+processors,test_llm_processors.py,Simple Assignment,170,170,4,A1
+processors,test_llm_processors.py,Simple Assignment,172,172,4,A1
+processors,test_llm_processors.py,Simple Assignment,173,173,4,A1
+processors,test_llm_processors.py,Simple Assignment,174,174,4,A1
+processors,test_llm_processors.py,Simple Assignment,177,177,4,A1
+processors,test_llm_processors.py,Simple Assignment,180,180,4,A1
+processors,test_llm_processors.py,'assert' exception,25,25,4,B2
+processors,test_llm_processors.py,'assert' exception,37,37,4,B2
+processors,test_llm_processors.py,'assert' exception,58,58,4,B2
+processors,test_llm_processors.py,'assert' exception,99,99,4,B2
+processors,test_llm_processors.py,'assert' exception,102,102,4,B2
+processors,test_llm_processors.py,'assert' exception,115,115,4,B2
+processors,test_llm_processors.py,'assert' exception,130,130,4,B2
+processors,test_llm_processors.py,'assert' exception,136,136,4,B2
+processors,test_llm_processors.py,'assert' exception,163,163,4,B2
+processors,test_llm_processors.py,'assert' exception,178,178,4,B2
+processors,test_llm_processors.py,'assert' exception,182,182,4,B2
+processors,test_llm_processors.py,Import,3,3,0,A2
+processors,test_llm_processors.py,From,1,1,0,A2
+processors,test_llm_processors.py,From,4,4,0,A2
+processors,test_llm_processors.py,From,5,5,0,A2
+processors,test_llm_processors.py,From,7,7,0,A2
+processors,test_llm_processors.py,From,8,8,0,A2
+processors,test_llm_processors.py,From,9,9,0,A2
+processors,test_llm_processors.py,From,10,10,0,A2
+processors,test_llm_processors.py,From,11,11,0,A2
+processors,test_llm_processors.py,From,12,12,0,A2
+processors,test_llm_processors.py,From,13,13,0,A2
+processors,test_llm_processors.py,From,14,14,0,A2
+processors,test_llm_processors.py,Function with Simple argument,19,25,0,A1
+processors,test_llm_processors.py,Function with Simple argument,30,37,0,A1
+processors,test_llm_processors.py,Function with Simple argument,42,58,0,A1
+processors,test_llm_processors.py,Function with Simple argument,64,102,0,A1
+processors,test_llm_processors.py,Function with Simple argument,107,115,0,A1
+processors,test_llm_processors.py,Function with Simple argument,119,136,0,A1
+processors,test_llm_processors.py,Function with Simple argument,141,163,0,A1
+processors,test_llm_processors.py,Function with Simple argument,167,182,0,A1

@@ -1,0 +1,26 @@
+{
+    "benchmarks": {
+        "verify_scores.py": {
+            "Levels": {
+                "A2": 14,
+                "C1": 3,
+                "A1": 14,
+                "B1": 4,
+                "B2": 1
+            },
+            "Class": {
+                "Files --> 'open' call function": 2,
+                "Simple Atributte": 10,
+                "Simple List Comprehension": 3,
+                "Simple Assignment": 6,
+                "Assigment with sum (total = total +)": 2,
+                "'raise' exception": 2,
+                "Import": 2,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1,
+                "Simple If statements": 4,
+                "With": 2,
+                "Function with Simple argument": 2
+            }
+        }
+    }
+}

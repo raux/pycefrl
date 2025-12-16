@@ -1,0 +1,75 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+renderers,json.py,Simple List,85,85,22,A1
+renderers,json.py,Simple List,66,66,23,A1
+renderers,json.py,Simple Tuple,31,31,8,A1
+renderers,json.py,Simple Tuple,44,44,8,A1
+renderers,json.py,Simple Tuple,48,48,8,A1
+renderers,json.py,Simple Tuple,42,43,8,A1
+renderers,json.py,Simple Tuple,46,47,8,A1
+renderers,json.py,Simple Tuple,19,19,28,A1
+renderers,json.py,Simple Tuple,53,53,12,A1
+renderers,json.py,Simple Dictionary,30,30,28,A2
+renderers,json.py,Simple Atributte,25,25,26,A2
+renderers,json.py,Simple Atributte,31,31,22,A2
+renderers,json.py,Simple Atributte,44,44,9,A2
+renderers,json.py,Simple Atributte,44,44,29,A2
+renderers,json.py,Simple Atributte,48,48,9,A2
+renderers,json.py,Simple Atributte,86,86,27,A2
+renderers,json.py,Simple Atributte,51,51,30,A2
+renderers,json.py,Simple Atributte,52,52,11,A2
+renderers,json.py,Simple Atributte,67,67,25,A2
+renderers,json.py,Simple Atributte,84,84,26,A2
+renderers,json.py,Simple Atributte,84,84,42,A2
+renderers,json.py,Simple Atributte,51,51,30,A2
+renderers,json.py,Simple Atributte,53,53,27,A2
+renderers,json.py,Simple Atributte,87,87,12,A2
+renderers,json.py,Simple Atributte,56,56,24,A2
+renderers,json.py,Simple Atributte,57,57,21,A2
+renderers,json.py,Simple Atributte,68,68,31,A2
+renderers,json.py,Simple Atributte,69,69,16,A2
+renderers,json.py,Simple Atributte,72,72,21,A2
+renderers,json.py,Simple Atributte,73,73,24,A2
+renderers,json.py,Simple Atributte,74,74,21,A2
+renderers,json.py,Simple Atributte,87,87,31,A2
+renderers,json.py,Simple Atributte,90,90,21,A2
+renderers,json.py,Simple Atributte,56,56,24,A2
+renderers,json.py,Simple Atributte,57,57,21,A2
+renderers,json.py,Simple Atributte,58,58,23,A2
+renderers,json.py,Simple Atributte,59,59,31,A2
+renderers,json.py,Simple Atributte,62,62,20,A2
+renderers,json.py,Simple Atributte,73,73,24,A2
+renderers,json.py,Simple Atributte,74,74,21,A2
+renderers,json.py,Simple Atributte,75,75,23,A2
+renderers,json.py,Simple Atributte,76,76,31,A2
+renderers,json.py,Simple Atributte,79,79,20,A2
+renderers,json.py,Simple Atributte,59,59,31,A2
+renderers,json.py,Simple Atributte,76,76,31,A2
+renderers,json.py,Simple Assignment,30,30,4,A1
+renderers,json.py,Simple Assignment,32,32,8,A1
+renderers,json.py,Simple Assignment,51,51,8,A1
+renderers,json.py,Simple Assignment,84,84,8,A1
+renderers,json.py,Simple Assignment,85,85,8,A1
+renderers,json.py,Simple Assignment,53,53,12,A1
+renderers,json.py,Simple Assignment,66,66,12,A1
+renderers,json.py,Simple Assignment,68,68,16,A1
+renderers,json.py,From,1,1,0,A2
+renderers,json.py,From,3,3,0,A2
+renderers,json.py,From,5,5,0,A2
+renderers,json.py,From,6,6,0,A2
+renderers,json.py,From,7,7,0,A2
+renderers,json.py,From,8,8,0,A2
+renderers,json.py,From,9,9,0,A2
+renderers,json.py,Simple If statements,52,81,8,A1
+renderers,json.py,For Loop with Tuple as name,31,32,4,A2
+renderers,json.py,Simple For Loop,86,87,8,A1
+renderers,json.py,Simple For Loop,67,69,12,A1
+renderers,json.py,Function with Simple argument,29,33,0,A1
+renderers,json.py,Function with Simple argument,50,81,4,A1
+renderers,json.py,Function with Simple argument,83,91,4,A1
+renderers,json.py,Return,33,33,4,A1
+renderers,json.py,Return,88,91,8,A1
+renderers,json.py,Return,54,64,12,A1
+renderers,json.py,Return,71,81,12,A1
+renderers,json.py,Inherited Class from BaseModel,12,20,0,B1
+renderers,json.py,Inherited Class from BaseModel,23,26,0,B1
+renderers,json.py,Inherited Class from BaseRenderer,36,91,0,B1

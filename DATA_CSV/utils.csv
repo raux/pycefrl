@@ -1,0 +1,17 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+tests,utils.py,Files --> 'write' call function,15,15,4,A2
+tests,utils.py,Simple Atributte,11,11,14,A2
+tests,utils.py,Simple Atributte,12,12,10,A2
+tests,utils.py,Simple Atributte,14,14,15,A2
+tests,utils.py,Simple Atributte,15,15,4,A2
+tests,utils.py,Simple Atributte,16,16,4,A2
+tests,utils.py,Simple Atributte,18,18,27,A2
+tests,utils.py,Simple Assignment,11,11,4,A1
+tests,utils.py,Simple Assignment,12,12,4,A1
+tests,utils.py,Simple Assignment,14,14,4,A1
+tests,utils.py,Simple Assignment,18,18,4,A1
+tests,utils.py,Import,2,2,0,A2
+tests,utils.py,Import,4,4,0,A2
+tests,utils.py,From,1,1,0,A2
+tests,utils.py,Function with Simple argument with Default argument,7,19,0,A2
+tests,utils.py,Return,19,19,4,A1

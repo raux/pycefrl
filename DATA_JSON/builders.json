@@ -1,0 +1,298 @@
+{
+    "builders": {
+        "__init__.py": {
+            "Levels": {
+                "B1": 3,
+                "A2": 4
+            },
+            "Class": {
+                "'raise' exception": 1,
+                "From": 3,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument with * argument  with ** argument": 1,
+                "Simple Class  Using the constructor method --> __init__": 1
+            }
+        },
+        "document.py": {
+            "Levels": {
+                "A1": 13,
+                "C2": 1,
+                "A2": 24,
+                "C1": 1,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Tuple": 4,
+                "'enumerate' call function": 1,
+                "Simple Atributte": 14,
+                "Simple List Comprehension": 1,
+                "Simple Assignment": 4,
+                "From": 10,
+                "Simple If statements": 1,
+                "Function with Simple argument": 2,
+                "Return": 2,
+                "Inherited Class from BaseBuilder": 1
+            }
+        },
+        "layout.py": {
+            "Levels": {
+                "A1": 61,
+                "A2": 101,
+                "C2": 3,
+                "B1": 6,
+                "C1": 4
+            },
+            "Class": {
+                "Simple List": 5,
+                "Simple Tuple": 10,
+                "Simple Dictionary": 1,
+                "'zip' call function": 1,
+                "Super Function": 1,
+                "If statements expression (else)": 2,
+                "Simple Atributte": 86,
+                "Simple List Comprehension": 2,
+                "List Comprehension withIf statements": 1,
+                "Generator Expression": 1,
+                "Dictionary Comprehension with If statements": 1,
+                "Simple Assignment": 24,
+                "From": 11,
+                "Simple If statements": 8,
+                "Simple For Loop": 3,
+                " Nested For Loop": 1,
+                "For Loop with Tuple as name": 1,
+                "'continue' statement": 2,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument": 6,
+                "Lambda": 1,
+                "Return": 5,
+                "Inherited Class from BaseBuilder": 1
+            }
+        },
+        "line.py": {
+            "Levels": {
+                "A1": 149,
+                "C2": 6,
+                "B1": 4,
+                "A2": 162,
+                "C1": 13,
+                "B2": 4
+            },
+            "Class": {
+                "Simple List": 14,
+                "Simple Tuple": 24,
+                "'zip' call function": 3,
+                "'enumerate' call function": 2,
+                "Super Function": 1,
+                "If statements expression (else)": 2,
+                "Simple Atributte": 134,
+                "Simple List Comprehension": 5,
+                "List Comprehension withIf statements": 3,
+                "Generator Expression": 2,
+                "Simple Dictionary Comprehension": 3,
+                "Simple Assignment": 56,
+                "Simplified incremental Assignment with increase amount": 4,
+                "'assert' exception": 4,
+                "Import with 'as' extension ": 1,
+                "Import": 1,
+                "From": 17,
+                "Simple If statements": 19,
+                "Simple For Loop": 7,
+                "For Loop with Tuple as name": 5,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument": 10,
+                "Return": 19,
+                "Inherited Class from BaseBuilder": 1
+            }
+        },
+        "ocr.py": {
+            "Levels": {
+                "A1": 178,
+                "C2": 5,
+                "A2": 189,
+                "C1": 6,
+                "B2": 1,
+                "B1": 13
+            },
+            "Class": {
+                "Simple List": 26,
+                "Simple Tuple": 27,
+                "'zip' call function": 2,
+                "'enumerate' call function": 1,
+                "Super Function": 1,
+                "Simple Atributte": 160,
+                "List Comprehension withIf statements": 1,
+                "Simple List Comprehension": 3,
+                "Nested List Comprehension with": 1,
+                "Generator Expression": 1,
+                "Simple Dictionary Comprehension": 1,
+                "Simple Assignment": 70,
+                "Simplified incremental Assignment with increase amount": 2,
+                "'assert' exception": 1,
+                "Import": 1,
+                "From": 19,
+                "Simple If statements": 29,
+                " Nested For Loop": 2,
+                "For Loop with Tuple as name": 4,
+                "Simple For Loop": 5,
+                "Simple While Loop": 1,
+                "'break' statement": 2,
+                "'continue' statement": 8,
+                "Exception --> try/except": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument": 10,
+                "Return": 11,
+                "Inherited Class from BaseBuilder": 1
+            }
+        },
+        "structure.py": {
+            "Levels": {
+                "A1": 54,
+                "C2": 4,
+                "A2": 95,
+                "B1": 6
+            },
+            "Class": {
+                "Simple List": 8,
+                "Simple Tuple": 5,
+                "'enumerate' call function": 3,
+                "Super Function": 1,
+                "Simple Atributte": 83,
+                "Assigment with sum (total = total +)": 2,
+                "Simple Assignment": 23,
+                "From": 8,
+                "Simple If statements": 10,
+                "Simple For Loop": 2,
+                "For Loop with Tuple as name": 3,
+                "'break' statement": 1,
+                "'continue' statement": 4,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument": 4,
+                "Inherited Class from BaseBuilder": 1
+            }
+        },
+        "test_blank_page.py": {
+            "Levels": {
+                "A1": 11,
+                "A2": 19,
+                "C1": 5,
+                "B2": 2
+            },
+            "Class": {
+                "Simple List": 3,
+                "Simple Atributte": 15,
+                "Simple List Comprehension": 3,
+                "Simple Dictionary Comprehension": 2,
+                "Simple Assignment": 7,
+                "'assert' exception": 2,
+                "From": 4,
+                "Function with Simple argument": 1
+            }
+        },
+        "test_document_builder.py": {
+            "Levels": {
+                "A1": 11,
+                "B1": 2,
+                "A2": 45,
+                "B2": 15
+            },
+            "Class": {
+                "Simple List": 3,
+                " List Dictionary": 2,
+                "Simple Atributte": 42,
+                "Simple Assignment": 6,
+                "'assert' exception": 15,
+                "Import": 1,
+                "From": 2,
+                "Function with Simple argument": 2
+            }
+        },
+        "test_garbled_pdf.py": {
+            "Levels": {
+                "A1": 19,
+                "B1": 2,
+                "A2": 50,
+                "C1": 2,
+                "B2": 10
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 1,
+                " List Dictionary": 2,
+                "Simple Atributte": 45,
+                "Simple List Comprehension": 2,
+                "Simple Assignment": 13,
+                "'assert' exception": 10,
+                "Import": 1,
+                "From": 4,
+                "Function with Simple argument": 3
+            }
+        },
+        "test_layout_replace.py": {
+            "Levels": {
+                "A1": 16,
+                "B1": 1,
+                "A2": 24,
+                "B2": 2
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 1,
+                " List Dictionary": 1,
+                "Simple Atributte": 17,
+                "Simple Assignment": 10,
+                "'assert' exception": 2,
+                "Import": 1,
+                "From": 6,
+                "Simple For Loop": 2,
+                "Function with Simple argument": 1
+            }
+        },
+        "test_ocr_builder.py": {
+            "Levels": {
+                "A1": 6,
+                "A2": 4,
+                "B2": 1
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Tuple": 1,
+                "Simple Atributte": 2,
+                "Simple Assignment": 3,
+                "'assert' exception": 1,
+                "From": 2,
+                "Function with Simple argument": 1
+            }
+        },
+        "test_ocr_pipeline.py": {
+            "Levels": {
+                "A1": 14,
+                "B1": 2,
+                "A2": 34,
+                "C1": 2,
+                "B2": 7
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 2,
+                " List Dictionary": 2,
+                "Simple Atributte": 31,
+                "Simple List Comprehension": 1,
+                "List Comprehension withIf statements": 1,
+                "Simple Assignment": 7,
+                "'assert' exception": 7,
+                "Import": 1,
+                "From": 2,
+                "Function with Simple argument": 3
+            }
+        },
+        "test_overriding.py": {
+            "Levels": {
+                "A1": 5
+            },
+            "Class": {
+                "Simple List": 3,
+                "Simple Tuple": 2
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+providers,test_image_provider.py,Simple List,8,8,31,A1
+providers,test_image_provider.py,Simple Tuple,8,8,51,A1
+providers,test_image_provider.py,Simple Atributte,6,6,29,A2
+providers,test_image_provider.py,Simple Atributte,8,8,11,A2
+providers,test_image_provider.py,Simple Atributte,10,10,17,A2
+providers,test_image_provider.py,Simple Atributte,14,14,52,A2
+providers,test_image_provider.py,Simple Atributte,15,15,30,A2
+providers,test_image_provider.py,Simple Atributte,8,8,11,A2
+providers,test_image_provider.py,Simple Assignment,6,6,4,A1
+providers,test_image_provider.py,Simple Assignment,10,10,4,A1
+providers,test_image_provider.py,'assert' exception,7,7,4,B2
+providers,test_image_provider.py,'assert' exception,8,8,4,B2
+providers,test_image_provider.py,'assert' exception,11,11,4,B2
+providers,test_image_provider.py,'assert' exception,15,15,4,B2
+providers,test_image_provider.py,From,1,1,0,A2
+providers,test_image_provider.py,From,2,2,0,A2
+providers,test_image_provider.py,Function with Simple argument,5,11,0,A1
+providers,test_image_provider.py,Function with Simple argument,13,15,0,A1

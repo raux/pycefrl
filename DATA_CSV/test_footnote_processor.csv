@@ -1,0 +1,22 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+processors,test_footnote_processor.py,Simple List,13,13,75,A1
+processors,test_footnote_processor.py,Simple List,8,8,35,A1
+processors,test_footnote_processor.py,1 List Dictionary,8,8,20,B1
+processors,test_footnote_processor.py,Simple Atributte,7,7,1,A2
+processors,test_footnote_processor.py,Simple Atributte,8,8,1,A2
+processors,test_footnote_processor.py,Simple Atributte,13,13,22,A2
+processors,test_footnote_processor.py,Simple Atributte,16,16,11,A2
+processors,test_footnote_processor.py,Simple Atributte,7,7,1,A2
+processors,test_footnote_processor.py,Simple Atributte,8,8,1,A2
+processors,test_footnote_processor.py,Simple Atributte,13,13,76,A2
+processors,test_footnote_processor.py,Simple Atributte,13,13,22,A2
+processors,test_footnote_processor.py,Simple Atributte,16,16,11,A2
+processors,test_footnote_processor.py,Simple Atributte,16,16,11,A2
+processors,test_footnote_processor.py,Simple Assignment,10,10,4,A1
+processors,test_footnote_processor.py,Simple Assignment,13,13,4,A1
+processors,test_footnote_processor.py,'assert' exception,14,14,4,B2
+processors,test_footnote_processor.py,'assert' exception,16,16,4,B2
+processors,test_footnote_processor.py,Import,1,1,0,A2
+processors,test_footnote_processor.py,From,3,3,0,A2
+processors,test_footnote_processor.py,From,4,4,0,A2
+processors,test_footnote_processor.py,Function with Simple argument,9,16,0,A1

@@ -1,0 +1,81 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+processors,block_relabel.py,Simple Tuple,22,25,8,A1
+processors,block_relabel.py,Simple Tuple,35,35,12,A1
+processors,block_relabel.py,Simple Tuple,45,45,16,A1
+processors,block_relabel.py,Simple Tuple,51,54,53,A1
+processors,block_relabel.py,Simple Tuple,68,68,16,A1
+processors,block_relabel.py,Simple Dictionary,30,30,33,A2
+processors,block_relabel.py,'enumerate' call function,35,35,35,C2
+processors,block_relabel.py,Super Function,29,29,8,C2
+processors,block_relabel.py,Simple Atributte,30,30,8,A2
+processors,block_relabel.py,Simple Atributte,62,62,20,A2
+processors,block_relabel.py,Simple Atributte,29,29,8,A2
+processors,block_relabel.py,Simple Atributte,32,32,15,A2
+processors,block_relabel.py,Simple Atributte,35,35,45,A2
+processors,block_relabel.py,Simple Atributte,36,36,31,A2
+processors,block_relabel.py,Simple Atributte,59,59,15,A2
+processors,block_relabel.py,Simple Atributte,63,63,25,A2
+processors,block_relabel.py,Simple Atributte,35,35,45,A2
+processors,block_relabel.py,Simple Atributte,41,41,24,A2
+processors,block_relabel.py,Simple Atributte,51,51,16,A2
+processors,block_relabel.py,Simple Atributte,64,64,19,A2
+processors,block_relabel.py,Simple Atributte,64,64,43,A2
+processors,block_relabel.py,Simple Atributte,68,68,56,A2
+processors,block_relabel.py,Simple Atributte,68,68,79,A2
+processors,block_relabel.py,Simple Atributte,69,69,29,A2
+processors,block_relabel.py,Simple Atributte,69,69,45,A2
+processors,block_relabel.py,Simple Atributte,84,84,16,A2
+processors,block_relabel.py,Simple Atributte,85,85,16,A2
+processors,block_relabel.py,Simple Atributte,56,56,16,A2
+processors,block_relabel.py,Simple Atributte,67,67,43,A2
+processors,block_relabel.py,Simple Atributte,67,67,66,A2
+processors,block_relabel.py,Simple Atributte,67,67,93,A2
+processors,block_relabel.py,Simple Atributte,69,69,29,A2
+processors,block_relabel.py,Simple Atributte,71,71,20,A2
+processors,block_relabel.py,Simple Atributte,77,77,28,A2
+processors,block_relabel.py,Simple Atributte,79,79,43,A2
+processors,block_relabel.py,Simple Atributte,81,81,26,A2
+processors,block_relabel.py,Simple Atributte,82,82,29,A2
+processors,block_relabel.py,Simple Atributte,76,76,37,A2
+processors,block_relabel.py,Simple Atributte,78,78,39,A2
+processors,block_relabel.py,Simple Assignment,11,11,0,A1
+processors,block_relabel.py,Simple Assignment,30,30,8,A1
+processors,block_relabel.py,Simple Assignment,36,36,12,A1
+processors,block_relabel.py,Simple Assignment,41,41,16,A1
+processors,block_relabel.py,Simple Assignment,45,45,16,A1
+processors,block_relabel.py,Simple Assignment,46,46,16,A1
+processors,block_relabel.py,Simple Assignment,48,48,16,A1
+processors,block_relabel.py,Simple Assignment,49,49,16,A1
+processors,block_relabel.py,Simple Assignment,51,54,16,A1
+processors,block_relabel.py,Simple Assignment,67,67,16,A1
+processors,block_relabel.py,Simple Assignment,68,68,16,A1
+processors,block_relabel.py,Simple Assignment,69,69,16,A1
+processors,block_relabel.py,Simple Assignment,74,74,16,A1
+processors,block_relabel.py,Simple Assignment,75,83,16,A1
+processors,block_relabel.py,'raise' exception,43,43,20,B1
+processors,block_relabel.py,From,1,1,0,A2
+processors,block_relabel.py,From,2,2,0,A2
+processors,block_relabel.py,From,4,4,0,A2
+processors,block_relabel.py,From,5,5,0,A2
+processors,block_relabel.py,From,6,6,0,A2
+processors,block_relabel.py,From,7,7,0,A2
+processors,block_relabel.py,From,8,8,0,A2
+processors,block_relabel.py,From,10,10,0,A2
+processors,block_relabel.py,Simple If statements,32,33,8,A1
+processors,block_relabel.py,Simple If statements,59,60,8,A1
+processors,block_relabel.py,Simple If statements,37,38,12,A1
+processors,block_relabel.py,Simple If statements,42,43,16,A1
+processors,block_relabel.py,Simple If statements,64,65,16,A1
+processors,block_relabel.py,Simple If statements,70,72,16,A1
+processors,block_relabel.py,For Loop with Tuple as name,35,56,8,A2
+processors,block_relabel.py,1 Nested For Loop,62,85,8,A2
+processors,block_relabel.py,Simple For Loop,63,85,12,A1
+processors,block_relabel.py,'continue' statement,38,38,16,B1
+processors,block_relabel.py,'continue' statement,65,65,20,B1
+processors,block_relabel.py,'continue' statement,72,72,20,B1
+processors,block_relabel.py,Exception --> try/except,40,56,12,B1
+processors,block_relabel.py,Function with Simple argument with Default argument,28,56,4,A2
+processors,block_relabel.py,Function with Simple argument,58,85,4,A1
+processors,block_relabel.py,Return,33,33,12,A1
+processors,block_relabel.py,Return,60,60,12,A1
+processors,block_relabel.py,Inherited Class from BaseProcessor,13,85,0,B1

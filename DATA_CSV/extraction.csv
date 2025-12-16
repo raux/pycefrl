@@ -1,0 +1,10 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+renderers,extraction.py,Simple Atributte,19,19,21,A2
+renderers,extraction.py,Simple Atributte,20,20,26,A2
+renderers,extraction.py,From,1,1,0,A2
+renderers,extraction.py,From,3,3,0,A2
+renderers,extraction.py,From,4,4,0,A2
+renderers,extraction.py,Function with Simple argument,14,22,4,A1
+renderers,extraction.py,Return,18,22,8,A1
+renderers,extraction.py,Inherited Class from BaseModel,7,10,0,B1
+renderers,extraction.py,Inherited Class from BaseRenderer,13,22,0,B1

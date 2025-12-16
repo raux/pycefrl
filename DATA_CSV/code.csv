@@ -1,0 +1,15 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+blocks,code.py,Simple Atributte,8,8,29,A2
+blocks,code.py,Simple Atributte,14,14,11,A2
+blocks,code.py,Simple Atributte,15,15,19,A2
+blocks,code.py,Simple Atributte,16,16,15,A2
+blocks,code.py,Simple Atributte,17,17,23,A2
+blocks,code.py,Simple Assignment,16,16,8,A1
+blocks,code.py,Import,1,1,0,A2
+blocks,code.py,From,3,3,0,A2
+blocks,code.py,From,4,4,0,A2
+blocks,code.py,Simple If statements,14,15,8,A1
+blocks,code.py,Function with Simple argument,13,17,4,A1
+blocks,code.py,Return,17,17,8,A1
+blocks,code.py,Return,15,15,12,A1
+blocks,code.py,Inherited Class from Block,7,17,0,B1

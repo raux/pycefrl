@@ -1,0 +1,212 @@
+{
+    "scripts": {
+        "chunk_convert.py": {
+            "Levels": {
+                "A2": 17,
+                "A1": 6
+            },
+            "Class": {
+                "Simple Atributte": 13,
+                "Simple Assignment": 5,
+                "Import": 4,
+                "Function": 1
+            }
+        },
+        "common.py": {
+            "Levels": {
+                "A1": 80,
+                "A2": 84,
+                "B1": 6,
+                "C1": 1
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 2,
+                "Simple Dictionary": 3,
+                " List Dictionary": 1,
+                "Print": 1,
+                "Simple Atributte": 64,
+                "Simple Assignment": 28,
+                "Assigment with sum (total = total +)": 2,
+                "'pass' statement": 1,
+                "Import": 6,
+                "Import're' module": 1,
+                "Import with 'as' extension ": 1,
+                "From": 8,
+                "Simple If statements": 14,
+                "Simple For Loop": 4,
+                "For Loop with Tuple as name": 2,
+                "'break' statement": 1,
+                "Exception --> try/except": 2,
+                "Function": 3,
+                "Function with Simple argument": 7,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 17
+            }
+        },
+        "convert.py": {
+            "Levels": {
+                "A1": 58,
+                "A2": 74,
+                "C1": 3,
+                "B1": 8,
+                "B2": 1
+            },
+            "Class": {
+                "Simple Tuple": 3,
+                "Print": 1,
+                "Simple Atributte": 56,
+                "Simple List Comprehension": 2,
+                "List Comprehension withIf statements": 1,
+                "Simple Assignment": 40,
+                "Assigment with sum (total = total +)": 3,
+                "Simplified incremental Assignment with increase amount": 1,
+                "'raise' exception": 1,
+                "'pass' statement": 1,
+                "Import": 9,
+                "Import with 'as' extension ": 1,
+                "From": 8,
+                "Simple If statements": 5,
+                "Simple For Loop": 1,
+                "Exception --> try/except": 2,
+                "Exception --> try/except/finally": 1,
+                "With": 2,
+                "Function": 2,
+                "Function with Simple argument": 1,
+                "Function with Simple argument with ** argument": 1,
+                "Return": 2
+            }
+        },
+        "convert_single.py": {
+            "Levels": {
+                "A2": 25,
+                "A1": 11,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Atributte": 17,
+                "Simple Assignment": 11,
+                "Import": 3,
+                "From": 5,
+                "Function with Simple argument with ** argument": 1
+            }
+        },
+        "extraction_app.py": {
+            "Levels": {
+                "A1": 67,
+                "A2": 108,
+                "B1": 12
+            },
+            "Class": {
+                "Simple List": 4,
+                "Simple Tuple": 4,
+                "Simple Dictionary": 1,
+                "Files --> 'write' call function": 4,
+                "Files --> 'open' call function": 1,
+                "If statements expression (else)": 1,
+                "Simple Atributte": 91,
+                "Simple Assignment": 44,
+                "Import": 3,
+                "Import with 'as' extension ": 1,
+                "From": 7,
+                "Simple If statements": 14,
+                "Exception --> try/except": 3,
+                "With": 7,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 1
+            }
+        },
+        "file_to_s3.py": {
+            "Levels": {
+                "A1": 7,
+                "A2": 16,
+                "B2": 1,
+                "B1": 1
+            },
+            "Class": {
+                "Print": 2,
+                "Simple Atributte": 9,
+                "Simple Assignment": 4,
+                "Import": 5,
+                "From": 2,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1,
+                "Exception --> try/except": 1,
+                "Function with Simple argument": 1
+            }
+        },
+        "run_streamlit_app.py": {
+            "Levels": {
+                "A1": 8,
+                "A2": 15
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Dictionary": 1,
+                "Simple Atributte": 9,
+                "Simple Assignment": 4,
+                "Simplified incremental Assignment with increase amount": 1,
+                "Import": 3,
+                "Simple If statements": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Function": 1
+            }
+        },
+        "server.py": {
+            "Levels": {
+                "A1": 35,
+                "A2": 56,
+                "B2": 1,
+                "B1": 3,
+                "C1": 1
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Tuple": 7,
+                "Simple Dictionary": 4,
+                "Files --> 'open' call function": 1,
+                "Files --> 'write' call function": 1,
+                "Files --> 'read' call function": 1,
+                "Simple Atributte": 32,
+                "Simple Assignment": 20,
+                "'assert' exception": 1,
+                "Import": 6,
+                "From": 10,
+                "Simple If statements": 1,
+                "For Loop with Tuple as name": 1,
+                "Exception --> try/except": 1,
+                "With": 1,
+                "Function with Simple argument": 1,
+                "Return": 5,
+                "Generator Function (yield)": 1,
+                "Inherited Class from BaseModel": 1
+            }
+        },
+        "streamlit_app.py": {
+            "Levels": {
+                "A1": 59,
+                "A2": 72,
+                "B1": 8,
+                "C1": 1
+            },
+            "Class": {
+                "Simple List": 3,
+                "Simple Tuple": 4,
+                "Simple Dictionary": 1,
+                "Files --> 'open' call function": 1,
+                "Files --> 'write' call function": 2,
+                "If statements expression (else)": 2,
+                "Simple Atributte": 58,
+                "Simple Assignment": 38,
+                "Import": 2,
+                "Import're' module": 1,
+                "Import with 'as' extension ": 1,
+                "From": 8,
+                "Simple If statements": 9,
+                "Simple For Loop": 1,
+                "With": 5,
+                "Function with Simple argument": 2,
+                "Return": 2
+            }
+        }
+    }
+}

@@ -1,0 +1,411 @@
+{
+    "blocks": {
+        "__init__.py": {
+            "Levels": {
+                "A2": 21
+            },
+            "Class": {
+                "From": 21
+            }
+        },
+        "base.py": {
+            "Levels": {
+                "A1": 161,
+                "A2": 158,
+                "C2": 2,
+                "B1": 11,
+                "B2": 1,
+                "C1": 4
+            },
+            "Class": {
+                "Simple List": 8,
+                "Simple Tuple": 12,
+                "Simple Dictionary": 4,
+                "'enumerate' call function": 2,
+                "If statements expression (else)": 1,
+                "Simple Atributte": 128,
+                "Special Class Attribute __class__": 1,
+                "Simple List Comprehension": 1,
+                "List Comprehension withIf statements": 2,
+                "Simple Dictionary Comprehension": 1,
+                "Simple Assignment": 40,
+                "Assigment with sum (total = total +)": 2,
+                "Simplified incremental Assignment with increase amount": 4,
+                "'raise' exception": 2,
+                "From": 12,
+                "Simple If statements": 40,
+                "Simple For Loop": 7,
+                "For Loop with Tuple as name": 3,
+                "'break' statement": 2,
+                "'continue' statement": 1,
+                "Function with Simple argument": 19,
+                "Function with Simple argument with Default argument": 7,
+                "Function with Simple argument with ** argument": 1,
+                "Return": 33,
+                "Inherited Class from BaseModel": 4
+            }
+        },
+        "basetable.py": {
+            "Levels": {
+                "C2": 1,
+                "A2": 30,
+                "C1": 5,
+                "A1": 14,
+                "B1": 2
+            },
+            "Class": {
+                "Super Function": 1,
+                "Simple Atributte": 19,
+                "List Comprehension withIf statements": 3,
+                "Simple List Comprehension": 2,
+                "Simple Assignment": 6,
+                "Simplified incremental Assignment with increase amount": 4,
+                "From": 4,
+                "Simple If statements": 3,
+                " Nested For Loop": 1,
+                "Simple For Loop": 1,
+                "Function with Simple argument with Default argument": 2,
+                "Lambda": 1,
+                "Return": 4,
+                "Inherited Class from Block": 1
+            }
+        },
+        "caption.py": {
+            "Levels": {
+                "C2": 2,
+                "A2": 6,
+                "A1": 4,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 2,
+                "Simple Atributte": 4,
+                "From": 2,
+                "Simple If statements": 1,
+                "Function with Simple argument": 1,
+                "Return": 2,
+                "Inherited Class from Block": 1
+            }
+        },
+        "code.py": {
+            "Levels": {
+                "A2": 8,
+                "A1": 5,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Atributte": 5,
+                "Simple Assignment": 1,
+                "Import": 1,
+                "From": 2,
+                "Simple If statements": 1,
+                "Function with Simple argument": 1,
+                "Return": 2,
+                "Inherited Class from Block": 1
+            }
+        },
+        "complexregion.py": {
+            "Levels": {
+                "C2": 2,
+                "A2": 10,
+                "C1": 1,
+                "A1": 7,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 2,
+                "Simple Atributte": 8,
+                "List Comprehension withIf statements": 1,
+                "Simple Assignment": 3,
+                "From": 2,
+                "Simple If statements": 1,
+                "Function with Simple argument": 1,
+                "Return": 2,
+                "Inherited Class from Block": 1
+            }
+        },
+        "equation.py": {
+            "Levels": {
+                "C2": 2,
+                "A2": 14,
+                "C1": 1,
+                "A1": 6,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 2,
+                "Simple Atributte": 10,
+                "List Comprehension withIf statements": 1,
+                "Simple Assignment": 3,
+                "Simplified incremental Assignment with increase amount": 1,
+                "From": 2,
+                "Simple If statements": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 2,
+                "Inherited Class from Block": 1
+            }
+        },
+        "figure.py": {
+            "Levels": {
+                "C2": 2,
+                "A2": 15,
+                "C1": 1,
+                "A1": 6,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 2,
+                "Simple Atributte": 11,
+                "List Comprehension withIf statements": 1,
+                "Simple Assignment": 2,
+                "Simplified incremental Assignment with increase amount": 1,
+                "From": 2,
+                "Simple If statements": 2,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 2,
+                "Inherited Class from Block": 1
+            }
+        },
+        "footnote.py": {
+            "Levels": {
+                "C2": 2,
+                "A2": 7,
+                "A1": 3,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 2,
+                "Simple Atributte": 4,
+                "From": 2,
+                "Simple If statements": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 2,
+                "Inherited Class from Block": 1
+            }
+        },
+        "form.py": {
+            "Levels": {
+                "A2": 4,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Atributte": 1,
+                "From": 3,
+                "Inherited Class from BaseTable": 1
+            }
+        },
+        "handwriting.py": {
+            "Levels": {
+                "C2": 1,
+                "A2": 7,
+                "A1": 3,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 1,
+                "Simple Atributte": 4,
+                "From": 2,
+                "Simple If statements": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 2,
+                "Inherited Class from Block": 1
+            }
+        },
+        "inlinemath.py": {
+            "Levels": {
+                "C2": 2,
+                "A2": 15,
+                "A1": 13,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 2,
+                "Simple Atributte": 11,
+                "Simple Assignment": 3,
+                "Assigment with sum (total = total +)": 2,
+                "Simplified incremental Assignment with increase amount": 1,
+                "From": 2,
+                "Simple If statements": 4,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 4,
+                "Inherited Class from Block": 1
+            }
+        },
+        "listitem.py": {
+            "Levels": {
+                "C2": 2,
+                "A2": 21,
+                "A1": 16,
+                "C1": 1,
+                "B1": 2
+            },
+            "Class": {
+                "Super Function": 2,
+                "Simple Atributte": 18,
+                "Simple Assignment": 10,
+                "Import're' module": 1,
+                "From": 2,
+                "Simple If statements": 3,
+                "Simple While Loop": 1,
+                "Function with Simple argument": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 2,
+                "Inherited Class from Block": 1
+            }
+        },
+        "pagefooter.py": {
+            "Levels": {
+                "C2": 1,
+                "A2": 9,
+                "A1": 6,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 1,
+                "Simple Atributte": 7,
+                "Simple Assignment": 1,
+                "From": 2,
+                "Simple If statements": 2,
+                "Function with Simple argument": 1,
+                "Return": 2,
+                "Inherited Class from Block": 1
+            }
+        },
+        "pageheader.py": {
+            "Levels": {
+                "C2": 1,
+                "A2": 9,
+                "A1": 6,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 1,
+                "Simple Atributte": 7,
+                "Simple Assignment": 1,
+                "From": 2,
+                "Simple If statements": 2,
+                "Function with Simple argument": 1,
+                "Return": 2,
+                "Inherited Class from Block": 1
+            }
+        },
+        "picture.py": {
+            "Levels": {
+                "C2": 2,
+                "A2": 14,
+                "C1": 1,
+                "A1": 7,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 2,
+                "Simple Atributte": 11,
+                "List Comprehension withIf statements": 1,
+                "Simple Assignment": 2,
+                "From": 2,
+                "Simple If statements": 2,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 3,
+                "Inherited Class from Block": 1
+            }
+        },
+        "reference.py": {
+            "Levels": {
+                "C2": 1,
+                "A2": 6,
+                "A1": 2,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 1,
+                "Simple Atributte": 3,
+                "Simple Assignment": 1,
+                "From": 2,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 1,
+                "Inherited Class from Block": 1
+            }
+        },
+        "sectionheader.py": {
+            "Levels": {
+                "C2": 2,
+                "B1": 2,
+                "A2": 12,
+                "A1": 8
+            },
+            "Class": {
+                "Super Function": 2,
+                "If statements expression (else)": 1,
+                "Simple Atributte": 8,
+                "Simple Assignment": 3,
+                "From": 3,
+                "Simple If statements": 2,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 3,
+                "Inherited Class from Block": 1
+            }
+        },
+        "table.py": {
+            "Levels": {
+                "A2": 3,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Atributte": 1,
+                "From": 2,
+                "Inherited Class from BaseTable": 1
+            }
+        },
+        "tablecell.py": {
+            "Levels": {
+                "A1": 13,
+                "B1": 2,
+                "A2": 21
+            },
+            "Class": {
+                "Simple List": 1,
+                "If statements expression (else)": 1,
+                "Simple Atributte": 14,
+                "Simple Assignment": 5,
+                "Simplified incremental Assignment with increase amount": 3,
+                "From": 3,
+                "Simple If statements": 4,
+                "Function with Simple argument": 1,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 2,
+                "Inherited Class from Block": 1
+            }
+        },
+        "text.py": {
+            "Levels": {
+                "C2": 2,
+                "A2": 15,
+                "A1": 13,
+                "B1": 1
+            },
+            "Class": {
+                "Super Function": 2,
+                "Simple Atributte": 11,
+                "Simple Assignment": 3,
+                "Assigment with sum (total = total +)": 2,
+                "Simplified incremental Assignment with increase amount": 1,
+                "From": 2,
+                "Simple If statements": 4,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 4,
+                "Inherited Class from Block": 1
+            }
+        },
+        "toc.py": {
+            "Levels": {
+                "A2": 3,
+                "B1": 1
+            },
+            "Class": {
+                "Simple Atributte": 1,
+                "From": 2,
+                "Inherited Class from BaseTable": 1
+            }
+        }
+    }
+}

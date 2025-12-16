@@ -1,0 +1,23 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+.,dict.py,Simple List,15,15,22,A1
+.,dict.py,Simple Tuple,17,17,8,A1
+.,dict.py,Simple Dictionary,10,10,9,A2
+.,dict.py,Simple Dictionary,18,18,31,A2
+.,dict.py,Files --> 'read' call function,7,7,0,A2
+.,dict.py,Files --> 'open' call function,22,22,5,A2
+.,dict.py,Files --> 'write' call function,23,23,4,A2
+.,dict.py,Simple Atributte,4,4,16,A2
+.,dict.py,Simple Atributte,7,7,0,A2
+.,dict.py,Simple Atributte,13,13,0,A2
+.,dict.py,Simple Atributte,14,14,15,A2
+.,dict.py,Simple Atributte,17,17,25,A2
+.,dict.py,Simple Atributte,23,23,4,A2
+.,dict.py,Simple Atributte,24,24,4,A2
+.,dict.py,Simple Atributte,18,18,8,A2
+.,dict.py,Simple Assignment,4,4,0,A1
+.,dict.py,Simple Assignment,10,10,0,A1
+.,dict.py,Simple Assignment,15,15,4,A1
+.,dict.py,Import,3,3,0,A2
+.,dict.py,1 Nested For Loop,14,18,0,A2
+.,dict.py,For Loop with Tuple as name,17,18,4,A2
+.,dict.py,With,22,24,0,B1

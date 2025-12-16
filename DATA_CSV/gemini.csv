@@ -1,0 +1,34 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+table,gemini.py,Simple List,39,39,17,A1
+table,gemini.py,Simple Dictionary,31,31,21,A2
+table,gemini.py,Simple Dictionary,40,44,15,A2
+table,gemini.py,Simple Atributte,10,23,9,A2
+table,gemini.py,Simple Atributte,47,47,13,A2
+table,gemini.py,Simple Atributte,28,28,28,A2
+table,gemini.py,Simple Atributte,29,29,13,A2
+table,gemini.py,Simple Atributte,35,35,4,A2
+table,gemini.py,Simple Atributte,37,37,16,A2
+table,gemini.py,Simple Atributte,30,30,16,A2
+table,gemini.py,Simple Atributte,37,37,16,A2
+table,gemini.py,Simple Atributte,47,47,13,A2
+table,gemini.py,Simple Atributte,48,48,11,A2
+table,gemini.py,Simple Atributte,47,47,13,A2
+table,gemini.py,Simple Atributte,39,39,18,A2
+table,gemini.py,Simple Atributte,39,39,18,A2
+table,gemini.py,Simple Atributte,47,47,13,A2
+table,gemini.py,Simple Atributte,39,39,45,A2
+table,gemini.py,Simple Assignment,10,23,0,A1
+table,gemini.py,Simple Assignment,29,32,4,A1
+table,gemini.py,Simple Assignment,34,34,4,A1
+table,gemini.py,Simple Assignment,37,45,4,A1
+table,gemini.py,Simple Assignment,47,47,4,A1
+table,gemini.py,Import,1,1,0,A2
+table,gemini.py,From,2,2,0,A2
+table,gemini.py,From,3,3,0,A2
+table,gemini.py,From,4,4,0,A2
+table,gemini.py,From,5,5,0,A2
+table,gemini.py,From,6,6,0,A2
+table,gemini.py,From,8,8,0,A2
+table,gemini.py,Function with Simple argument,28,48,0,A1
+table,gemini.py,Return,48,48,4,A1
+table,gemini.py,Inherited Class from BaseModel,25,26,0,B1

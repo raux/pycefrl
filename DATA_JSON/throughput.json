@@ -1,0 +1,39 @@
+{
+    "throughput": {
+        "main.py": {
+            "Levels": {
+                "A1": 73,
+                "A2": 63,
+                "B1": 5,
+                "C1": 1,
+                "B2": 1
+            },
+            "Class": {
+                "Simple List": 4,
+                "Simple Tuple": 5,
+                "Simple Dictionary": 1,
+                "'range' call function": 4,
+                "Print": 11,
+                "Files --> 'write' call function": 1,
+                "If statements expression (else)": 1,
+                "Simple Atributte": 38,
+                "Simple List Comprehension": 1,
+                "Simple Assignment": 37,
+                "Assigment with sum (total = total +)": 5,
+                "Simplified incremental Assignment with increase amount": 5,
+                "Import": 6,
+                "Import with 'as' extension ": 1,
+                "From": 6,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1,
+                "Simple If statements": 4,
+                "For Loop with List to iterate": 1,
+                "Simple For Loop": 3,
+                "Simple While Loop": 1,
+                "With": 2,
+                "Function with Simple argument": 2,
+                "Function with Simple argument with Default argument": 1,
+                "Return": 2
+            }
+        }
+    }
+}

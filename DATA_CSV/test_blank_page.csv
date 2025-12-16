@@ -1,0 +1,38 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+builders,test_blank_page.py,Simple List,18,18,33,A1
+builders,test_blank_page.py,Simple List,19,19,28,A1
+builders,test_blank_page.py,Simple List,15,15,15,A1
+builders,test_blank_page.py,Simple Atributte,12,12,15,A2
+builders,test_blank_page.py,Simple Atributte,18,18,22,A2
+builders,test_blank_page.py,Simple Atributte,19,19,17,A2
+builders,test_blank_page.py,Simple Atributte,21,21,4,A2
+builders,test_blank_page.py,Simple Atributte,21,21,39,A2
+builders,test_blank_page.py,Simple Atributte,22,22,4,A2
+builders,test_blank_page.py,Simple Atributte,17,17,15,A2
+builders,test_blank_page.py,Simple Atributte,18,18,45,A2
+builders,test_blank_page.py,Simple Atributte,19,19,40,A2
+builders,test_blank_page.py,Simple Atributte,16,16,19,A2
+builders,test_blank_page.py,Simple Atributte,24,24,27,A2
+builders,test_blank_page.py,Simple Atributte,24,24,54,A2
+builders,test_blank_page.py,Simple Atributte,25,25,27,A2
+builders,test_blank_page.py,Simple Atributte,25,25,55,A2
+builders,test_blank_page.py,Simple Atributte,16,16,19,A2
+builders,test_blank_page.py,Simple List Comprehension,14,17,21,C1
+builders,test_blank_page.py,Simple List Comprehension,24,24,15,C1
+builders,test_blank_page.py,Simple List Comprehension,25,25,15,C1
+builders,test_blank_page.py,Simple Dictionary Comprehension,18,18,21,C1
+builders,test_blank_page.py,Simple Dictionary Comprehension,19,19,16,C1
+builders,test_blank_page.py,Simple Assignment,9,9,4,A1
+builders,test_blank_page.py,Simple Assignment,10,10,4,A1
+builders,test_blank_page.py,Simple Assignment,11,11,4,A1
+builders,test_blank_page.py,Simple Assignment,12,12,4,A1
+builders,test_blank_page.py,Simple Assignment,14,17,4,A1
+builders,test_blank_page.py,Simple Assignment,18,18,4,A1
+builders,test_blank_page.py,Simple Assignment,19,19,4,A1
+builders,test_blank_page.py,'assert' exception,24,24,4,B2
+builders,test_blank_page.py,'assert' exception,25,25,4,B2
+builders,test_blank_page.py,From,1,1,0,A2
+builders,test_blank_page.py,From,3,3,0,A2
+builders,test_blank_page.py,From,4,4,0,A2
+builders,test_blank_page.py,From,5,5,0,A2
+builders,test_blank_page.py,Function with Simple argument,8,25,0,A1

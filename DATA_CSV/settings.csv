@@ -1,0 +1,49 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+marker,settings.py,Simple Atributte,49,49,29,A2
+marker,settings.py,Simple Atributte,12,12,20,A2
+marker,settings.py,Simple Atributte,13,13,22,A2
+marker,settings.py,Simple Atributte,14,14,20,A2
+marker,settings.py,Simple Atributte,15,15,29,A2
+marker,settings.py,Simple Atributte,18,18,21,A2
+marker,settings.py,Simple Atributte,12,12,20,A2
+marker,settings.py,Simple Atributte,12,12,36,A2
+marker,settings.py,Simple Atributte,13,13,22,A2
+marker,settings.py,Simple Atributte,14,14,20,A2
+marker,settings.py,Simple Atributte,15,15,29,A2
+marker,settings.py,Simple Atributte,18,18,21,A2
+marker,settings.py,Simple Atributte,36,36,11,A2
+marker,settings.py,Simple Atributte,37,37,19,A2
+marker,settings.py,Simple Atributte,39,39,11,A2
+marker,settings.py,Simple Atributte,42,42,11,A2
+marker,settings.py,Simple Atributte,50,50,11,A2
+marker,settings.py,Simple Atributte,51,51,19,A2
+marker,settings.py,Simple Atributte,53,53,19,A2
+marker,settings.py,Simple Atributte,12,12,36,A2
+marker,settings.py,Simple Atributte,12,12,52,A2
+marker,settings.py,Simple Atributte,39,39,11,A2
+marker,settings.py,Simple Atributte,42,42,11,A2
+marker,settings.py,Simple Atributte,12,12,52,A2
+marker,settings.py,Simple Atributte,42,42,11,A2
+marker,settings.py,Simple Assignment,60,60,0,A1
+marker,settings.py,Simple Assignment,56,56,8,A1
+marker,settings.py,Simple Assignment,57,57,8,A1
+marker,settings.py,Import,6,6,0,A2
+marker,settings.py,Import,7,7,0,A2
+marker,settings.py,From,1,1,0,A2
+marker,settings.py,From,3,3,0,A2
+marker,settings.py,From,4,4,0,A2
+marker,settings.py,From,5,5,0,A2
+marker,settings.py,Simple If statements,36,37,8,A1
+marker,settings.py,Simple If statements,39,40,8,A1
+marker,settings.py,Simple If statements,42,43,8,A1
+marker,settings.py,Simple If statements,50,53,8,A1
+marker,settings.py,Function with Simple argument,35,45,4,A1
+marker,settings.py,Function with Simple argument,49,53,4,A1
+marker,settings.py,Return,45,45,8,A1
+marker,settings.py,Return,37,37,12,A1
+marker,settings.py,Return,40,40,12,A1
+marker,settings.py,Return,43,43,12,A1
+marker,settings.py,Return,51,51,12,A1
+marker,settings.py,Return,53,53,12,A1
+marker,settings.py,Inherited Class from BaseSettings,10,57,0,B1
+marker,settings.py,Simple Class ,55,57,4,B1

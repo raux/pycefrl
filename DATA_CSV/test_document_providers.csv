@@ -1,0 +1,96 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+providers,test_document_providers.py,Simple List,4,4,35,A1
+providers,test_document_providers.py,Simple List,18,18,35,A1
+providers,test_document_providers.py,Simple List,29,29,35,A1
+providers,test_document_providers.py,Simple List,39,39,35,A1
+providers,test_document_providers.py,Simple List,50,50,35,A1
+providers,test_document_providers.py,Simple List,7,7,35,A1
+providers,test_document_providers.py,Simple List,21,21,35,A1
+providers,test_document_providers.py,Simple List,32,32,35,A1
+providers,test_document_providers.py,Simple List,42,42,35,A1
+providers,test_document_providers.py,Simple List,53,53,35,A1
+providers,test_document_providers.py,Simple Tuple,7,7,55,A1
+providers,test_document_providers.py,Simple Tuple,21,21,55,A1
+providers,test_document_providers.py,Simple Tuple,32,32,55,A1
+providers,test_document_providers.py,Simple Tuple,42,42,55,A1
+providers,test_document_providers.py,Simple Tuple,53,53,55,A1
+providers,test_document_providers.py,1 List Dictionary,4,4,20,B1
+providers,test_document_providers.py,1 List Dictionary,18,18,20,B1
+providers,test_document_providers.py,1 List Dictionary,29,29,20,B1
+providers,test_document_providers.py,1 List Dictionary,39,39,20,B1
+providers,test_document_providers.py,1 List Dictionary,50,50,20,B1
+providers,test_document_providers.py,Simple Atributte,11,11,12,A2
+providers,test_document_providers.py,Simple Atributte,14,14,12,A2
+providers,test_document_providers.py,Simple Atributte,4,4,1,A2
+providers,test_document_providers.py,Simple Atributte,5,5,1,A2
+providers,test_document_providers.py,Simple Atributte,25,25,12,A2
+providers,test_document_providers.py,Simple Atributte,18,18,1,A2
+providers,test_document_providers.py,Simple Atributte,19,19,1,A2
+providers,test_document_providers.py,Simple Atributte,36,36,12,A2
+providers,test_document_providers.py,Simple Atributte,29,29,1,A2
+providers,test_document_providers.py,Simple Atributte,30,30,1,A2
+providers,test_document_providers.py,Simple Atributte,46,46,12,A2
+providers,test_document_providers.py,Simple Atributte,39,39,1,A2
+providers,test_document_providers.py,Simple Atributte,40,40,1,A2
+providers,test_document_providers.py,Simple Atributte,57,57,12,A2
+providers,test_document_providers.py,Simple Atributte,50,50,1,A2
+providers,test_document_providers.py,Simple Atributte,51,51,1,A2
+providers,test_document_providers.py,Simple Atributte,7,7,11,A2
+providers,test_document_providers.py,Simple Atributte,9,9,17,A2
+providers,test_document_providers.py,Simple Atributte,12,12,11,A2
+providers,test_document_providers.py,Simple Atributte,15,15,11,A2
+providers,test_document_providers.py,Simple Atributte,4,4,1,A2
+providers,test_document_providers.py,Simple Atributte,5,5,1,A2
+providers,test_document_providers.py,Simple Atributte,21,21,11,A2
+providers,test_document_providers.py,Simple Atributte,23,23,17,A2
+providers,test_document_providers.py,Simple Atributte,26,26,11,A2
+providers,test_document_providers.py,Simple Atributte,18,18,1,A2
+providers,test_document_providers.py,Simple Atributte,19,19,1,A2
+providers,test_document_providers.py,Simple Atributte,32,32,11,A2
+providers,test_document_providers.py,Simple Atributte,34,34,17,A2
+providers,test_document_providers.py,Simple Atributte,37,37,11,A2
+providers,test_document_providers.py,Simple Atributte,29,29,1,A2
+providers,test_document_providers.py,Simple Atributte,30,30,1,A2
+providers,test_document_providers.py,Simple Atributte,42,42,11,A2
+providers,test_document_providers.py,Simple Atributte,44,44,17,A2
+providers,test_document_providers.py,Simple Atributte,47,47,11,A2
+providers,test_document_providers.py,Simple Atributte,39,39,1,A2
+providers,test_document_providers.py,Simple Atributte,40,40,1,A2
+providers,test_document_providers.py,Simple Atributte,53,53,11,A2
+providers,test_document_providers.py,Simple Atributte,55,55,17,A2
+providers,test_document_providers.py,Simple Atributte,58,58,11,A2
+providers,test_document_providers.py,Simple Atributte,50,50,1,A2
+providers,test_document_providers.py,Simple Atributte,51,51,1,A2
+providers,test_document_providers.py,Simple Atributte,7,7,11,A2
+providers,test_document_providers.py,Simple Atributte,21,21,11,A2
+providers,test_document_providers.py,Simple Atributte,32,32,11,A2
+providers,test_document_providers.py,Simple Atributte,42,42,11,A2
+providers,test_document_providers.py,Simple Atributte,53,53,11,A2
+providers,test_document_providers.py,Simple Assignment,9,9,4,A1
+providers,test_document_providers.py,Simple Assignment,11,11,4,A1
+providers,test_document_providers.py,Simple Assignment,14,14,4,A1
+providers,test_document_providers.py,Simple Assignment,23,23,4,A1
+providers,test_document_providers.py,Simple Assignment,25,25,4,A1
+providers,test_document_providers.py,Simple Assignment,34,34,4,A1
+providers,test_document_providers.py,Simple Assignment,36,36,4,A1
+providers,test_document_providers.py,Simple Assignment,44,44,4,A1
+providers,test_document_providers.py,Simple Assignment,46,46,4,A1
+providers,test_document_providers.py,Simple Assignment,55,55,4,A1
+providers,test_document_providers.py,Simple Assignment,57,57,4,A1
+providers,test_document_providers.py,'assert' exception,7,7,4,B2
+providers,test_document_providers.py,'assert' exception,12,12,4,B2
+providers,test_document_providers.py,'assert' exception,15,15,4,B2
+providers,test_document_providers.py,'assert' exception,21,21,4,B2
+providers,test_document_providers.py,'assert' exception,26,26,4,B2
+providers,test_document_providers.py,'assert' exception,32,32,4,B2
+providers,test_document_providers.py,'assert' exception,37,37,4,B2
+providers,test_document_providers.py,'assert' exception,42,42,4,B2
+providers,test_document_providers.py,'assert' exception,47,47,4,B2
+providers,test_document_providers.py,'assert' exception,53,53,4,B2
+providers,test_document_providers.py,'assert' exception,58,58,4,B2
+providers,test_document_providers.py,Import,1,1,0,A2
+providers,test_document_providers.py,Function with Simple argument,6,15,0,A1
+providers,test_document_providers.py,Function with Simple argument,20,26,0,A1
+providers,test_document_providers.py,Function with Simple argument,31,37,0,A1
+providers,test_document_providers.py,Function with Simple argument,41,47,0,A1
+providers,test_document_providers.py,Function with Simple argument,52,58,0,A1

@@ -1,0 +1,106 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+renderers,ocr_json.py,Simple List,56,56,16,A1
+renderers,ocr_json.py,Simple List,62,62,29,A1
+renderers,ocr_json.py,Simple List,81,81,20,A1
+renderers,ocr_json.py,Simple List,99,99,31,A1
+renderers,ocr_json.py,Simple List,97,97,29,A1
+renderers,ocr_json.py,Simple Tuple,49,49,8,A1
+renderers,ocr_json.py,Simple Tuple,53,53,8,A1
+renderers,ocr_json.py,Simple Tuple,47,48,8,A1
+renderers,ocr_json.py,Simple Tuple,51,52,8,A1
+renderers,ocr_json.py,If statements expression (else),95,97,24,B1
+renderers,ocr_json.py,Simple Atributte,37,37,26,A2
+renderers,ocr_json.py,Simple Atributte,49,49,9,A2
+renderers,ocr_json.py,Simple Atributte,49,49,29,A2
+renderers,ocr_json.py,Simple Atributte,53,53,9,A2
+renderers,ocr_json.py,Simple Atributte,57,57,20,A2
+renderers,ocr_json.py,Simple Atributte,129,129,12,A2
+renderers,ocr_json.py,Simple Atributte,59,59,27,A2
+renderers,ocr_json.py,Simple Atributte,64,64,23,A2
+renderers,ocr_json.py,Simple Atributte,75,75,29,A2
+renderers,ocr_json.py,Simple Atributte,91,91,20,A2
+renderers,ocr_json.py,Simple Atributte,91,91,36,A2
+renderers,ocr_json.py,Simple Atributte,93,93,20,A2
+renderers,ocr_json.py,Simple Atributte,119,119,20,A2
+renderers,ocr_json.py,Simple Atributte,120,120,16,A2
+renderers,ocr_json.py,Simple Atributte,125,125,24,A2
+renderers,ocr_json.py,Simple Atributte,126,126,21,A2
+renderers,ocr_json.py,Simple Atributte,134,134,38,A2
+renderers,ocr_json.py,Simple Atributte,69,69,32,A2
+renderers,ocr_json.py,Simple Atributte,87,87,28,A2
+renderers,ocr_json.py,Simple Atributte,88,88,25,A2
+renderers,ocr_json.py,Simple Atributte,93,93,36,A2
+renderers,ocr_json.py,Simple Atributte,96,96,27,A2
+renderers,ocr_json.py,Simple Atributte,123,123,23,A2
+renderers,ocr_json.py,Simple Atributte,124,124,31,A2
+renderers,ocr_json.py,Simple Atributte,125,125,24,A2
+renderers,ocr_json.py,Simple Atributte,126,126,21,A2
+renderers,ocr_json.py,Simple Atributte,59,59,44,A2
+renderers,ocr_json.py,Simple Atributte,59,59,60,A2
+renderers,ocr_json.py,Simple Atributte,60,60,24,A2
+renderers,ocr_json.py,Simple Atributte,70,70,23,A2
+renderers,ocr_json.py,Simple Atributte,70,70,42,A2
+renderers,ocr_json.py,Simple Atributte,76,76,19,A2
+renderers,ocr_json.py,Simple Atributte,76,76,39,A2
+renderers,ocr_json.py,Simple Atributte,77,77,20,A2
+renderers,ocr_json.py,Simple Atributte,78,78,24,A2
+renderers,ocr_json.py,Simple Atributte,84,84,27,A2
+renderers,ocr_json.py,Simple Atributte,85,85,35,A2
+renderers,ocr_json.py,Simple Atributte,87,87,28,A2
+renderers,ocr_json.py,Simple Atributte,88,88,25,A2
+renderers,ocr_json.py,Simple Atributte,101,101,31,A2
+renderers,ocr_json.py,Simple Atributte,107,107,24,A2
+renderers,ocr_json.py,Simple Atributte,95,95,25,A2
+renderers,ocr_json.py,Simple Atributte,95,95,68,A2
+renderers,ocr_json.py,Simple Atributte,105,105,28,A2
+renderers,ocr_json.py,Simple Atributte,105,105,71,A2
+renderers,ocr_json.py,Simple Atributte,112,112,41,A2
+renderers,ocr_json.py,Simple Atributte,113,113,44,A2
+renderers,ocr_json.py,Simple Atributte,114,114,41,A2
+renderers,ocr_json.py,Simple Atributte,110,110,43,A2
+renderers,ocr_json.py,Simple Atributte,111,111,51,A2
+renderers,ocr_json.py,Simple Atributte,113,113,44,A2
+renderers,ocr_json.py,Simple Atributte,114,114,41,A2
+renderers,ocr_json.py,List Comprehension with 1If statements,58,61,29,C1
+renderers,ocr_json.py,List Comprehension with 1If statements,73,79,25,C1
+renderers,ocr_json.py,List Comprehension with 1If statements,67,71,34,C1
+renderers,ocr_json.py,Simple List Comprehension,95,95,24,C1
+renderers,ocr_json.py,Simple List Comprehension,104,106,37,C1
+renderers,ocr_json.py,Simple List Comprehension,108,117,28,C1
+renderers,ocr_json.py,Simple Assignment,56,56,8,A1
+renderers,ocr_json.py,Simple Assignment,58,61,12,A1
+renderers,ocr_json.py,Simple Assignment,62,62,12,A1
+renderers,ocr_json.py,Simple Assignment,73,79,12,A1
+renderers,ocr_json.py,Simple Assignment,81,81,12,A1
+renderers,ocr_json.py,Simple Assignment,122,128,12,A1
+renderers,ocr_json.py,Simple Assignment,83,89,16,A1
+renderers,ocr_json.py,Simple Assignment,91,91,20,A1
+renderers,ocr_json.py,Simple Assignment,93,93,20,A1
+renderers,ocr_json.py,Simple Assignment,94,98,20,A1
+renderers,ocr_json.py,Simple Assignment,99,99,20,A1
+renderers,ocr_json.py,Simple Assignment,119,119,20,A1
+renderers,ocr_json.py,Simple Assignment,104,106,24,A1
+renderers,ocr_json.py,Simplified incremental Assignment with increase amount,67,71,16,A2
+renderers,ocr_json.py,From,1,1,0,A2
+renderers,ocr_json.py,From,3,3,0,A2
+renderers,ocr_json.py,From,5,5,0,A2
+renderers,ocr_json.py,From,6,6,0,A2
+renderers,ocr_json.py,From,7,7,0,A2
+renderers,ocr_json.py,Simple If statements,64,65,16,A1
+renderers,ocr_json.py,Simple If statements,90,119,16,A1
+renderers,ocr_json.py,Simple If statements,101,102,24,A1
+renderers,ocr_json.py,2 Nested For Loop,57,129,8,A2
+renderers,ocr_json.py,Simple For Loop,63,71,12,A1
+renderers,ocr_json.py,Simple For Loop,82,120,12,A1
+renderers,ocr_json.py,Simple For Loop,100,118,20,A1
+renderers,ocr_json.py,'continue' statement,65,65,20,B1
+renderers,ocr_json.py,'continue' statement,102,102,28,B1
+renderers,ocr_json.py,Function with Simple argument,55,131,4,A1
+renderers,ocr_json.py,Function with Simple argument,133,134,4,A1
+renderers,ocr_json.py,Return,131,131,8,A1
+renderers,ocr_json.py,Return,134,134,8,A1
+renderers,ocr_json.py,Inherited Class from BaseModel,10,15,0,B1
+renderers,ocr_json.py,Inherited Class from BaseModel,18,24,0,B1
+renderers,ocr_json.py,Inherited Class from BaseModel,27,32,0,B1
+renderers,ocr_json.py,Inherited Class from BaseModel,35,38,0,B1
+renderers,ocr_json.py,Inherited Class from BaseRenderer,41,134,0,B1

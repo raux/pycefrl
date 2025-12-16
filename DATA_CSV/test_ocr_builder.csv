@@ -1,0 +1,12 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+builders,test_ocr_builder.py,Simple List,9,9,42,A1
+builders,test_ocr_builder.py,Simple Tuple,8,8,29,A1
+builders,test_ocr_builder.py,Simple Atributte,8,8,12,A2
+builders,test_ocr_builder.py,Simple Atributte,9,9,12,A2
+builders,test_ocr_builder.py,Simple Assignment,7,7,4,A1
+builders,test_ocr_builder.py,Simple Assignment,8,8,4,A1
+builders,test_ocr_builder.py,Simple Assignment,9,9,4,A1
+builders,test_ocr_builder.py,'assert' exception,10,10,4,B2
+builders,test_ocr_builder.py,From,1,1,0,A2
+builders,test_ocr_builder.py,From,3,3,0,A2
+builders,test_ocr_builder.py,Function with Simple argument,6,10,0,A1

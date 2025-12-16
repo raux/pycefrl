@@ -1,0 +1,14 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+groups,picture.py,Super Function,16,16,21,C2
+groups,picture.py,Simple Atributte,6,6,29,A2
+groups,picture.py,Simple Atributte,13,13,11,A2
+groups,picture.py,Simple Atributte,14,14,19,A2
+groups,picture.py,Simple Atributte,16,16,21,A2
+groups,picture.py,Simple Assignment,16,18,8,A1
+groups,picture.py,From,1,1,0,A2
+groups,picture.py,From,2,2,0,A2
+groups,picture.py,Simple If statements,13,14,8,A1
+groups,picture.py,Function with Simple argument with Default argument,10,19,4,A2
+groups,picture.py,Return,19,19,8,A1
+groups,picture.py,Return,14,14,12,A1
+groups,picture.py,Inherited Class from Group,5,19,0,B1

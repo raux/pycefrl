@@ -1,0 +1,12 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+renderers,test_html_renderer.py,Simple List,8,8,22,A1
+renderers,test_html_renderer.py,1 List Dictionary,7,12,4,B1
+renderers,test_html_renderer.py,Simple Atributte,16,16,11,A2
+renderers,test_html_renderer.py,Simple Atributte,6,6,1,A2
+renderers,test_html_renderer.py,Simple Atributte,6,6,1,A2
+renderers,test_html_renderer.py,Simple Assignment,15,15,4,A1
+renderers,test_html_renderer.py,Simple Assignment,16,16,4,A1
+renderers,test_html_renderer.py,'assert' exception,19,19,4,B2
+renderers,test_html_renderer.py,Import,1,1,0,A2
+renderers,test_html_renderer.py,From,3,3,0,A2
+renderers,test_html_renderer.py,Function with Simple argument,14,19,0,A1

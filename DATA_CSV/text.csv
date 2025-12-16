@@ -1,0 +1,32 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+blocks,text.py,Super Function,25,25,19,C2
+blocks,text.py,Super Function,21,21,19,C2
+blocks,text.py,Simple Atributte,6,6,29,A2
+blocks,text.py,Simple Atributte,16,16,11,A2
+blocks,text.py,Simple Atributte,20,20,11,A2
+blocks,text.py,Simple Atributte,31,31,11,A2
+blocks,text.py,Simple Atributte,34,34,11,A2
+blocks,text.py,Simple Atributte,25,25,19,A2
+blocks,text.py,Simple Atributte,28,28,19,A2
+blocks,text.py,Simple Atributte,21,21,19,A2
+blocks,text.py,Simple Atributte,30,30,34,A2
+blocks,text.py,Simple Atributte,35,35,49,A2
+blocks,text.py,Simple Atributte,36,36,50,A2
+blocks,text.py,Simple Assignment,25,27,8,A1
+blocks,text.py,Simple Assignment,28,28,8,A1
+blocks,text.py,Simple Assignment,30,30,8,A1
+blocks,text.py,Assigment with sum (total = total + 1),35,35,12,A1
+blocks,text.py,Assigment with sum (total = total + 1),36,36,12,A1
+blocks,text.py,Simplified incremental Assignment with increase amount,32,32,12,A2
+blocks,text.py,From,1,1,0,A2
+blocks,text.py,From,2,2,0,A2
+blocks,text.py,Simple If statements,16,17,8,A1
+blocks,text.py,Simple If statements,20,23,8,A1
+blocks,text.py,Simple If statements,31,32,8,A1
+blocks,text.py,Simple If statements,34,39,8,A1
+blocks,text.py,Function with Simple argument with Default argument,13,39,4,A2
+blocks,text.py,Return,17,17,12,A1
+blocks,text.py,Return,21,23,12,A1
+blocks,text.py,Return,37,37,12,A1
+blocks,text.py,Return,39,39,12,A1
+blocks,text.py,Inherited Class from Block,5,39,0,B1

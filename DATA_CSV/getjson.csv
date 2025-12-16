@@ -1,0 +1,114 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+.,getjson.py,Simple Tuple,119,119,12,A1
+.,getjson.py,Simple Tuple,128,128,12,A1
+.,getjson.py,Simple Dictionary,8,8,13,A2
+.,getjson.py,Simple Dictionary,10,10,15,A2
+.,getjson.py,Simple Dictionary,12,12,12,A2
+.,getjson.py,Simple Dictionary,19,19,27,A2
+.,getjson.py,Simple Dictionary,20,20,26,A2
+.,getjson.py,Simple Dictionary,124,124,40,A2
+.,getjson.py,Simple Dictionary,22,22,37,A2
+.,getjson.py,Simple Dictionary,26,26,45,A2
+.,getjson.py,Simple Dictionary,29,29,48,A2
+.,getjson.py,Simple Dictionary,34,34,55,A2
+.,getjson.py,Simple Dictionary,40,40,44,A2
+.,getjson.py,Simple Dictionary,43,43,47,A2
+.,getjson.py,Simple Dictionary,48,48,54,A2
+.,getjson.py,Files --> 'open' call function,95,95,9,A2
+.,getjson.py,Files --> 'open' call function,99,99,9,A2
+.,getjson.py,Files --> 'open' call function,103,103,9,A2
+.,getjson.py,Files --> 'open' call function,107,107,9,A2
+.,getjson.py,Files --> 'open' call function,137,137,9,A2
+.,getjson.py,Simple Atributte,18,18,16,A2
+.,getjson.py,Simple Atributte,85,85,9,A2
+.,getjson.py,Simple Atributte,113,113,12,A2
+.,getjson.py,Simple Atributte,124,124,13,A2
+.,getjson.py,Simple Atributte,88,88,8,A2
+.,getjson.py,Simple Atributte,96,96,8,A2
+.,getjson.py,Simple Atributte,100,100,8,A2
+.,getjson.py,Simple Atributte,104,104,8,A2
+.,getjson.py,Simple Atributte,108,108,8,A2
+.,getjson.py,Simple Atributte,119,119,26,A2
+.,getjson.py,Simple Atributte,128,128,26,A2
+.,getjson.py,Simple Atributte,138,138,15,A2
+.,getjson.py,Simple Atributte,38,38,24,A2
+.,getjson.py,Simple Assignment,8,8,0,A1
+.,getjson.py,Simple Assignment,10,10,0,A1
+.,getjson.py,Simple Assignment,12,12,0,A1
+.,getjson.py,Simple Assignment,85,85,4,A1
+.,getjson.py,Assigment with sum (total = total + 1),92,92,4,A1
+.,getjson.py,Simple Assignment,93,93,4,A1
+.,getjson.py,Simple Assignment,94,94,4,A1
+.,getjson.py,Assigment with sum (total = total + 1),98,98,4,A1
+.,getjson.py,Assigment with sum (total = total + 1),102,102,4,A1
+.,getjson.py,Assigment with sum (total = total + 1),106,106,4,A1
+.,getjson.py,Simple Assignment,113,113,4,A1
+.,getjson.py,Simple Assignment,114,114,4,A1
+.,getjson.py,Simple Assignment,115,115,4,A1
+.,getjson.py,Simple Assignment,124,124,4,A1
+.,getjson.py,Simple Assignment,19,19,8,A1
+.,getjson.py,Simple Assignment,20,20,8,A1
+.,getjson.py,Simple Assignment,118,118,8,A1
+.,getjson.py,Simple Assignment,138,138,8,A1
+.,getjson.py,Simple Assignment,140,140,8,A1
+.,getjson.py,Simple Assignment,22,22,12,A1
+.,getjson.py,Simple Assignment,59,59,12,A1
+.,getjson.py,Simple Assignment,68,68,12,A1
+.,getjson.py,Simple Assignment,77,77,12,A1
+.,getjson.py,Simple Assignment,24,24,16,A1
+.,getjson.py,Simple Assignment,36,36,16,A1
+.,getjson.py,Simple Assignment,38,38,16,A1
+.,getjson.py,Simple Assignment,26,26,20,A1
+.,getjson.py,Simple Assignment,29,29,20,A1
+.,getjson.py,Simple Assignment,34,34,20,A1
+.,getjson.py,Simple Assignment,40,40,20,A1
+.,getjson.py,Simple Assignment,43,43,20,A1
+.,getjson.py,Simple Assignment,48,48,20,A1
+.,getjson.py,Simplified incremental Assignment with increase amount,116,116,4,A2
+.,getjson.py,Simplified incremental Assignment with increase amount,122,122,4,A2
+.,getjson.py,Simplified incremental Assignment with increase amount,130,130,4,A2
+.,getjson.py,Simplified incremental Assignment with increase amount,61,61,8,A2
+.,getjson.py,Simplified incremental Assignment with increase amount,70,70,8,A2
+.,getjson.py,Simplified incremental Assignment with increase amount,79,79,8,A2
+.,getjson.py,Simplified incremental Assignment with increase amount,126,126,8,A2
+.,getjson.py,Simplified incremental Assignment with increase amount,120,120,12,A2
+.,getjson.py,Simplified incremental Assignment with increase amount,129,129,12,A2
+.,getjson.py,'pass' statement,90,90,8,B1
+.,getjson.py,Import,3,3,0,A2
+.,getjson.py,Import,4,4,0,A2
+.,getjson.py,Import're' module,5,5,0,C1
+.,getjson.py,If statements using → __name__ == ‘__main__’,146,147,0,B2
+.,getjson.py,Simple If statements,57,61,4,A1
+.,getjson.py,Simple If statements,66,70,4,A1
+.,getjson.py,Simple If statements,75,79,4,A1
+.,getjson.py,Simple If statements,125,129,4,A1
+.,getjson.py,Simple If statements,58,59,8,A1
+.,getjson.py,Simple If statements,67,68,8,A1
+.,getjson.py,Simple If statements,76,77,8,A1
+.,getjson.py,Simple If statements,25,26,16,A1
+.,getjson.py,Simple If statements,28,29,16,A1
+.,getjson.py,Simple If statements,31,34,16,A1
+.,getjson.py,Simple If statements,39,40,16,A1
+.,getjson.py,Simple If statements,42,43,16,A1
+.,getjson.py,Simple If statements,45,48,16,A1
+.,getjson.py,1 Nested For Loop,18,51,4,A2
+.,getjson.py,1 Nested For Loop,117,120,4,A2
+.,getjson.py,1 Nested For Loop,21,49,8,A2
+.,getjson.py,For Loop with Tuple as name,119,120,8,A2
+.,getjson.py,For Loop with Tuple as name,128,129,8,A2
+.,getjson.py,Simple For Loop,23,49,12,A1
+.,getjson.py,Exception --> try/except,87,90,4,B1
+.,getjson.py,With,95,96,4,B1
+.,getjson.py,With,99,100,4,B1
+.,getjson.py,With,103,104,4,B1
+.,getjson.py,With,107,108,4,B1
+.,getjson.py,With,137,141,4,B1
+.,getjson.py,Function with Simple argument,15,51,0,A1
+.,getjson.py,Function with Simple argument,55,61,0,A1
+.,getjson.py,Function with Simple argument,64,70,0,A1
+.,getjson.py,Function with Simple argument,73,79,0,A1
+.,getjson.py,Function with Simple argument,82,108,0,A1
+.,getjson.py,Function,111,131,0,A1
+.,getjson.py,Function,134,141,0,A1
+.,getjson.py,Return,131,131,4,A1
+.,getjson.py,Return,141,141,8,A1

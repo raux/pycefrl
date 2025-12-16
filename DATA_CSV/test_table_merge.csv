@@ -1,0 +1,26 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+processors,test_table_merge.py,Simple Tuple,21,21,43,A1
+processors,test_table_merge.py,Simple Tuple,27,27,43,A1
+processors,test_table_merge.py,Simple Dictionary,13,16,28,A2
+processors,test_table_merge.py,Simple Dictionary,24,24,49,A2
+processors,test_table_merge.py,Simple Atributte,13,13,4,A2
+processors,test_table_merge.py,Simple Atributte,10,10,1,A2
+processors,test_table_merge.py,Simple Atributte,21,21,13,A2
+processors,test_table_merge.py,Simple Atributte,27,27,13,A2
+processors,test_table_merge.py,Simple Atributte,10,10,1,A2
+processors,test_table_merge.py,Simple Atributte,21,21,44,A2
+processors,test_table_merge.py,Simple Atributte,27,27,44,A2
+processors,test_table_merge.py,Simple Assignment,12,12,4,A1
+processors,test_table_merge.py,Simple Assignment,13,16,4,A1
+processors,test_table_merge.py,Simple Assignment,18,18,4,A1
+processors,test_table_merge.py,Simple Assignment,21,21,4,A1
+processors,test_table_merge.py,Simple Assignment,24,24,4,A1
+processors,test_table_merge.py,Simple Assignment,27,27,4,A1
+processors,test_table_merge.py,'assert' exception,22,22,4,B2
+processors,test_table_merge.py,'assert' exception,28,28,4,B2
+processors,test_table_merge.py,Import,3,3,0,A2
+processors,test_table_merge.py,From,1,1,0,A2
+processors,test_table_merge.py,From,5,5,0,A2
+processors,test_table_merge.py,From,6,6,0,A2
+processors,test_table_merge.py,From,7,7,0,A2
+processors,test_table_merge.py,Function with Simple argument,11,28,0,A1

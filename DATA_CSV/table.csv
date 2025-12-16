@@ -1,0 +1,15 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+groups,table.py,Super Function,25,25,15,C2
+groups,table.py,Simple Atributte,9,9,29,A2
+groups,table.py,Simple Atributte,20,20,11,A2
+groups,table.py,Simple Atributte,25,25,15,A2
+groups,table.py,Simple Atributte,21,21,19,A2
+groups,table.py,From,1,1,0,A2
+groups,table.py,From,3,3,0,A2
+groups,table.py,From,4,4,0,A2
+groups,table.py,From,5,5,0,A2
+groups,table.py,Simple If statements,20,23,8,A1
+groups,table.py,Function with Simple argument with Default argument,13,27,4,A2
+groups,table.py,Return,25,27,8,A1
+groups,table.py,Return,21,23,12,A1
+groups,table.py,Inherited Class from Group,8,27,0,B1

@@ -1,0 +1,13 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+utils,batch.py,Simple Tuple,11,19,11,A1
+utils,batch.py,Simple Tuple,9,9,15,A1
+utils,batch.py,Simple Dictionary,11,19,11,A2
+utils,batch.py,Simple Dictionary,9,9,15,A2
+utils,batch.py,Simple Atributte,5,5,11,A2
+utils,batch.py,Simple Assignment,5,5,4,A1
+utils,batch.py,Simple Assignment,7,7,4,A1
+utils,batch.py,From,1,1,0,A2
+utils,batch.py,Simple If statements,8,9,4,A1
+utils,batch.py,Function with Simple argument,4,19,0,A1
+utils,batch.py,Return,11,19,4,A1
+utils,batch.py,Return,9,9,8,A1

@@ -1,0 +1,117 @@
+{
+    "table": {
+        "gemini.py": {
+            "Levels": {
+                "A1": 8,
+                "A2": 24,
+                "B1": 1
+            },
+            "Class": {
+                "Simple List": 1,
+                "Simple Dictionary": 2,
+                "Simple Atributte": 15,
+                "Simple Assignment": 5,
+                "Import": 1,
+                "From": 6,
+                "Function with Simple argument": 1,
+                "Return": 1,
+                "Inherited Class from BaseModel": 1
+            }
+        },
+        "inference.py": {
+            "Levels": {
+                "A1": 78,
+                "A2": 69,
+                "C2": 1,
+                "C1": 5,
+                "B1": 14,
+                "B2": 1
+            },
+            "Class": {
+                "Simple List": 4,
+                "Simple Tuple": 6,
+                "Simple Dictionary": 2,
+                "'range' call function": 1,
+                "'enumerate' call function": 1,
+                "Files --> 'write' call function": 1,
+                "Print": 4,
+                "Simple Atributte": 46,
+                "Simple List Comprehension": 5,
+                "Simple Assignment": 37,
+                "Assigment with sum (total = total +)": 6,
+                "Simplified incremental Assignment with increase amount": 3,
+                "Import with 'as' extension ": 2,
+                "Import": 2,
+                "From": 12,
+                "Simple If statements": 11,
+                "Simple For Loop": 5,
+                "For Loop with Tuple as name": 2,
+                "'continue' statement": 8,
+                "Exception --> try/except": 3,
+                "With": 1,
+                "Recursive Functions": 1,
+                "Function with Simple argument": 2,
+                "Return": 3
+            }
+        },
+        "scoring.py": {
+            "Levels": {
+                "A1": 54,
+                "C2": 2,
+                "A2": 69,
+                "B2": 2,
+                "B1": 5
+            },
+            "Class": {
+                "Simple List": 2,
+                "Simple Tuple": 3,
+                "'map' call function": 1,
+                "Super Function": 1,
+                "Simple Atributte": 60,
+                "Simple Assignment": 18,
+                "Assigment with sum (total = total +)": 2,
+                "Simplified incremental Assignment with increase amount": 3,
+                "Import": 1,
+                "From": 4,
+                "Simple If statements": 13,
+                "Simple For Loop": 3,
+                "Function with Simple argument": 3,
+                "Recursive Functions": 2,
+                "Function with Simple argument with Default argument": 1,
+                "Function with Simple argument with Default argument with * argument ": 1,
+                "Function with * argument ": 1,
+                "Function with Simple argument with * argument ": 1,
+                "Return": 10,
+                "Inherited Class from Tree Using the constructor method --> __init__": 1,
+                "Inherited Class from Config": 1
+            }
+        },
+        "table.py": {
+            "Levels": {
+                "A1": 33,
+                "A2": 42,
+                "C1": 2,
+                "B2": 1,
+                "B1": 3
+            },
+            "Class": {
+                "Simple List": 3,
+                "Simple Tuple": 5,
+                "Simple Dictionary": 2,
+                "Print": 5,
+                "Files --> 'open' call function": 1,
+                "Simple Atributte": 23,
+                "Simple List Comprehension": 2,
+                "Simple Assignment": 16,
+                "Assigment with sum (total = total +)": 2,
+                "Import": 5,
+                "From": 9,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1,
+                "Simple If statements": 1,
+                "With": 3,
+                "Function with Simple argument with Default argument": 2,
+                "Return": 1
+            }
+        }
+    }
+}

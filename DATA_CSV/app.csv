@@ -1,0 +1,290 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+.,app.py,Simple List,48,48,10,A1
+.,app.py,Simple List,52,52,11,A1
+.,app.py,Simple List,23,23,48,A1
+.,app.py,Simple List,240,240,15,A1
+.,app.py,Simple List,44,44,23,A1
+.,app.py,Simple List,149,149,39,A1
+.,app.py,Simple List,159,159,38,A1
+.,app.py,Simple List,130,130,48,A1
+.,app.py,Simple List,218,218,29,A1
+.,app.py,Simple List,132,132,50,A1
+.,app.py,Simple List,134,134,50,A1
+.,app.py,Simple List,136,136,50,A1
+.,app.py,Simple List,155,155,49,A1
+.,app.py,Simple List,138,138,50,A1
+.,app.py,Simple List,140,140,50,A1
+.,app.py,Simple Tuple,18,18,11,A1
+.,app.py,Simple Tuple,31,31,4,A1
+.,app.py,Simple Tuple,254,254,4,A1
+.,app.py,Simple Tuple,241,241,12,A1
+.,app.py,2 Nested Tuple,109,109,16,A2
+.,app.py,Simple Tuple,114,114,12,A1
+.,app.py,Simple Tuple,149,149,12,A1
+.,app.py,Simple Tuple,242,242,16,A1
+.,app.py,Simple Tuple,75,75,16,A1
+.,app.py,Simple Tuple,109,109,19,A1
+.,app.py,Simple Dictionary,243,243,22,A2
+.,app.py,Simple Dictionary,220,224,43,A2
+.,app.py,Files --> 'write' call function,50,50,4,A2
+.,app.py,Files --> 'readline' call function,65,65,15,A2
+.,app.py,Files --> 'open' call function,99,99,13,A2
+.,app.py,'enumerate' call function,109,109,37,C2
+.,app.py,Files --> 'open' call function,234,234,13,A2
+.,app.py,Files --> 'write' call function,152,152,16,A2
+.,app.py,Files --> 'write' call function,196,196,16,A2
+.,app.py,Files --> 'write' call function,211,211,16,A2
+.,app.py,Files --> 'open' call function,258,258,17,A2
+.,app.py,Files --> 'open' call function,263,263,17,A2
+.,app.py,Simple Atributte,12,12,0,A2
+.,app.py,Simple Atributte,17,17,10,A2
+.,app.py,Simple Atributte,21,21,5,A2
+.,app.py,Simple Atributte,35,35,0,A2
+.,app.py,Simple Atributte,36,36,0,A2
+.,app.py,Simple Atributte,16,16,10,A2
+.,app.py,Simple Atributte,22,22,4,A2
+.,app.py,Simple Atributte,23,23,11,A2
+.,app.py,Simple Atributte,25,25,4,A2
+.,app.py,Simple Atributte,26,26,4,A2
+.,app.py,Simple Atributte,27,27,17,A2
+.,app.py,Simple Atributte,28,28,17,A2
+.,app.py,Simple Atributte,32,32,4,A2
+.,app.py,Simple Atributte,33,33,4,A2
+.,app.py,Simple Atributte,42,42,7,A2
+.,app.py,Simple Atributte,45,45,4,A2
+.,app.py,Simple Atributte,50,50,4,A2
+.,app.py,Simple Atributte,51,51,20,A2
+.,app.py,Simple Atributte,54,54,14,A2
+.,app.py,Simple Atributte,79,79,7,A2
+.,app.py,Simple Atributte,88,88,4,A2
+.,app.py,Simple Atributte,98,98,7,A2
+.,app.py,Simple Atributte,121,121,7,A2
+.,app.py,Simple Atributte,233,233,7,A2
+.,app.py,Simple Atributte,253,253,4,A2
+.,app.py,Simple Atributte,254,254,17,A2
+.,app.py,Simple Atributte,268,268,11,A2
+.,app.py,Simple Atributte,274,274,7,A2
+.,app.py,Simple Atributte,17,17,10,A2
+.,app.py,Simple Atributte,42,42,7,A2
+.,app.py,Simple Atributte,43,43,9,A2
+.,app.py,Simple Atributte,44,44,8,A2
+.,app.py,Simple Atributte,56,56,15,A2
+.,app.py,Simple Atributte,57,57,15,A2
+.,app.py,Simple Atributte,65,65,15,A2
+.,app.py,Simple Atributte,80,80,8,A2
+.,app.py,Simple Atributte,81,81,8,A2
+.,app.py,Simple Atributte,85,85,9,A2
+.,app.py,Simple Atributte,86,86,8,A2
+.,app.py,Simple Atributte,93,93,11,A2
+.,app.py,Simple Atributte,94,94,8,A2
+.,app.py,Simple Atributte,98,98,7,A2
+.,app.py,Simple Atributte,121,121,7,A2
+.,app.py,Simple Atributte,122,122,8,A2
+.,app.py,Simple Atributte,233,233,7,A2
+.,app.py,Simple Atributte,237,237,8,A2
+.,app.py,Simple Atributte,241,241,32,A2
+.,app.py,Simple Atributte,257,257,11,A2
+.,app.py,Simple Atributte,262,262,11,A2
+.,app.py,Simple Atributte,271,271,16,A2
+.,app.py,Simple Atributte,272,272,8,A2
+.,app.py,Simple Atributte,279,279,10,A2
+.,app.py,Simple Atributte,280,280,7,A2
+.,app.py,Simple Atributte,65,65,15,A2
+.,app.py,Simple Atributte,69,69,12,A2
+.,app.py,Simple Atributte,71,71,12,A2
+.,app.py,Simple Atributte,81,81,16,A2
+.,app.py,Simple Atributte,86,86,16,A2
+.,app.py,Simple Atributte,93,93,11,A2
+.,app.py,Simple Atributte,100,100,22,A2
+.,app.py,Simple Atributte,104,104,12,A2
+.,app.py,Simple Atributte,108,108,19,A2
+.,app.py,Simple Atributte,114,114,22,A2
+.,app.py,Simple Atributte,115,115,12,A2
+.,app.py,Simple Atributte,116,116,12,A2
+.,app.py,Simple Atributte,117,117,12,A2
+.,app.py,Simple Atributte,118,118,12,A2
+.,app.py,Simple Atributte,125,125,21,A2
+.,app.py,Simple Atributte,145,145,26,A2
+.,app.py,Simple Atributte,149,149,31,A2
+.,app.py,Simple Atributte,235,235,25,A2
+.,app.py,Simple Atributte,242,242,36,A2
+.,app.py,Simple Atributte,249,249,17,A2
+.,app.py,Simple Atributte,250,250,12,A2
+.,app.py,Simple Atributte,257,257,11,A2
+.,app.py,Simple Atributte,262,262,11,A2
+.,app.py,Simple Atributte,271,271,16,A2
+.,app.py,Simple Atributte,288,288,11,A2
+.,app.py,Simple Atributte,289,289,7,A2
+.,app.py,Simple Atributte,66,66,24,A2
+.,app.py,Simple Atributte,71,71,31,A2
+.,app.py,Simple Atributte,76,76,16,A2
+.,app.py,Simple Atributte,77,77,16,A2
+.,app.py,Simple Atributte,109,109,47,A2
+.,app.py,Simple Atributte,115,115,19,A2
+.,app.py,Simple Atributte,115,115,34,A2
+.,app.py,Simple Atributte,129,129,29,A2
+.,app.py,Simple Atributte,146,146,37,A2
+.,app.py,Simple Atributte,152,152,16,A2
+.,app.py,Simple Atributte,196,196,16,A2
+.,app.py,Simple Atributte,211,211,16,A2
+.,app.py,Simple Atributte,230,230,12,A2
+.,app.py,Simple Atributte,246,246,16,A2
+.,app.py,Simple Atributte,259,259,16,A2
+.,app.py,Simple Atributte,264,264,16,A2
+.,app.py,Simple Atributte,285,285,12,A2
+.,app.py,Simple Atributte,111,111,20,A2
+.,app.py,Simple Atributte,153,153,33,A2
+.,app.py,Simple Atributte,153,153,63,A2
+.,app.py,Simple Atributte,155,155,34,A2
+.,app.py,Simple Atributte,157,157,27,A2
+.,app.py,Simple Atributte,197,197,34,A2
+.,app.py,Simple Atributte,197,197,64,A2
+.,app.py,Simple Atributte,199,199,31,A2
+.,app.py,Simple Atributte,201,201,31,A2
+.,app.py,Simple Atributte,207,207,20,A2
+.,app.py,Simple Atributte,208,208,20,A2
+.,app.py,Simple Atributte,212,212,33,A2
+.,app.py,Simple Atributte,212,212,63,A2
+.,app.py,Simple Atributte,212,212,93,A2
+.,app.py,Simple Atributte,216,216,34,A2
+.,app.py,Simple Atributte,226,226,20,A2
+.,app.py,Simple Atributte,227,227,20,A2
+.,app.py,Simple Atributte,245,245,20,A2
+.,app.py,Simple Atributte,249,249,17,A2
+.,app.py,Simple Atributte,272,272,34,A2
+.,app.py,Simple Atributte,294,294,12,A2
+.,app.py,Simple Atributte,161,161,37,A2
+.,app.py,Simple Atributte,180,180,24,A2
+.,app.py,Simple Atributte,191,191,24,A2
+.,app.py,Simple Atributte,193,193,24,A2
+.,app.py,Simple Atributte,272,272,34,A2
+.,app.py,Simple Atributte,155,155,34,A2
+.,app.py,Simple Atributte,201,201,46,A2
+.,app.py,Simple Atributte,161,161,52,A2
+.,app.py,Simple Atributte,202,202,26,A2
+.,app.py,Simple Atributte,203,203,26,A2
+.,app.py,Simple Atributte,204,204,26,A2
+.,app.py,Simple Atributte,155,155,34,A2
+.,app.py,Simple Atributte,176,176,33,A2
+.,app.py,Generator Expression,130,130,22,C1
+.,app.py,Generator Expression,132,132,24,C1
+.,app.py,Generator Expression,134,134,24,C1
+.,app.py,Generator Expression,136,136,24,C1
+.,app.py,Generator Expression,138,138,24,C1
+.,app.py,Generator Expression,140,140,24,C1
+.,app.py,Simple Assignment,16,16,4,A1
+.,app.py,Simple Assignment,17,17,4,A1
+.,app.py,Simple Assignment,23,23,4,A1
+.,app.py,Simple Assignment,27,27,4,A1
+.,app.py,Simple Assignment,28,28,4,A1
+.,app.py,Simple Assignment,31,31,4,A1
+.,app.py,Simple Assignment,48,48,4,A1
+.,app.py,Simple Assignment,51,51,4,A1
+.,app.py,Simple Assignment,52,52,4,A1
+.,app.py,Simple Assignment,54,61,4,A1
+.,app.py,Simple Assignment,254,254,4,A1
+.,app.py,Simple Assignment,268,268,4,A1
+.,app.py,Simple Assignment,65,65,8,A1
+.,app.py,Simple Assignment,240,240,8,A1
+.,app.py,Simple Assignment,279,279,4,A1
+.,app.py,Simple Assignment,100,100,12,A1
+.,app.py,Simple Assignment,105,105,12,A1
+.,app.py,Simple Assignment,108,108,12,A1
+.,app.py,Simple Assignment,114,114,12,A1
+.,app.py,Simple Assignment,125,125,12,A1
+.,app.py,Simple Assignment,149,149,12,A1
+.,app.py,Simple Assignment,235,235,12,A1
+.,app.py,Simple Assignment,249,249,12,A1
+.,app.py,Simple Assignment,288,288,4,A1
+.,app.py,Simple Assignment,75,75,16,A1
+.,app.py,Simple Assignment,129,129,16,A1
+.,app.py,Simple Assignment,146,146,16,A1
+.,app.py,Simple Assignment,243,243,16,A1
+.,app.py,Simple Assignment,155,155,20,A1
+.,app.py,Simple Assignment,199,199,20,A1
+.,app.py,Simple Assignment,201,206,20,A1
+.,app.py,Simple Assignment,216,225,20,A1
+.,app.py,Simple Assignment,159,159,24,A1
+.,app.py,Simple Assignment,161,178,24,A1
+.,app.py,Import with 'as' extension ,1,1,0,B1
+.,app.py,Import,2,2,0,A2
+.,app.py,Import,3,3,0,A2
+.,app.py,Import,4,4,0,A2
+.,app.py,Import with 'as' extension ,5,5,0,B1
+.,app.py,Import with 'as' extension ,6,6,0,B1
+.,app.py,Import with 'as' extension ,7,7,0,B1
+.,app.py,Import with 'as' extension ,8,8,0,B1
+.,app.py,Import,9,9,0,A2
+.,app.py,Import,10,10,0,A2
+.,app.py,Simple If statements,42,45,0,A1
+.,app.py,Simple If statements,267,294,0,A1
+.,app.py,Simple If statements,79,82,4,A1
+.,app.py,Simple If statements,93,95,4,A1
+.,app.py,Simple If statements,98,118,4,A1
+.,app.py,Simple If statements,121,230,4,A1
+.,app.py,Simple If statements,233,250,4,A1
+.,app.py,Simple If statements,271,272,4,A1
+.,app.py,Simple If statements,274,276,4,A1
+.,app.py,Simple If statements,278,294,0,A1
+.,app.py,Simple If statements,66,67,8,A1
+.,app.py,Simple If statements,68,77,8,A1
+.,app.py,Simple If statements,103,118,8,A1
+.,app.py,Simple If statements,248,250,8,A1
+.,app.py,Simple If statements,257,259,8,A1
+.,app.py,Simple If statements,262,264,8,A1
+.,app.py,Simple If statements,275,276,8,A1
+.,app.py,Simple If statements,280,285,4,A1
+.,app.py,Simple If statements,287,294,0,A1
+.,app.py,Simple If statements,74,77,12,A1
+.,app.py,Simple If statements,145,146,12,A1
+.,app.py,Simple If statements,281,285,8,A1
+.,app.py,Simple If statements,289,294,4,A1
+.,app.py,Simple If statements,130,143,16,A1
+.,app.py,Simple If statements,153,193,16,A1
+.,app.py,Simple If statements,197,208,16,A1
+.,app.py,Simple If statements,212,227,16,A1
+.,app.py,Simple If statements,244,245,16,A1
+.,app.py,Simple If statements,282,283,12,A1
+.,app.py,Simple If statements,290,294,8,A1
+.,app.py,Simple If statements,132,143,16,A1
+.,app.py,Simple If statements,157,193,20,A1
+.,app.py,Simple If statements,291,292,12,A1
+.,app.py,Simple If statements,134,143,16,A1
+.,app.py,Simple If statements,136,143,16,A1
+.,app.py,Simple If statements,138,143,16,A1
+.,app.py,Simple If statements,140,143,16,A1
+.,app.py,For Loop with Tuple as name,241,246,8,A2
+.,app.py,For Loop with Tuple as name,109,111,12,A2
+.,app.py,For Loop with Tuple as name,242,246,12,A2
+.,app.py,Simple While Loop,64,77,4,B1
+.,app.py,'break' statement,67,67,12,B1
+.,app.py,Exception --> try/except,124,230,8,B1
+.,app.py,With,21,33,0,B1
+.,app.py,With,43,44,4,B1
+.,app.py,With,85,86,4,B1
+.,app.py,With,256,259,4,B1
+.,app.py,With,261,264,4,B1
+.,app.py,With,99,100,8,B1
+.,app.py,With,234,235,8,B1
+.,app.py,With,151,193,12,B1
+.,app.py,With,195,208,12,B1
+.,app.py,With,210,227,12,B1
+.,app.py,With,258,259,12,B1
+.,app.py,With,263,264,12,B1
+.,app.py,With,110,111,16,B1
+.,app.py,Function,15,18,0,A1
+.,app.py,Function with Simple argument,47,89,0,A1
+.,app.py,Function,91,264,0,A1
+.,app.py,Function with Simple argument,128,143,12,A1
+.,app.py,Lambda,176,176,51,B1
+.,app.py,Return,18,18,4,A1
+.,app.py,Return,89,89,4,A1
+.,app.py,Return,82,82,8,A1
+.,app.py,Return,95,95,8,A1
+.,app.py,Return,131,131,20,A1
+.,app.py,Return,133,133,20,A1
+.,app.py,Return,135,135,20,A1
+.,app.py,Return,137,137,20,A1
+.,app.py,Return,139,139,20,A1
+.,app.py,Return,141,141,20,A1
+.,app.py,Return,143,143,20,A1

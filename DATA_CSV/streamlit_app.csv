@@ -1,0 +1,141 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+scripts,streamlit_app.py,Simple List,61,61,24,A1
+scripts,streamlit_app.py,Simple List,97,97,21,A1
+scripts,streamlit_app.py,Simple List,76,76,9,A1
+scripts,streamlit_app.py,Simple Tuple,29,29,60,A1
+scripts,streamlit_app.py,Simple Tuple,61,61,0,A1
+scripts,streamlit_app.py,Simple Tuple,143,143,0,A1
+scripts,streamlit_app.py,Simple Tuple,29,29,71,A1
+scripts,streamlit_app.py,Simple Dictionary,127,136,8,A2
+scripts,streamlit_app.py,Files --> 'open' call function,123,123,9,A2
+scripts,streamlit_app.py,Files --> 'write' call function,124,124,8,A2
+scripts,streamlit_app.py,Files --> 'write' call function,167,167,8,A2
+scripts,streamlit_app.py,If statements expression (else),141,141,17,B1
+scripts,streamlit_app.py,If statements expression (else),132,132,26,B1
+scripts,streamlit_app.py,Simple Atributte,82,82,11,A2
+scripts,streamlit_app.py,Simple Atributte,11,11,0,A2
+scripts,streamlit_app.py,Simple Atributte,12,12,0,A2
+scripts,streamlit_app.py,Simple Atributte,60,60,0,A2
+scripts,streamlit_app.py,Simple Atributte,61,61,13,A2
+scripts,streamlit_app.py,Simple Atributte,66,66,0,A2
+scripts,streamlit_app.py,Simple Atributte,74,74,24,A2
+scripts,streamlit_app.py,Simple Atributte,92,92,13,A2
+scripts,streamlit_app.py,Simple Atributte,96,96,16,A2
+scripts,streamlit_app.py,Simple Atributte,99,99,13,A2
+scripts,streamlit_app.py,Simple Atributte,101,101,10,A2
+scripts,streamlit_app.py,Simple Atributte,104,104,12,A2
+scripts,streamlit_app.py,Simple Atributte,105,105,21,A2
+scripts,streamlit_app.py,Simple Atributte,110,110,8,A2
+scripts,streamlit_app.py,Simple Atributte,111,111,19,A2
+scripts,streamlit_app.py,Simple Atributte,30,30,18,A2
+scripts,streamlit_app.py,Simple Atributte,44,44,17,A2
+scripts,streamlit_app.py,Simple Atributte,74,74,24,A2
+scripts,streamlit_app.py,Simple Atributte,80,80,4,A2
+scripts,streamlit_app.py,Simple Atributte,86,86,18,A2
+scripts,streamlit_app.py,Simple Atributte,90,90,4,A2
+scripts,streamlit_app.py,Simple Atributte,92,92,13,A2
+scripts,streamlit_app.py,Simple Atributte,96,96,16,A2
+scripts,streamlit_app.py,Simple Atributte,99,99,13,A2
+scripts,streamlit_app.py,Simple Atributte,101,101,10,A2
+scripts,streamlit_app.py,Simple Atributte,104,104,12,A2
+scripts,streamlit_app.py,Simple Atributte,105,105,21,A2
+scripts,streamlit_app.py,Simple Atributte,110,110,8,A2
+scripts,streamlit_app.py,Simple Atributte,111,111,19,A2
+scripts,streamlit_app.py,Simple Atributte,118,118,4,A2
+scripts,streamlit_app.py,Simple Atributte,121,121,5,A2
+scripts,streamlit_app.py,Simple Atributte,122,122,15,A2
+scripts,streamlit_app.py,Simple Atributte,126,126,4,A2
+scripts,streamlit_app.py,Simple Atributte,122,122,15,A2
+scripts,streamlit_app.py,Simple Atributte,124,124,8,A2
+scripts,streamlit_app.py,Simple Atributte,140,140,17,A2
+scripts,streamlit_app.py,Simple Atributte,147,147,8,A2
+scripts,streamlit_app.py,Simple Atributte,157,157,26,A2
+scripts,streamlit_app.py,Simple Atributte,167,167,8,A2
+scripts,streamlit_app.py,Simple Atributte,168,168,8,A2
+scripts,streamlit_app.py,Simple Atributte,36,36,23,A2
+scripts,streamlit_app.py,Simple Atributte,37,37,17,A2
+scripts,streamlit_app.py,Simple Atributte,38,38,20,A2
+scripts,streamlit_app.py,Simple Atributte,54,54,23,A2
+scripts,streamlit_app.py,Simple Atributte,124,124,16,A2
+scripts,streamlit_app.py,Simple Atributte,132,132,26,A2
+scripts,streamlit_app.py,Simple Atributte,149,149,8,A2
+scripts,streamlit_app.py,Simple Atributte,157,157,26,A2
+scripts,streamlit_app.py,Simple Atributte,159,159,29,A2
+scripts,streamlit_app.py,Simple Atributte,160,160,18,A2
+scripts,streamlit_app.py,Simple Atributte,161,161,12,A2
+scripts,streamlit_app.py,Simple Atributte,162,162,32,A2
+scripts,streamlit_app.py,Simple Atributte,165,165,18,A2
+scripts,streamlit_app.py,Simple Atributte,166,166,12,A2
+scripts,streamlit_app.py,Simple Atributte,151,151,8,A2
+scripts,streamlit_app.py,Simple Atributte,159,159,29,A2
+scripts,streamlit_app.py,Simple Atributte,162,162,32,A2
+scripts,streamlit_app.py,Simple Atributte,153,153,8,A2
+scripts,streamlit_app.py,Simple Assignment,11,11,0,A1
+scripts,streamlit_app.py,Simple Assignment,12,12,0,A1
+scripts,streamlit_app.py,Simple Assignment,61,61,0,A1
+scripts,streamlit_app.py,Simple Assignment,63,63,0,A1
+scripts,streamlit_app.py,Simple Assignment,64,64,0,A1
+scripts,streamlit_app.py,Simple Assignment,82,82,0,A1
+scripts,streamlit_app.py,Simple Assignment,92,95,0,A1
+scripts,streamlit_app.py,Simple Assignment,96,98,0,A1
+scripts,streamlit_app.py,Simple Assignment,99,99,0,A1
+scripts,streamlit_app.py,Simple Assignment,101,103,0,A1
+scripts,streamlit_app.py,Simple Assignment,104,104,0,A1
+scripts,streamlit_app.py,Simple Assignment,105,109,0,A1
+scripts,streamlit_app.py,Simple Assignment,110,110,0,A1
+scripts,streamlit_app.py,Simple Assignment,111,115,0,A1
+scripts,streamlit_app.py,Simple Assignment,143,143,0,A1
+scripts,streamlit_app.py,Simple Assignment,30,30,4,A1
+scripts,streamlit_app.py,Simple Assignment,31,31,4,A1
+scripts,streamlit_app.py,Simple Assignment,32,32,4,A1
+scripts,streamlit_app.py,Simple Assignment,33,39,4,A1
+scripts,streamlit_app.py,Simple Assignment,44,47,4,A1
+scripts,streamlit_app.py,Simple Assignment,85,85,4,A1
+scripts,streamlit_app.py,Simple Assignment,86,88,4,A1
+scripts,streamlit_app.py,Simple Assignment,89,89,4,A1
+scripts,streamlit_app.py,Simple Assignment,122,122,4,A1
+scripts,streamlit_app.py,Simple Assignment,138,138,4,A1
+scripts,streamlit_app.py,Simple Assignment,139,139,4,A1
+scripts,streamlit_app.py,Simple Assignment,140,140,4,A1
+scripts,streamlit_app.py,Simple Assignment,141,141,4,A1
+scripts,streamlit_app.py,Simple Assignment,50,50,8,A1
+scripts,streamlit_app.py,Simple Assignment,51,51,8,A1
+scripts,streamlit_app.py,Simple Assignment,52,52,8,A1
+scripts,streamlit_app.py,Simple Assignment,146,146,8,A1
+scripts,streamlit_app.py,Simple Assignment,157,157,8,A1
+scripts,streamlit_app.py,Simple Assignment,54,56,12,A1
+scripts,streamlit_app.py,Simple Assignment,159,159,12,A1
+scripts,streamlit_app.py,Simple Assignment,160,160,12,A1
+scripts,streamlit_app.py,Simple Assignment,162,164,12,A1
+scripts,streamlit_app.py,Simple Assignment,165,165,12,A1
+scripts,streamlit_app.py,Import,1,1,0,A2
+scripts,streamlit_app.py,Import're' module,17,17,0,C1
+scripts,streamlit_app.py,Import,18,18,0,A2
+scripts,streamlit_app.py,Import with 'as' extension ,21,21,0,B1
+scripts,streamlit_app.py,From,3,9,0,A2
+scripts,streamlit_app.py,From,14,14,0,A2
+scripts,streamlit_app.py,From,15,15,0,A2
+scripts,streamlit_app.py,From,19,19,0,A2
+scripts,streamlit_app.py,From,22,22,0,A2
+scripts,streamlit_app.py,From,24,24,0,A2
+scripts,streamlit_app.py,From,25,25,0,A2
+scripts,streamlit_app.py,From,26,26,0,A2
+scripts,streamlit_app.py,Simple If statements,79,80,0,A1
+scripts,streamlit_app.py,Simple If statements,117,118,0,A1
+scripts,streamlit_app.py,Simple If statements,155,168,0,A1
+scripts,streamlit_app.py,Simple If statements,145,153,4,A1
+scripts,streamlit_app.py,Simple If statements,53,56,8,A1
+scripts,streamlit_app.py,Simple If statements,148,153,4,A1
+scripts,streamlit_app.py,Simple If statements,158,166,8,A1
+scripts,streamlit_app.py,Simple If statements,150,153,4,A1
+scripts,streamlit_app.py,Simple If statements,152,153,4,A1
+scripts,streamlit_app.py,Simple For Loop,49,56,4,A1
+scripts,streamlit_app.py,With,84,90,0,B1
+scripts,streamlit_app.py,With,121,141,0,B1
+scripts,streamlit_app.py,With,144,153,0,B1
+scripts,streamlit_app.py,With,123,124,4,B1
+scripts,streamlit_app.py,With,156,168,4,B1
+scripts,streamlit_app.py,Function with Simple argument,29,40,0,A1
+scripts,streamlit_app.py,Function with Simple argument,43,57,0,A1
+scripts,streamlit_app.py,Return,40,40,4,A1
+scripts,streamlit_app.py,Return,57,57,4,A1

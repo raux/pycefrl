@@ -1,0 +1,63 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+ANEXO,anexo_kappa.py,Simple List,11,11,14,A1
+ANEXO,anexo_kappa.py,Simple List,12,12,14,A1
+ANEXO,anexo_kappa.py,Simple List,15,15,12,A1
+ANEXO,anexo_kappa.py,Simple List,18,18,13,A1
+ANEXO,anexo_kappa.py,Simple Tuple,75,75,11,A1
+ANEXO,anexo_kappa.py,'range' call function,23,23,13,A2
+ANEXO,anexo_kappa.py,Print,56,56,4,A1
+ANEXO,anexo_kappa.py,Print,57,57,4,A1
+ANEXO,anexo_kappa.py,Print,61,61,4,A1
+ANEXO,anexo_kappa.py,Print,25,25,8,A1
+ANEXO,anexo_kappa.py,Files --> 'open' call function,43,43,13,A2
+ANEXO,anexo_kappa.py,Simple Atributte,65,65,0,A2
+ANEXO,anexo_kappa.py,Simple Atributte,22,22,11,A2
+ANEXO,anexo_kappa.py,Simple Atributte,42,42,16,A2
+ANEXO,anexo_kappa.py,Simple Atributte,71,71,16,A2
+ANEXO,anexo_kappa.py,Simple Atributte,72,72,16,A2
+ANEXO,anexo_kappa.py,Simple Atributte,73,73,8,A2
+ANEXO,anexo_kappa.py,Simple Atributte,74,74,8,A2
+ANEXO,anexo_kappa.py,Simple Atributte,26,26,15,A2
+ANEXO,anexo_kappa.py,Simple Atributte,29,29,12,A2
+ANEXO,anexo_kappa.py,Simple Atributte,32,32,23,A2
+ANEXO,anexo_kappa.py,Simple Atributte,34,34,12,A2
+ANEXO,anexo_kappa.py,Simple Atributte,36,36,12,A2
+ANEXO,anexo_kappa.py,Simple Atributte,44,44,21,A2
+ANEXO,anexo_kappa.py,Simple Atributte,76,76,8,A2
+ANEXO,anexo_kappa.py,Simple Atributte,27,27,19,A2
+ANEXO,anexo_kappa.py,Simple Atributte,47,47,20,A2
+ANEXO,anexo_kappa.py,Simple Atributte,49,49,20,A2
+ANEXO,anexo_kappa.py,Simple Assignment,11,11,0,A1
+ANEXO,anexo_kappa.py,Simple Assignment,12,12,0,A1
+ANEXO,anexo_kappa.py,Simple Assignment,15,15,0,A1
+ANEXO,anexo_kappa.py,Simple Assignment,18,18,0,A1
+ANEXO,anexo_kappa.py,Simple Assignment,22,22,4,A1
+ANEXO,anexo_kappa.py,Simple Assignment,54,54,4,A1
+ANEXO,anexo_kappa.py,Simple Assignment,55,55,4,A1
+ANEXO,anexo_kappa.py,Simple Assignment,42,42,8,A1
+ANEXO,anexo_kappa.py,Simple Assignment,71,71,8,A1
+ANEXO,anexo_kappa.py,Simple Assignment,72,72,8,A1
+ANEXO,anexo_kappa.py,Simple Assignment,27,27,12,A1
+ANEXO,anexo_kappa.py,Assigment with sum (total = total + 1),28,28,12,A1
+ANEXO,anexo_kappa.py,Assigment with sum (total = total + 1),30,30,12,A1
+ANEXO,anexo_kappa.py,Assigment with sum (total = total + 1),31,31,12,A1
+ANEXO,anexo_kappa.py,Simple Assignment,32,32,12,A1
+ANEXO,anexo_kappa.py,Simple Assignment,44,44,12,A1
+ANEXO,anexo_kappa.py,Import,3,3,0,A2
+ANEXO,anexo_kappa.py,Import with 'as' extension ,5,5,0,B1
+ANEXO,anexo_kappa.py,Import with 'as' extension ,6,6,0,B1
+ANEXO,anexo_kappa.py,Import,7,7,0,A2
+ANEXO,anexo_kappa.py,Import,8,8,0,A2
+ANEXO,anexo_kappa.py,From,4,4,0,A2
+ANEXO,anexo_kappa.py,If statements using → __name__ == ‘__main__’,68,78,0,B2
+ANEXO,anexo_kappa.py,Simple If statements,26,36,8,A1
+ANEXO,anexo_kappa.py,Simple If statements,46,49,16,A1
+ANEXO,anexo_kappa.py,Simple For Loop,23,36,4,A1
+ANEXO,anexo_kappa.py,Simple For Loop,41,49,4,A1
+ANEXO,anexo_kappa.py,Simple For Loop,45,49,12,A1
+ANEXO,anexo_kappa.py,Exception --> try/except,70,76,4,B1
+ANEXO,anexo_kappa.py,With,43,49,8,B1
+ANEXO,anexo_kappa.py,Function,21,37,0,A1
+ANEXO,anexo_kappa.py,Function,40,50,0,A1
+ANEXO,anexo_kappa.py,Function with Simple argument,53,57,0,A1
+ANEXO,anexo_kappa.py,Function,60,61,0,A1

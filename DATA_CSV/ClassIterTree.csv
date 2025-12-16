@@ -1,0 +1,95 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+.,ClassIterTree.py,Simple List,20,20,24,A1
+.,ClassIterTree.py,Simple List,39,40,24,A1
+.,ClassIterTree.py,Simple List,51,51,55,A1
+.,ClassIterTree.py,Simple Tuple,62,62,15,A1
+.,ClassIterTree.py,Simple Dictionary,21,21,25,A2
+.,ClassIterTree.py,Simple Dictionary,48,48,44,A2
+.,ClassIterTree.py,Simple Dictionary,53,58,56,A2
+.,ClassIterTree.py,Simple Atributte,14,14,8,A2
+.,ClassIterTree.py,Simple Atributte,15,15,8,A2
+.,ClassIterTree.py,Simple Atributte,16,16,8,A2
+.,ClassIterTree.py,Simple Atributte,17,17,8,A2
+.,ClassIterTree.py,Simple Atributte,20,20,8,A2
+.,ClassIterTree.py,Simple Atributte,21,21,8,A2
+.,ClassIterTree.py,Simple Atributte,27,27,12,A2
+.,ClassIterTree.py,Simple Atributte,23,23,8,A2
+.,ClassIterTree.py,Simple Atributte,27,27,25,A2
+.,ClassIterTree.py,Simple Atributte,27,27,34,A2
+.,ClassIterTree.py,Simple Atributte,39,39,12,A2
+.,ClassIterTree.py,Simple Atributte,62,62,15,A2
+.,ClassIterTree.py,Simple Atributte,62,62,30,A2
+.,ClassIterTree.py,Simple Atributte,30,30,16,A2
+.,ClassIterTree.py,Simple Atributte,31,31,16,A2
+.,ClassIterTree.py,Simple Atributte,38,38,12,A2
+.,ClassIterTree.py,Simple Atributte,38,38,35,A2
+.,ClassIterTree.py,Simple Atributte,39,39,25,A2
+.,ClassIterTree.py,Simple Atributte,39,39,36,A2
+.,ClassIterTree.py,Simple Atributte,39,39,47,A2
+.,ClassIterTree.py,Simple Atributte,39,39,59,A2
+.,ClassIterTree.py,Simple Atributte,40,40,24,A2
+.,ClassIterTree.py,Simple Atributte,40,40,46,A2
+.,ClassIterTree.py,Simple Atributte,40,40,68,A2
+.,ClassIterTree.py,Simple Atributte,42,42,12,A2
+.,ClassIterTree.py,Simple Atributte,42,42,33,A2
+.,ClassIterTree.py,Simple Atributte,46,46,12,A2
+.,ClassIterTree.py,Simple Atributte,46,46,35,A2
+.,ClassIterTree.py,Simple Atributte,53,53,12,A2
+.,ClassIterTree.py,Simple Atributte,29,29,20,A2
+.,ClassIterTree.py,Simple Atributte,29,29,39,A2
+.,ClassIterTree.py,Simple Atributte,32,32,16,A2
+.,ClassIterTree.py,Simple Atributte,33,33,16,A2
+.,ClassIterTree.py,Simple Atributte,34,34,16,A2
+.,ClassIterTree.py,Simple Atributte,39,39,59,A2
+.,ClassIterTree.py,Simple Atributte,40,40,24,A2
+.,ClassIterTree.py,Simple Atributte,40,40,46,A2
+.,ClassIterTree.py,Simple Atributte,42,42,12,A2
+.,ClassIterTree.py,Simple Atributte,47,47,19,A2
+.,ClassIterTree.py,Simple Atributte,47,47,32,A2
+.,ClassIterTree.py,Simple Atributte,48,48,16,A2
+.,ClassIterTree.py,Simple Atributte,48,48,31,A2
+.,ClassIterTree.py,Simple Atributte,50,50,19,A2
+.,ClassIterTree.py,Simple Atributte,51,51,42,A2
+.,ClassIterTree.py,Simple Atributte,50,50,32,A2
+.,ClassIterTree.py,Simple Atributte,50,50,47,A2
+.,ClassIterTree.py,Simple Atributte,51,51,16,A2
+.,ClassIterTree.py,Simple Atributte,51,51,31,A2
+.,ClassIterTree.py,Simple Atributte,53,53,38,A2
+.,ClassIterTree.py,Simple Atributte,54,54,36,A2
+.,ClassIterTree.py,Simple Atributte,55,55,36,A2
+.,ClassIterTree.py,Simple Atributte,56,56,36,A2
+.,ClassIterTree.py,Simple Atributte,57,57,36,A2
+.,ClassIterTree.py,Simple Atributte,58,58,36,A2
+.,ClassIterTree.py,Simple Atributte,53,53,12,A2
+.,ClassIterTree.py,Simple Atributte,53,53,27,A2
+.,ClassIterTree.py,Simple Atributte,55,55,36,A2
+.,ClassIterTree.py,Simple Atributte,56,56,36,A2
+.,ClassIterTree.py,Simple Atributte,57,57,36,A2
+.,ClassIterTree.py,Simple Assignment,14,14,8,A1
+.,ClassIterTree.py,Simple Assignment,15,15,8,A1
+.,ClassIterTree.py,Simple Assignment,16,16,8,A1
+.,ClassIterTree.py,Simple Assignment,17,17,8,A1
+.,ClassIterTree.py,Simple Assignment,20,20,8,A1
+.,ClassIterTree.py,Simple Assignment,21,21,8,A1
+.,ClassIterTree.py,Simple Assignment,39,40,12,A1
+.,ClassIterTree.py,Simple Assignment,30,30,16,A1
+.,ClassIterTree.py,Simple Assignment,31,31,16,A1
+.,ClassIterTree.py,Simple Assignment,48,48,16,A1
+.,ClassIterTree.py,Simple Assignment,51,51,16,A1
+.,ClassIterTree.py,Import,3,3,0,A2
+.,ClassIterTree.py,Import,4,4,0,A2
+.,ClassIterTree.py,Import,5,5,0,A2
+.,ClassIterTree.py,Import,6,6,0,A2
+.,ClassIterTree.py,Simple If statements,38,42,8,A1
+.,ClassIterTree.py,Simple If statements,46,58,8,A1
+.,ClassIterTree.py,Simple If statements,29,34,12,A1
+.,ClassIterTree.py,Simple If statements,47,48,12,A1
+.,ClassIterTree.py,Simple If statements,50,51,12,A1
+.,ClassIterTree.py,Simple For Loop,27,34,8,A1
+.,ClassIterTree.py,Function with Simple argument,12,23,4,A1
+.,ClassIterTree.py,Function with Simple argument,25,34,4,A1
+.,ClassIterTree.py,Function with Simple argument,36,42,4,A1
+.,ClassIterTree.py,Function with Simple argument,44,58,4,A1
+.,ClassIterTree.py,Function with Simple argument,60,62,4,A1
+.,ClassIterTree.py,Return,62,62,8,A1
+.,ClassIterTree.py,Simple Class ,9,62,0,B1

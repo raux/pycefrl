@@ -1,0 +1,155 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+overall,overall.py,Simple List,118,118,14,A1
+overall,overall.py,Simple List,118,118,57,A1
+overall,overall.py,Simple Tuple,33,33,8,A1
+overall,overall.py,Simple Tuple,70,70,28,A1
+overall,overall.py,Simple Dictionary,25,25,19,A2
+overall,overall.py,Simple Dictionary,81,87,11,A2
+overall,overall.py,Simple Dictionary,135,140,16,A2
+overall,overall.py,Simple Dictionary,157,157,36,A2
+overall,overall.py,Print,159,159,4,A1
+overall,overall.py,'enumerate' call function,33,33,28,C2
+overall,overall.py,Files --> 'open' call function,166,166,9,A2
+overall,overall.py,Print,73,73,12,A1
+overall,overall.py,'zip' call function,70,70,47,C2
+overall,overall.py,Print,62,62,24,A1
+overall,overall.py,If statements expression (else),118,118,14,B1
+overall,overall.py,If statements expression (else),156,156,30,B1
+overall,overall.py,Simple Atributte,89,89,1,A2
+overall,overall.py,Simple Atributte,90,90,1,A2
+overall,overall.py,Simple Atributte,91,91,1,A2
+overall,overall.py,Simple Atributte,92,92,1,A2
+overall,overall.py,Simple Atributte,93,93,1,A2
+overall,overall.py,Simple Atributte,94,94,1,A2
+overall,overall.py,Simple Atributte,95,95,1,A2
+overall,overall.py,Simple Atributte,96,96,1,A2
+overall,overall.py,Simple Atributte,97,97,1,A2
+overall,overall.py,Simple Atributte,24,24,41,A2
+overall,overall.py,Simple Atributte,109,109,4,A2
+overall,overall.py,Simple Atributte,111,111,14,A2
+overall,overall.py,Simple Atributte,121,121,18,A2
+overall,overall.py,Simple Atributte,131,131,24,A2
+overall,overall.py,Simple Atributte,39,39,20,A2
+overall,overall.py,Simple Atributte,127,127,20,A2
+overall,overall.py,Simple Atributte,133,133,28,A2
+overall,overall.py,Simple Atributte,143,143,34,A2
+overall,overall.py,Simple Atributte,146,146,37,A2
+overall,overall.py,Simple Atributte,149,149,34,A2
+overall,overall.py,Simple Atributte,153,154,16,A2
+overall,overall.py,Simple Atributte,155,155,20,A2
+overall,overall.py,Simple Atributte,156,156,8,A2
+overall,overall.py,Simple Atributte,167,167,8,A2
+overall,overall.py,Simple Atributte,173,173,8,A2
+overall,overall.py,Simple Atributte,94,94,49,A2
+overall,overall.py,Simple Atributte,94,94,62,A2
+overall,overall.py,Simple Atributte,156,156,17,A2
+overall,overall.py,Simple Atributte,94,94,49,A2
+overall,overall.py,Simple Atributte,53,53,16,A2
+overall,overall.py,Simple Atributte,74,74,12,A2
+overall,overall.py,Simple Atributte,153,153,16,A2
+overall,overall.py,Simple Atributte,67,67,20,A2
+overall,overall.py,Simple Atributte,154,154,76,A2
+overall,overall.py,Simple Atributte,156,156,40,A2
+overall,overall.py,Simple Atributte,114,114,82,A2
+overall,overall.py,Simple Atributte,124,124,88,A2
+overall,overall.py,Simple Atributte,156,156,40,A2
+overall,overall.py,Simple Atributte,71,71,28,A2
+overall,overall.py,List Comprehension with 1If statements,119,119,15,C1
+overall,overall.py,Simple Assignment,25,25,4,A1
+overall,overall.py,Simple Assignment,26,26,4,A1
+overall,overall.py,Simple Assignment,27,27,4,A1
+overall,overall.py,Simple Assignment,28,28,4,A1
+overall,overall.py,Simple Assignment,29,29,4,A1
+overall,overall.py,Simple Assignment,30,30,4,A1
+overall,overall.py,Simple Assignment,108,108,4,A1
+overall,overall.py,Simple Assignment,111,111,4,A1
+overall,overall.py,Simple Assignment,117,117,4,A1
+overall,overall.py,Simple Assignment,118,118,4,A1
+overall,overall.py,Simple Assignment,121,121,4,A1
+overall,overall.py,Simple Assignment,131,131,4,A1
+overall,overall.py,Simple Assignment,135,140,4,A1
+overall,overall.py,Simple Assignment,160,160,4,A1
+overall,overall.py,Simple Assignment,32,32,8,A1
+overall,overall.py,Simple Assignment,37,37,8,A1
+overall,overall.py,Simple Assignment,38,38,8,A1
+overall,overall.py,Simple Assignment,39,39,8,A1
+overall,overall.py,Simple Assignment,40,40,8,A1
+overall,overall.py,Simple Assignment,41,41,8,A1
+overall,overall.py,Simple Assignment,43,43,8,A1
+overall,overall.py,Simple Assignment,79,79,8,A1
+overall,overall.py,Simple Assignment,127,127,8,A1
+overall,overall.py,Simple Assignment,129,129,8,A1
+overall,overall.py,Simple Assignment,133,133,8,A1
+overall,overall.py,Simple Assignment,143,143,8,A1
+overall,overall.py,Simple Assignment,146,146,8,A1
+overall,overall.py,Simple Assignment,149,149,8,A1
+overall,overall.py,Simple Assignment,153,154,8,A1
+overall,overall.py,Simple Assignment,155,155,8,A1
+overall,overall.py,Simple Assignment,157,157,8,A1
+overall,overall.py,Simple Assignment,172,172,8,A1
+overall,overall.py,Simple Assignment,47,47,16,A1
+overall,overall.py,Simple Assignment,48,48,16,A1
+overall,overall.py,Simple Assignment,49,49,16,A1
+overall,overall.py,Simple Assignment,54,54,16,A1
+overall,overall.py,Simple Assignment,51,51,20,A1
+overall,overall.py,Simple Assignment,57,57,20,A1
+overall,overall.py,Simple Assignment,65,65,20,A1
+overall,overall.py,Simple Assignment,59,59,24,A1
+overall,overall.py,Simplified incremental Assignment with increase amount,119,119,4,A2
+overall,overall.py,Simplified incremental Assignment with increase amount,171,171,12,A2
+overall,overall.py,'raise' exception,114,114,12,B1
+overall,overall.py,'raise' exception,124,124,12,B1
+overall,overall.py,Import,1,1,0,A2
+overall,overall.py,Import,2,2,0,A2
+overall,overall.py,Import,3,3,0,A2
+overall,overall.py,Import,8,8,0,A2
+overall,overall.py,Import,9,9,0,A2
+overall,overall.py,Import,10,10,0,A2
+overall,overall.py,From,4,4,0,A2
+overall,overall.py,From,5,5,0,A2
+overall,overall.py,From,6,6,0,A2
+overall,overall.py,From,11,11,0,A2
+overall,overall.py,From,13,13,0,A2
+overall,overall.py,From,14,14,0,A2
+overall,overall.py,From,15,15,0,A2
+overall,overall.py,From,16,16,0,A2
+overall,overall.py,From,17,17,0,A2
+overall,overall.py,From,18,18,0,A2
+overall,overall.py,From,19,19,0,A2
+overall,overall.py,From,152,152,8,A2
+overall,overall.py,If statements using → __name__ == ‘__main__’,176,177,0,B2
+overall,overall.py,Simple If statements,31,32,4,A1
+overall,overall.py,Simple If statements,126,129,4,A1
+overall,overall.py,Simple If statements,132,133,4,A1
+overall,overall.py,Simple If statements,142,143,4,A1
+overall,overall.py,Simple If statements,145,146,4,A1
+overall,overall.py,Simple If statements,148,149,4,A1
+overall,overall.py,Simple If statements,151,157,4,A1
+overall,overall.py,Simple If statements,169,173,4,A1
+overall,overall.py,Simple If statements,34,35,8,A1
+overall,overall.py,Simple If statements,113,114,8,A1
+overall,overall.py,Simple If statements,123,124,8,A1
+overall,overall.py,Simple If statements,170,171,8,A1
+overall,overall.py,Simple If statements,50,51,16,A1
+overall,overall.py,Simple If statements,75,76,12,A1
+overall,overall.py,Simple If statements,69,71,20,A1
+overall,overall.py,For Loop with Tuple as name,33,79,4,A2
+overall,overall.py,Simple For Loop,112,114,4,A1
+overall,overall.py,Simple For Loop,122,124,4,A1
+overall,overall.py,1 Nested For Loop,46,71,12,A2
+overall,overall.py,Simple For Loop,56,71,16,A1
+overall,overall.py,For Loop with Tuple as name,70,71,24,A2
+overall,overall.py,'break' statement,35,35,12,B1
+overall,overall.py,'continue' statement,77,77,12,B1
+overall,overall.py,'continue' statement,63,63,24,B1
+overall,overall.py,Exception --> try/except,45,77,8,B1
+overall,overall.py,Exception --> try/except,58,63,20,B1
+overall,overall.py,With,166,167,4,B1
+overall,overall.py,Function with Simple argument with Default argument,24,87,0,A2
+overall,overall.py,Function with Simple argument,98,173,0,A1
+overall,overall.py,Lambda,26,26,35,B1
+overall,overall.py,Lambda,27,27,41,B1
+overall,overall.py,Lambda,133,133,53,B1
+overall,overall.py,Lambda,26,26,55,B1
+overall,overall.py,Lambda,27,27,61,B1
+overall,overall.py,Return,81,87,4,A1

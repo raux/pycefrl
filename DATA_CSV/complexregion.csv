@@ -1,0 +1,22 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+blocks,complexregion.py,Super Function,17,17,19,C2
+blocks,complexregion.py,Super Function,22,22,23,C2
+blocks,complexregion.py,Simple Atributte,6,6,29,A2
+blocks,complexregion.py,Simple Atributte,11,11,11,A2
+blocks,complexregion.py,Simple Atributte,17,17,19,A2
+blocks,complexregion.py,Simple Atributte,20,20,26,A2
+blocks,complexregion.py,Simple Atributte,22,22,23,A2
+blocks,complexregion.py,Simple Atributte,15,15,19,A2
+blocks,complexregion.py,Simple Atributte,15,15,42,A2
+blocks,complexregion.py,Simple Atributte,15,15,19,A2
+blocks,complexregion.py,List Comprehension with 1If statements,12,16,31,C1
+blocks,complexregion.py,Simple Assignment,12,16,12,A1
+blocks,complexregion.py,Simple Assignment,17,19,12,A1
+blocks,complexregion.py,Simple Assignment,22,24,12,A1
+blocks,complexregion.py,From,1,1,0,A2
+blocks,complexregion.py,From,2,2,0,A2
+blocks,complexregion.py,Simple If statements,11,25,8,A1
+blocks,complexregion.py,Function with Simple argument,10,25,4,A1
+blocks,complexregion.py,Return,20,20,12,A1
+blocks,complexregion.py,Return,25,25,12,A1
+blocks,complexregion.py,Inherited Class from Block,5,25,0,B1

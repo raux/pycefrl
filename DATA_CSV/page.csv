@@ -1,0 +1,386 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+groups,page.py,Simple List,198,198,21,A1
+groups,page.py,Simple List,47,47,28,A1
+groups,page.py,Simple List,91,91,34,A1
+groups,page.py,Simple List,212,212,28,A1
+groups,page.py,Simple List,214,220,16,A1
+groups,page.py,Simple List,225,225,28,A1
+groups,page.py,Simple List,289,289,52,A1
+groups,page.py,Simple Tuple,30,33,49,A1
+groups,page.py,Simple Tuple,18,18,31,A1
+groups,page.py,Simple Tuple,151,151,12,A1
+groups,page.py,Simple Tuple,171,171,12,A1
+groups,page.py,Simple Tuple,269,269,12,A1
+groups,page.py,Simple Tuple,328,328,12,A1
+groups,page.py,Simple Tuple,157,160,42,A1
+groups,page.py,Simple Tuple,26,26,25,A1
+groups,page.py,Simple Tuple,235,235,26,A1
+groups,page.py,Simple Tuple,264,264,26,A1
+groups,page.py,Simple Tuple,291,291,20,A1
+groups,page.py,Simple Tuple,75,75,24,A1
+groups,page.py,Simple Tuple,158,158,36,A1
+groups,page.py,Simple Tuple,212,212,29,A1
+groups,page.py,Simple Tuple,331,331,45,A1
+groups,page.py,Simple Tuple,348,348,49,A1
+groups,page.py,Simple Tuple,222,222,33,A1
+groups,page.py,Simple Tuple,225,225,29,A1
+groups,page.py,Simple Tuple,275,275,34,A1
+groups,page.py,Simple Tuple,277,277,34,A1
+groups,page.py,Simple Dictionary,142,142,28,A2
+groups,page.py,'enumerate' call function,151,151,30,C2
+groups,page.py,'enumerate' call function,171,171,32,C2
+groups,page.py,'enumerate' call function,328,328,41,C2
+groups,page.py,'range' call function,314,314,34,A2
+groups,page.py,Super Function,183,183,8,C2
+groups,page.py,'enumerate' call function,291,291,38,C2
+groups,page.py,If statements expression (else),58,58,16,B1
+groups,page.py,Simple Atributte,22,22,29,A2
+groups,page.py,Simple Atributte,31,31,8,A2
+groups,page.py,Simple Atributte,32,32,8,A2
+groups,page.py,Simple Atributte,122,122,8,A2
+groups,page.py,Simple Atributte,122,122,25,A2
+groups,page.py,Simple Atributte,186,186,21,A2
+groups,page.py,Simple Atributte,190,190,8,A2
+groups,page.py,Simple Atributte,364,364,21,A2
+groups,page.py,Simple Atributte,367,367,15,A2
+groups,page.py,Simple Atributte,24,24,18,A2
+groups,page.py,Simple Atributte,25,25,19,A2
+groups,page.py,Simple Atributte,40,40,11,A2
+groups,page.py,Simple Atributte,41,41,12,A2
+groups,page.py,Simple Atributte,43,43,12,A2
+groups,page.py,Simple Atributte,46,46,11,A2
+groups,page.py,Simple Atributte,47,47,12,A2
+groups,page.py,Simple Atributte,58,58,16,A2
+groups,page.py,Simple Atributte,58,58,51,A2
+groups,page.py,Simple Atributte,98,98,29,A2
+groups,page.py,Simple Atributte,105,105,20,A2
+groups,page.py,Simple Atributte,105,105,41,A2
+groups,page.py,Simple Atributte,111,111,8,A2
+groups,page.py,Simple Atributte,117,117,8,A2
+groups,page.py,Simple Atributte,121,121,8,A2
+groups,page.py,Simple Atributte,123,123,8,A2
+groups,page.py,Simple Atributte,127,127,23,A2
+groups,page.py,Simple Atributte,127,127,37,A2
+groups,page.py,Simple Atributte,128,128,15,A2
+groups,page.py,Simple Atributte,128,128,33,A2
+groups,page.py,Simple Atributte,144,144,24,A2
+groups,page.py,Simple Atributte,146,146,12,A2
+groups,page.py,Simple Atributte,165,165,33,A2
+groups,page.py,Simple Atributte,168,168,8,A2
+groups,page.py,Simple Atributte,180,180,8,A2
+groups,page.py,Simple Atributte,183,183,8,A2
+groups,page.py,Simple Atributte,239,239,12,A2
+groups,page.py,Simple Atributte,244,244,37,A2
+groups,page.py,Simple Atributte,269,269,31,A2
+groups,page.py,Simple Atributte,321,321,28,A2
+groups,page.py,Simple Atributte,335,335,24,A2
+groups,page.py,Simple Atributte,339,339,19,A2
+groups,page.py,Simple Atributte,352,352,21,A2
+groups,page.py,Simple Atributte,355,355,8,A2
+groups,page.py,Simple Atributte,358,358,8,A2
+groups,page.py,Simple Atributte,361,361,11,A2
+groups,page.py,Simple Atributte,362,362,12,A2
+groups,page.py,Simple Atributte,49,49,12,A2
+groups,page.py,Simple Atributte,61,61,29,A2
+groups,page.py,Simple Atributte,61,61,46,A2
+groups,page.py,Simple Atributte,62,62,20,A2
+groups,page.py,Simple Atributte,66,66,20,A2
+groups,page.py,Simple Atributte,67,67,19,A2
+groups,page.py,Simple Atributte,74,74,23,A2
+groups,page.py,Simple Atributte,83,83,35,A2
+groups,page.py,Simple Atributte,99,99,15,A2
+groups,page.py,Simple Atributte,105,105,20,A2
+groups,page.py,Simple Atributte,107,107,19,A2
+groups,page.py,Simple Atributte,114,114,21,A2
+groups,page.py,Simple Atributte,115,115,20,A2
+groups,page.py,Simple Atributte,144,144,24,A2
+groups,page.py,Simple Atributte,146,146,12,A2
+groups,page.py,Simple Atributte,156,156,31,A2
+groups,page.py,Simple Atributte,159,159,16,A2
+groups,page.py,Simple Atributte,164,164,28,A2
+groups,page.py,Simple Atributte,164,164,69,A2
+groups,page.py,Simple Atributte,165,165,33,A2
+groups,page.py,Simple Atributte,172,172,15,A2
+groups,page.py,Simple Atributte,187,187,12,A2
+groups,page.py,Simple Atributte,226,226,12,A2
+groups,page.py,Simple Atributte,228,228,12,A2
+groups,page.py,Simple Atributte,238,238,20,A2
+groups,page.py,Simple Atributte,238,238,41,A2
+groups,page.py,Simple Atributte,240,240,24,A2
+groups,page.py,Simple Atributte,283,283,20,A2
+groups,page.py,Simple Atributte,285,285,23,A2
+groups,page.py,Simple Atributte,286,286,24,A2
+groups,page.py,Simple Atributte,289,289,16,A2
+groups,page.py,Simple Atributte,290,290,16,A2
+groups,page.py,Simple Atributte,317,317,25,A2
+groups,page.py,Simple Atributte,365,365,15,A2
+groups,page.py,Simple Atributte,366,366,16,A2
+groups,page.py,Simple Atributte,49,49,12,A2
+groups,page.py,Simple Atributte,70,70,29,A2
+groups,page.py,Simple Atributte,76,76,16,A2
+groups,page.py,Simple Atributte,83,83,56,A2
+groups,page.py,Simple Atributte,95,95,28,A2
+groups,page.py,Simple Atributte,95,95,49,A2
+groups,page.py,Simple Atributte,100,100,23,A2
+groups,page.py,Simple Atributte,107,107,34,A2
+groups,page.py,Simple Atributte,136,136,45,A2
+groups,page.py,Simple Atributte,146,146,12,A2
+groups,page.py,Simple Atributte,153,153,15,A2
+groups,page.py,Simple Atributte,172,172,15,A2
+groups,page.py,Simple Atributte,174,174,102,A2
+groups,page.py,Simple Atributte,206,206,16,A2
+groups,page.py,Simple Atributte,207,207,20,A2
+groups,page.py,Simple Atributte,238,238,41,A2
+groups,page.py,Simple Atributte,245,245,33,A2
+groups,page.py,Simple Atributte,246,246,19,A2
+groups,page.py,Simple Atributte,246,246,48,A2
+groups,page.py,Simple Atributte,249,249,23,A2
+groups,page.py,Simple Atributte,250,250,20,A2
+groups,page.py,Simple Atributte,254,254,35,A2
+groups,page.py,Simple Atributte,257,257,31,A2
+groups,page.py,Simple Atributte,258,258,16,A2
+groups,page.py,Simple Atributte,258,258,56,A2
+groups,page.py,Simple Atributte,260,260,16,A2
+groups,page.py,Simple Atributte,260,260,38,A2
+groups,page.py,Simple Atributte,271,271,17,A2
+groups,page.py,Simple Atributte,278,278,33,A2
+groups,page.py,Simple Atributte,287,287,16,A2
+groups,page.py,Simple Atributte,288,288,16,A2
+groups,page.py,Simple Atributte,289,289,32,A2
+groups,page.py,Simple Atributte,318,318,15,A2
+groups,page.py,Simple Atributte,318,318,39,A2
+groups,page.py,Simple Atributte,331,331,16,A2
+groups,page.py,Simple Atributte,332,332,16,A2
+groups,page.py,Simple Atributte,342,342,23,A2
+groups,page.py,Simple Atributte,342,342,52,A2
+groups,page.py,Simple Atributte,345,345,35,A2
+groups,page.py,Simple Atributte,347,347,55,A2
+groups,page.py,Simple Atributte,348,348,16,A2
+groups,page.py,Simple Atributte,349,349,16,A2
+groups,page.py,Simple Atributte,366,366,32,A2
+groups,page.py,Simple Atributte,366,366,52,A2
+groups,page.py,Simple Atributte,71,71,19,A2
+groups,page.py,Simple Atributte,74,74,23,A2
+groups,page.py,Simple Atributte,74,74,49,A2
+groups,page.py,Simple Atributte,74,74,68,A2
+groups,page.py,Simple Atributte,95,95,28,A2
+groups,page.py,Simple Atributte,174,174,61,A2
+groups,page.py,Simple Atributte,174,174,102,A2
+groups,page.py,Simple Atributte,206,206,16,A2
+groups,page.py,Simple Atributte,222,222,16,A2
+groups,page.py,Simple Atributte,224,224,16,A2
+groups,page.py,Simple Atributte,249,249,23,A2
+groups,page.py,Simple Atributte,257,257,31,A2
+groups,page.py,Simple Atributte,258,258,16,A2
+groups,page.py,Simple Atributte,260,260,16,A2
+groups,page.py,Simple Atributte,271,271,17,A2
+groups,page.py,Simple Atributte,278,278,33,A2
+groups,page.py,Simple Atributte,280,280,27,A2
+groups,page.py,Simple Atributte,289,289,32,A2
+groups,page.py,Simple Atributte,289,289,53,A2
+groups,page.py,Simple Atributte,292,292,20,A2
+groups,page.py,Simple Atributte,293,293,20,A2
+groups,page.py,Simple Atributte,303,303,32,A2
+groups,page.py,Simple Atributte,304,304,24,A2
+groups,page.py,Simple Atributte,304,304,39,A2
+groups,page.py,Simple Atributte,342,342,23,A2
+groups,page.py,Simple Atributte,366,366,32,A2
+groups,page.py,Simple Atributte,74,74,23,A2
+groups,page.py,Simple Atributte,74,74,49,A2
+groups,page.py,Simple Atributte,206,206,16,A2
+groups,page.py,Simple Atributte,219,219,22,A2
+groups,page.py,Simple Atributte,299,299,27,A2
+groups,page.py,Simple Atributte,305,305,24,A2
+groups,page.py,Simple Atributte,306,306,24,A2
+groups,page.py,Simple Atributte,216,216,20,A2
+groups,page.py,Simple Atributte,217,217,24,A2
+groups,page.py,Simple Atributte,216,216,20,A2
+groups,page.py,Simple Atributte,217,217,24,A2
+groups,page.py,Simple Atributte,216,216,20,A2
+groups,page.py,List Comprehension with 1If statements,83,83,15,C1
+groups,page.py,Simple List Comprehension,144,144,23,C1
+groups,page.py,Simple List Comprehension,145,147,22,C1
+groups,page.py,Simple List Comprehension,164,164,27,C1
+groups,page.py,Simple List Comprehension,165,165,32,C1
+groups,page.py,List Comprehension with 1If statements,315,319,23,C1
+groups,page.py,List Comprehension with 1If statements,68,72,25,C1
+groups,page.py,Simple List Comprehension,75,75,23,C1
+groups,page.py,Simple List Comprehension,271,271,16,C1
+groups,page.py,Simple List Comprehension,275,275,24,C1
+groups,page.py,Simple List Comprehension,277,277,24,C1
+groups,page.py,Simple List Comprehension,278,278,32,C1
+groups,page.py,Simple List Comprehension,280,280,26,C1
+groups,page.py,Simple List Comprehension,281,281,24,C1
+groups,page.py,Simple Assignment,18,18,0,A1
+groups,page.py,Simple Assignment,58,58,8,A1
+groups,page.py,Simple Assignment,93,93,8,A1
+groups,page.py,Simple Assignment,105,105,8,A1
+groups,page.py,Simple Assignment,112,116,8,A1
+groups,page.py,Simple Assignment,122,122,8,A1
+groups,page.py,Simple Assignment,134,134,8,A1
+groups,page.py,Simple Assignment,142,142,8,A1
+groups,page.py,Simple Assignment,144,144,8,A1
+groups,page.py,Simple Assignment,145,147,8,A1
+groups,page.py,Simple Assignment,149,149,8,A1
+groups,page.py,Simple Assignment,164,164,8,A1
+groups,page.py,Simple Assignment,165,165,8,A1
+groups,page.py,Simple Assignment,167,167,8,A1
+groups,page.py,Simple Assignment,170,170,8,A1
+groups,page.py,Simple Assignment,190,190,8,A1
+groups,page.py,Simple Assignment,198,198,8,A1
+groups,page.py,Simple Assignment,199,199,8,A1
+groups,page.py,Simple Assignment,314,314,8,A1
+groups,page.py,Simple Assignment,315,319,8,A1
+groups,page.py,Simple Assignment,321,323,8,A1
+groups,page.py,Simple Assignment,326,326,8,A1
+groups,page.py,Simple Assignment,327,327,8,A1
+groups,page.py,Simple Assignment,352,354,8,A1
+groups,page.py,Simple Assignment,41,41,12,A1
+groups,page.py,Simple Assignment,47,47,12,A1
+groups,page.py,Simple Assignment,62,62,12,A1
+groups,page.py,Simple Assignment,66,66,12,A1
+groups,page.py,Simple Assignment,67,67,12,A1
+groups,page.py,Simple Assignment,68,72,12,A1
+groups,page.py,Simple Assignment,91,91,12,A1
+groups,page.py,Assigment with sum (total = total + 1),95,95,12,A1
+groups,page.py,Simple Assignment,152,152,12,A1
+groups,page.py,Simple Assignment,156,156,12,A1
+groups,page.py,Simple Assignment,157,160,12,A1
+groups,page.py,Simple Assignment,174,174,12,A1
+groups,page.py,Simple Assignment,238,238,12,A1
+groups,page.py,Simple Assignment,239,239,12,A1
+groups,page.py,Simple Assignment,240,240,12,A1
+groups,page.py,Simple Assignment,242,242,12,A1
+groups,page.py,Simple Assignment,243,243,12,A1
+groups,page.py,Simple Assignment,270,272,12,A1
+groups,page.py,Simple Assignment,283,283,12,A1
+groups,page.py,Simple Assignment,336,336,12,A1
+groups,page.py,Simple Assignment,337,337,12,A1
+groups,page.py,Simple Assignment,339,339,12,A1
+groups,page.py,Simple Assignment,362,362,12,A1
+groups,page.py,Simple Assignment,74,74,16,A1
+groups,page.py,Simple Assignment,75,75,16,A1
+groups,page.py,Simple Assignment,212,212,16,A1
+groups,page.py,Simple Assignment,245,245,16,A1
+groups,page.py,Simple Assignment,249,251,16,A1
+groups,page.py,Simple Assignment,257,257,16,A1
+groups,page.py,Simple Assignment,274,274,16,A1
+groups,page.py,Simple Assignment,275,275,16,A1
+groups,page.py,Simple Assignment,277,277,16,A1
+groups,page.py,Simple Assignment,278,278,16,A1
+groups,page.py,Simple Assignment,279,279,16,A1
+groups,page.py,Simple Assignment,280,280,16,A1
+groups,page.py,Simple Assignment,281,281,16,A1
+groups,page.py,Simple Assignment,285,285,16,A1
+groups,page.py,Simple Assignment,286,286,16,A1
+groups,page.py,Simple Assignment,289,289,16,A1
+groups,page.py,Simple Assignment,290,290,16,A1
+groups,page.py,Simple Assignment,330,330,16,A1
+groups,page.py,Simple Assignment,342,342,16,A1
+groups,page.py,Simple Assignment,366,366,16,A1
+groups,page.py,Simple Assignment,225,225,16,A1
+groups,page.py,Simple Assignment,253,253,20,A1
+groups,page.py,Simple Assignment,254,254,20,A1
+groups,page.py,Simple Assignment,344,344,20,A1
+groups,page.py,Simple Assignment,345,345,20,A1
+groups,page.py,Simple Assignment,304,304,24,A1
+groups,page.py,Simplified incremental Assignment with increase amount,43,43,12,A2
+groups,page.py,Simplified incremental Assignment with increase amount,136,136,12,A2
+groups,page.py,'assert' exception,128,128,8,B2
+groups,page.py,Import with 'as' extension ,3,3,0,B1
+groups,page.py,From,1,1,0,A2
+groups,page.py,From,2,2,0,A2
+groups,page.py,From,5,5,0,A2
+groups,page.py,From,7,7,0,A2
+groups,page.py,From,8,8,0,A2
+groups,page.py,From,10,10,0,A2
+groups,page.py,From,11,11,0,A2
+groups,page.py,From,12,12,0,A2
+groups,page.py,From,13,13,0,A2
+groups,page.py,From,14,14,0,A2
+groups,page.py,From,15,15,0,A2
+groups,page.py,From,16,16,0,A2
+groups,page.py,Simple If statements,40,43,8,A1
+groups,page.py,Simple If statements,46,49,8,A1
+groups,page.py,Simple If statements,61,62,8,A1
+groups,page.py,Simple If statements,65,76,8,A1
+groups,page.py,Simple If statements,90,91,8,A1
+groups,page.py,Simple If statements,94,95,8,A1
+groups,page.py,Simple If statements,106,107,8,A1
+groups,page.py,Simple If statements,227,228,8,A1
+groups,page.py,Simple If statements,361,362,8,A1
+groups,page.py,Simple If statements,99,100,12,A1
+groups,page.py,Simple If statements,153,154,12,A1
+groups,page.py,Simple If statements,172,173,12,A1
+groups,page.py,Simple If statements,201,202,12,A1
+groups,page.py,Simple If statements,205,209,12,A1
+groups,page.py,Simple If statements,211,225,12,A1
+groups,page.py,Simple If statements,256,260,12,A1
+groups,page.py,Simple If statements,273,281,12,A1
+groups,page.py,Simple If statements,329,332,12,A1
+groups,page.py,Simple If statements,347,349,12,A1
+groups,page.py,Simple If statements,365,366,12,A1
+groups,page.py,Simple If statements,213,225,12,A1
+groups,page.py,Simple If statements,246,247,16,A1
+groups,page.py,Simple If statements,252,254,16,A1
+groups,page.py,Simple If statements,343,345,16,A1
+groups,page.py,Simple If statements,295,296,20,A1
+groups,page.py,Simple If statements,299,300,20,A1
+groups,page.py,Simple For Loop,98,100,8,A1
+groups,page.py,Simple For Loop,135,136,8,A1
+groups,page.py,For Loop with Tuple as name,151,160,8,A2
+groups,page.py,For Loop with Tuple as name,171,174,8,A2
+groups,page.py,Simple For Loop,186,187,8,A1
+groups,page.py,Simple For Loop,200,226,8,A1
+groups,page.py,1 Nested For Loop,237,260,8,A2
+groups,page.py,For Loop with Tuple as name,269,306,8,A2
+groups,page.py,For Loop with Tuple as name,328,332,8,A2
+groups,page.py,1 Nested For Loop,335,349,8,A2
+groups,page.py,Simple For Loop,364,366,8,A1
+groups,page.py,Simple For Loop,73,76,12,A1
+groups,page.py,Simple For Loop,244,254,12,A1
+groups,page.py,1 Nested For Loop,284,306,12,A2
+groups,page.py,Simple For Loop,340,345,12,A1
+groups,page.py,For Loop with Tuple as name,291,306,16,A2
+groups,page.py,Simple For Loop,303,306,20,A1
+groups,page.py,'continue' statement,154,154,16,B1
+groups,page.py,'continue' statement,173,173,16,B1
+groups,page.py,'continue' statement,202,202,16,B1
+groups,page.py,'continue' statement,209,209,16,B1
+groups,page.py,'continue' statement,247,247,20,B1
+groups,page.py,'continue' statement,296,296,24,B1
+groups,page.py,'continue' statement,300,300,24,B1
+groups,page.py,Function with Simple argument,39,43,4,A1
+groups,page.py,Function with Simple argument,45,49,4,A1
+groups,page.py,Function with Simple argument with * argument  with Keyword-Only argument with ** argument,51,78,4,B1
+groups,page.py,Function with Simple argument,82,83,4,A1
+groups,page.py,Function with Simple argument with Default argument,85,102,4,A2
+groups,page.py,Function with Simple argument,104,108,4,A1
+groups,page.py,Function with Simple argument,110,118,4,A1
+groups,page.py,Function with Simple argument,120,124,4,A1
+groups,page.py,Function with Simple argument,126,129,4,A1
+groups,page.py,Function with Simple argument with Default argument,131,137,4,A2
+groups,page.py,Function with Simple argument,139,161,4,A1
+groups,page.py,Function with Simple argument,163,176,4,A1
+groups,page.py,Function with Simple argument,178,190,4,A1
+groups,page.py,Function with Simple argument,192,230,4,A1
+groups,page.py,Function with Simple argument,232,260,4,A1
+groups,page.py,Function with Simple argument with Default argument,262,306,4,A2
+groups,page.py,Function with Simple argument with Default argument,308,358,4,A2
+groups,page.py,Function with Simple argument,360,367,4,A1
+groups,page.py,Lambda,274,274,42,B1
+groups,page.py,Return,78,78,8,A1
+groups,page.py,Return,83,83,8,A1
+groups,page.py,Return,102,102,8,A1
+groups,page.py,Return,108,108,8,A1
+groups,page.py,Return,118,118,8,A1
+groups,page.py,Return,124,124,8,A1
+groups,page.py,Return,129,129,8,A1
+groups,page.py,Return,137,137,8,A1
+groups,page.py,Return,161,161,8,A1
+groups,page.py,Return,176,176,8,A1
+groups,page.py,Return,230,230,8,A1
+groups,page.py,Return,367,367,8,A1
+groups,page.py,Return,107,107,12,A1
+groups,page.py,Return,100,100,16,A1
+groups,page.py,Inherited Class from Group,21,367,0,B1
