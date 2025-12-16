@@ -293,11 +293,11 @@ def type_ElemLoop(self):
 def level_While(self):
     """ While level. """
     if self.node.orelse == []:
-        self.clase = ('While with Else Loop')
-        self.level= dictLevel['Loop'][4]['while-else']
-    else:
         self.clase = ('Simple While Loop')
         self.level= dictLevel['Loop'][3]['while-simple']
+    else:
+        self.clase = ('While with Else Loop')
+        self.level= dictLevel['Loop'][4]['while-else']
 
 
 def level_Break(self):

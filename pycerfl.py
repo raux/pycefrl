@@ -2,6 +2,7 @@
 
 import ast
 import os
+import csv
 from ClassIterTree import IterTree
 from getjson import read_Json
 from getcsv import read_FileCsv
@@ -26,6 +27,9 @@ FunctionsClass = ['ast.FunctionDef', 'ast.Lambda', 'ast.Return', 'ast.Yield',
 SetClass = [Literals, Variables, Expressions, Comprehensions, Statements,
             Imports, ControlFlow, FunctionsClass]
 
+#-- Global storage for results
+global_csv_rows = []
+global_json_data = {}
 
 def choose_option():
     """ Choose option. """
@@ -160,20 +164,24 @@ def get_path(name_directory):
 
 def read_Directory(absFilePath, repo):
     """ Extract the .py files from the directory. """
-    pos = ''
-    print('Directory: ')
-    path = absFilePath
-    directory = os.listdir(path)
-    print(directory)
-    for i in range(0, len(directory)):
-        if directory[i].endswith('.py'):
-            print('Python File: ' + str(directory[i]))
-            pos = path + "/" + directory[i]
-            read_File(pos, repo)
-        elif not ('.') in directory[i]:
-            print('\nOpening another directory...\n')
-            path2 =  absFilePath + '/' + directory[i]
-            read_Directory(path2, directory[i])
+    try:
+        pos = ''
+        print('Directory: ' + absFilePath)
+        path = absFilePath
+        directory = os.listdir(path)
+        print(directory)
+        for i in range(0, len(directory)):
+            if directory[i].endswith('.py'):
+                print('Python File: ' + str(directory[i]))
+                pos = path + "/" + directory[i]
+                read_File(pos, repo)
+            elif not ('.') in directory[i]:
+                path2 =  absFilePath + '/' + directory[i]
+                if os.path.isdir(path2):
+                    print('\nOpening another directory...\n')
+                    read_Directory(path2, directory[i])
+    except Exception as e:
+        print(f"Error processing {absFilePath}: {e}")
 
 
 def read_File(pos, repo):
@@ -197,10 +205,41 @@ def deepen(tree, attrib, pos, repo):
     """ Create class object. """
     file = pos.split('/')[-1]
     object = IterTree(tree, attrib, file, repo)
+    
+    # Collect results
+    csv_rows, json_data = object.get_results()
+    
+    if csv_rows:
+        global_csv_rows.extend(csv_rows)
+        
+    if json_data:
+        for repo_key, files in json_data.items():
+            if repo_key not in global_json_data:
+                global_json_data[repo_key] = {}
+            
+            for file_key, data_list in files.items():
+                if file_key not in global_json_data[repo_key]:
+                    global_json_data[repo_key][file_key] = []
+                
+                global_json_data[repo_key][file_key].extend(data_list)
 
+
+def save_collected_data():
+    """ Save collected data to files. """
+    # Save CSV
+    with open('data.csv', 'w', newline='') as f:
+        writer = csv.writer(f)
+        # Write header
+        writer.writerow(['Repository', 'File Name', 'Class', 'Start Line', 'End Line', 'Displacement', 'Level'])
+        writer.writerows(global_csv_rows)
+        
+    # Save JSON
+    with open('data.json', 'w') as f:
+        json.dump(global_json_data, f, indent=4)
 
 def summary_Levels():
     """ Summary of directory levels """
+    save_collected_data()
     result = read_Json()
     read_FileCsv()
     print(result)
@@ -209,7 +248,7 @@ def summary_Levels():
 if __name__ == "__main__":
     try:
         type_option = sys.argv[1]
-        option = sys.argv[2]
+        option = sys.argv[2].strip()
     except:
         sys.exit("Usage: python3 file.py type-option('directory', 'repo-url', 'user') option(directory, url, user)")
     choose_option()

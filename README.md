@@ -12,11 +12,15 @@ With this tool it is possible to analyze the level of GitHub repositories (and t
 
 To put it into operation you have to follow the steps below:
 1. Edit the 'configuration.cfg' file with the level assignment of your choice. If you want to use the default ones (recommended), just go to step 2.
-2. Execute the file 'dict.py' to generate a level dictionary.
+2. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+3. Execute the file 'dict.py' to generate a level dictionary.
    ```
    python3 dict.py
    ```
-3. Execute the main program 'pycerfl.py' in three different ways:
+4. Execute the main program 'pycerfl.py' in three different ways:
 
     * Analyze a directory.
       ```
@@ -30,7 +34,7 @@ To put it into operation you have to follow the steps below:
       ```
       python3 pycerfl.py user <name_user>
       ```
-4. After that, this program will generate two types of formats to view the results:
+5. After that, this program will generate two types of formats to view the results:
     * **JSON**: data.json
     * **CSV**: data.csv
 
@@ -44,7 +48,7 @@ To put it into operation you have to follow the steps below:
   * Level of element
 
 
-5. If you want to visualize the results on a web page:
+6. If you want to visualize the results on a web page:
 
     * Run the file 'main.js' to create the page 'index.html'. You will get one web page for each repository.
       ```

@@ -35,7 +35,7 @@ def extract_Levels(data):
                 ini_values(repo, file, 'Levels', level)
                 clase = i['Class']
                 #-- Remove numbers
-                clase = re.sub("\s?\d", "", clase)
+                clase = re.sub(r"\s?\d", "", clase)
                 if not 'Class' in dict_summary:
                     dict_summary['Class'] = {}
                 ini_total('Class', clase)
@@ -121,9 +121,12 @@ def show_Results():
 
     result += ('\nAnalyzed .py files: ' + str(num_files))
 
-    levels = dict_summary['Levels']
-    for key, value in levels.items():
-        result += ('\nElements of level ' + key + ': ' + str(value))
+    levels = dict_summary.get('Levels', {})
+    if not levels:
+        result += '\nNo levels found.'
+    else:
+        for key, value in levels.items():
+            result += ('\nElements of level ' + key + ': ' + str(value))
     result += '\n====================================='
     return result
 
