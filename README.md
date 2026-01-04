@@ -1,5 +1,10 @@
 # **pycefrl**
-## *Identifying Python3 Code Level Using the CERFL Framework as Inspiration*
+## *Identifying Python3 Code Level Using the CEFR Framework as Inspiration*
+
+[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://raux.github.io/pycefrl)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**📚 [Full Documentation](https://raux.github.io/pycefrl) | 🎯 [Quick Start](https://raux.github.io/pycefrl/quickstart) | 📊 [Dashboard](https://raux.github.io/pycefrl/dashboard) | 💡 [Examples](https://raux.github.io/pycefrl/examples)**
 
 ### What is this project about?
 The goal of pycefrl is to create a tool capable of obtaining an evaluation inspired by the [''Common European Framework of Reference for Languages''](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) for code written in the Python programming language, version 3.
@@ -89,3 +94,41 @@ The tests cover:
 - Control flow (If, While, Try/Except).
 - Function and Class definitions (B1).
 - Advanced structures like List Comprehensions and Generators (C1).
+
+## 📚 Documentation Website
+
+A comprehensive documentation website is available at **[https://raux.github.io/pycefrl](https://raux.github.io/pycefrl)**
+
+### Features:
+- **Interactive Dashboard**: Visualize analysis results with charts and graphs
+- **Complete Documentation**: Installation guides, tutorials, and API reference
+- **Examples**: Real-world usage examples and best practices
+- **Dark/Light Theme**: Modern, responsive design with theme support
+- **Search & Navigation**: Easy to navigate with sidebar and breadcrumb navigation
+
+Visit the website to explore:
+- 📖 [Installation Guide](https://raux.github.io/pycefrl/installation)
+- 🚀 [Quick Start Tutorial](https://raux.github.io/pycefrl/quickstart)
+- 📘 [User Guide](https://raux.github.io/pycefrl/guide)
+- 🔧 [API Reference](https://raux.github.io/pycefrl/api)
+- 💡 [Examples](https://raux.github.io/pycefrl/examples)
+- 📊 [Interactive Dashboard](https://raux.github.io/pycefrl/dashboard)
+- 🤝 [Contributing Guidelines](https://raux.github.io/pycefrl/contributing)
+
+## Contributing
+
+Contributions are welcome! Please see our [Contributing Guidelines](https://raux.github.io/pycefrl/contributing) for details on how to:
+- Report bugs
+- Suggest features
+- Submit pull requests
+- Improve documentation
+
+## License
+
+This project is licensed under the MIT License.
+
+## Support
+
+- 🐛 [Report Issues](https://github.com/raux/pycefrl/issues)
+- 💬 [Discussions](https://github.com/raux/pycefrl/discussions)
+- 📖 [Documentation](https://raux.github.io/pycefrl)
