@@ -1,0 +1,11 @@
+# GitHub Pages Configuration
+title: pycefrl Documentation
+description: Python implementation for reinforcement learning
+theme: jekyll-theme-minimal
+show_downloads: true
+repository: raux/pycefrl
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
