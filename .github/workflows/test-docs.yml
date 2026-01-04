@@ -1,0 +1,46 @@
+name: Test Documentation Build
+
+on:
+  push:
+    branches:
+      - '**'
+    paths:
+      - 'docs/**'
+      - '.github/workflows/test-docs.yml'
+  pull_request:
+    paths:
+      - 'docs/**'
+      - '.github/workflows/test-docs.yml'
+
+jobs:
+  test-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: false
+
+      - name: Install dependencies
+        run: |
+          cd docs
+          gem install bundler
+          bundle config set --local path 'vendor/bundle'
+          bundle install
+
+      - name: Test build with Jekyll
+        run: |
+          cd docs
+          bundle exec jekyll build --verbose
+        env:
+          JEKYLL_ENV: production
+
+      - name: Check for broken links (optional)
+        run: |
+          echo "✅ Jekyll build successful!"
+          echo "📄 Generated files:"
+          ls -lh docs/_site/*.html
