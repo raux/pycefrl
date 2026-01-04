@@ -1,11 +1,42 @@
 # GitHub Pages Configuration
-title: pycefrl Documentation
-description: Python implementation for reinforcement learning
-theme: jekyll-theme-minimal
+title: pycefrl
+description: Python Code Level Analyzer - Identifying Python3 Code Level Using the CEFR Framework as Inspiration
+theme: jekyll-theme-cayman
 show_downloads: true
 repository: raux/pycefrl
+baseurl: /pycefrl
+url: https://raux.github.io
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
+highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Documentation
+    url: /installation
+  - title: Dashboard
+    url: /dashboard
+  - title: Examples
+    url: /examples
+  - title: API Reference
+    url: /api
+  - title: Contributing
+    url: /contributing

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="container">
+  <ul class="breadcrumb">
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    {% if page.category %}
+    <li><a href="{{ page.category | relative_url }}">{{ page.category_name }}</a></li>
+    {% endif %}
+    <li>{{ page.title }}</li>
+  </ul>
+  
+  <div class="content">
+    {% include sidebar.html %}
+    
+    <div class="main-content">
+      <h1>{{ page.title }}</h1>
+      
+      {% if page.toc %}
+      <div class="toc">
+        <h4>Table of Contents</h4>
+        <div id="toc"></div>
+      </div>
+      {% endif %}
+      
+      {{ content }}
+    </div>
+  </div>
+</div>
