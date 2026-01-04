@@ -51,3 +51,7 @@ env/
 data.json
 data.csv
 dicc.txt
+
+# Temporary files
+*.log
+nohup.out
