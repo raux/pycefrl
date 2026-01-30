@@ -1,19 +1,16 @@
 {
-    "test_repo": {
+    "": {
         "Levels": {
-            "A1": 11,
-            "A2": 1,
-            "B2": 1,
-            "B1": 1
+            "A2": 187,
+            "A1": 120,
+            "B1": 2
         },
         "Class": {
-            "Print": 2,
-            "Simple Atributte": 1,
-            "Simple Assignment": 3,
-            "If statements using \u2192 __name__ == \u2018__main__\u2019": 1,
-            "Function": 1,
-            "Function with Simple argument": 2,
-            "Return": 3,
+            "Simple Atributte": 182,
+            "Simple Assignment": 96,
+            "Import": 5,
+            "Function with Simple argument": 24,
+            "Simple Class  Using the constructor method --> __init__": 1,
             "Simple Class ": 1
         }
     }
