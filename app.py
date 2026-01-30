@@ -8,6 +8,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 import psutil
 import time
+import re
 
 st.set_page_config(page_title="PyCEFRL - Python Code Level Analyzer", layout="wide")
 
@@ -87,13 +88,14 @@ def run_analysis(mode_arg, value_arg):
             if 'Found' in line and 'Python file(s) to analyze' in line:
                 try:
                     total_files = int(line.split('Found ')[1].split(' Python')[0])
-                except:
-                    pass
+                except (ValueError, IndexError) as e:
+                    # Failed to parse file count - log for debugging but continue
+                    st.warning(f"Could not parse file count from: {line.strip()}")
             
-            if 'Processing:' in line:
+            if 'Processing:' in line and processed_files < total_files:
                 processed_files += 1
                 if total_files > 0:
-                    progress = processed_files / total_files
+                    progress = min(processed_files / total_files, 1.0)  # Cap at 100%
                     progress_bar.progress(progress)
                     status_text.text(f"Processing file {processed_files}/{total_files}...")
             
@@ -320,24 +322,30 @@ elif mode == "GitHub Repository":
     url = st.text_input("Enter GitHub Repository URL", placeholder="https://github.com/username/repository")
     
     # URL validation helper
+    is_valid = False
+    clone_url = None
+    
     if url:
-        import re
-        # Basic GitHub URL validation
-        github_pattern = r'^https?://github\.com/[\w-]+/[\w.-]+/?$'
-        if re.match(github_pattern, url.rstrip('/')):
+        # Basic GitHub URL validation - supports dots, hyphens, and underscores in repo names
+        # Matches: https://github.com/user/repo or https://github.com/user/repo.git
+        github_pattern = r'^https?://github\.com/([\w.-]+)/([\w.-]+?)(\.git)?/?$'
+        match = re.match(github_pattern, url.rstrip('/'))
+        
+        if match:
+            is_valid = True
             st.success("✓ Valid GitHub repository URL")
+            # Normalize to clone URL (always ends with .git)
+            base_url = url.rstrip('/').rstrip('.git')
+            clone_url = base_url + '.git'
         else:
             st.warning("⚠️ Please enter a valid GitHub repository URL (e.g., https://github.com/user/repo)")
     
     if st.button("Analyze Repository", type="primary"):
-        if url:
-            # Convert to clone URL if needed
-            if not url.endswith('.git'):
-                clone_url = url.rstrip('/') + '.git'
-            else:
-                clone_url = url
+        if url and is_valid and clone_url:
             if run_analysis("repo-url", clone_url):
                 display_results()
+        elif url:
+            st.error("Please enter a valid GitHub repository URL")
         else:
             st.warning("Please enter a URL")
 
