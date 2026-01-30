@@ -8,6 +8,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 import psutil
 import time
+import re
 
 st.set_page_config(page_title="PyCEFRL - Python Code Level Analyzer", layout="wide")
 
@@ -32,10 +33,18 @@ with st.sidebar:
     cpu_metric.metric("CPU Usage", f"{c}%")
     ram_metric.metric("RAM Usage", f"{r}%")
 
-st.title("PyCEFRL - Python Code Level Analyzer")
+st.title("🐍 PyCEFRL - Python Code Level Analyzer")
 st.markdown("""
 This tool analyzes the level of Python code inspired by the CEFR (Common European Framework of Reference for Languages).
-You can analyze a local directory, a GitHub repository, or a GitHub user.
+Analyze code **in real-time** from:
+- 📁 Local directory
+- 🔗 GitHub repository URL
+- 👤 GitHub user profile
+
+**Real-time Features:**
+- ⚡ Live progress tracking
+- 📊 File-by-file updates
+- 💻 System resource monitoring
 """)
 
 # Ensure dict.py has been run
@@ -47,9 +56,16 @@ if not os.path.exists('dicc.txt'):
 def run_analysis(mode_arg, value_arg):
     cmd = ['python3', '-u', 'pycerfl.py', mode_arg, value_arg]
     
-    st.write(f"Starting analysis on {value_arg}...")
-    log_container = st.empty()
+    st.write(f"🚀 Starting analysis on {value_arg}...")
+    
+    # Create containers for different parts
+    progress_bar = st.progress(0)
+    status_text = st.empty()
+    log_container = st.expander("Real-time Analysis Logs", expanded=True)
+    
     logs = []
+    total_files = 0
+    processed_files = 0
     
     process = subprocess.Popen(
         cmd, 
@@ -67,8 +83,25 @@ def run_analysis(mode_arg, value_arg):
             break
         if line:
             logs.append(line)
-            # Update log display every few lines
-            log_container.code("".join(logs[-20:]))  # Show last 20 lines for "tail" effect
+            
+            # Extract progress information from log lines
+            if 'Found' in line and 'Python file(s) to analyze' in line:
+                try:
+                    total_files = int(line.split('Found ')[1].split(' Python')[0])
+                except (ValueError, IndexError) as e:
+                    # Failed to parse file count - log for debugging but continue
+                    st.warning(f"Could not parse file count from: {line.strip()}")
+            
+            if 'Processing:' in line and processed_files < total_files:
+                processed_files += 1
+                if total_files > 0:
+                    progress = min(processed_files / total_files, 1.0)  # Cap at 100%
+                    progress_bar.progress(progress)
+                    status_text.text(f"Processing file {processed_files}/{total_files}...")
+            
+            # Update log display - show last 25 lines for "tail" effect
+            with log_container:
+                st.code("".join(logs[-25:]))
             
             # Update system stats occasionally
             if len(logs) % 5 == 0:  # Update every 5 lines to avoid too much overhead
@@ -77,15 +110,20 @@ def run_analysis(mode_arg, value_arg):
                 ram_metric.metric("RAM Usage", f"{r}%")
 
     if process.returncode != 0:
+        progress_bar.progress(0)
+        status_text.text("❌ Analysis failed")
         st.error("Error during analysis:")
         st.code("".join(logs)) # Show full logs on error
         return False
     
+    progress_bar.progress(1.0)
+    status_text.text("✅ Analysis complete!")
+    
     # Show full logs in an expander after completion
-    with st.expander("Show full analysis logs"):
+    with st.expander("View Complete Analysis Logs"):
         st.code("".join(logs))
         
-    st.success("Analysis complete!")
+    st.success(f"✅ Analysis complete! Processed {processed_files} file(s).")
     return True
 
 def display_results():
@@ -269,24 +307,55 @@ if mode == "Directory":
     
     # Show resolved absolute path
     if path and os.path.exists(path):
-        st.info(f"Resolved Path: {os.path.abspath(path)}")
+        st.info(f"📂 Resolved Path: {os.path.abspath(path)}")
+    elif path:
+        st.warning(f"⚠️ Path does not exist: {path}")
         
-    if st.button("Analyze Directory"):
-        if run_analysis("directory", path):
-            display_results()
+    if st.button("Analyze Directory", type="primary"):
+        if path and os.path.exists(path):
+            if run_analysis("directory", path):
+                display_results()
+        else:
+            st.error("Please enter a valid directory path")
 
 elif mode == "GitHub Repository":
-    url = st.text_input("Enter GitHub Repository URL", placeholder="https://github.com/user/repo")
-    if st.button("Analyze Repository"):
-        if url:
-            if run_analysis("repo", url):
+    url = st.text_input("Enter GitHub Repository URL", placeholder="https://github.com/username/repository")
+    
+    # URL validation helper
+    is_valid = False
+    clone_url = None
+    
+    if url:
+        # Basic GitHub URL validation - supports dots, hyphens, and underscores in repo names
+        # Matches: https://github.com/user/repo or https://github.com/user/repo.git
+        github_pattern = r'^https?://github\.com/([\w.-]+)/([\w.-]+?)(\.git)?/?$'
+        match = re.match(github_pattern, url.rstrip('/'))
+        
+        if match:
+            is_valid = True
+            st.success("✓ Valid GitHub repository URL")
+            # Normalize to clone URL (always ends with .git)
+            base_url = url.rstrip('/').rstrip('.git')
+            clone_url = base_url + '.git'
+        else:
+            st.warning("⚠️ Please enter a valid GitHub repository URL (e.g., https://github.com/user/repo)")
+    
+    if st.button("Analyze Repository", type="primary"):
+        if url and is_valid and clone_url:
+            if run_analysis("repo-url", clone_url):
                 display_results()
+        elif url:
+            st.error("Please enter a valid GitHub repository URL")
         else:
             st.warning("Please enter a URL")
 
 elif mode == "GitHub User":
-    user = st.text_input("Enter GitHub Username")
-    if st.button("Analyze User"):
+    user = st.text_input("Enter GitHub Username", placeholder="octocat")
+    
+    if user:
+        st.info(f"👤 Will analyze all Python repositories for user: **{user}**")
+    
+    if st.button("Analyze User", type="primary"):
         if user:
             if run_analysis("user", user):
                 display_results()

@@ -1,0 +1,22 @@
+{
+    "test_repo": {
+        "sample.py": {
+            "Levels": {
+                "A1": 11,
+                "A2": 1,
+                "B2": 1,
+                "B1": 1
+            },
+            "Class": {
+                "Print": 2,
+                "Simple Atributte": 1,
+                "Simple Assignment": 3,
+                "If statements using \u2192 __name__ == \u2018__main__\u2019": 1,
+                "Function": 1,
+                "Function with Simple argument": 2,
+                "Return": 3,
+                "Simple Class ": 1
+            }
+        }
+    }
+}
