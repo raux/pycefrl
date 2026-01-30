@@ -102,6 +102,18 @@ streamlit run app.py
 ![GitHub Repository Analysis](https://github.com/user-attachments/assets/c84937f9-641f-411e-82ee-ce8b743365d6)
 *GitHub repository URL validation and analysis*
 
+## Deploying the Web Application
+
+The Streamlit web application can be easily deployed to the cloud for public access. See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions.
+
+**Quick Deploy to Streamlit Cloud:**
+1. Fork this repository
+2. Sign up at [share.streamlit.io](https://share.streamlit.io/)
+3. Create new app pointing to `app.py`
+4. Your app will be live at `https://your-app-name.streamlit.app`
+
+For other deployment options (Docker, Heroku, Railway, Render), see the [deployment guide](DEPLOYMENT.md).
+
 
 ## Running Tests
 

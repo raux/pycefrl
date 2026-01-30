@@ -34,9 +34,6 @@ Thumbs.db
 .coverage
 htmlcov/
 
-# Streamlit
-.streamlit/
-
 # Cloned repositories during analysis
 # (These are temporary directories created when analyzing GitHub repos)
 /*/
