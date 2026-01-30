@@ -10,6 +10,7 @@ import sys
 import shlex, subprocess
 import json
 import requests
+from datetime import datetime
 
 #-- Create lists of each attribute
 Literals = ['ast.List', 'ast.Tuple', 'ast.Dict']
@@ -31,10 +32,25 @@ SetClass = [Literals, Variables, Expressions, Comprehensions, Statements,
 global_csv_rows = []
 global_json_data = {}
 
+#-- Global counters for progress tracking
+total_files_found = 0
+files_processed = 0
+
 def choose_option():
     """ Choose option. """
+    global total_files_found, files_processed
+    
+    # Reset counters
+    files_processed = 0
+    
     if type_option == 'directory':
         repo = option.split('/')[-1]
+        # Count files before processing
+        print('🔍 Counting Python files...')
+        sys.stdout.flush()
+        total_files_found = count_python_files(option)
+        print(f'📊 Found {total_files_found} Python file(s) to analyze')
+        sys.stdout.flush()
         read_Directory(option, repo)
     elif type_option == 'repo-url':
         request_url()
@@ -76,7 +92,8 @@ def check_lenguage(url, protocol, type_git, user, repo):
     #-- Create the url of the api
     repo_url = (protocol + "://api." + type_git + "/repos/" + user + "/" +
                  repo + "/languages")
-    print("Analyzing repository languages...\n")
+    print("Analyzing repository languages...")
+    sys.stdout.flush()
     # Get content
     r = requests.get(repo_url)
     # Decode JSON response into a Python dict:
@@ -84,6 +101,7 @@ def check_lenguage(url, protocol, type_git, user, repo):
     #-- Get used languages and their quantity
     for key in content.keys():
         print(key + ": " + str(content[key]))
+        sys.stdout.flush()
         if key == 'Python':
             python_leng = True
             python_quantity = content[key]
@@ -92,22 +110,27 @@ def check_lenguage(url, protocol, type_git, user, repo):
     if python_leng == True:
         amount = total_elem/2
         if python_quantity >= amount:
-            print('\nPython 50% OK\n')
+            print('\n✓ Python 50% OK')
+            sys.stdout.flush()
             #-- Clone the repository
             run_url(url)
         else:
-            print('\nThe repository does not contain 50% of the Python.\n')
+            print('\n✗ The repository does not contain 50% of the Python.')
+            sys.stdout.flush()
 
 
 def run_url(url):
     """ Run url. """
     command_line = "git clone " + url
-    print('Run url...')
+    print('⏳ Cloning repository...')
+    sys.stdout.flush()
     #print(command_line)
     #-- List everything and separate
     args = shlex.split(command_line)
     #-- Run in the shell the command_line
     subprocess.call(args)
+    print('✓ Repository cloned successfully')
+    sys.stdout.flush()
     get_directory(url)
 
 
@@ -116,7 +139,8 @@ def run_user():
     #-- Create the url of the api
     user_url = ("https://api.github.com/users/"  + option)
     print(user_url)
-    print("Analyzing user...\n")
+    print("Analyzing user...")
+    sys.stdout.flush()
     try:
         #-- Extract headers
         headers = requests.get(user_url)
@@ -126,7 +150,8 @@ def run_user():
         repo_url = content["repos_url"]
     except KeyError:
         sys.exit('An unavailable user has been entered')
-    print("Analyzing repositories...\n")
+    print("Analyzing repositories...")
+    sys.stdout.flush()
     #-- Extract repository names
     names = requests.get(repo_url)
     #-- Decode JSON response into a Python dict:
@@ -134,6 +159,7 @@ def run_user():
     #-- Show repository names
     for repository in content:
         print('\nRepository: ' + str(repository["name"]))
+        sys.stdout.flush()
         url = ("https://github.com/" + option + "/" + repository["name"])
         check_lenguage(url, 'https', 'github.com', option, repository["name"])
 
@@ -153,35 +179,75 @@ def get_directory(url):
 
 def get_path(name_directory):
     """ Get the path to the directory. """
+    global total_files_found
+    
     absFilePath = os.path.abspath(name_directory)
     #-- Check if the last element is a file.py
     fichero = absFilePath.split('/')[-1]
     if fichero.endswith('.py'):
         absFilePath = absFilePath.replace("/" + fichero,"" )
     print("This script absolute path is ", absFilePath)
+    sys.stdout.flush()
+    
+    # Count files before processing
+    print('🔍 Counting Python files...')
+    sys.stdout.flush()
+    total_files_found = count_python_files(absFilePath)
+    print(f'📊 Found {total_files_found} Python file(s) to analyze')
+    sys.stdout.flush()
+    
     read_Directory(absFilePath, name_directory)
+
+
+def count_python_files(absFilePath):
+    """ Count total Python files in directory tree. """
+    count = 0
+    try:
+        for root, dirs, files in os.walk(absFilePath):
+            for file in files:
+                if file.endswith('.py'):
+                    count += 1
+    except Exception as e:
+        print(f"Error counting files in {absFilePath}: {e}")
+        sys.stdout.flush()
+    return count
 
 
 def read_Directory(absFilePath, repo):
     """ Extract the .py files from the directory. """
+    global total_files_found, files_processed
+    
     try:
         pos = ''
-        print('Directory: ' + absFilePath)
+        print(f'📁 Scanning directory: {absFilePath}')
+        sys.stdout.flush()
         path = absFilePath
         directory = os.listdir(path)
-        print(directory)
+        
+        # Count python files in current directory
+        py_files = [f for f in directory if f.endswith('.py')]
+        if py_files:
+            print(f'   Found {len(py_files)} Python file(s)')
+            sys.stdout.flush()
+        
         for i in range(0, len(directory)):
             if directory[i].endswith('.py'):
-                print('Python File: ' + str(directory[i]))
+                files_processed += 1
+                print(f'📄 [{files_processed}/{total_files_found if total_files_found > 0 else "?"}] Processing: {directory[i]}')
+                sys.stdout.flush()
                 pos = path + "/" + directory[i]
                 read_File(pos, repo)
+                print(f'   ✓ Completed: {directory[i]}')
+                sys.stdout.flush()
             elif not ('.') in directory[i]:
                 path2 =  absFilePath + '/' + directory[i]
                 if os.path.isdir(path2):
-                    print('\nOpening another directory...\n')
+                    print(f'\n📂 Entering subdirectory: {directory[i]}')
+                    sys.stdout.flush()
                     read_Directory(path2, directory[i])
     except Exception as e:
         print(f"Error processing {absFilePath}: {e}")
+        sys.stdout.flush()
 
 
 def read_File(pos, repo):
@@ -226,23 +292,34 @@ def deepen(tree, attrib, pos, repo):
 
 def save_collected_data():
     """ Save collected data to files. """
+    print('\n💾 Saving results...')
+    sys.stdout.flush()
+    
     # Save CSV
     with open('data.csv', 'w', newline='') as f:
         writer = csv.writer(f)
         # Write header
         writer.writerow(['Repository', 'File Name', 'Class', 'Start Line', 'End Line', 'Displacement', 'Level'])
         writer.writerows(global_csv_rows)
+    print('   ✓ CSV data saved to data.csv')
+    sys.stdout.flush()
         
     # Save JSON
     with open('data.json', 'w') as f:
         json.dump(global_json_data, f, indent=4)
+    print('   ✓ JSON data saved to data.json')
+    sys.stdout.flush()
 
 def summary_Levels():
     """ Summary of directory levels """
     save_collected_data()
+    print('\n📊 Generating summary statistics...')
+    sys.stdout.flush()
     result = read_Json()
     read_FileCsv()
-    print(result)
+    print('\n✅ Analysis complete!')
+    print(f'\n{result}')
+    sys.stdout.flush()
 
 
 if __name__ == "__main__":
@@ -251,5 +328,22 @@ if __name__ == "__main__":
         option = sys.argv[2].strip()
     except:
         sys.exit("Usage: python3 file.py type-option('directory', 'repo-url', 'user') option(directory, url, user)")
+    
+    # Print banner
+    print('=' * 60)
+    print('  PyCEFRL - Python Code Level Analyzer')
+    print('  Real-time Analysis Mode')
+    print('=' * 60)
+    print(f'Started at: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}')
+    print(f'Mode: {type_option}')
+    print(f'Target: {option}')
+    print('=' * 60)
+    sys.stdout.flush()
+    
     choose_option()
     summary_Levels()
+    
+    print('=' * 60)
+    print(f'Finished at: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}')
+    print('=' * 60)
+    sys.stdout.flush()
