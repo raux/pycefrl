@@ -33,12 +33,18 @@ To put it into operation you have to follow the steps below:
       ```
     * Analyze a GitHub repository.
       ```
-      python3 pycerfl.py repo <name_urlclone>
+      python3 pycerfl.py repo-url <name_urlclone>
       ```
     * Analyze a GitHub user.
       ```
       python3 pycerfl.py user <name_user>
       ```
+    
+    **Note**: All analysis modes now provide **real-time progress updates**, showing:
+    - File count and processing progress
+    - Current file being analyzed
+    - Status indicators with emoji icons (📁, 📄, ✓, etc.)
+
 5. After that, this program will generate two types of formats to view the results:
     * **JSON**: data.json
     * **CSV**: data.csv
@@ -62,7 +68,7 @@ To put it into operation you have to follow the steps below:
 
 ## Interactive Web Interface (Streamlit)
 
-A Streamlit application is included to easily run analyses and visualize results with interactive charts (Bubble Charts, Heatmaps, Treemaps) and system statistics.
+A Streamlit application is included to easily run analyses and visualize results **in real-time** with interactive charts (Bubble Charts, Heatmaps, Treemaps) and system statistics.
 
 To run the Streamlit app:
 
@@ -70,14 +76,32 @@ To run the Streamlit app:
 streamlit run app.py
 ```
 
-**Features:**
-- Select analysis mode: Directory, GitHub Repository, or GitHub User.
-- Real-time execution logs and system stats (CPU/RAM).
-- Interactive visualizations:
-    - **Bubble Chart**: Category vs Level.
-    - **File Heatmap**: File vs Level Count.
-    - **Element Treemap**: Drill down into specific elements.
-- Download reports in JSON and CSV formats.
+**Real-time Analysis Features:**
+- ⚡ **Live Progress Tracking**: Watch files being processed in real-time with progress bars
+- 📊 **File-by-File Updates**: See detailed progress as each Python file is analyzed
+- 💻 **System Resource Monitoring**: Monitor CPU and RAM usage during analysis
+- 📈 **Streaming Logs**: View analysis logs as they happen with real-time updates
+
+**Analysis Modes:**
+- 📁 **Local Directory**: Analyze Python files in any directory on your system
+- 🔗 **GitHub Repository**: Analyze any public GitHub repository by URL (with validation)
+- 👤 **GitHub User**: Analyze all Python repositories of a GitHub user
+
+**Visualization Features:**
+- Interactive charts with detailed breakdowns:
+    - **Bubble Chart**: Category vs Level visualization
+    - **File Heatmap**: File vs Level Count distribution
+    - **Element Treemap**: Drill down into specific code elements
+- Download reports in JSON and CSV formats
+
+**Screenshots:**
+
+![PyCEFRL Web Interface](https://github.com/user-attachments/assets/123b3933-15fb-48dc-8312-4beea1ba7fba)
+*Main interface showing real-time analysis features*
+
+![GitHub Repository Analysis](https://github.com/user-attachments/assets/c84937f9-641f-411e-82ee-ce8b743365d6)
+*GitHub repository URL validation and analysis*
+
 
 ## Running Tests
 
