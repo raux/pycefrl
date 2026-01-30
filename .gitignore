@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Analysis output files (root level only)
+/data.json
+/data.csv
+
+# Temporary analysis outputs
+/DATA_JSON/repo_data.json
+/DATA_JSON/summary_data.json
+/DATA_JSON/total_data.json
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/
+
+# Cloned repositories during analysis
+# (These are temporary directories created when analyzing GitHub repos)
+/*/
+!/.github/
+!/ANEXO/
+!/DATA_CSV/
+!/DATA_JSON/
+!/WEB/
+!/docs/
+!/tests/
