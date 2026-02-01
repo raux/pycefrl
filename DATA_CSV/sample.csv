@@ -1,15 +1,5 @@
 Repository,File Name,Class,Start Line,End Line,Displacement,Level
-test_repo,sample.py,Print,5,5,4,A1
-test_repo,sample.py,Print,20,20,4,A1
-test_repo,sample.py,Simple Atributte,19,19,13,A2
-test_repo,sample.py,Simple Assignment,4,4,4,A1
-test_repo,sample.py,Simple Assignment,18,18,4,A1
-test_repo,sample.py,Simple Assignment,19,19,4,A1
-test_repo,sample.py,If statements using → __name__ == ‘__main__’,16,20,0,B2
-test_repo,sample.py,Function,2,6,0,A1
-test_repo,sample.py,Function with Simple argument,10,11,4,A1
-test_repo,sample.py,Function with Simple argument,13,14,4,A1
-test_repo,sample.py,Return,6,6,4,A1
-test_repo,sample.py,Return,11,11,8,A1
-test_repo,sample.py,Return,14,14,8,A1
-test_repo,sample.py,Simple Class ,8,14,0,B1
+test_sample,sample.py,Simple List,2,2,4,A1
+test_sample,sample.py,Print,4,4,4,A1
+test_sample,sample.py,Simple Assignment,2,2,0,A1
+test_sample,sample.py,Simple If statements,3,4,0,A1
