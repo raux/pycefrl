@@ -226,7 +226,7 @@ def greet(name):
 Launch the Streamlit interface for interactive analysis:
 
 ```bash
-streamlit run app.py
+python3 -m streamlit run app.py
 ```
 
 **Workflow:**

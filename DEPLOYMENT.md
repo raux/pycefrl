@@ -48,7 +48,7 @@ RUN apt-get update && apt-get install -y \
 
 # Copy requirements and install Python dependencies
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip3 install --no-cache-dir -r requirements.txt
 
 # Copy application files
 COPY . .
@@ -60,7 +60,7 @@ RUN python3 dict.py
 EXPOSE 8501
 
 # Run the app
-CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+CMD ["python3", "-m", "streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
 ```
 
 2. **Build and run**:
@@ -75,7 +75,7 @@ docker run -p 8501:8501 pycefrl-app
 
 `Procfile`:
 ```
-web: sh setup.sh && streamlit run app.py
+web: sh setup.sh && python3 -m streamlit run app.py
 ```
 
 `setup.sh`:
@@ -102,15 +102,15 @@ git push heroku main
 
 1. **Connect GitHub repository** to [Railway](https://railway.app/)
 2. **Configure**:
-   - Add start command: `python3 dict.py && streamlit run app.py --server.port=$PORT`
+   - Add start command: `python3 dict.py && python3 -m streamlit run app.py --server.port=$PORT`
    - Railway will auto-detect `requirements.txt`
 
 ### Render Deployment
 
 1. **Create a new Web Service** on [Render](https://render.com/)
 2. **Configure**:
-   - Build Command: `pip install -r requirements.txt && python3 dict.py`
-   - Start Command: `streamlit run app.py --server.port=$PORT --server.address=0.0.0.0`
+   - Build Command: `pip3 install -r requirements.txt && python3 dict.py`
+   - Start Command: `python3 -m streamlit run app.py --server.port=$PORT --server.address=0.0.0.0`
 
 ## Environment Variables
 

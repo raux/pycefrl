@@ -506,7 +506,7 @@ def analyze_directory(path, level_dict):
 |-------|-------|----------|
 | `FileNotFoundError: dicc.txt` | Level dictionary not generated | Run `python3 dict.py` |
 | `SyntaxError` | Invalid Python syntax in target file | Fix syntax errors in target code |
-| `ModuleNotFoundError` | Missing dependencies | Run `pip install -r requirements.txt` |
+| `ModuleNotFoundError` | Missing dependencies | Run `pip3 install -r requirements.txt` |
 | `KeyError` in level assignment | Node type not in configuration | Add missing node type to `configuration.cfg` |
 
 ## Performance Considerations
