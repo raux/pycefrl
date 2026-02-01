@@ -159,7 +159,7 @@ Expected results might show:
 For a more interactive experience, use the Streamlit web app:
 
 ```bash
-streamlit run app.py
+python3 -m streamlit run app.py
 ```
 
 The interface provides:

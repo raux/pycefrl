@@ -29,7 +29,7 @@ cd pycefrl
 Install the required Python packages using pip:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 The `requirements.txt` file includes all necessary dependencies for running pycefrl.
@@ -65,13 +65,13 @@ This should generate `data.json` and `data.csv` files with the analysis results.
 If you want to use the interactive Streamlit web interface, ensure Streamlit is installed:
 
 ```bash
-pip install streamlit
+pip3 install streamlit
 ```
 
 Then launch the application:
 
 ```bash
-streamlit run app.py
+python3 -m streamlit run app.py
 ```
 
 The Streamlit app will open in your default web browser, providing an interactive interface for running analyses and viewing results.
@@ -114,7 +114,7 @@ The main dependencies include:
 **Issue: `ModuleNotFoundError`**
 ```
 Solution: Ensure all dependencies are installed:
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 **Issue: `dicc.txt not found`**

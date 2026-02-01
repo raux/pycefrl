@@ -69,7 +69,7 @@ description: Identifying Python3 Code Level Using the CEFR Framework as Inspirat
     
     <div class="card">
       <h3>1. Install Dependencies</h3>
-      <pre><code>pip install -r requirements.txt</code></pre>
+      <pre><code>pip3 install -r requirements.txt</code></pre>
     </div>
     
     <div class="card">
@@ -140,7 +140,7 @@ python3 pycerfl.py user username</code></pre>
   <section class="mt-4">
     <h2>Streamlit Web Interface</h2>
     <p>Launch the interactive Streamlit application for real-time analysis with beautiful visualizations:</p>
-    <pre><code>streamlit run app.py</code></pre>
+    <pre><code>python3 -m streamlit run app.py</code></pre>
     <p><strong>Features:</strong></p>
     <ul>
       <li>Real-time execution logs and system statistics</li>

@@ -76,7 +76,7 @@ cd pycefrl
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Generate the level dictionary:

@@ -19,7 +19,7 @@ To put it into operation you have to follow the steps below:
 1. Edit the 'configuration.cfg' file with the level assignment of your choice. If you want to use the default ones (recommended), just go to step 2.
 2. Install the required dependencies:
    ```
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 3. Execute the file 'dict.py' to generate a level dictionary.
    ```
@@ -73,7 +73,7 @@ A Streamlit application is included to easily run analyses and visualize results
 To run the Streamlit app:
 
 ```bash
-streamlit run app.py
+python3 -m streamlit run app.py
 ```
 
 **Real-time Analysis Features:**
