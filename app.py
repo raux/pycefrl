@@ -1,5 +1,6 @@
 import streamlit as st
 import subprocess
+import sys
 import os
 import json
 import pandas as pd
@@ -50,11 +51,11 @@ Analyze code **in real-time** from:
 # Ensure dict.py has been run
 if not os.path.exists('dicc.txt'):
     with st.spinner('Generating level dictionary...'):
-        subprocess.run(['python3', 'dict.py'], check=True)
+        subprocess.run([sys.executable, 'dict.py'], check=True)
     st.success('Level dictionary generated!')
 
 def run_analysis(mode_arg, value_arg):
-    cmd = ['python3', '-u', 'pycerfl.py', mode_arg, value_arg]
+    cmd = [sys.executable, '-u', 'pycerfl.py', mode_arg, value_arg]
     
     st.write(f"🚀 Starting analysis on {value_arg}...")
     

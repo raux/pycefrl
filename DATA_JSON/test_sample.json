@@ -1,0 +1,15 @@
+{
+    "test_sample": {
+        "sample.py": {
+            "Levels": {
+                "A1": 4
+            },
+            "Class": {
+                "Simple List": 1,
+                "Print": 1,
+                "Simple Assignment": 1,
+                "Simple If statements": 1
+            }
+        }
+    }
+}
