@@ -260,17 +260,39 @@ def read_File(pos, repo):
 
 
 def iterate_List(tree, pos, repo):
-    """ Iterate list and assign attributes."""
-    for i in range(0, len(SetClass)):
-        for j in range(0, len(SetClass[i])):
-            attrib = SetClass[i][j]
-            deepen(tree, attrib, pos,repo)
+    """ Iterate list and assign attributes. Single-pass AST traversal. """
+    from ClassIterTree import REVERSE_TYPE_MAP
+
+    #-- Build set of all attribute strings we care about
+    all_attribs = set()
+    for group in SetClass:
+        for attrib in group:
+            all_attribs.add(attrib)
+
+    #-- Single walk: classify nodes by their attribute string
+    nodes_by_attrib = {}
+    for node in ast.walk(tree):
+        node_type = type(node)
+        if node_type in REVERSE_TYPE_MAP:
+            attrib_str = REVERSE_TYPE_MAP[node_type]
+            if attrib_str in all_attribs:
+                if attrib_str not in nodes_by_attrib:
+                    nodes_by_attrib[attrib_str] = []
+                nodes_by_attrib[attrib_str].append(node)
+
+    #-- Process each attribute group with pre-collected nodes
+    file = pos.split('/')[-1]
+    for group in SetClass:
+        for attrib in group:
+            nodes = nodes_by_attrib.get(attrib)
+            if nodes:
+                deepen(tree, attrib, pos, repo, nodes)
 
 
-def deepen(tree, attrib, pos, repo):
+def deepen(tree, attrib, pos, repo, nodes=None):
     """ Create class object. """
     file = pos.split('/')[-1]
-    object = IterTree(tree, attrib, file, repo)
+    object = IterTree(tree, attrib, file, repo, nodes=nodes)
     
     # Collect results
     csv_rows, json_data = object.get_results()
