@@ -320,18 +320,15 @@ def level_For(self):
     if numFor > 0:
         self.level= dictLevel['Loop'][6]['for-nested']
         self.clase = (str(numFor) + ' Nested For Loop')
-    if any(isinstance(t, ast.Tuple) for t in ast.walk(self.node.target)):
-        numTupleT = sum(1 for t in ast.walk(self.node.target) if isinstance(t, ast.Tuple))
+    if isinstance(self.node.target, ast.Tuple):
         self.level= dictLevel['Loop'][7]['for-tuple-name']
         self.clase = ('For Loop with Tuple as name')
     if isinstance(self.node.iter, ast.List):
         self.level= dictLevel['Loop'][8]['for-list-iterate']
-        numList = sum(1 for n in ast.walk(self.node.iter) if isinstance(n, ast.List))
-        self.clase = ('For Loop with ' + str(numList) +' List to iterate')
+        self.clase = ('For Loop with 1 List to iterate')
     elif isinstance(self.node.iter, ast.Tuple):
         self.level = dictLevel['Loop'][9]['for-tuple-iterate']
-        numTupleI = sum(1 for n in ast.walk(self.node.iter) if isinstance(n, ast.Tuple))
-        self.clase = ('For Loop with ' + str(numTupleI) + ' Tuples to iterate')
+        self.clase = ('For Loop with 1 Tuples to iterate')
 
 
 
