@@ -74,15 +74,13 @@ def levels(self):
 
 def level_List(self):
     """ List level. """
-    numList = 0
-    numDict = 0
+    numList = sum(1 for elt in self.node.elts if isinstance(elt, ast.List))
+    numDict = sum(1 for elt in self.node.elts if isinstance(elt, ast.Dict))
     #-- Check for lists
-    if 'ast.List' in str(self.node.elts):
-        numList = str(self.node.elts).count('ast.List')
+    if numList > 0:
         self.level= dictLevel['List'][1]['nested']
         self.clase = (str(numList) + ' Nested List')
-    elif 'ast.Dict' in str(self.node.elts):
-        numDict = str(self.node.elts).count('ast.Dict')
+    elif numDict > 0:
         self.level= dictLevel['List'][2]['with-dict']
         self.clase = (str(numDict) + ' Dictionary List')
     else:
@@ -110,22 +108,22 @@ def level_ListComp(self):
 def level_Dict(self):
     """ Dictionary Level. """
     numList = 0
-    numDict = 0
+    numDict = sum(1 for v in self.node.values if isinstance(v, ast.Dict))
     #-- Check for dictionaries
-    if 'ast.Dict' in str(self.node.values):
-        numDict = str(self.node.values).count('ast.Dict')
+    if numDict > 0:
         self.level= dictLevel['Dict'][1]['nested']
         self.clase = (str(numDict) + ' Nested Dictionary')
         #-- Check for lists inside dictionary dictionaries
         for i in range(0, len(self.node.values)):
-            if 'ast.List' in str(self.node.values[i].values):
-                numList += str(self.node.values[i].values).count('ast.List')
-                self.level= dictLevel['Dict'][3]['with-dict-list']
-                self.clase = (str(numList) + ' List in ' + str(numDict) +
-                            'Dictionary of Dictionary')
+            if isinstance(self.node.values[i], ast.Dict):
+                numList += sum(1 for v in self.node.values[i].values if isinstance(v, ast.List))
+                if numList > 0:
+                    self.level= dictLevel['Dict'][3]['with-dict-list']
+                    self.clase = (str(numList) + ' List in ' + str(numDict) +
+                                'Dictionary of Dictionary')
     #-- Check for lists
-    elif 'ast.List' in str(self.node.values):
-        numList = str(self.node.values).count('ast.List')
+    elif any(isinstance(v, ast.List) for v in self.node.values):
+        numList = sum(1 for v in self.node.values if isinstance(v, ast.List))
         self.level= dictLevel['Dict'][2]['with-list']
         self.clase = str(numList) + ' List Dictionary'
     else:
@@ -139,34 +137,30 @@ def level_DictComp(self):
     ifExp = 0
     numDictComp = 0
     for i in self.node.generators:
-        numIfs += str(i.ifs).count('ast.Compare')
+        numIfs += sum(1 for c in i.ifs if isinstance(c, ast.Compare))
         if numIfs > 0:
             self.level= dictLevel['DictComp'][1]['with-if']
             self.clase = ('Dictionary Comprehension with ' + str(numIfs) + ' If statements')
         else:
             self.level= dictLevel['DictComp'][0]['simple']
             self.clase = 'Simple Dictionary Comprehension'
-    if 'ast.IfExp' in str(self.node.value):
-        ifExp += str(self.node.value).count('ast.IfExp')
+    if isinstance(self.node.value, ast.IfExp):
         self.level= dictLevel['DictComp'][2]['with-if-else']
-        self.clase = ('Dictionary Comprehension with ' + str(ifExp) + ' if expression (If-Else)')
-    elif 'ast.DictComp' in str(self.node.value):
-        numDictComp += str(self.node.value).count('ast.DictComp')
+        self.clase = ('Dictionary Comprehension with 1 if expression (If-Else)')
+    elif isinstance(self.node.value, ast.DictComp):
         self.level= dictLevel['DictComp'][3]['nested']
-        self.clase = (str(numDictComp) + ' Nested Dictionary Comprehension')
+        self.clase = ('1 Nested Dictionary Comprehension')
 
 
 def level_Tuple(self):
     """ Tuple Level. """
-    numTuple = 0
-    for i in self.node.elts:
-        numTuple += str(self.node.elts).count('ast.Tuple')
-        if numTuple > 0:
-            self.level= dictLevel['Tuple'][1]['nested']
-            self.clase = (str(numTuple) + ' Nested Tuple')
-        else:
-            self.level= dictLevel['Tuple'][0]['simple']
-            self.clase = ('Simple Tuple')
+    numTuple = sum(1 for elt in self.node.elts if isinstance(elt, ast.Tuple))
+    if numTuple > 0:
+        self.level= dictLevel['Tuple'][1]['nested']
+        self.clase = (str(numTuple) + ' Nested Tuple')
+    else:
+        self.level= dictLevel['Tuple'][0]['simple']
+        self.clase = ('Simple Tuple')
 
 #-- List of file attributes
 list_File_Attr = ['write', 'read', 'readline', 'writelines']
@@ -179,11 +173,11 @@ listStaticClass = ['staticmethod', 'classmethod']
 def type_Call(self):
     """ Types of calls. """
     value = ''
-    if 'ast.Attribute' in str(self.node.func):
+    if isinstance(self.node.func, ast.Attribute):
         if (self.node.func.attr) in list_File_Attr:
             value = self.node.func.attr
             level_Files(self, value)
-    elif 'ast.Name' in str(self.node.func):
+    elif isinstance(self.node.func, ast.Name):
         if (self.node.func.id) == 'open':
             value = 'open'
             level_Files(self, value)
@@ -227,16 +221,16 @@ def level_Assign(self):
     if self.attrib == 'ast.Assign':
         self.level= dictLevel['Assign'][0]['simple']
         self.clase = ('Simple Assignment' )
-        if 'ast.BinOp' in str(self.node.value):
+        if isinstance(self.node.value, ast.BinOp):
             self.level= dictLevel['Assign'][1]['with-sum']
             self.clase = ('Assigment with sum (total = total + 1)')
     else:
         self.level= dictLevel['Assign'][2]['increments']
-        if 'ast.Add' in str(self.node.op):
+        if isinstance(self.node.op, ast.Add):
             op = 'increase amount'
-        elif 'ast.Sub' in str(self.node.op):
+        elif isinstance(self.node.op, ast.Sub):
             op = 'decrease subtraction'
-        elif 'ast.Mult' in str(self.node.op):
+        elif isinstance(self.node.op, ast.Mult):
             op = 'increase multiplication'
         self.clase = ('Simplified incremental Assignment with ' + op)
 
@@ -246,14 +240,14 @@ def level_NameMain(self):
     name = False
     eq = False
     constant = False
-    if 'ast.Compare' in str(self.node.test):
-        if 'ast.Name' in str(self.node.test.left):
+    if isinstance(self.node.test, ast.Compare):
+        if isinstance(self.node.test.left, ast.Name):
             if self.node.test.left.id == '__name__':
                 name = True
-        if 'ast.Eq' in str(self.node.test.ops):
+        if any(isinstance(op, ast.Eq) for op in self.node.test.ops):
             eq = True
         for i in self.node.test.comparators:
-            if 'ast.Constant' in str(i):
+            if isinstance(i, ast.Constant):
                 if i.value == '__main__':
                     constant = True
         if (name and eq and constant) == True:
@@ -320,28 +314,21 @@ def level_Pass(self):
 
 def level_For(self):
     """ For level. """
-    numFor = 0
-    numList = 0
-    numTupleI = 0
-    numTupleT = 0
     self.level= dictLevel['Loop'][5]['for-simple']
     self.clase = ('Simple For Loop')
-    if 'ast.For' in str(self.node.body):
-        numFor += (str(self.node.body)).count('ast.For')
+    numFor = sum(1 for stmt in self.node.body if isinstance(stmt, ast.For))
+    if numFor > 0:
         self.level= dictLevel['Loop'][6]['for-nested']
         self.clase = (str(numFor) + ' Nested For Loop')
-    if 'ast.Tuple' in str(self.node.target):
+    if isinstance(self.node.target, ast.Tuple):
         self.level= dictLevel['Loop'][7]['for-tuple-name']
-        numTupleT += (str(self.node.target)).count('ast.Tuple')
         self.clase = ('For Loop with Tuple as name')
-    if 'ast.List' in str(self.node.iter):
+    if isinstance(self.node.iter, ast.List):
         self.level= dictLevel['Loop'][8]['for-list-iterate']
-        numList += (str(self.node.iter)).count('ast.List')
-        self.clase = ('For Loop with ' + str(numList) +' List to iterate')
-    elif 'ast.Tuple' in str(self.node.iter):
+        self.clase = ('For Loop with 1 List to iterate')
+    elif isinstance(self.node.iter, ast.Tuple):
         self.level = dictLevel['Loop'][9]['for-tuple-iterate']
-        numTupleI += (str(self.node.iter)).count('ast.Tuple')
-        self.clase = ('For Loop with ' + str(numTupleI) + ' Tuples to iterate')
+        self.clase = ('For Loop with 1 Tuples to iterate')
 
 
 
@@ -408,7 +395,7 @@ def level_Lambda(self):
 def level_RecursiveFunction(self):
     """ Recursive function level. """
     for i in ast.walk(self.node):
-        if 'ast.Call' in str(i):
+        if isinstance(i, ast.Call):
             try:
                 if i.func.id == self.node.name:
                     self.level= dictLevel['FunctionDef'][5]['recursive']
@@ -495,7 +482,7 @@ def PrivateClass(self):
                            ' of the class')
     #-- Check for private attributes/methods
         for i in ast.walk(funct):
-            if 'ast.Attribute' in str(i):
+            if isinstance(i, ast.Attribute):
                 if (i.attr.startswith('__')) and (not i.attr.endswith('__')):
                     self.level= dictLevel['Class'][5]['private']
                     self.clase += (' Private Attributes ' + str(i.attr) +
@@ -525,7 +512,7 @@ def level_Properties(self):
     """ Properties level. """
     for node in self.node.body:
         for elem in ast.walk(node):
-            if 'ast.Call' in str(elem):
+            if isinstance(elem, ast.Call):
                 try:
                     if elem.func.id == 'property':
                         self.level= dictLevel['Class'][4]['properties']
@@ -548,7 +535,7 @@ def level_Class(self):
     #-- Check for properties
     level_Properties(self)
     #-- Check the function name
-    if 'ast.FunctionDef' in str(self.node.body):
+    if any(isinstance(stmt, ast.FunctionDef) for stmt in self.node.body):
         try:
             #-- Check for constructor method
             constrMethod(self)
@@ -658,7 +645,7 @@ def level_SuperFunction(self):
 def level_Try(self):
     """ try level. """
     self.clase = ('Exception --> try')
-    if 'ast.Try' in str(self.node.body):
+    if any(isinstance(stmt, ast.Try) for stmt in self.node.body):
         self.level = dictLevel['Exception'][2]['try/try']
         self.clase += ('/try')
     if (self.node.handlers) != []:
