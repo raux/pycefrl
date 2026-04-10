@@ -99,13 +99,19 @@ def check_lenguage(url, protocol, type_git, user, repo):
     # Decode JSON response into a Python dict:
     content = r.json()
     #-- Get used languages and their quantity
+    r = requests.get(repo_url)
+    # Decode JSON response into a Python dict:
+    content = r.json()
+    #-- Get used languages and their quantity
     for key in content.keys():
         print(key + ": " + str(content[key]))
         sys.stdout.flush()
         if key == 'Python':
             python_leng = True
             python_quantity = content[key]
-        total_elem += content[key]
+        # Only add to total if the value is an integer (avoiding errors with non-numeric values)
+        if isinstance(content[key], int):
+            total_elem += content[key]
     #-- Check if python is 50%
     if python_leng == True:
         amount = total_elem/2
@@ -202,8 +208,11 @@ def get_path(name_directory):
 def count_python_files(absFilePath):
     """ Count total Python files in directory tree. """
     count = 0
+    ignore_dirs = ['venv', '.git', '__pycache__']
     try:
         for root, dirs, files in os.walk(absFilePath):
+            # Modifying dirs in-place allows os.walk to skip ignored directories
+            dirs[:] = [d for d in dirs if d not in ignore_dirs]
             for file in files:
                 if file.endswith('.py'):
                     count += 1
@@ -239,7 +248,7 @@ def read_Directory(absFilePath, repo):
                 read_File(pos, repo)
                 print(f'   ✓ Completed: {directory[i]}')
                 sys.stdout.flush()
-            elif not ('.') in directory[i]:
+            elif not ('.') in directory[i] and directory[i] not in ['venv', '.git', '__pycache__']:
                 path2 =  absFilePath + '/' + directory[i]
                 if os.path.isdir(path2):
                     print(f'\n📂 Entering subdirectory: {directory[i]}')
