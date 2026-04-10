@@ -16,16 +16,22 @@ With this tool it is possible to analyze the level of GitHub repositories (and t
 ### How does it work?
 
 To put it into operation you have to follow the steps below:
-1. Edit the 'configuration.cfg' file with the level assignment of your choice. If you want to use the default ones (recommended), just go to step 2.
-2. Install the required dependencies:
+
+1. (Optional) Create and activate a virtual environment:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
    ```
+2. Edit the 'configuration.cfg' file with the level assignment of your choice. If you want to use the default ones (recommended), just go to step 3.
+3. Install the required dependencies:
+   ```bash
    pip3 install -r requirements.txt
    ```
-3. Execute the file 'dict.py' to generate a level dictionary.
-   ```
+4. Execute the file 'dict.py' to generate a level dictionary.
+   ```bash
    python3 dict.py
    ```
-4. Execute the main program 'pycerfl.py' in three different ways:
+5. Execute the main program 'pycerfl.py' in three different ways:
 
     * Analyze a directory.
       ```
