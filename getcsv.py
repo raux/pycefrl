@@ -28,8 +28,8 @@ def write_FileCsv(myDataCsv, file_name, file_csv = ""):
         os.mkdir(wd + "/DATA_CSV")
     except FileExistsError:
         pass
-    file_name = file_name.split('.py')[0] + '.csv'
-    path_file = wd + '/DATA_CSV/' + file_name
+    file_name = os.path.basename(file_name).split('.py')[0] + '.csv'
+    path_file = os.path.join(wd, "DATA_CSV", file_name)
     #-- Create a csv with each file name
     if not file_csv:
         file_csv = open(path_file, 'w')

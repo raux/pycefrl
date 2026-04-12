@@ -89,13 +89,13 @@ def write_Results(repo):
     except FileExistsError:
         pass
     #-- Create a file for each repository
-    name_file =  wd + "/DATA_JSON/"+ repo + '.json'
+    name_file = os.path.join(wd, "DATA_JSON", os.path.basename(repo) + '.json')
     repository = dict()
     repository[repo] = dict_total[repo]
     with open(name_file, 'w') as file:
         json.dump(repository, file, indent=4)
     #-- Create a total file
-    name_file =  wd + "/DATA_JSON/total_data.json"
+    name_file = os.path.join(wd, "DATA_JSON", "total_data.json")
     with open(name_file, 'w') as file:
         json.dump(dict_total, file, indent=4)
     #-- Create a summary data

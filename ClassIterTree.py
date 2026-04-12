@@ -45,12 +45,13 @@ REVERSE_TYPE_MAP = {v: k for k, v in TYPE_MAP.items()}
 class IterTree():
     """ Class to iterate tree. """
 
-    def __init__(self, tree, attrib, file, repo, nodes=None):
+    def __init__(self, tree, attrib, file, repo, abs_path=None, nodes=None):
         """ Class constructor. """
         self.tree = tree
         self.attrib = attrib
         self.name = file
         self.repo = repo
+        self.abs_path = abs_path if abs_path else repo
         
         # Instance level storage instead of global/class level
         self.csv_rows = []
@@ -87,7 +88,7 @@ class IterTree():
     def assign_List(self):
         """ Create object list. """
         if (self.clase != '') and (self.level != ''):
-            self.list = [self.repo, self.name, self.clase, self.node.lineno,
+            self.list = [self.repo, self.abs_path, self.name, self.clase, self.node.lineno,
                         self.node.end_lineno, self.node.col_offset, self.level]
             # Accumulate instead of writing immediately
             self.csv_rows.append(self.list)

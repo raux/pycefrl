@@ -52,6 +52,19 @@ def choose_option():
         print(f'📊 Found {total_files_found} Python file(s) to analyze')
         sys.stdout.flush()
         read_Directory(option, repo)
+    elif type_option == 'file':
+        # Single file analysis
+        if not option.endswith('.py'):
+            sys.exit('ERROR: File must be a Python file (.py)')
+        if not os.path.exists(option):
+            sys.exit(f'ERROR: File not found: {option}')
+        abs_path = os.path.abspath(option)
+        file_name = os.path.basename(option)
+        repo = os.path.dirname(abs_path)
+        print(f'📄 Analyzing single file: {file_name}')
+        sys.stdout.flush()
+        total_files_found = 1
+        read_File(abs_path, repo)
     elif type_option == 'repo-url':
         request_url()
     elif type_option == 'user':
@@ -301,7 +314,7 @@ def iterate_List(tree, pos, repo):
 def deepen(tree, attrib, pos, repo, nodes=None):
     """ Create class object. """
     file = pos.split('/')[-1]
-    object = IterTree(tree, attrib, file, repo, nodes=nodes)
+    object = IterTree(tree, attrib, file, repo, pos, nodes=nodes)
     
     # Collect results
     csv_rows, json_data = object.get_results()
@@ -327,13 +340,25 @@ def save_collected_data():
     sys.stdout.flush()
     
     # Save CSV
-    with open('data.csv', 'w', newline='') as f:
+    with open(os.path.abspath('data.csv'), 'w', newline='') as f:
         writer = csv.writer(f)
         # Write header
-        writer.writerow(['Repository', 'File Name', 'Class', 'Start Line', 'End Line', 'Displacement', 'Level'])
+        writer.writerow(['Repository', 'Absolute Path', 'File Name', 'Class', 'Start Line', 'End Line', 'Displacement', 'Level'])
         writer.writerows(global_csv_rows)
-    print('   ✓ CSV data saved to data.csv')
+    print(f'   ✓ CSV data saved to {os.path.abspath("data.csv")}')
     sys.stdout.flush()
+    
+    # For single file mode, also save a dedicated output file
+    if type_option == 'file' and global_csv_rows:
+        output_file = os.path.splitext(option)[0] + '_proficiency.csv'
+        with open(output_file, 'w', newline='') as f:
+            writer = csv.writer(f)
+            writer.writerow(['Element', 'Start Line', 'End Line', 'Proficiency Level'])
+            for row in global_csv_rows:
+                # row: [repo, abs_path, file_name, class, start, end, displacement, level]
+                writer.writerow([row[3], row[4], row[5], row[7]])
+        print(f'   ✓ Proficiency report saved to {os.path.abspath(output_file)}')
+        sys.stdout.flush()
         
     # Save JSON
     with open('data.json', 'w') as f:
@@ -358,7 +383,7 @@ if __name__ == "__main__":
         type_option = sys.argv[1]
         option = sys.argv[2].strip()
     except:
-        sys.exit("Usage: python3 file.py type-option('directory', 'repo-url', 'user') option(directory, url, user)")
+        sys.exit("Usage: python3 file.py type-option('directory', 'file', 'repo-url', 'user') option(directory, file, url, user)")
     
     # Print banner
     print('=' * 60)

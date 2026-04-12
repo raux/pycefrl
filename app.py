@@ -20,32 +20,52 @@ def get_system_stats():
     return cpu, ram
 
 # Sidebar for mode selection and Stats
+# Define metric placeholders before sidebar
+cpu_metric = st.empty()
+ram_metric = st.empty()
+gpu_metric = st.empty()
+
 with st.sidebar:
     st.header("Settings")
-    mode = st.selectbox("Select Analysis Mode", ["Directory", "GitHub Repository", "GitHub User"])
+    mode = st.selectbox("Select Analysis Mode", ["Directory", "Single File", "GitHub Repository", "GitHub User"])
     
     st.divider()
-    st.header("System Stats")
-    cpu_metric = st.empty()
-    ram_metric = st.empty()
+    # Button to clear data
+    if st.button("Clear Data"):
+        try:
+            # Remove all files in DATA_JSON directory
+            data_json_dir = 'DATA_JSON'
+            if os.path.isdir(data_json_dir):
+                for fname in os.listdir(data_json_dir):
+                    fpath = os.path.join(data_json_dir, fname)
+                    if os.path.isfile(fpath):
+                        os.remove(fpath)
+            # Remove all files in DATA_CSV directory
+            data_csv_dir = 'DATA_CSV'
+            if os.path.isdir(data_csv_dir):
+                for fname in os.listdir(data_csv_dir):
+                    fpath = os.path.join(data_csv_dir, fname)
+                    if os.path.isfile(fpath):
+                        os.remove(fpath)
+            st.success("Data cleared.")
+        except Exception as e:
+            st.error(f"Error clearing data: {e}")
     
+    st.header("System Stats")
     # Initial stats
     c, r = get_system_stats()
     cpu_metric.metric("CPU Usage", f"{c}%")
     ram_metric.metric("RAM Usage", f"{r}%")
 
+    if gpu_metric:
+        gpu_metric.empty()
+
+    if gpu_metric:
+        gpu_metric.empty()
+
 st.title("🐍 PyCEFRL - Python Code Level Analyzer")
 st.markdown("""
 This tool analyzes the level of Python code inspired by the CEFR (Common European Framework of Reference for Languages).
-Analyze code **in real-time** from:
-- 📁 Local directory
-- 🔗 GitHub repository URL
-- 👤 GitHub user profile
-
-**Real-time Features:**
-- ⚡ Live progress tracking
-- 📊 File-by-file updates
-- 💻 System resource monitoring
 """)
 
 # Ensure dict.py has been run
@@ -62,7 +82,7 @@ def run_analysis(mode_arg, value_arg):
     # Create containers for different parts
     progress_bar = st.progress(0)
     status_text = st.empty()
-    log_container = st.expander("Real-time Analysis Logs", expanded=True)
+    log_container = st.sidebar.expander("Real-time Analysis Logs", expanded=True)
     
     logs = []
     total_files = 0
@@ -102,7 +122,7 @@ def run_analysis(mode_arg, value_arg):
             
             # Update log display - show last 25 lines for "tail" effect
             with log_container:
-                st.code("".join(logs[-25:]))
+                st.code(logs[-1] if logs else "")
             
             # Update system stats occasionally
             if len(logs) % 5 == 0:  # Update every 5 lines to avoid too much overhead
@@ -149,12 +169,12 @@ def display_results():
                 with cols[i % len(cols)]:
                     st.metric(label=f"Level {level}", value=count)
             
-            # Bar chart
-            fig, ax = plt.subplots()
-            ax.bar(levels.keys(), levels.values())
-            ax.set_ylabel('Count')
-            ax.set_title('Elements per Level')
-            st.pyplot(fig)
+            # Bar chart omitted to reduce graph output
+            # fig, ax = plt.subplots()
+            # ax.bar(levels.keys(), levels.values())
+            # ax.set_ylabel('Count')
+            # ax.set_title('Elements per Level')
+            # st.pyplot(fig)
 
     # Sankey Diagram
     if os.path.exists('data.csv'):
@@ -162,6 +182,8 @@ def display_results():
         
         try:
             df_csv = pd.read_csv('data.csv')
+            # Drop rows with missing Level to avoid Sankey errors
+            df_csv = df_csv.dropna(subset=['Level'])
             
             # --- Helper to categorize classes ---
             def categorize_class(class_name):
@@ -268,27 +290,80 @@ def display_results():
         except Exception as e:
             st.error(f"Could not generate visualizations: {e}")
 
-    # Load file-specific data
+    # Load file-specific data and generate proficiency report
     if os.path.exists('DATA_JSON/total_data.json'):
         with open('DATA_JSON/total_data.json', 'r') as f:
             total_data = json.load(f)
         
         st.subheader("Detailed File Analysis")
-        
+
         # Convert to DataFrame for display
         rows = []
         for repo_name, files in total_data.items():
             for file_name, stats in files.items():
                 row = {'Repository': repo_name, 'File': file_name}
+                if 'line' in stats:
+                    row['Line'] = stats['line']
                 if 'Levels' in stats:
                     row.update(stats['Levels'])
                 rows.append(row)
-        
+
         if rows:
             df = pd.DataFrame(rows).fillna(0)
             st.dataframe(df)
 
+        # Proficiency Report: aggregate level counts across all files
+        level_counts = {}
+        for stats in total_data.values():
+            for file_stats in stats.values():
+                if 'Levels' in file_stats:
+                    for level, count in file_stats['Levels'].items():
+                        level_counts[level] = level_counts.get(level, 0) + count
+        if level_counts:
+            st.subheader("Proficiency Report")
+            report_df = pd.DataFrame(list(level_counts.items()), columns=["Level", "Count"]).sort_values("Level")
+            st.table(report_df)
+
+    # Per-file CSV details from DATA_CSV folder
+    data_csv_dir = 'DATA_CSV'
+    if os.path.isdir(data_csv_dir):
+        csv_files = [f for f in os.listdir(data_csv_dir) if f.endswith('.csv')]
+        if csv_files:
+            st.subheader("Per-File Element Details")
+            for csv_file in sorted(csv_files):
+                csv_path = os.path.join(data_csv_dir, csv_file)
+                try:
+                    df_file = pd.read_csv(csv_path)
+                    with st.expander(f"📄 {csv_file}", expanded=False):
+                        st.dataframe(df_file, use_container_width=True)
+                        
+                        # Show level distribution chart for this file
+                        if 'Level' in df_file.columns:
+                            level_dist = df_file['Level'].value_counts().reset_index()
+                            level_dist.columns = ['Level', 'Count']
+                            level_order = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
+                            level_dist['Level'] = pd.Categorical(level_dist['Level'], categories=level_order, ordered=True)
+                            level_dist = level_dist.sort_values('Level')
+                            
+                            fig_bar = px.bar(
+                                level_dist,
+                                x='Level',
+                                y='Count',
+                                color='Level',
+                                color_discrete_map={
+                                    'A1': '#1f77b4', 'A2': '#2ca02c',
+                                    'B1': '#ff7f0e', 'B2': '#d62728',
+                                    'C1': '#9467bd', 'C2': '#8c564b'
+                                },
+                                title=f"Level Distribution for {csv_file}"
+                            )
+                            fig_bar.update_layout(showlegend=False, height=300)
+                            st.plotly_chart(fig_bar, use_container_width=True)
+                except Exception as e:
+                    st.warning(f"Could not load {csv_file}: {e}")
+
     # Download buttons
+
     st.subheader("Downloads")
     col1, col2 = st.columns(2)
     
@@ -318,6 +393,28 @@ if mode == "Directory":
                 display_results()
         else:
             st.error("Please enter a valid directory path")
+
+elif mode == "Single File":
+    file_path = st.text_input("Enter Python file path", placeholder="/path/to/file.py")
+    
+    # Show resolved absolute path
+    if file_path:
+        if os.path.exists(file_path):
+            if file_path.endswith('.py'):
+                st.info(f"📄 Resolved Path: {os.path.abspath(file_path)}")
+            else:
+                st.warning("⚠️ File must be a Python file (.py)")
+        else:
+            st.warning(f"⚠️ File does not exist: {file_path}")
+    
+    if st.button("Analyze File", type="primary"):
+        if file_path and os.path.exists(file_path) and file_path.endswith('.py'):
+            if run_analysis("file", file_path):
+                display_results()
+        elif file_path and not file_path.endswith('.py'):
+            st.error("Please enter a Python file (.py)")
+        else:
+            st.error("Please enter a valid file path")
 
 elif mode == "GitHub Repository":
     url = st.text_input("Enter GitHub Repository URL", placeholder="https://github.com/username/repository")

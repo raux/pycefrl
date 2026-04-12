@@ -72,21 +72,22 @@ To put it into operation you have to follow the steps below:
       node main.js
       ```
 
-## Interactive Web Interface (Streamlit)
+## Interactive Web Interface (Flask + Vite)
 
-A Streamlit application is included to easily run analyses and visualize results **in real-time** with interactive charts (Bubble Charts, Heatmaps, Treemaps) and system statistics.
+A modern Flask-based web interface is included to easily trigger analyses and visualize results **in real-time** with interactive charts and cumulative system statistics.
 
-To run the Streamlit app:
+To run the Flask application:
 
 ```bash
-python3 -m streamlit run app.py
+# Activate your virtual environment first
+source venv/bin/activate
+python3 backend/app.py
 ```
 
 **Real-time Analysis Features:**
 - ⚡ **Live Progress Tracking**: Watch files being processed in real-time with progress bars
 - 📊 **File-by-File Updates**: See detailed progress as each Python file is analyzed
-- 💻 **System Resource Monitoring**: Monitor CPU and RAM usage during analysis
-- 📈 **Streaming Logs**: View analysis logs as they happen with real-time updates
+- 📈 **Cumulative Statistics Dashboard**: Monitor total files analyzed and accumulated proficiency levels (A1, A2, B1, B2, C1, C2) across all sessions.
 
 **Analysis Modes:**
 - 📁 **Local Directory**: Analyze Python files in any directory on your system
@@ -99,26 +100,6 @@ python3 -m streamlit run app.py
     - **File Heatmap**: File vs Level Count distribution
     - **Element Treemap**: Drill down into specific code elements
 - Download reports in JSON and CSV formats
-
-**Screenshots:**
-
-![PyCEFRL Web Interface](https://github.com/user-attachments/assets/123b3933-15fb-48dc-8312-4beea1ba7fba)
-*Main interface showing real-time analysis features*
-
-![GitHub Repository Analysis](https://github.com/user-attachments/assets/c84937f9-641f-411e-82ee-ce8b743365d6)
-*GitHub repository URL validation and analysis*
-
-## Deploying the Web Application
-
-The Streamlit web application can be easily deployed to the cloud for public access. See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions.
-
-**Quick Deploy to Streamlit Cloud:**
-1. Fork this repository
-2. Sign up at [share.streamlit.io](https://share.streamlit.io/)
-3. Create new app pointing to `app.py`
-4. Your app will be live at `https://your-app-name.streamlit.app`
-
-For other deployment options (Docker, Heroku, Railway, Render), see the [deployment guide](DEPLOYMENT.md).
 
 
 ## Running Tests
