@@ -1,4 +1,4 @@
-# **pycefrl**
+# **pycefr**
 ## *Identifying Python3 Code Level Using the CEFR Framework as Inspiration*
 
 [![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://raux.github.io/pycefrl)
