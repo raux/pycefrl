@@ -4,13 +4,11 @@
 [![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://raux.github.io/pycefrl)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**📚 [Full Documentation](https://raux.github.io/pycefrl) | 🎯 [Quick Start](https://raux.github.io/pycefrl/quickstart) | 📊 [Dashboard](https://raux.github.io/pycefrl/dashboard) | 💡 [Examples](https://raux.github.io/pycefrl/examples)**
 
 ### What is this project about?
 The goal of pycefrl is to create a tool capable of obtaining an evaluation inspired by the [''Common European Framework of Reference for Languages''](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) for code written in the Python programming language, version 3.
 
 With this tool it is possible to analyze the level of GitHub repositories (and their developers) or code snippets in Python3.
-
 
 
 ### How does it work?
@@ -84,24 +82,6 @@ source venv/bin/activate
 python3 backend/app.py
 ```
 
-**Real-time Analysis Features:**
-- ⚡ **Live Progress Tracking**: Watch files being processed in real-time with progress bars
-- 📊 **File-by-File Updates**: See detailed progress as each Python file is analyzed
-- 📈 **Cumulative Statistics Dashboard**: Monitor total files analyzed and accumulated proficiency levels (A1, A2, B1, B2, C1, C2) across all sessions.
-
-**Analysis Modes:**
-- 📁 **Local Directory**: Analyze Python files in any directory on your system
-- 🔗 **GitHub Repository**: Analyze any public GitHub repository by URL (with validation)
-- 👤 **GitHub User**: Analyze all Python repositories of a GitHub user
-
-**Visualization Features:**
-- Interactive charts with detailed breakdowns:
-    - **Bubble Chart**: Category vs Level visualization
-    - **File Heatmap**: File vs Level Count distribution
-    - **Element Treemap**: Drill down into specific code elements
-- Download reports in JSON and CSV formats
-
-
 ## Running Tests
 
 The project includes a suite of unit tests to ensure the accuracy of level detection for various Python structures.
@@ -117,26 +97,6 @@ The tests cover:
 - Control flow (If, While, Try/Except).
 - Function and Class definitions (B1).
 - Advanced structures like List Comprehensions and Generators (C1).
-
-## 📚 Documentation Website
-
-A comprehensive documentation website is available at **[https://raux.github.io/pycefrl](https://raux.github.io/pycefrl)**
-
-### Features:
-- **Interactive Dashboard**: Visualize analysis results with charts and graphs
-- **Complete Documentation**: Installation guides, tutorials, and API reference
-- **Examples**: Real-world usage examples and best practices
-- **Dark/Light Theme**: Modern, responsive design with theme support
-- **Search & Navigation**: Easy to navigate with sidebar and breadcrumb navigation
-
-Visit the website to explore:
-- 📖 [Installation Guide](https://raux.github.io/pycefrl/installation)
-- 🚀 [Quick Start Tutorial](https://raux.github.io/pycefrl/quickstart)
-- 📘 [User Guide](https://raux.github.io/pycefrl/guide)
-- 🔧 [API Reference](https://raux.github.io/pycefrl/api)
-- 💡 [Examples](https://raux.github.io/pycefrl/examples)
-- 📊 [Interactive Dashboard](https://raux.github.io/pycefrl/dashboard)
-- 🤝 [Contributing Guidelines](https://raux.github.io/pycefrl/contributing)
 
 ## Contributing
 
