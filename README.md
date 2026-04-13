@@ -70,16 +70,14 @@ To put it into operation you have to follow the steps below:
       node main.js
       ```
 
-## Interactive Web Interface (Flask + Vite)
+## Interactive Web Interface (StreamLit)
 
-A modern Flask-based web interface is included to easily trigger analyses and visualize results **in real-time** with interactive charts and cumulative system statistics.
-
-To run the Flask application:
+A modern Flask-based web interface is included 
 
 ```bash
 # Activate your virtual environment first
 source venv/bin/activate
-python3 backend/app.py
+streamlit run app.py
 ```
 
 ## Running Tests
